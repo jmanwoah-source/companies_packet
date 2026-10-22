@@ -1,0 +1,17 @@
+# NUS
+
+## Catalyst Log
+
+### Benefiting
+
+- **Brief:** `5934edc6-4783-453c-923a-5d253551f52a`
+  - **Headline:** 800V AI Data Center Shift Could Reprice Navitas Semiconductor (Rating Downgrade) (NVTS) - Seeking Al
+  - **Role:** Affected
+  - **Category:** ai_infrastructure
+  - **Impact:** NEGATIVE (LOW)
+  - **Materiality:** speculative
+  - **Confidence:** medium
+  - **Summary:** 800V AI Data Center Shift Could Reprice Navitas Semiconductor (Rating Downgrade) (NVTS) - Seeking Alpha - Seeking Alpha &lt;a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0ZqMFRTcTZmLUd
+
+
+## Last Updated: 2026-10-01 07:05:18 UTC

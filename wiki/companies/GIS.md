@@ -1,0 +1,9 @@
+# GIS
+
+## Recent Catalysts
+
+- [2026-10-01] Iran war squeezes critical supplies and global alliances - GIS Reports (NEGATIVE direct)
+
+## Full History
+
+New wiki entry created on 2026-10-11T23:45:08Z

@@ -1,0 +1,74 @@
+# NVTS
+
+## Signal Briefs Summary
+
+- **Total Briefs:** 2
+- **Categories:** semiconductors
+- **Source Types:** negative_intelligence
+- **Impact Directions:** negative
+- **Materiality:** direct
+- **Confidence:** high
+- **Date Range:** 2026-10-12T18:58:48Z, 2026-10-12T18:58:48Z
+
+## Brief History
+
+### Navitas Semiconductor Corp (NVTS) Stock Forecast & Price Target — Oct 2026
+- **Date:** 2026-10-12T18:58:48Z
+- **Source:** negative_intelligence
+- **Impact:** negative (medium)
+- **Materiality:** direct
+- **Confidence:** high
+- **Category:** semiconductors
+- **Summary:** Source: negative_intelligence (negative_intelligence). Headline: Navitas Semiconductor Corp (NVTS) Stock Forecast & Price Target — Oct 2026. Negative intelligence signal for NVTS. Analyst downgrade/price cut detected. Financial mention detected in source.
+- **Next Steps:** Track analyst rating changes, price action impact, and peer comparisons for NVTS.
+
+### Navitas Semiconductor Corp (NVTS) Stock Forecast & Price Target — Oct 2026
+- **Date:** 2026-10-12T18:58:48Z
+- **Source:** negative_intelligence
+- **Impact:** negative (medium)
+- **Materiality:** direct
+- **Confidence:** high
+- **Category:** semiconductors
+- **Summary:** Source: negative_intelligence (negative_intelligence). Headline: Navitas Semiconductor Corp (NVTS) Stock Forecast & Price Target — Oct 2026. Negative intelligence signal for NVTS. Analyst downgrade/price cut detected. Financial mention detected in source.
+- **Next Steps:** Track analyst rating changes, price action impact, and peer comparisons for NVTS.
+| 2026-10-15 | Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ... | positive | high | indirect | conference_deep_dive | semiconductors | mentioned |
+
+## Catalyst Log
+
+[2026-10-15T08:42:10Z] Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ...
+  Source: conference | Impact: neutral (low) | Conf: low
+  Summary: Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN) and GeneSiC silicon carbide (SiC) power semiconductors — has announced its latest 24kW, 800V-to-12V DC-DC power delivery board (PDB), powered by GaNFast technology and developed in collaboration with ...
+  Brief: bb2fb80f-6551-51eb-b3dc-865b9b570d4b
+[2026-10-15T17:06:08+00:00] Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ...
+  Source: conference | Role: BENEFIT | Impact: positive (medium) | Materiality: speculative | Conf: medium | Category: semiconductors
+  Summary: Signal from conference: Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN) and GeneSiC silicon carbide (SiC) power semiconductors — has announced its latest 24kW, 800V-to-12V DC-DC power delivery board (PDB), powered by GaNFast technology and developed in collaboration with ... Direction classified positive at medium impact; materiality speculative; conf
+  Brief: e2cadf82-2c2d-5577-8532-c6ca87497476
+
+- [2026-10-15] Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ... | materials_science (neutral low) [`4B459B26`]
+- **2026-10-16** | Brief `84BFBFBD` | ambiguous / low | materials_science | medium
+  **Headline:** Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ...
+  **So What:** NVDA, NVTS are touched by this development. Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ... Source: conference_deep_dive. Context: Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN) and GeneSiC silicon carbide (SiC) power semiconductors — has announced its latest 24kW, 800V-to-12V DC-DC power delivery board (PDB), powered by GaNF
+  **Next:** Track for concrete follow-on (contract, filing, announcement) within 7 days.
+## Recent Catalysts
+
+- [2026-10-15] Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ... | ai_infrastructure (positive medium) [7C8DEAFF]
+
+---
+
+---
+
+---
+
+---
+
+---
+
+## [2026-10-16] Catalyst Note (positive / medium)
+- Brief C847F90D | semiconductors | confidence high | materiality direct
+- Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ...
+- Source: https://www.semiconductor-today.com/news_items/2026/oct/navitas-131026.shtml
+
+## [2026-10-16] Catalyst Note (positive / medium)
+- Brief 44E7E223 | ai_infrastructure | confidence high | materiality direct
+- Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery board for next-gen AI infrastructure
+- Source: https://www.semiconductor-today.com/news_items/2026/oct/navitas-131026.shtml

@@ -1,0 +1,17 @@
+# LRCX
+- **Category**: semiconductors
+- **Last Updated**: 2026-10-02
+- **Status**: Active Monitor
+
+## Catalysts
+- [2026-10-08T03:15:45.645045+00:00] Moodys: Semiconductor Supply Chains Are a Major Bottleneck in 2026 (semiconductors) | impact: positive
+
+
+
+- [2026-09-27T15:30:00Z] [2026-09-27T15:30:00Z] Moodys: Semiconductor Supply Chains Are a Major Bottleneck in 2026 - www.moodys.com (impact: ambiguous)
+
+
+### Dated Catalyst Notes:
+- [2026-10-06T13:16:31Z] Moodys: Semiconductor Supply Chains Are a Major Bottleneck in 2026 (semiconductors) | positive | direct | medium
+
+- [2026-10-06T13:13:16Z] Moodys: Semiconductor Supply Chains Are a Major Bottleneck in 2026 (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium

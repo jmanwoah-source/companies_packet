@@ -10,3 +10,15 @@
 - Cross-linking via [[wikilinks]] active
 
 ---
+
+## 2026-10-22 — Karpathy layout migration
+- Backup: /tmp/wiki_pre_migration_20261022.tar.gz (941KB, pre-migration state)
+- Merged 131 dual-form + legacy dossiers (tickers/, entities/tickers/legacy_20261013/ -> entities/tickers/)
+- Removed 16 UPPERCAST_TICKER.md junk files (content preserved in backups + canonical merges)
+- Structural move: entities/tickers -> wiki/companies (869 dossiers); entities/tech_gaps -> wiki/concepts; concepts -> wiki/concepts; comparisons -> wiki/comparisons; corpus -> wiki/comparisons_corpus; research/signal_briefs/archived/_archive -> wiki/*
+- Created raw/transcripts/, raw/metrics/, wiki/sectors/
+- Rewrote index.md to new tree
+- Patched consumers: pipeline_engine.py (wiki/companies paths + drift sentinel), pipeline_health_gate.py (drift sentinel), Deep-Dive cron prompt (archived/ path)
+- Pending: AGENTS.md (protected-file write gate)
+
+---

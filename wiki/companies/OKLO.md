@@ -1,0 +1,17 @@
+# OKLO
+
+## Catalysts
+### Oklo, Meta Announce Agreement in Support of 1.2 GW Nuclear Energy Development in Southern Ohio - Oklo
+- **Source:** macro_government (government)
+- **Impact:** positive (medium)
+- **Materiality:** speculative
+- **Date:** 2026-10-07T11:30:59Z
+
+> window.WIZ_global_data = {"AfY8Hf":true,"Dftppe":"%.@.]","DpimGf":false,"EP1ykd":["/_/*","/_/SubscribewithgoogleClientUi","/_/SubscribewithgoogleClientUi/*","/_nm","/_nm/","/_nm/*","/accounts/*","/debug","/debug/","/debug/*","/eval","/eval/*","/swg","/swg/","/swg/*"],"FL1an":false,"FdrFJe":"48908024...
+
+## Last Updated
+2026-10-07T11:30:59Z
+- **2026-10-12**: Small modular reactors and microreactors under ... [ambiguous/indirect/medium]
+
+## Catalyst Log
+- [2026-10-17] Maryland firm to build small modular reactors for Texas grid - first ERCOT SMR application, data-center demand | energy (positive medium) [`647DA273`]
