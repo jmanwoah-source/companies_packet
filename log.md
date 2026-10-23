@@ -22,3 +22,8 @@
 - Pending: AGENTS.md (protected-file write gate)
 
 ---
+
+## 2026-10-22 — Sector + comparison backfill (post-migration)
+- 4 sector dossiers in wiki/sectors/ (semiconductors, advanced-energy-grid, ai-infrastructure-thermal, physical-ai-edge-automation) — 802 verified ticker links
+- 6 comparisons in wiki/comparisons/ (ceg-vs-vst, oklo-vs-ge-v, rgti-vs-ionq, on-vs-mchp, drs-vs-avav, qcom-edge-ai) — sub-agent web research, financials cited with source+date, 'verify next run' markers where FMP data pending
+- Repaired 20 broken relative links in sectors (truncated path artifacts)

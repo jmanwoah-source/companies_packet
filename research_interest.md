@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 200
+- **Briefs Processed**: 201
 - **Unique Tickers**: 85
-- **Categories**: {'quantum': 32, 'edge_robotics': 24, 'ai_infrastructure': 30, 'semiconductors': 66, 'materials_science': 7, 'energy': 20}
+- **Categories**: {'quantum': 32, 'edge_robotics': 24, 'ai_infrastructure': 30, 'semiconductors': 67, 'materials_science': 7, 'energy': 20}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -13,7 +13,7 @@
 | conference_deep_dive | 29 |
 | macro_government | 22 |
 | edge_robotics | 21 |
-| patent_supply_chain | 19 |
+| patent_supply_chain | 20 |
 
 ## Active Research List
 
@@ -41,6 +41,7 @@
 | AV | 3 | edge_robotics | positive high,positive medium |
 | GFS | 3 | semiconductors | negative high,positive high |
 | HPE | 3 | ai_infrastructure,semiconductors | negative high,negative medium,neutral medium |
+| AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
 | AVAV | 2 | edge_robotics,quantum | positive high,positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
@@ -57,7 +58,6 @@
 | AI | 1 | ai_infrastructure | negative high |
 | ALGM | 1 | semiconductors | positive low |
 | AMAT | 1 | semiconductors | positive high |
-| AMKR | 1 | ai_infrastructure | positive medium |
 | AMZN | 1 | ai_infrastructure | negative medium |
 | ATMS | 1 | semiconductors | positive high |
 | CEG | 1 | energy | positive medium |
@@ -288,3 +288,4 @@
 | 2026-10-22 | Guerrilla RF expands GaN design support and begins sampling new high-p | GRF | positive medium | direct | semiconductors | medium | `CACF736A` |
 | 2026-10-22 | Atomera Has Signed a Joint Development Agreement With IQE to Bring Hig | ATMS | positive high | direct | semiconductors | high | `177BF77F` |
 | 2026-10-22 | NVIDIA Expands AI Supply Chain With Six Partners Including Ibiden, Tar | AMKR | positive medium | indirect | ai_infrastructure | medium | `FA2BE72B` |
+| 2026-10-23 | Nvidia Lines Up Six Suppliers To Expand AI Chip Capacity Through 2028 | AMKR | positive medium | direct | semiconductors | medium | `8036796B` |

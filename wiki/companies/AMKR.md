@@ -42,5 +42,6 @@ Last updated: 2026-10-11T21:26:41Z
 - **2026-10-12**: AMKR vs. ASYS: Which Semiconductor Packaging Stock is the Better Buy? - TradingView [positive/direct/high]
 - **2026-10-12**: Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's [negative/direct/high]
 
-## Catalyst Log
+## Catalyst Log- [2026-10-23] Nvidia Lines Up Six Suppliers To Expand AI Chip Capacity Through 2028 | semiconductors (positive medium) [`8036796B`]
+
 - [2026-10-22] NVIDIA Expands AI Supply Chain With Six Partners Including Ibiden, Targeting 2.5x Substrate Capacity | ai_infrastructure (positive medium) [`FA2BE72B`]
