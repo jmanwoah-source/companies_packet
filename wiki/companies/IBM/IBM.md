@@ -17,4 +17,3 @@
 - [2026-10-06T13:13:16Z] Nature: Quantum Computing Breakthrough in Qubit Error Correction 2026 (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Nature Communications: Quantum Materials Research Advances 2026 (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] What is a semiconductor? - IBM (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
-- [2026-10-06T13:13:16Z] What is a semiconductor? - IBM (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium

@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-07-16] Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter - Morningstar (NEGATIVE direct)
-- [2026-07-16] Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter - Morningstar (NEGATIVE direct)
 - [2025-11-18] 22 Critical Supply Chain Risks to Watch for in 2026 - Z2Data (NEGATIVE indirect)
 
 ## Full History
@@ -12,9 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-16] Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter - Morningstar (NEGATIVE direct)
-- [2026-07-16] Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter - Morningstar (NEGATIVE direct)
-- [2025-11-18] 22 Critical Supply Chain Risks to Watch for in 2026 - Z2Data (NEGATIVE indirect)
 
 ## Full History
 

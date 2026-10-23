@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-08-24] U.S. Humanoid Robot Market Size & Share Report, 2033 - Grand View Research (AMBIGUOUS direct)
-- [2026-08-24] U.S. Humanoid Robot Market Size & Share Report, 2033 - Grand View Research (AMBIGUOUS direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-08-24] U.S. Humanoid Robot Market Size & Share Report, 2033 - Grand View Research (AMBIGUOUS direct)
-- [2026-08-24] U.S. Humanoid Robot Market Size & Share Report, 2033 - Grand View Research (AMBIGUOUS direct)
 
 ## Full History
 

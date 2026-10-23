@@ -2,25 +2,14 @@
 ## Recent Catalysts
 - [2026-10-15] SGL Carbon's $100M St. Mary's, PA facility ready to produce graphite blocks for X-energy's Xe-100 SMR at Dow's Project Long Mott | energy (positive medium) [`059110FD`]
 - [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
 - [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
 ## Full History
 # DOW
 ## Recent Catalysts
 - [2026-10-10] DOW CDAO Selects 25 Companies for Crucible 2 Swarm Forge Initiative - ExecutiveGov (NEGATIVE indirect)
-- [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
-- [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
 ## Full History
 # DOW
 ## Recent Catalysts
-- [2026-10-10] DOW CDAO Selects 25 Companies for Crucible 2 Swarm Forge Initiative - ExecutiveGov (NEGATIVE indirect)
-- [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] Data center liquid cooling solutions and technology for the next era of telecommunications infrastructure - Dow Corporate (AMBIGUOUS direct)
-- [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
-- [2026-10-10] U.S. DOE grants X-energy up to $1 billion more for Texas small modular reactor project with Dow - Energies Media (POSITIVE direct)
 ## Full History
 # DOW
 ## Catalyst Notes

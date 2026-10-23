@@ -3,16 +3,10 @@
 ## Recent Catalysts
 
 - [2023-09-26] AI chip company Kneron raises $49M to scale up its commercial efforts - TechCrunch (AMBIGUOUS direct)
-- [2023-09-26] AI chip company Kneron raises $49M to scale up its commercial efforts - TechCrunch (AMBIGUOUS direct)
-- [2026-10-06] Comfort Systems USA Inc Stock (FIX) Moved Up by 6.10% on Oct 6: Drivers Behind the Movement - TradingKey (NEGATIVE direct)
 - [2026-10-06] Comfort Systems USA Inc Stock (FIX) Moved Up by 6.10% on Oct 6: Drivers Behind the Movement - TradingKey (NEGATIVE direct)
 - [2026-07-17] Texas Instruments Stock Is Up 64% in 2026. The Analog Chip Recovery Has Only Just Started - TIKR.com (NEGATIVE direct)
-- [2026-07-17] Texas Instruments Stock Is Up 64% in 2026. The Analog Chip Recovery Has Only Just Started - TIKR.com (NEGATIVE direct)
-- [2026-09-25] 3 Drone Defense Stocks With Revenue Growth Up To 44% - Simply Wall Street (POSITIVE direct)
 - [2026-09-25] 3 Drone Defense Stocks With Revenue Growth Up To 44% - Simply Wall Street (POSITIVE direct)
 - [2026-08-17] The U.S. Imposed Drone Tariffs Up to 100%. ZenaTech May Benefit - Stock Titan (AMBIGUOUS direct)
-- [2026-08-17] The U.S. Imposed Drone Tariffs Up to 100%. ZenaTech May Benefit - Stock Titan (AMBIGUOUS direct)
-- [2026-03-17] XPONENTIAL Europe 2026 to Showcase Autonomous Defense & Start-Up Innovation - Unmanned Systems Technology (AMBIGUOUS direct)
 - [2026-03-17] XPONENTIAL Europe 2026 to Showcase Autonomous Defense & Start-Up Innovation - Unmanned Systems Technology (AMBIGUOUS direct)
 
 ## Full History
@@ -21,18 +15,6 @@
 
 ## Recent Catalysts
 
-- [2023-09-26] AI chip company Kneron raises $49M to scale up its commercial efforts - TechCrunch (AMBIGUOUS direct)
-- [2023-09-26] AI chip company Kneron raises $49M to scale up its commercial efforts - TechCrunch (AMBIGUOUS direct)
-- [2026-10-06] Comfort Systems USA Inc Stock (FIX) Moved Up by 6.10% on Oct 6: Drivers Behind the Movement - TradingKey (NEGATIVE direct)
-- [2026-10-06] Comfort Systems USA Inc Stock (FIX) Moved Up by 6.10% on Oct 6: Drivers Behind the Movement - TradingKey (NEGATIVE direct)
-- [2026-07-17] Texas Instruments Stock Is Up 64% in 2026. The Analog Chip Recovery Has Only Just Started - TIKR.com (NEGATIVE direct)
-- [2026-07-17] Texas Instruments Stock Is Up 64% in 2026. The Analog Chip Recovery Has Only Just Started - TIKR.com (NEGATIVE direct)
-- [2026-09-25] 3 Drone Defense Stocks With Revenue Growth Up To 44% - Simply Wall Street (POSITIVE direct)
-- [2026-09-25] 3 Drone Defense Stocks With Revenue Growth Up To 44% - Simply Wall Street (POSITIVE direct)
-- [2026-08-17] The U.S. Imposed Drone Tariffs Up to 100%. ZenaTech May Benefit - Stock Titan (AMBIGUOUS direct)
-- [2026-08-17] The U.S. Imposed Drone Tariffs Up to 100%. ZenaTech May Benefit - Stock Titan (AMBIGUOUS direct)
-- [2026-03-17] XPONENTIAL Europe 2026 to Showcase Autonomous Defense & Start-Up Innovation - Unmanned Systems Technology (AMBIGUOUS direct)
-- [2026-03-17] XPONENTIAL Europe 2026 to Showcase Autonomous Defense & Start-Up Innovation - Unmanned Systems Technology (AMBIGUOUS direct)
 
 ## Full History
 

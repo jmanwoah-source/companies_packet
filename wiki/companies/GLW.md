@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-10] Corning Glass Substrate Patents Expire, China's Packaging Supply Chain Seizes Breakthrough Opportunity - BigGo Finance (POSITIVE direct)
-- [2026-10-10] Corning Glass Substrate Patents Expire, China's Packaging Supply Chain Seizes Breakthrough Opportunity - BigGo Finance (POSITIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Corning Glass Substrate Patents Expire, China's Packaging Supply Chain Seizes Breakthrough Opportunity - BigGo Finance (POSITIVE direct)
-- [2026-10-10] Corning Glass Substrate Patents Expire, China's Packaging Supply Chain Seizes Breakthrough Opportunity - BigGo Finance (POSITIVE direct)
 
 ## Full History
 

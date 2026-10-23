@@ -3,11 +3,7 @@
 ## Recent Catalysts
 
 - [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
-- [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
 - [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
 - [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
 
 ## Full History
@@ -17,13 +13,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Robot Sensor Startup PaXini Raises $145 Million, Tops $1.4 Billion Valuation - Caixin Global (POSITIVE direct)
-- [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
-- [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
 
 ## Full History
 
@@ -31,14 +20,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Robot Sensor Startup PaXini Raises $145 Million, Tops $1.4 Billion Valuation - Caixin Global (POSITIVE direct)
-- [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
-- [2026-10-10] Can You Buy a Humanoid Robot Now? Chery's $41,000 Mornine M1 Debuts on JD.com as Embodied AI Goes Retail - Intelligent Living (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
-- [2026-02-19] The AI Bubble: Hidden Risks and Opportunities - Man Group (NEGATIVE direct)
 
 ## Full History
 

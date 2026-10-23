@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
-- [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
-- [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
 
 ## Full History
 
@@ -20,8 +17,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
-- [2026-10-11] ARM CEO Announces Departure; President To Succeed | Investor's Business Daily (NEGATIVE direct)
 
 ## Full History
 

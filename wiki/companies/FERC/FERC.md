@@ -7,12 +7,8 @@
 
 ## Dated Catalyst Notes:
 - [2026-10-06T13:13:16Z] Home Page | Federal Energy Regulatory Commission (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
-- [2026-10-06T13:13:16Z] Home Page | Federal Energy Regulatory Commission (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
-- [2026-10-06T13:13:16Z] What FERC Does - Federal Energy Regulatory Commission (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
 - [2026-10-06T13:13:16Z] What FERC Does - Federal Energy Regulatory Commission (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
 - [2026-10-06T13:13:16Z] eLibrary | General search (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
-- [2026-10-06T13:13:16Z] eLibrary | General search (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
-- [2026-10-06T13:13:16Z] FERC Online - Home Page (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
 - [2026-10-06T13:13:16Z] FERC Online - Home Page (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
 
 

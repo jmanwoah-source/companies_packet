@@ -1,28 +1,13 @@
 # ITT
 ## Recent Catalysts
 - [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
 - [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
 - [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
 - [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 ## Full History
 # ITT
 ## Recent Catalysts
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 ## Full History
 # ITT
 ## Catalyst Notes

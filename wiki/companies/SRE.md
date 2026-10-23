@@ -4,11 +4,9 @@
 ## Full History
 # SRE
 ## Recent Catalysts
-- [2026-10-02] [PDF] Next-Generation Physical Autonomy: Advancing Intelligent ... (AMBIGUOUS indirect)
 ## Full History
 # SRE
 ## Recent Catalysts
-- [2026-10-02] [PDF] Next-Generation Physical Autonomy: Advancing Intelligent ... (AMBIGUOUS indirect)
 ## Full History
 # SRE
 ## Catalyst Notes

@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-06-16] The Global Battle for Advanced Chip Packaging Dominance - The New Frontline of the AI Chip Race - Spherical Insights (AMBIGUOUS direct)
-- [2026-06-16] The Global Battle for Advanced Chip Packaging Dominance - The New Frontline of the AI Chip Race - Spherical Insights (AMBIGUOUS direct)
-- [2026-09-16] Tracking CHIPS and Science Act awards - Manufacturing Dive (POSITIVE direct)
 - [2026-09-16] Tracking CHIPS and Science Act awards - Manufacturing Dive (POSITIVE direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-06-16] The Global Battle for Advanced Chip Packaging Dominance - The New Frontline of the AI Chip Race - Spherical Insights (AMBIGUOUS direct)
-- [2026-06-16] The Global Battle for Advanced Chip Packaging Dominance - The New Frontline of the AI Chip Race - Spherical Insights (AMBIGUOUS direct)
-- [2026-09-16] Tracking CHIPS and Science Act awards - Manufacturing Dive (POSITIVE direct)
-- [2026-09-16] Tracking CHIPS and Science Act awards - Manufacturing Dive (POSITIVE direct)
 
 ## Full History
 

@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
 
 ## Full History
 

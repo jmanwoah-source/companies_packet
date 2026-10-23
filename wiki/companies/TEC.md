@@ -10,7 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-02] An efficient probabilistic hardware architecture for diffusion-like models | npj Unconventional Computing - Nature (AMBIGUOUS indirect)
 
 ## Full History
 

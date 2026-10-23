@@ -5,7 +5,6 @@
 - [2026-10-15] Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over ... | ai_infrastructure (positive medium) [`39C56083`]
 - [2026-10-10] Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure - Network World (AMBIGUOUS indirect)
 - [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
 
 ## Full History
 
@@ -13,9 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure - Network World (AMBIGUOUS indirect)
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
 
 ## Full History
 
@@ -23,9 +19,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure - Network World (AMBIGUOUS indirect)
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
 
 ## Full History
 

@@ -4,8 +4,6 @@
 
 - [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
 - [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
@@ -14,11 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Samsung Earnings Report Triggers Fourteen Percent Drop in Semiconductor ETF (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
 

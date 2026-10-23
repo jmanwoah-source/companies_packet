@@ -16,7 +16,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Generation III+ (POSITIVE direct)
 - [2026-10-05] High energy laser defense weapon system with automated UAS detection and classification functionality (US Patent 12716695) (POSITIVE indirect)
 
 ## Full History

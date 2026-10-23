@@ -14,4 +14,3 @@
 - [2026-10-06T13:13:16Z] Hardware for artificial intelligence (semiconductors) | Impact: positive | Materiality: indirect | Confidence: low
 - [2026-10-06T13:13:16Z] Thermography (semiconductors) | Impact: positive | Materiality: indirect | Confidence: low
 - [2026-10-06T13:13:16Z] Samsung Electronics (semiconductors) | Impact: positive | Materiality: indirect | Confidence: low
-- [2026-10-06T13:13:16Z] Samsung Electronics (semiconductors) | Impact: positive | Materiality: indirect | Confidence: low

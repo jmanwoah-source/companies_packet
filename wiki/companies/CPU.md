@@ -9,7 +9,6 @@
 - [2026-10-04] Schneider Electric delivers liquid cooling in AI data centers - Schneider Electric Blog (POSITIVE indirect)
 - [2026-10-05] Investigation on Immersion Cooling Solution for Hyper-scale Data Center Application | IEEE Conference Publication | IEEE Xplore (AMBIGUOUS indirect)
 - [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
 - [2026-10-05] Liquid Cooling is More Sustainable. (NEGATIVE indirect)
 - [2026-10-10] Chip Observer: Arm AGI CPU, HBM4E & AI Infrastructure Trends - TechInsights (AMBIGUOUS indirect)
 - [2026-10-10] [News] Intel Reportedly Hints at Memory Reentry, Eyes CPU-Memory Stacking as XBM Patent Emerges - TrendForce (AMBIGUOUS indirect)
@@ -24,21 +23,7 @@
 
 ## Recent Catalysts
 
-- [2026-09-28] IonQ Breakthrough: CPU-Powered Quantum Error Correction - IonQ (POSITIVE indirect)
-- [2026-10-01] JPMorgan downgrades Qualcomm stock rating on datacenter ... (NEGATIVE direct)
-- [2026-06-30] Immersion Cooling: Best Numbers, Losing the AI Buildout (POSITIVE indirect)
 - [2026-10-02] IonQ - IonQ Demonstrates Industry’s First End-to-End Real-Time Quantum Error Decoder (POSITIVE indirect)
-- [2026-10-04] Schneider Electric delivers liquid cooling in AI data centers - Schneider Electric Blog (POSITIVE indirect)
-- [2026-10-05] Investigation on Immersion Cooling Solution for Hyper-scale Data Center Application | IEEE Conference Publication | IEEE Xplore (AMBIGUOUS indirect)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Liquid Cooling is More Sustainable. (NEGATIVE indirect)
-- [2026-10-10] Chip Observer: Arm AGI CPU, HBM4E & AI Infrastructure Trends - TechInsights (AMBIGUOUS indirect)
-- [2026-10-10] [News] Intel Reportedly Hints at Memory Reentry, Eyes CPU-Memory Stacking as XBM Patent Emerges - TrendForce (AMBIGUOUS indirect)
-- [2026-10-10] OCP APAC 2026: Arm's AGI CPU and Move into Chipmaking - Simple Tech and Trend (AMBIGUOUS indirect)
-- [2026-10-10] Kenyi bets on Arm AGI CPU and chiplets to reshape edge telecom infrastructure - The Mobile Network (AMBIGUOUS indirect)
-- [2026-10-10] Nvidia Vera CPU vs Intel, AMD: Specs, Price, Benchmarks - https://tech-insider.org/ (AMBIGUOUS direct)
-- [2026-10-10] A deep dive into Nvidia's Vera CPU and the Olympus cores that power it - The Register (AMBIGUOUS direct)
 
 ## Full History
 

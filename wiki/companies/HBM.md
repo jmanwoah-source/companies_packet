@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-10] The Infinite AI Compute Loop: HBM Big Three + TSMC × NVIDIA × OpenAI Shaping the Next-Generation Industry Chain - semivision (AMBIGUOUS indirect)
 - [2026-10-10] Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer — backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck - Tom's Hardware (AMBIGUOUS indirect)
 - [2026-10-10] OpenAI Patent Reveals Custom AI Chip With 20 HBM Stacks, Using Intel EMIB-Style Bridges to Smash Current Limits - Wccftech (AMBIGUOUS indirect)
@@ -14,11 +13,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-10] The Infinite AI Compute Loop: HBM Big Three + TSMC × NVIDIA × OpenAI Shaping the Next-Generation Industry Chain - semivision (AMBIGUOUS indirect)
-- [2026-10-10] Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer — backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck - Tom's Hardware (AMBIGUOUS indirect)
-- [2026-10-10] OpenAI Patent Reveals Custom AI Chip With 20 HBM Stacks, Using Intel EMIB-Style Bridges to Smash Current Limits - Wccftech (AMBIGUOUS indirect)
 
 ## Full History
 

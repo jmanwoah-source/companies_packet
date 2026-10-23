@@ -19,4 +19,3 @@
 - [2026-10-06T13:13:16Z] Nature: Quantum Computing Breakthrough in Qubit Error Correction 2026 (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Technology for families Students Access all your DOE applications – TeachHub, Google, iLearnNYC, Mic (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Google Quantum AI (quantum) | Impact: positive | Materiality: direct | Confidence: medium
-- [2026-10-06T13:13:16Z] Google Quantum AI (quantum) | Impact: positive | Materiality: direct | Confidence: medium

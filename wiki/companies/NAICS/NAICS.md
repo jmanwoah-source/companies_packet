@@ -7,7 +7,6 @@
 
 ## Dated Catalyst Notes:
 - [2026-10-06T13:13:16Z] NAICS &amp; SIC Code Lookup, Business Lists &amp; Classification | SICCODE.com (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
-- [2026-10-06T13:13:16Z] NAICS &amp; SIC Code Lookup, Business Lists &amp; Classification | SICCODE.com (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
 
 
 ### Dated Catalyst Notes:

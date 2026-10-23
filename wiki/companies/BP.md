@@ -11,8 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More - 24/7 Wall St. (NEGATIVE direct)
-- [2026-10-11] Here Are Thursday’s Top Wall Street Analyst Research Calls: BP Plc., Borg Warner, Generac, Kraft-Heinz, MercadoLibre, Pfizer, Shopify, Valvoline, and More - 24/7 Wall St. (NEGATIVE direct)
 
 ## Full History
 

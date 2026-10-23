@@ -3,9 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-10] AMKR vs. ASYS: Which Semiconductor Packaging Stock is the Better Buy? - TradingView (AMBIGUOUS direct)
-- [2026-10-10] AMKR vs. ASYS: Which Semiconductor Packaging Stock is the Better Buy? - TradingView (AMBIGUOUS direct)
-- [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
-- [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
 - [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
 
 ## Full History
@@ -14,11 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] AMKR vs. ASYS: Which Semiconductor Packaging Stock is the Better Buy? - TradingView (AMBIGUOUS direct)
-- [2026-10-10] AMKR vs. ASYS: Which Semiconductor Packaging Stock is the Better Buy? - TradingView (AMBIGUOUS direct)
-- [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
-- [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
-- [2026-10-10] Amkor Technology Scores an Earnings Beat and the Stock Plummets 25% - Barron's (NEGATIVE direct)
 
 ## Full History
 

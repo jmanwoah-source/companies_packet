@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
-- [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
-- [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
 
 ## Full History
 
@@ -12,9 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
-- [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
-- [2026-10-10] ON Semiconductor Stock Crashes 24% Following Massive All-Stock Acquisition of Synaptics - TIKR.com (NEGATIVE direct)
 
 ## Full History
 

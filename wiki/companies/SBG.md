@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-10] Eaton, Schneider, and 4 More Stocks to Play AI Data Centers - Barron's (AMBIGUOUS direct)
-- [2026-10-10] Eaton, Schneider, and 4 More Stocks to Play AI Data Centers - Barron's (AMBIGUOUS direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Eaton, Schneider, and 4 More Stocks to Play AI Data Centers - Barron's (AMBIGUOUS direct)
-- [2026-10-10] Eaton, Schneider, and 4 More Stocks to Play AI Data Centers - Barron's (AMBIGUOUS direct)
 
 ## Full History
 

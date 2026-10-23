@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
 
@@ -12,8 +11,6 @@
 ## Recent Catalysts
 
 - [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-10] SK Enmove, LG Electronics team up on next-generation cooling - upi (AMBIGUOUS direct)
 
 ## Full History
@@ -22,10 +19,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-10] SK Enmove, LG Electronics team up on next-generation cooling - upi (AMBIGUOUS direct)
 
 ## Full History
 

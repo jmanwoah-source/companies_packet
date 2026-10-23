@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-11] Anthropic suggests tweaks to proposed US AI chip export controls - TechCrunch (AMBIGUOUS direct)
-- [2026-10-11] Anthropic suggests tweaks to proposed US AI chip export controls - TechCrunch (AMBIGUOUS direct)
-- [2026-10-11] Pentagon’s AI Shakeup Opens Doors For Small Defense Tech Rivals After Anthropic Ouster - The Defense Watch (AMBIGUOUS direct)
 - [2026-10-11] Pentagon’s AI Shakeup Opens Doors For Small Defense Tech Rivals After Anthropic Ouster - The Defense Watch (AMBIGUOUS direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] Anthropic suggests tweaks to proposed US AI chip export controls - TechCrunch (AMBIGUOUS direct)
-- [2026-10-11] Anthropic suggests tweaks to proposed US AI chip export controls - TechCrunch (AMBIGUOUS direct)
-- [2026-10-11] Pentagon’s AI Shakeup Opens Doors For Small Defense Tech Rivals After Anthropic Ouster - The Defense Watch (AMBIGUOUS direct)
-- [2026-10-11] Pentagon’s AI Shakeup Opens Doors For Small Defense Tech Rivals After Anthropic Ouster - The Defense Watch (AMBIGUOUS direct)
 
 ## Full History
 

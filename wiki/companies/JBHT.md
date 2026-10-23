@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-05-04] HiAER-spike software-hardware reconfigurable platform for event-driven neuromorphic computing at scale - Nature (AMBIGUOUS direct)
-- [2026-05-04] HiAER-spike software-hardware reconfigurable platform for event-driven neuromorphic computing at scale - Nature (AMBIGUOUS direct)
-- [2026-07-29] AI Spending Nears $1 Trillion, Turning Cash-Rich Big Tech Into Borrowers - THE ELEC, Korea Electronics Industry Media (NEGATIVE direct)
 - [2026-07-29] AI Spending Nears $1 Trillion, Turning Cash-Rich Big Tech Into Borrowers - THE ELEC, Korea Electronics Industry Media (NEGATIVE direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-05-04] HiAER-spike software-hardware reconfigurable platform for event-driven neuromorphic computing at scale - Nature (AMBIGUOUS direct)
-- [2026-05-04] HiAER-spike software-hardware reconfigurable platform for event-driven neuromorphic computing at scale - Nature (AMBIGUOUS direct)
-- [2026-07-29] AI Spending Nears $1 Trillion, Turning Cash-Rich Big Tech Into Borrowers - THE ELEC, Korea Electronics Industry Media (NEGATIVE direct)
-- [2026-07-29] AI Spending Nears $1 Trillion, Turning Cash-Rich Big Tech Into Borrowers - THE ELEC, Korea Electronics Industry Media (NEGATIVE direct)
 
 ## Full History
 

@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-11] Netlist, Samsung settle patent disputes in new five-year memory deal - electronics.economictimes.indiatimes.com (POSITIVE direct)
-- [2026-10-11] Netlist, Samsung settle patent disputes in new five-year memory deal - electronics.economictimes.indiatimes.com (POSITIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] Netlist, Samsung settle patent disputes in new five-year memory deal - electronics.economictimes.indiatimes.com (POSITIVE direct)
-- [2026-10-11] Netlist, Samsung settle patent disputes in new five-year memory deal - electronics.economictimes.indiatimes.com (POSITIVE direct)
 
 ## Full History
 

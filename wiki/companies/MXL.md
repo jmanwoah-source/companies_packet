@@ -10,7 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-03] Cerebras Systems Inc. (CBRS) Down 5.7% — Should I Scale Back Here? - Weiss Ratings (NEGATIVE direct)
 
 ## Full History
 

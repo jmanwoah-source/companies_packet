@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-11] NASA and U.S. Navy sign contracts with Aeluma to stimulate sensing, quantum systems - Military Embedded Systems (POSITIVE direct)
-- [2026-10-11] NASA and U.S. Navy sign contracts with Aeluma to stimulate sensing, quantum systems - Military Embedded Systems (POSITIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] NASA and U.S. Navy sign contracts with Aeluma to stimulate sensing, quantum systems - Military Embedded Systems (POSITIVE direct)
-- [2026-10-11] NASA and U.S. Navy sign contracts with Aeluma to stimulate sensing, quantum systems - Military Embedded Systems (POSITIVE direct)
 
 ## Full History
 

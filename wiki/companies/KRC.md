@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-07-13] Trump’s sons invest heavily in defense tech as father’s administration pours money in - The Washington Post (POSITIVE direct)
-- [2026-07-13] Trump’s sons invest heavily in defense tech as father’s administration pours money in - The Washington Post (POSITIVE direct)
-- [2026-04-10] Top Quantum Sensing Companies in 2026 - The Quantum Insider (AMBIGUOUS direct)
 - [2026-04-10] Top Quantum Sensing Companies in 2026 - The Quantum Insider (AMBIGUOUS direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-13] Trump’s sons invest heavily in defense tech as father’s administration pours money in - The Washington Post (POSITIVE direct)
-- [2026-07-13] Trump’s sons invest heavily in defense tech as father’s administration pours money in - The Washington Post (POSITIVE direct)
-- [2026-04-10] Top Quantum Sensing Companies in 2026 - The Quantum Insider (AMBIGUOUS direct)
-- [2026-04-10] Top Quantum Sensing Companies in 2026 - The Quantum Insider (AMBIGUOUS direct)
 
 ## Full History
 

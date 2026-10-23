@@ -31,3 +31,13 @@
 ## 2026-10-22 — AGENTS.md written
 - Approved by user (Discord), protected-write gate satisfied
 - Karpathy topology + hard rules + consumer list + sub-agent timeout protocol recorded
+
+## 2026-10-22 — Audit pass (recursive research sweep)
+- Dedup: 72 dossiers, -377 exact-duplicate dated note lines (ARE was 257->164 lines)
+- Root cause fixed: pipeline_engine.append_wiki_note() brief_id guard was case-sensitive (stored lowercase, compared uppercase) -> same brief re-appended every run for legacy files without [bid] markers; now case-insensitive
+- Archived 22 one-char junk dossiers (A.md..Z.md, no real tickers) -> wiki/archived_archive/onechar_junk_20261022/
+- Removed orphan twins: root signal_briefs.json (15.5d stale copy; live one is ~/.hermes/cron/signal_briefs.json), companies/index.json.bak_pre_p5
+- Rebuilt companies/index.json from disk (744 entries; was 796 with stale refs)
+- Removed 57 empty dirs (archived/pruned_20261016/GEV/ etc., legacy_20261013/); kept raw/transcripts+metrics (intentional)
+- Patched 11 skill files + get_wiki_path.py: dead ~/wiki/entities/tickers + ~/wiki/tickers paths -> wiki/wiki/companies
+- Re-verify: 0 dup-content files, 0 note dups, 0 dual-form, index==disk, 0 broken cross-links, gate ALL_GOOD

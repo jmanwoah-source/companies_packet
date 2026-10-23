@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
 

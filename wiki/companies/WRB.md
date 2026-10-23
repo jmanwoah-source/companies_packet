@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-07-27] Toward a Trillion Transistor GPU - IEEE Spectrum (AMBIGUOUS direct)
-- [2026-07-27] Toward a Trillion Transistor GPU - IEEE Spectrum (AMBIGUOUS direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-27] Toward a Trillion Transistor GPU - IEEE Spectrum (AMBIGUOUS direct)
-- [2026-07-27] Toward a Trillion Transistor GPU - IEEE Spectrum (AMBIGUOUS direct)
 
 ## Full History
 

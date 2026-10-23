@@ -4,7 +4,6 @@
 
 - [2026-10-05] The Great AI Silicon Shortage (POSITIVE direct)
 - [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
 - [2026-10-11] Netflix shares plunge 10% on Q2 guidance miss, co-founder Hastings exit (NEGATIVE direct)
 
 ## Full History
@@ -13,9 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] The Great AI Silicon Shortage (POSITIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
-- [2026-10-05] Honeywell Aerospace Q2 2026 earnings miss, cuts full-year ... (NEGATIVE direct)
 
 ## Full History
 

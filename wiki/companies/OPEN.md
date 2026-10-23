@@ -8,7 +8,6 @@
 - [2026-10-05] Topological insulators and superconductors | Rev. Mod. Phys. (AMBIGUOUS indirect)
 - [2026-10-05] 15 years of topological insulators | Nature Reviews Physics (NEGATIVE indirect)
 - [2026-10-11] OpenAI Robotics Chief Quits Over Pentagon AI Deal｜Daily News Digest｜2026-03-09｜web only - 天下雜誌 (POSITIVE direct)
-- [2026-10-11] OpenAI Robotics Chief Quits Over Pentagon AI Deal｜Daily News Digest｜2026-03-09｜web only - 天下雜誌 (POSITIVE direct)
 - [2026-10-11] Tokyo Electron Wins Recognition as a Clarivate Top 100 Global Innovator ... (POSITIVE direct)
 - [2026-10-11] Netflix shares plunge 10% on Q2 guidance miss, co-founder Hastings exit (NEGATIVE direct)
 
@@ -18,8 +17,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] OpenAI Robotics Chief Quits Over Pentagon AI Deal｜Daily News Digest｜2026-03-09｜web only - 天下雜誌 (POSITIVE direct)
-- [2026-10-11] OpenAI Robotics Chief Quits Over Pentagon AI Deal｜Daily News Digest｜2026-03-09｜web only - 天下雜誌 (POSITIVE direct)
 
 ## Full History
 

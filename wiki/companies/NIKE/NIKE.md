@@ -7,7 +7,6 @@
 
 ## Dated Catalyst Notes:
 - [2026-10-06T13:13:16Z] Tactical Gear | TacticalGear.com (edge_robotics) | Impact: positive | Materiality: direct | Confidence: low
-- [2026-10-06T13:13:16Z] Tactical Gear | TacticalGear.com (edge_robotics) | Impact: positive | Materiality: direct | Confidence: low
 
 
 ### Dated Catalyst Notes:

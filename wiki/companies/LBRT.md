@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-04-21] US targets 5 GW more nuclear power through low-cost finance - Reuters (AMBIGUOUS direct)
-- [2026-04-21] US targets 5 GW more nuclear power through low-cost finance - Reuters (AMBIGUOUS direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-04-21] US targets 5 GW more nuclear power through low-cost finance - Reuters (AMBIGUOUS direct)
-- [2026-04-21] US targets 5 GW more nuclear power through low-cost finance - Reuters (AMBIGUOUS direct)
 
 ## Full History
 

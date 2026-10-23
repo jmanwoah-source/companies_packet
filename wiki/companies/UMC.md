@@ -10,7 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] Four Key Threats to Semiconductor Supply Chains (POSITIVE direct)
 
 ## Full History
 
@@ -18,7 +17,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-11] Four Key Threats to Semiconductor Supply Chains (POSITIVE direct)
 
 ## Full History
 

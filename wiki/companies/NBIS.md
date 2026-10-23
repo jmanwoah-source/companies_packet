@@ -4,8 +4,6 @@
 
 - [2026-10-15] Red hot CPI report fuels AI rout: CoreWeave, Nebius, Oracle and Dell tumble, erasing ~$80B in market value | ai_infrastructure (negative medium) [`A1062485`]
 - [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
 - [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
 
 ## Full History
@@ -14,10 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
 
 ## Full History
 

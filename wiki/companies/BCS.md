@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
-- [2026-10-05] Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Priced In (NEGATIVE direct)
 
 ## Full History
 

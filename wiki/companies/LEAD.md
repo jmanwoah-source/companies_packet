@@ -6,7 +6,6 @@
 - [2026-10-02] IonQ - IonQ Demonstrates Industry’s First End-to-End Real-Time Quantum Error Decoder (POSITIVE direct)
 - [2025-10-01] TD Cowen downgrades Marvell on weaker visibility in custom chip business By Investing.com (AMBIGUOUS direct)
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-05] MongoDB CEO Exit Triggers 20% Selloff as Leadership Uncertainty Overshadows Strong Growth (NEGATIVE direct)
 - [2026-10-10] Taiwan chip concentration stokes global risk as TSMC widens lead over Samsung - CHOSUNBIZ - Chosunbiz (NEGATIVE indirect)
 - [2026-10-10] Will Intel Foundry’s High-NA EUV Lead Compound Into a 14A Advantage? - The Futurum Group (AMBIGUOUS indirect)
@@ -17,8 +16,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 
 ## Full History
 

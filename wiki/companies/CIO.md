@@ -4,7 +4,6 @@
 
 - [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
 - [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
 - [2026-10-10] Delays in TSMC’s Arizona plant spark supply chain worries - CIO (NEGATIVE direct)
 
 ## Full History
@@ -13,10 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-07-16] Morgan Stanley and Domestic Brokerages Downgrade Samsung, SK Hynix on Semiconductor Growth Concerns | Gate News (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-10] Delays in TSMC’s Arizona plant spark supply chain worries - CIO (NEGATIVE direct)
 
 ## Full History
 

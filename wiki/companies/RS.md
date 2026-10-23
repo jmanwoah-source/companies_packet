@@ -4,7 +4,6 @@
 ## Full History
 # RS
 ## Recent Catalysts
-- [2026-10-05] AI system learns to keep warehouse robot traffic running smoothly | MIT News | Massachusetts Institute of Technology (POSITIVE indirect)
 ## Full History
 # RS
 ## Recent Catalysts

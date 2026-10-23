@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
-- [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
-- [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
 
 ## Full History
 
@@ -20,8 +17,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
-- [2026-10-07] After the IG Selloff, Brokers Found Many Ways to Say ‘Business as Usual’ - TradingView (NEGATIVE direct)
 
 ## Full History
 

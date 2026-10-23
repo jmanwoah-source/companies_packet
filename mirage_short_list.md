@@ -1,6 +1,6 @@
 # Mirage Short List — Track C: Structural Breakdown
 
-**Generated:** 2026-10-22 18:40 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-22 23:13 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-conviction overbought naked-PUT targets (Rubber Band Man).
 
 **Tickers listed:** 7
@@ -26,16 +26,16 @@
 - hype penalty 20/30
 
 ## 5. SVCO — 
-- **Score:** 20.0/100  ·  **Market cap:** $455M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-22 18:40
+- **Score:** 15.0/100  ·  **Market cap:** $455M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-22 23:13
 - **Engine data:** track_c_100=70
-- Samsung partnership vs 1.8q runway + 12.6% dilution
+- mild: partnership real but single brief + dilution kill
 
 ## 6. ATMS — 
-- **Score:** 20.0/100  ·  **Market cap:** $55.8B  ·  **Entered:** 2026-10-22 18:40  ·  **Updated:** 2026-10-22 18:40
+- **Score:** 5.0/100  ·  **Market cap:** $55.8B  ·  **Entered:** 2026-10-22 18:40  ·  **Updated:** 2026-10-22 23:13
 - **Engine data:** track_c_100=70
-- JDA headline on shell-company financials (runway 0.6q) — story without substance
+- story without substance: single JDA brief, no revenue, kill flag
 
 ## 7. XMAX — 
-- **Score:** 0.0/100  ·  **Market cap:** $555M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-22 18:40
+- **Score:** 0.0/100  ·  **Market cap:** $555M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-22 23:13
 - **Engine data:** track_c_100=90
-- Hexa GaN acquisition narrative vs 344% YoY dilution + 1.8q runway — severe
+- story-vs-substance: single acquisition headline, share base 3.4x, dilution kill

@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
 - [2026-10-10] Forget SpaceX: The Next Red-Hot IPO Is Here and It’s a Quantum Computing Stock - 24/7 Wall St. (AMBIGUOUS direct)
 
@@ -14,11 +12,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Unbuilt or stranded: investors flag twin risks in AI data center pipeline - PitchBook (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-05] Chip slump erases $1.3 trillion in stock market value | Reuters (NEGATIVE direct)
-- [2026-10-10] Forget SpaceX: The Next Red-Hot IPO Is Here and It’s a Quantum Computing Stock - 24/7 Wall St. (AMBIGUOUS direct)
 
 ## Full History
 

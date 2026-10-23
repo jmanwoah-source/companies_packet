@@ -3,7 +3,6 @@
 ## Recent Catalysts
 
 - [2026-10-10] Charter Communication Cut Its EBITDA Outlook After Q2 Earnings. Here’s What Changed. - TIKR.com (NEGATIVE direct)
-- [2026-10-10] Charter Communication Cut Its EBITDA Outlook After Q2 Earnings. Here’s What Changed. - TIKR.com (NEGATIVE direct)
 
 ## Full History
 
@@ -11,8 +10,6 @@
 
 ## Recent Catalysts
 
-- [2026-10-10] Charter Communication Cut Its EBITDA Outlook After Q2 Earnings. Here’s What Changed. - TIKR.com (NEGATIVE direct)
-- [2026-10-10] Charter Communication Cut Its EBITDA Outlook After Q2 Earnings. Here’s What Changed. - TIKR.com (NEGATIVE direct)
 
 ## Full History
 

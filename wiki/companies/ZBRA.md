@@ -3,8 +3,6 @@
 ## Recent Catalysts
 
 - [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-05-13] Canadian quantum startup Photonic Inc. closes $200m funding round at $2bn valuation - Data Center Dynamics (POSITIVE direct)
 - [2026-05-13] Canadian quantum startup Photonic Inc. closes $200m funding round at $2bn valuation - Data Center Dynamics (POSITIVE direct)
 
 ## Full History
@@ -13,10 +11,6 @@
 
 ## Recent Catalysts
 
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-08-11] TSMC's 'Mr. CoWoS': ABF substrate shortages in the coming years may be second only to memory - Moomoo (AMBIGUOUS direct)
-- [2026-05-13] Canadian quantum startup Photonic Inc. closes $200m funding round at $2bn valuation - Data Center Dynamics (POSITIVE direct)
-- [2026-05-13] Canadian quantum startup Photonic Inc. closes $200m funding round at $2bn valuation - Data Center Dynamics (POSITIVE direct)
 
 ## Full History
 

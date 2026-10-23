@@ -5,8 +5,6 @@
 ## Full History
 # LHX
 ## Recent Catalysts
-- [2026-09-28] Tactical Counter-UAS Systems Secure Major Defense Contracts in 2026 (POSITIVE direct)
-- [2026-09-28] Pentagon Awards $800M for Tactical Robotics and Counter-UAS Programs (POSITIVE direct)
 ## Full History
 # LHX - Market Intelligence
 ## Company Overview
