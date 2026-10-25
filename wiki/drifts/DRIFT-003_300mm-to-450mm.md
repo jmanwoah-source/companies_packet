@@ -33,9 +33,9 @@
 ## Drift Score
 | Component | Score (0-10) | Rationale |
 |-----------|--------------|-----------|
-| Magnitude | 5 | large conditional ceiling, unrealized; potential $1-3B at first volume |
+| Magnitude | 5 | large conditional ceiling; unrealized — potential $1-3B at first volume |
 | Timing | 2 | 7-10+ yrs to volume (if ever) |
-| Certainty | 2 | feasibility only, no commitment (UNVERIFIED) |
+| Certainty | 2 | feasibility only, no foundry commitment (UNVERIFIED) |
 | **Composite** | **20** | **NOISE** |
 
 Tier: **NOISE (<50)** — filed, low priority. Stays so that a next-cycle foundry commitment
@@ -45,17 +45,17 @@ auto-re-rates certainty (2→6-8) and lifts Composite into EMERGING/HIGH.
 - **emerging** (feasibility). Moves to `scaling` on any foundry 450mm pilot-fab commitment.
 
 ## Winner Edges (conditional — only valid if the drift lands)
-| Ticker | Company | Why advantaged | Moat | Evidence (dated, linked) |
-|--------|---------|----------------|------|--------------------------|
-| (conditional) | AXTI — SiC/optical substrate maker | large-substrate capability is the gating input for 450mm | substrate yield + crystal-growth IP | [2026] feasibility-stage — UNVERIFIED |
-| (conditional) | TER — substrates/test | 450mm substrate + test content | substrate moat | [2026] feasibility-stage — UNVERIFIED |
-| (conditional) | AMAT/LRCX/KLAC — 450mm tool re-qualification | larger-disc tool wins if the step lands | tool duopoly | [2026] feasibility-stage — UNVERIFIED |
+| Ticker | cap-band | Company | Why advantaged | Moat | Evidence (dated, linked) |
+|--------|----------|---------|----------------|------|--------------------------|
+| (conditional) | — | AXTI — SiC/optical substrate maker | large-substrate capability is the gating input for 450mm | substrate yield + crystal-growth IP | [2026] feasibility-stage — UNVERIFIED |
+| (conditional) | — | TER — substrates/test | 450mm substrate + test content | substrate moat | [2026] feasibility-stage — UNVERIFIED |
+| (conditional) | — | AMAT/LRCX/KLAC — 450mm tool re-qualification | larger-disc tool wins if the step lands | tool duopoly | [2026] feasibility-stage — UNVERIFIED |
 
 ## Loser Edges (conditional)
-| Ticker | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
-|--------|---------|-------------------|--------------------|------------------|--------------|----------|
-| (conditional) | TER / AXTI — current 300mm substrate revenue line | 450mm would displace the 300mm substrate line (the cleanest substitution-loser demo) | est. 40-60% of substrate revenue (fix via FMP) | 0.3 (rumored) | ~12-18 | [2026] feasibility-stage — UNVERIFIED |
-| (conditional) | 300mm tool configs (AMAT/LRCX/KLAC etch/deposition) | re-qualified or replaced on a 450mm fab | est. low-mid (tools are node-agnostic) | 0.3 (rumored) | est. low | [2026] feasibility-stage — UNVERIFIED |
+| Ticker | cap-band | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
+|--------|----------|---------|-------------------|--------------------|------------------|--------------|----------|
+| (conditional) | — | TER / AXTI — current 300mm substrate revenue line | 450mm would displace the 300mm substrate line (the cleanest substitution-loser demo) | est. 40-60% of substrate revenue (fix via FMP) | 0.3 (rumored) | ~12-18 | [2026] feasibility-stage — UNVERIFIED |
+| (conditional) | — | 300mm tool configs (AMAT/LRCX/KLAC etch/deposition) | re-qualified or replaced on a 450mm fab | est. low-mid (tools are node-agnostic) | 0.3 (rumored) | est. low | [2026] feasibility-stage — UNVERIFIED |
 
 > **Loser-track demo:** even though the event is low-certainty NOISE, the *substitution-loser*
 > (300mm substrate incumbents) is the cleanest line in the stack to be displaced. The

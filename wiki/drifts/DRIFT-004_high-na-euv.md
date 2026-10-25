@@ -1,0 +1,78 @@
+# DRIFT-004 — 0.33-NA EUV → High-NA (0.55-NA) EUV lithography (process-node)
+
+**Class.** process-node / manufacturability shift (cheaper path to 1.4nm-class pitch at the exposure layer)
+**Substitution.** 0.33-NA EUV steppers (N2/N2P, 18A generation) → 0.55-NA High-NA EUV at the ~1.4nm/10A-class step
+**Sector.** semiconductors
+**Secondary sectors.** ai-infrastructure (AI-die density)
+**Value-chain layer(s) affected.** tools (fab/litho), manufacturing (foundry)
+**Horizon tag:** medium (3-5 yr)
+**Displacement sub-class:** content-per-unit (exposure-port premium + re-qualified metrology/etch; additive capex, not a dead line)
+
+## Magnitude (mcap + revenue at stake)
+- High-NA tools carry a ~2x price premium per exposure port vs 0.33-NA; adoption re-allocates
+  foundry litho capex and re-qualifies metrology/etch content. Mostly >ceiling anchors (ASML);
+  the sub-ceiling edge is the metrology/inspection content step (KLAC-class).
+- Magnitude score = 6 ($1-3B realized exposure at first volume; large conditional ceiling).
+
+## Timing (TRL → volume)
+- TRL 5-6: 0.55-NA tools shipping to research lines; TSMC "still evaluating" (Reuters, 2025-05-27);
+  Intel hedging 14A with a low-NA technique of identical yield/design rules (Tom's Hardware, 2025) —
+  adoption at the next-next node, ~3-5 yrs. Timing score = 4.
+
+## Certainty
+- **demonstrated at tool level** (0.55-NA tools shipping to research lines), **claimed at volume
+  level** (no foundry committed High-NA to HVM yet). Score = 6.
+
+## Drift Score
+| Component | Score (0-10) | Rationale |
+|-----------|--------------|-----------|
+| Magnitude | 6 | tool premium + re-qualified content; realized at first HVM volume |
+| Timing | 4 | 3-5 yrs to the adoption node |
+| Certainty | 6 | tools demonstrated, volume claimed |
+| **Composite** | **144** | **EMERGING** |
+
+Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 → composite 216 → HIGH (auto re-rate).
+
+## Status
+- **emerging** (research-line shipments; no HVM commitment). Moves to `scaling` on a foundry HVM commitment.
+
+## Winner Edges
+| Ticker | cap-band | Company | Why advantaged | Moat | Evidence (dated, linked) |
+|--------|----------|---------|----------------|------|--------------------------|
+| ASML | >ceiling | ASML | only credible High-NA EUV source; tools shipping to research lines | ~90%+ GM, multi-year qualification lock | [2025-05-27] Reuters: TSMC still evaluating ASML's High-NA — VERIFIED |
+| KLAC | anchor | KLA Corp | High-NA re-qualifies metrology/inspection content per wafer | metrology monopoly-adjacent | [2026] WFE structural upcycle, KLA backlog >$12B (Investing.com, cross-link DRIFT-001) — VERIFIED |
+
+## Loser Edges
+| Ticker | cap-band | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
+|--------|----------|---------|-------------------|--------------------|------------------|--------------|----------|
+| (class) | — | SALELE-class multi-patterning content providers | if Intel's low-NA hedge wins the 1.4nm step, patterning content loses share | est. low (class) | 0.3 (rumored) | est. <5 (low) | [2025] Tom's Hardware: Intel low-NA hedge w/ identical yield — VERIFIED |
+
+> **Honest note:** additive at the tool layer; the only loser path is contingent on the low-NA
+> hedge winning — flag low-confidence, do NOT put on the substitution short list as a clean row.
+
+## Sequencing
+- prerequisite-for → [DRIFT-001_gaa-node-transition.md](DRIFT-001_gaa-node-transition.md) (High-NA is the exposure-layer companion to GAA at the same nodes)
+- competes-with → (low-NA + advanced packaging path — the Intel hedge; an unfiled counter-drift candidate)
+
+## Competitive/Substitution Links
+- ASML → TSM/UMC : upstream-supplier (litho gates the node step)
+- ASML ↔ (Nikon/Canon legacy DUV class) : displaced (High-NA widens the EUV-only gap)
+
+## Cascade Hook
+- Gap-phrase: **"High-NA EUV HVM commitment metrology requalification"**
+- Surface forms: `High-NA EUV "HVM" OR "high-volume" commitment`, `site:asml.com 0.55-NA tool delivery`,
+  `"High-NA" metrology OR inspection content per wafer`, `low-NA alternative 14A yield`.
+- Fires at Composite ≥ 500 (not near; watch for the foundry commitment → certainty re-rate).
+
+## Evidence
+- [2025-05-27] TSMC still evaluating ASML's 'High-NA' as Intel eyes future use — https://www.reuters.com/world/asia-pacific/tsmc-still-evaluating-asmls-high-na-intel-eyes-future-use-2025-05-27/ (VERIFIED)
+- [2025] Intel hedges 14A with low-NA technique of identical yield and design rules — https://tomshardware.com/pc-components/cpus/intel-hedges-its-bet-for-high-na-euv-with-the-14a-process-node-an-alternate-low-na-technique-has-identical-yield-and-design-rules (VERIFIED)
+
+## Open questions / next-cycle checks
+- Confirm whether TSMC N2P or A14 is the first High-NA HVM candidate (the commitment date).
+- Pull KLAC metrology segment revenue to fix the content-per-wafer exposure %.
+
+## Dated Evidence Notes
+- [2026-10-25] [seed004a] Filed from semiconductors pillar validation (salvaged sub-agent evidence).
+
+## Last Updated (2026-10-25)

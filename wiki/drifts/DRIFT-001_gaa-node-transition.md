@@ -32,9 +32,9 @@
 ## Drift Score
 | Component | Score (0-10) | Rationale |
 |-----------|--------------|-----------|
-| Magnitude | 6 | Large WFE at stake but mostly >ceiling anchors; small/mid edge is tool-intensity |
+| Magnitude | 6 | tool intensity per wafer rises with GAA; WFE upcycle |
 | Timing | 8 | 2nm already HVM; 1-2 yr to full step |
-| Certainty | 9 | Volume shipped + named orders |
+| Certainty | 9 | volume shipped + named orders (TSMC 2nm trial production) |
 | **Composite** | **432** | **HIGH** |
 
 Tier: **HIGH (200-499)** — track; next-cycle re-check.
@@ -43,17 +43,17 @@ Tier: **HIGH (200-499)** — track; next-cycle re-check.
 - **scaling** (volume underway, next node A16/A14 in dev). Moves to `deployed` at A16 HVM.
 
 ## Winner Edges
-| Ticker | Company | Why advantaged | Moat | Evidence (dated, linked) |
-|--------|---------|----------------|------|--------------------------|
-| AMAT | Applied Materials | GAA ALD/PECVD orders; TSMC 2nm trial production Sept 2026 order confirmation | multi-year customer qualification, ~90%+ GM on critical steps | [2026-07] AMAT GAA ALD/PECVD order, 2nm trial (broadfsc.com AMAT note) — VERIFIED |
-| LRCX | Lam Research | GAA etch/deposition intensity; EPS +56% YoY; Mizuho PT $380 (May 2026) | etch/deposition duopoly w/ AMAT | [2026-05-27] Mizuho raises LRCX PT to $380, WFE $153B (Yahoo Finance) — VERIFIED |
-| KLAC | KLA Corp | metrology/etch content-per-wafer rises with GAA; backlog >$12B | metrology monopoly-adjacent | [2026-08] Bernstein/BofA WFE upcycle, KLA backlog (Investing.com) — VERIFIED |
-| ASML | ASML | 2nm→GAA higher litho intensity; High-NA pivot + advanced-packaging tooling | only credible EUV player | [2026-03] ASML pivots to advanced-packaging tool market (SPIE/semiconductor briefing) — VERIFIED |
+| Ticker | cap-band | Company | Why advantaged | Moat | Evidence (dated, linked) |
+|--------|----------|---------|----------------|------|--------------------------|
+| AMAT | >ceiling | Applied Materials | GAA ALD/PECVD orders; TSMC 2nm trial production Sept 2026 order confirmation | multi-year customer qualification, ~90%+ GM on critical steps | [2026-07] AMAT GAA ALD/PECVD order, 2nm trial (broadfsc.com AMAT note) — VERIFIED |
+| LRCX | >ceiling | Lam Research | GAA etch/deposition intensity; EPS +56% YoY; Mizuho PT $380 (May 2026) | etch/deposition duopoly w/ AMAT | [2026-05-27] Mizuho raises LRCX PT to $380, WFE $153B (Yahoo Finance) — VERIFIED |
+| KLAC | anchor | KLA Corp | metrology/etch content-per-wafer rises with GAA; backlog >$12B | metrology monopoly-adjacent | [2026-08] Bernstein/BofA WFE upcycle, KLA backlog (Investing.com) — VERIFIED |
+| ASML | >ceiling | ASML | 2nm→GAA higher litho intensity; High-NA pivot + advanced-packaging tooling | only credible EUV player | [2026-03] ASML pivots to advanced-packaging tool market (SPIE/semiconductor briefing) — VERIFIED |
 
 ## Loser Edges
-| Ticker | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
-|--------|---------|-------------------|--------------------|------------------|--------------|----------|
-| (low-confidence) | legacy 7nm-and-up packaging-only scaling path (chiplets-on-7nm as the node-scaling alternative) | GAA node scaling competes with the "scale the package, not the node" path; if GAA dominates, the packaging-only scaling revenue share is capped | est. n/a (additive, not a clean line) | 0.6 (claimed) | low | [2026] Dwarkesh/Patel: TSMC scaling packaging faster than process — UNVERIFIED |
+| Ticker | cap-band | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
+|--------|----------|---------|-------------------|--------------------|------------------|--------------|----------|
+| (low-confidence) | — | legacy 7nm-and-up packaging-only scaling path (chiplets-on-7nm as the node-scaling alternative) | GAA node scaling competes with the "scale the package, not the node" path; if GAA dominates, the packaging-only scaling revenue share is capped | est. n/a (additive, not a clean line) | 0.6 (claimed) | low | [2026] Dwarkesh/Patel: TSMC scaling packaging faster than process — UNVERIFIED |
 
 > **Honest stress-test note:** a node *up-shift* is additive to tool spend, not a clean
 > substitution of a revenue line. This drift has **no clean loser** — that is a legitimate

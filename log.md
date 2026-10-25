@@ -61,3 +61,14 @@
 - INDEX.md: v1.1 note + 4 sample drifts queued for Phase 2 filing (DRIFT-004 High-NA EUV 144, DRIFT-005 liquid-cooling default 336, DRIFT-006 SMR DC power 105 gate-watched, DRIFT-007 autonomous C-UAS 180).
 - Deferred to Phase 2/3: gradual displacement curve, private-winner supplier-discovery cascade rule, horizon column in tier table.
 - Lesson codified: research+write children WILL 600s-timeout on this backend — salvage transcripts, write inline in parent. Confirmed 5-for-5.
+
+## 2026-10-25 — Phase 2: file DRIFT-004..007 + Track D generator + backlinks
+
+- **4 new drifts filed** (from the 5-panel validation sample candidates, all salvage-cited): DRIFT-004 High-NA EUV (144 EMERGING, semis), DRIFT-005 liquid-cooling default (336 HIGH, ai-infra), DRIFT-006 SMR data-center power (105 EMERGING, advanced-energy, timing-gate: NRC SDA), DRIFT-007 autonomous C-UAS detect-and-kill (180 EMERGING upper, physical-ai, FM-4 private-winner rule noted for Anduril).
+- **`~/.hermes/scripts/drift_track_d.py`** (deterministic, no LLM): parses all 7 drifts → writes `~/wiki/substitution_short_list.md` (Track D, root-level, generator-owned like tier_lists.py) + `## Drift Exposure` backlinks into 16 company dossiers (fenced block, idempotent: exactly 1 block per dossier after re-run — verified) + regenerates the INDEX.md catalog table.
+- Track D logic: named loser rows only (class rows stay in drift files); sub_downside midpoint parsed from `est. lo-hi` / `<x` / bare; confidence = certainty weight (high ≥0.9 / medium ≥0.5 / low <0.5); low-confidence named losers stay on the short list, do NOT get dossier backlinks; winner/loser edges → net_drift_position line (FM-2).
+- Current Track D: 1 named row — SMART (CreeLED) sub_downside 100.0, weight 1.0, high confidence, from DRIFT-002. SMART has no wiki dossier (not in tracked universe) → correctly skipped for backlink, stays on short list.
+- Parser bugs found+fixed this phase (all at the tool layer, zero manual table edits after): composite regex (bold table form), status regex (`## Status` heading), cells[2] not cells[3] for company (off-by-one vs cap-band column), `(class)`/`(conditional)` rows filtered from edges.
+- Seed score tables DRIFT-001/002/003 confirmed 3-col `Component|Score|Rationale` with `**Composite** | **N** | **TIER**` rows — the canonical format the parser reads.
+- **Pending user approval (protected-write gate):** AGENTS.md topology + consumer list should gain `wiki/drifts/` and root `substitution_short_list.md` (generator-owned). Staged in log; do not route around the gate.
+- Next: Phase 3 autonomous drift-detector cron (sector dossiers as query scaffold → substitution-language scan → LLM win/lose judgment → files candidate events for scoring).

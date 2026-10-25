@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 217
-- **Unique Tickers**: 93
-- **Categories**: {'quantum': 33, 'edge_robotics': 32, 'ai_infrastructure': 32, 'semiconductors': 71, 'materials_science': 7, 'energy': 21}
+- **Briefs Processed**: 218
+- **Unique Tickers**: 94
+- **Categories**: {'quantum': 33, 'edge_robotics': 32, 'ai_infrastructure': 32, 'semiconductors': 71, 'materials_science': 7, 'energy': 22}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -12,7 +12,7 @@
 | quantum_research | 32 |
 | conference_deep_dive | 31 |
 | edge_robotics | 26 |
-| macro_government | 24 |
+| macro_government | 25 |
 | patent_supply_chain | 22 |
 
 ## Active Research List
@@ -83,6 +83,7 @@
 | IREN | 1 | ai_infrastructure | negative medium |
 | KEYS | 1 | semiconductors | positive low |
 | LDOS | 1 | edge_robotics | positive medium |
+| LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
 | LITE | 1 | ai_infrastructure | ambiguous low |
 | MCHP | 1 | semiconductors | positive low |
@@ -313,3 +314,4 @@
 | 2026-10-24 | Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.or | MRVL | ambiguous medium | direct | semiconductors | low | `57830C09` |
 | 2026-10-24 | Equinix launches liquid cooling centers for AI infrastructure testing | EQIX | positive medium | direct | ai_infrastructure | medium | `25971995` |
 | 2026-10-24 | D-Wave Quantum: Tax Withholdings, a Minnesota Foundry and Why a Sector | QUBT,SKYQ | ambiguous low | direct | quantum | medium | `16EE4ACB` |
+| 2026-10-25 | Natrium Project - Bechtel: DOE-awarded TerraPower SMR demonstration at | LEU | positive medium | indirect | energy | high | `77B598F5` |

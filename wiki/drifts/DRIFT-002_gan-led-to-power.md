@@ -30,7 +30,7 @@
 ## Drift Score
 | Component | Score (0-10) | Rationale |
 |-----------|--------------|-----------|
-| Magnitude | 6 | substrate >$300M + device >$1B; sub-ceiling names (SWKS, ON) carry the edge |
+| Magnitude | 6 | substrate >$300M + device >$1B; sub-ceiling names carry the edge |
 | Timing | 10 | already deployed / volume |
 | Certainty | 10 | executed divestiture + SEC filings |
 | **Composite** | **600** | **CRITICAL** |
@@ -44,18 +44,18 @@ both edges intact.
 - **deployed** (complete; reference anchor for what a finished cross-domain transfer looks like).
 
 ## Winner Edges
-| Ticker | Company | Why advantaged | Moat | Evidence (dated, linked) |
-|--------|---------|----------------|------|--------------------------|
-| WOLF | Wolfspeed (ex-Cree) | owns the SiC/GaN substrate+epi moat that LED R&D built; Infineon RF GaN-on-SiC acquisition (2019) | 30x capacity expansion plan, crystal-growth yield, end-to-end SiC corridor | [2021-10] CREE→WOLF rename; LED divestiture (SEC 10-K) — VERIFIED |
-| SWKS | Skyworks (GaN power) | rode the LED→power GaN transfer as a pure-play | fabless asset-light + design-wins | [2022] GaN-on-Si 6"/8" qualification (powerwaywafer) — VERIFIED |
-| ON | onsemi | EliteSiC + GaN; qualification moat | part count + auto/industrial qualification | [2022] Wolfspeed design-ins $2.1B H1 (sec.gov R9) — VERIFIED |
-| NVTS | Navitas | NVIDIA 24kW 800V board — rides the transferred power demand | design-win + reference design | [2026] NVIDIA 24kW board (concepts/sic_gan_power.md) — VERIFIED (cross-link) |
+| Ticker | cap-band | Company | Why advantaged | Moat | Evidence (dated, linked) |
+|--------|----------|---------|----------------|------|--------------------------|
+| WOLF | sub-ceiling | Wolfspeed (ex-Cree) | owns the SiC/GaN substrate+epi moat that LED R&D built; Infineon RF GaN-on-SiC acquisition (2019) | 30x capacity expansion plan, crystal-growth yield, end-to-end SiC corridor | [2021-10] CREE→WOLF rename; LED divestiture (SEC 10-K) — VERIFIED |
+| SWKS | mid | Skyworks (GaN power) | rode the LED→power GaN transfer as a pure-play | fabless asset-light + design-wins | [2022] GaN-on-Si 6"/8" qualification (powerwaywafer) — VERIFIED |
+| ON | anchor | onsemi | EliteSiC + GaN; qualification moat | part count + auto/industrial qualification | [2022] Wolfspeed design-ins $2.1B H1 (sec.gov R9) — VERIFIED |
+| NVTS | sub-ceiling | Navitas | NVIDIA 24kW 800V board — rides the transferred power demand | design-win + reference design | [2026] NVIDIA 24kW board (concepts/sic_gan_power.md) — VERIFIED (cross-link) |
 
 ## Loser Edges
-| Ticker | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
-|--------|---------|-------------------|--------------------|------------------|--------------|----------|
-| SMART | SMART Global (CreeLED) | kept the LED lighting side but lost the substrate/epi moat to the power spin | ~100% of its GaN epi line is lighting-bound | 1.0 (demonstrated) | ~100 | [2021-03] Cree LED divestiture to SMART/CreeLED (SEC 10-K) — VERIFIED |
-| (class) | legacy silicon final-stage power (silicon PoL/VRM / LDMOS suppliers) | revenue cannibalized by GaN/SiC switching efficiency | n/a (class, not a single ticker) | 0.6 (claimed) | est. low-mid | [2026] 800V rewire substitutes silicon final-stage (sic_gan_power.md) — VERIFIED (cross-link) |
+| Ticker | cap-band | Company | Why disadvantaged | Revenue exposure % | Certainty weight | sub_downside | Evidence |
+|--------|----------|---------|-------------------|--------------------|------------------|--------------|----------|
+| SMART | sub-ceiling | SMART Global (CreeLED) | kept the LED lighting side but lost the substrate/epi moat to the power spin | ~100% of its GaN epi line is lighting-bound | 1.0 (demonstrated) | ~100 | [2021-03] Cree LED divestiture to SMART/CreeLED (SEC 10-K) — VERIFIED |
+| (class) | — | legacy silicon final-stage power (silicon PoL/VRM / LDMOS suppliers) | revenue cannibalized by GaN/SiC switching efficiency | n/a (class, not a single ticker) | 0.6 (claimed) | est. low-mid | [2026] 800V rewire substitutes silicon final-stage (sic_gan_power.md) — VERIFIED (cross-link) |
 
 > **Why this is the reference anchor:** it is the *cleanest* completed substitution in the
 > portfolio — a real, dated, SEC-filed winner (WOLF kept the moat) and a real loser (SMART/CreeLED
