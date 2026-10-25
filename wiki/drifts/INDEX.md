@@ -14,6 +14,7 @@ notes below the table are maintained by the curator.
 | DRIFT-006 | DRIFT-006_smr-datacenter-power.md | advanced-energy | 105 | EMERGING | emerging | OKLO, CEG, NUS | — |
 | DRIFT-007 | DRIFT-007_autonomous-cuas.md | physical-ai | 180 | EMERGING | emerging | AVAV, RCAT, DRS | — |
 | DRIFT-008 | DRIFT-008_copper-to-cpo.md | ai-infrastructure | 294 | HIGH | scaling | AVGO, MRVL, COHR, IIVI | — |
+| DRIFT-009 | DRIFT-009_800v-dc-rack-power.md | ai-infrastructure | 180 | EMERGING | emerging | MCHP, NVTS | — |
 
 
 ## Status
@@ -24,7 +25,7 @@ notes below the table are maintained by the curator.
 ## Loser-track (Track D) seed rows (substitution-based, NOT valuation-based)
 - **SMART** (CreeLED) — GaN epi line lighting-bound; sub_downside ~100 (demonstrated).
 - **TER / AXTI** — 300mm substrate line; sub_downside ~12-18 (rumored, low-confidence — fix via FMP).
-- *(class)* legacy silicon final-stage power / 50V PoL/VRM — 800V rewire displacement; sub_downside low-mid (claimed).
+- *(class)* legacy silicon final-stage power / 50V PoL/VRM — 800V rewire displacement (now anchored to [DRIFT-009]); sub_downside low-mid (claimed).
 
 ## Open (all 3 seeds)
 - DRIFT-001: A16 HVM date + KLAC/LRCX metrology/etch segment exposure via FMP.
