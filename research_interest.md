@@ -1,19 +1,19 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 218
-- **Unique Tickers**: 94
-- **Categories**: {'quantum': 33, 'edge_robotics': 32, 'ai_infrastructure': 32, 'semiconductors': 71, 'materials_science': 7, 'energy': 22}
+- **Briefs Processed**: 222
+- **Unique Tickers**: 95
+- **Categories**: {'quantum': 33, 'edge_robotics': 33, 'ai_infrastructure': 32, 'semiconductors': 73, 'materials_science': 8, 'energy': 22}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 61 |
+| negative_intelligence | 63 |
 | quantum_research | 32 |
-| conference_deep_dive | 31 |
+| conference_deep_dive | 32 |
 | edge_robotics | 26 |
 | macro_government | 25 |
-| patent_supply_chain | 22 |
+| patent_supply_chain | 23 |
 
 ## Active Research List
 
@@ -42,13 +42,14 @@
 | AV | 3 | edge_robotics | positive high,positive medium |
 | GFS | 3 | semiconductors | negative high,positive high |
 | HPE | 3 | ai_infrastructure,semiconductors | negative high,negative medium,neutral medium |
+| LSCC | 3 | edge_robotics,quantum,semiconductors | negative low,positive medium |
 | MRVL | 3 | semiconductors | ambiguous medium,negative high |
 | AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
 | HON | 2 | energy,quantum | positive high,positive medium |
+| LITE | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
 | LMT | 2 | edge_robotics,quantum | ambiguous low,positive medium |
-| LSCC | 2 | edge_robotics,quantum | positive medium |
 | META | 2 | energy | positive high,positive medium |
 | MSFT | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
 | NBIS | 2 | ai_infrastructure | negative high,negative medium |
@@ -62,6 +63,7 @@
 | AMAT | 1 | semiconductors | positive high |
 | AMZN | 1 | ai_infrastructure | negative medium |
 | ATMS | 1 | semiconductors | positive high |
+| ATOM | 1 | materials_science | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
 | CEG | 1 | energy | positive medium |
 | CMST | 1 | ai_infrastructure | positive medium |
@@ -85,7 +87,6 @@
 | LDOS | 1 | edge_robotics | positive medium |
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
-| LITE | 1 | ai_infrastructure | ambiguous low |
 | MCHP | 1 | semiconductors | positive low |
 | MVIS | 1 | semiconductors | positive medium |
 | NAVI | 1 | semiconductors | positive medium |
@@ -315,3 +316,7 @@
 | 2026-10-24 | Equinix launches liquid cooling centers for AI infrastructure testing | EQIX | positive medium | direct | ai_infrastructure | medium | `25971995` |
 | 2026-10-24 | D-Wave Quantum: Tax Withholdings, a Minnesota Foundry and Why a Sector | QUBT,SKYQ | ambiguous low | direct | quantum | medium | `16EE4ACB` |
 | 2026-10-25 | Natrium Project - Bechtel: DOE-awarded TerraPower SMR demonstration at | LEU | positive medium | indirect | energy | high | `77B598F5` |
+| 2026-10-25 | NUBURU receives NYSE American warning letter regarding disclosure viol |  | negative medium | direct | edge_robotics | high | `5DE9D24C` |
+| 2026-10-25 | Robeco Schweiz AG cuts Lattice Semiconductor (LSCC) holdings by 3.9% i | LSCC | negative low | direct | semiconductors | medium | `BFA762F5` |
+| 2026-10-25 | Jensen Huang: optics demand 15x; InP laser capacity the bottleneck - L | LITE | positive high | direct | semiconductors | low | `021B4451` |
+| 2026-10-25 | Atomera and IQE to jointly develop RF GaN-on-silicon | ATOM | positive medium | direct | materials_science | medium | `CAE15DFA` |

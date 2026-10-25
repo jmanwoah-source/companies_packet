@@ -11,3 +11,6 @@
 ## Full History
 
 New wiki entry created on 2026-10-12T00:26:38Z
+
+## Catalyst Log
+- [2026-10-25] Atomera and IQE to jointly develop RF GaN-on-silicon | materials_science (positive medium) [`CAE15DFA`]

@@ -9,7 +9,8 @@
 
 ---
 
-## Catalyst Log
+## Catalyst Log- [2026-10-25] Robeco Schweiz AG cuts Lattice Semiconductor (LSCC) holdings by 3.9% in Q3 (13F: 35,570 shares sold, 874,292 remaining) | semiconductors (negative low) [`BFA762F5`]
+
 - [2026-10-16] Lattice and TI Join Forces to Advance Real-time Edge AI Sensor Fusion - EE Times Asia | edge_robotics (positive medium) [`72EB79A0`]
 
 [2026-10-15T08:38:17Z] Superconductivity distorts the crystal lattice of topological quantum materials - EurekAlert!
