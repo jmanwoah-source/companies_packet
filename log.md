@@ -81,3 +81,10 @@
 - jobs.json backed up (jobs.json.bak_drift_1792903570) before the 4th job was added; verified 4 jobs, unique ids, next_run_at set explicitly.
 - **Remaining (Phase 4):** cascade-on-event wiring into concepts/CASCADE.md — drift events become CASCADE triggers (today CASCADE triggers on a company's score; the upgrade is to trigger on the drift event, propagating to ALL linked dossiers + next value-chain layer).
 - **Pending user approval (protected-write gate):** AGENTS.md gains wiki/drifts/ + root substitution_short_list.md to topology/consumers. Staged in log; do not route around the gate.
+
+## 2026-10-25 — Phase 4: cascade-on-event wiring (CASCADE.md Trigger v2)
+
+- `concepts/CASCADE.md` gains **Trigger v2 — Drift-Event cascade**: the trigger is the DRIFT, not the ticker. Fires on Composite >= 500 (CRITICAL) OR status transition to `scaling` (gate-fire: NRC SDA, foundry commitment, hyperscaler PPA campus-wide).
+- Wiring: (1) read event edges (winner/loser/Sequencing/competitive; FM-2 net_drift_position handles dual-role nodes), (2) deterministic re-sync via drift_track_d.py (one re-rate propagates to all linked dossiers — no manual per-ticker edits), (3) cascade to the NEXT value-chain layer via Sequencing `enables`/`prerequisite-for` (450mm wafer → large-substrate makers → large-wafer tool makers), (4) FM-4 private-winner supplier-discovery (Anduril → public edge-NPU/sensor suppliers), (5) losers' exposure re-estimated from FMP fundamentals (revenue line per value-chain layer) at the next Deep-Dive pass — lifts sub_downside from `est.` to measured.
+- Guards: <500 drifts don't self-cascade (re-rate or gate-fire only); max 4 drifts/cycle; 3 cycles w/ 0 new tickers → SATURATED; cascade never auto-adds to ACTIVE.
+- **Build status: Phases 1-4 COMPLETE.** The system is now a self-sustaining loop: detector cron finds substitution language → files/scores drift events → Track D + backlinks propagate deterministically → CRITICAL/gate-fire drifts cascade on the event to the next value-chain layer → new tickers feed the existing inclination pipeline.
