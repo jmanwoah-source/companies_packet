@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 222
-- **Unique Tickers**: 95
-- **Categories**: {'quantum': 33, 'edge_robotics': 33, 'ai_infrastructure': 32, 'semiconductors': 73, 'materials_science': 8, 'energy': 22}
+- **Briefs Processed**: 224
+- **Unique Tickers**: 96
+- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 32, 'semiconductors': 73, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -11,8 +11,8 @@
 | negative_intelligence | 63 |
 | quantum_research | 32 |
 | conference_deep_dive | 32 |
-| edge_robotics | 26 |
-| macro_government | 25 |
+| edge_robotics | 27 |
+| macro_government | 26 |
 | patent_supply_chain | 23 |
 
 ## Active Research List
@@ -27,8 +27,8 @@
 | MU | 7 | ai_infrastructure,semiconductors | negative high,positive high,positive medium |
 | TSM | 7 | semiconductors | negative medium,positive high,positive medium |
 | AVGO | 6 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
+| DRS | 6 | edge_robotics | positive high,positive medium |
 | NXPI | 6 | ai_infrastructure,semiconductors | negative high,negative medium |
-| DRS | 5 | edge_robotics | positive high,positive medium |
 | IONQ | 5 | quantum | positive high,positive low,positive medium |
 | QBTS | 5 | quantum | positive high,positive medium |
 | RTX | 5 | edge_robotics | ambiguous low,positive high |
@@ -65,6 +65,7 @@
 | ATMS | 1 | semiconductors | positive high |
 | ATOM | 1 | materials_science | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
+| BWX | 1 | energy | positive high |
 | CEG | 1 | energy | positive medium |
 | CMST | 1 | ai_infrastructure | positive medium |
 | CRWV | 1 | ai_infrastructure | negative high |
@@ -320,3 +321,5 @@
 | 2026-10-25 | Robeco Schweiz AG cuts Lattice Semiconductor (LSCC) holdings by 3.9% i | LSCC | negative low | direct | semiconductors | medium | `BFA762F5` |
 | 2026-10-25 | Jensen Huang: optics demand 15x; InP laser capacity the bottleneck - L | LITE | positive high | direct | semiconductors | low | `021B4451` |
 | 2026-10-25 | Atomera and IQE to jointly develop RF GaN-on-silicon | ATOM | positive medium | direct | materials_science | medium | `CAE15DFA` |
+| 2026-10-25 | Leonardo DRS Awarded JIATF-401 IDIQ Contract to Accelerate Delivery of | DRS | positive high | direct | edge_robotics | high | `DCDC4937` |
+| 2026-10-25 | TVA awarded $400M DOE grant to develop nation's first SMR at Clinch Ri | BWX | positive high | indirect | energy | high | `38B9D7A8` |
