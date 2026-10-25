@@ -72,3 +72,12 @@
 - Seed score tables DRIFT-001/002/003 confirmed 3-col `Component|Score|Rationale` with `**Composite** | **N** | **TIER**` rows — the canonical format the parser reads.
 - **Pending user approval (protected-write gate):** AGENTS.md topology + consumer list should gain `wiki/drifts/` and root `substitution_short_list.md` (generator-owned). Staged in log; do not route around the gate.
 - Next: Phase 3 autonomous drift-detector cron (sector dossiers as query scaffold → substitution-language scan → LLM win/lose judgment → files candidate events for scoring).
+
+## 2026-10-25 — Phase 3: autonomous drift detector (scan + judgment + cron)
+
+- **`~/.hermes/scripts/drift_scan.py`** (deterministic, no LLM): 13 substitution-language queries across the 4 pillars (value-chain layers as scaffold), SearXNG local JSON API, time_range=month (structural cadence, not news-day), 2.5s sleeps, dedup vs ALL existing drift evidence URLs + 14d feed_raw.json, caps 3 candidates/query, appends per-query health ledger to drift_query_health.jsonl. Verified live: 13 queries → 39 fresh candidates in ~35s (real hits: NVIDIA 800VDC architecture, CPO production planning, 8-inch free-standing GaN substrate paper, TSMC 2nm node).
+- **Cron job `e9711f5abb15` — "Drift Detector"** (every 360m, enabled, delivers to this Discord thread): the prompt runs the health gate, re-runs drift_scan.py, then the LLM does ONLY the win/lose + M/T/C judgment per SCHEMA.md (max 2 drift files/run, max 2 web fetches, quality bar = named process swap + named winner, "additive, no clean loser" allowed, thinkpieces rejected), files DRIFT-NNN via the exact schema, runs drift_track_d.py, appends log.md, commits. Deterministic work stays in scripts; LLM tokens spent only on the genuinely hard inference (the old→new + winner/loser judgment).
+- Query doctrine from self-hosted-search-mcp skill applied: one query = one signal 3-6 words, no year tokens (recency via time_range), site: precision sources where useful.
+- jobs.json backed up (jobs.json.bak_drift_1792903570) before the 4th job was added; verified 4 jobs, unique ids, next_run_at set explicitly.
+- **Remaining (Phase 4):** cascade-on-event wiring into concepts/CASCADE.md — drift events become CASCADE triggers (today CASCADE triggers on a company's score; the upgrade is to trigger on the drift event, propagating to ALL linked dossiers + next value-chain layer).
+- **Pending user approval (protected-write gate):** AGENTS.md gains wiki/drifts/ + root substitution_short_list.md to topology/consumers. Staged in log; do not route around the gate.
