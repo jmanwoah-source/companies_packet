@@ -12,4 +12,4 @@ revenue exposure appears here even though it is not 'overbought' (mirage track =
 - sub_downside = revenue-exposure-% × certainty-weight (schema v1.1). Midpoint shown for 'est. lo-hi' ranges.
 - low-confidence rows are flags, not short calls; promote on FMP revenue-line confirmation.
 - class-level losers (no named ticker) are NOT listed here — they stay in the drift files.
-- Generated: 2026-10-25 · 1 named loser rows across 7 drifts.
+- Generated: 2026-10-25 · 1 named loser rows across 8 drifts.

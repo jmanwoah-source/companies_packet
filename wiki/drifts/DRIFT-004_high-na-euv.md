@@ -74,5 +74,6 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 
 ## Dated Evidence Notes
 - [2026-10-25] [seed004a] Filed from semiconductors pillar validation (salvaged sub-agent evidence).
+- [2026-10-25] [det004a] Intel has exposed >1M wafers using High-NA systems and plans continued volume (ASML record $13B qtr, Tom's Hardware, 2026-10-15) — strengthens the tool-level demonstrated status; volume-HVM commitment still pending. Certainty held at 6 (score unchanged 144 EMERGING; re-rate on a foundry HVM commit). https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-ex (VERIFIED)
 
 ## Last Updated (2026-10-25)

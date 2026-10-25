@@ -79,5 +79,6 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 
 ## Dated Evidence Notes
 - [2026-10-25] [seed006a] Filed from advanced-energy pillar validation (salvaged sub-agent evidence).
+- [2026-10-25] [det006a] NRC rule change allows applicants to leverage data/analyses from reactor demonstration projects into licensing (Reuters, 2026-10) + NRC review of NuScale US460 Standard Design Approval application completed review activities (NRC.gov) — both accelerate the licensing-gate clock; timing-gate still not fired (no SDA yet). Certainty held at 5 (score unchanged 105 EMERGING; re-rate on SDA grant). https://www.reuters.com/legal/litigation/us-nuclear-power-regulator-allows-applicants-include-data-a (VERIFIED) · https://www.nrc.gov/facilities-safety/new-reactors/advanced-reactors/who-were-working-with/past-lice (VERIFIED)
 
 ## Last Updated (2026-10-25)

@@ -13,6 +13,7 @@ notes below the table are maintained by the curator.
 | DRIFT-005 | DRIFT-005_liquid-cooling-default.md | ai-infrastructure | 336 | HIGH | scaling | VRT, SMCI | — |
 | DRIFT-006 | DRIFT-006_smr-datacenter-power.md | advanced-energy | 105 | EMERGING | emerging | OKLO, CEG, NUS | — |
 | DRIFT-007 | DRIFT-007_autonomous-cuas.md | physical-ai | 180 | EMERGING | emerging | AVAV, RCAT, DRS | — |
+| DRIFT-008 | DRIFT-008_copper-to-cpo.md | ai-infrastructure | 294 | HIGH | scaling | AVGO, MRVL, COHR, IIVI | — |
 
 
 ## Status

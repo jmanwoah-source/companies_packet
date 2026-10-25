@@ -93,5 +93,6 @@ auto-re-rates certainty (2→6-8) and lifts Composite into EMERGING/HIGH.
 
 ## Dated Evidence Notes
 - [2026-10-25] [seed003a] Seeded as the schema stress test: big potential magnitude, low certainty/long timing must score NOISE yet stay filed for auto re-rating on new evidence.
+- [2026-10-25] [det003a] COUNTER-SIGNAL: ASML paused 450mm lithography development in 2013 (Instagram/fab-analysis, Sep 2026) — reinforces the low-certainty rating; a foundry commitment (not tool R&D) is the gate. Score unchanged (20 NOISE). https://www.instagram.com/reel/Dd4oywyCUwl/ (VERIFIED)
 
 ## Last Updated (2026-10-25)
