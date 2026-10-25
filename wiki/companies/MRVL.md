@@ -4,7 +4,8 @@
 - **Total Signal Briefs**: 9
 - **Signal Hit Rate**: 78%
 - **Primary Category**: semiconductors
-## Catalyst Log
+## Catalyst Log- [2026-10-23] Lam Research posts first-ever 40% operating margin but sold off as CEO warns supply constraints could limit chip output  | semiconductors (ambiguous medium) [`642412AF`]
+
 - **2026-10-06T22:00:00Z**: [Klarna Cuts Guidance and Loses Two Longtime Executives | Fintech News](https://fintechnews.one/article/klarna-cuts-guidance-and-loses-two-longtime-executives|Impact:positive|Level:medium)
 - **2026-10-06T22:00:00Z**: [Marvell Falls as Recent Downgrade and Chip-Sector Weakness Weigh on Shares | MRV](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWFnZnJvT3J1Sl9NQTBkTXA2ckp6c3puQ0dfNjJXS0dHc3ZZNVlFTmVIMVlQUkdEY2NvTVFVQmhGZGVVNXV4MXIxZWFUU1laTjlTNURSN3VSM1NMd1ZiU3U5a2ZmcG5jdW56amR0Q2x6dWpjREtVMkR0UmgyMTc1ZmVYc0Q1eHFTTnpzV2lxUU5wSmctaEJId3NqNXA5ZVVlTDRHQnYxMXpPQms?oc=5|Impact:negative|Level:low)
 - **2026-10-06T22:00:00Z**: [Marvell’s CEO Says the Company Didn’t Lose Any Orders. Why Was Wall Street So Wo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZDlPYXRmdm55RjRKSUZ1eF8zNVBqc1p5U3QzVGRjMjRieENlMHQwR2lZSWxzRUdGc2t0ZHZoNFh3WDRUQmY3UzFUa3dPcVg4QXNCSHI2Yk9sX1MtdHlOclhqU0toT2dEZjk3TllLX3BZU2c3c05iSEhsd3U5WDdBNEItakNKNjNCbUdSMzFBVkIwaTlKMzJDLTdVRkVmZEQ3QklseVdEM3Y2WDRPNkRGb3Bibl9uTXQ1SW13My04Ulc2SEhUQUhOMlh2ODFBR0NpTVlYakNhUmJKN0xWa3dzZnY4a3pMNzZkTGctaEx2YWVJVEdZVXk4UU02MA?oc=5|Impact:negative|Level:low)
@@ -45,7 +46,8 @@ negative_intelligence
 Generated: 2026-10-14T08:02:38Z
 - [2026-10-14] Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.org | semiconductors (neutral low indirect/low)
 | 2026-10-15 | Marvell Falls as Recent Downgrade and Chip-Sector Weakness Weigh on Shares | MRV | negative | high | indirect | negative_intelligence | semiconductors | affected |
-## Catalyst Log
+## Catalyst Log- [2026-10-24] Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.org | semiconductors (ambiguous medium) [`57830C09`]
+
 [2026-10-15T08:42:10Z] Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.org
   Source: negative_intelligence | Impact: neutral (low) | Conf: low
   Summary: Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.org (headline-only signal; source body unavailable). Impact classified neutral/low on keyword evidence from headline alone. Ticker coverage: MRVL. Category: semiconductors. Confidence is capped at low due to missing article text.

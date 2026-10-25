@@ -1,19 +1,19 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 201
-- **Unique Tickers**: 85
-- **Categories**: {'quantum': 32, 'edge_robotics': 24, 'ai_infrastructure': 30, 'semiconductors': 67, 'materials_science': 7, 'energy': 20}
+- **Briefs Processed**: 217
+- **Unique Tickers**: 93
+- **Categories**: {'quantum': 33, 'edge_robotics': 32, 'ai_infrastructure': 32, 'semiconductors': 71, 'materials_science': 7, 'energy': 21}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 56 |
+| negative_intelligence | 61 |
 | quantum_research | 32 |
-| conference_deep_dive | 29 |
-| macro_government | 22 |
-| edge_robotics | 21 |
-| patent_supply_chain | 20 |
+| conference_deep_dive | 31 |
+| edge_robotics | 26 |
+| macro_government | 24 |
+| patent_supply_chain | 22 |
 
 ## Active Research List
 
@@ -28,12 +28,13 @@
 | TSM | 7 | semiconductors | negative medium,positive high,positive medium |
 | AVGO | 6 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
 | NXPI | 6 | ai_infrastructure,semiconductors | negative high,negative medium |
+| DRS | 5 | edge_robotics | positive high,positive medium |
 | IONQ | 5 | quantum | positive high,positive low,positive medium |
 | QBTS | 5 | quantum | positive high,positive medium |
 | RTX | 5 | edge_robotics | ambiguous low,positive high |
 | ARM | 4 | ai_infrastructure,edge_robotics | positive high,positive medium |
 | ASML | 4 | semiconductors | negative high,negative medium,positive high |
-| DRS | 4 | edge_robotics | positive high |
+| AVAV | 4 | edge_robotics,quantum | positive high,positive medium |
 | SMR | 4 | energy | positive high,positive low,positive medium |
 | SMTC | 4 | semiconductors | negative high,negative low,positive medium |
 | AEP | 3 | energy | positive high,positive low,positive medium |
@@ -41,8 +42,8 @@
 | AV | 3 | edge_robotics | positive high,positive medium |
 | GFS | 3 | semiconductors | negative high,positive high |
 | HPE | 3 | ai_infrastructure,semiconductors | negative high,negative medium,neutral medium |
+| MRVL | 3 | semiconductors | ambiguous medium,negative high |
 | AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
-| AVAV | 2 | edge_robotics,quantum | positive high,positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
 | HON | 2 | energy,quantum | positive high,positive medium |
@@ -52,6 +53,7 @@
 | MSFT | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
 | NBIS | 2 | ai_infrastructure | negative high,negative medium |
 | PNR | 2 | ai_infrastructure | negative high |
+| QUBT | 2 | quantum | ambiguous low,ambiguous medium |
 | TSLA | 2 | semiconductors | negative medium,positive medium |
 | AAPL | 1 | semiconductors | negative high |
 | AEM | 1 | semiconductors | positive low |
@@ -60,6 +62,7 @@
 | AMAT | 1 | semiconductors | positive high |
 | AMZN | 1 | ai_infrastructure | negative medium |
 | ATMS | 1 | semiconductors | positive high |
+| BURU | 1 | edge_robotics | positive medium |
 | CEG | 1 | energy | positive medium |
 | CMST | 1 | ai_infrastructure | positive medium |
 | CRWV | 1 | ai_infrastructure | negative high |
@@ -67,7 +70,9 @@
 | DELL | 1 | ai_infrastructure | negative high |
 | DOW | 1 | energy | ambiguous low |
 | EC | 1 | edge_robotics | neutral low |
+| EQIX | 1 | ai_infrastructure | positive medium |
 | FLEX | 1 | ai_infrastructure | positive medium |
+| FPS | 1 | ai_infrastructure | negative high |
 | GD | 1 | edge_robotics | ambiguous low |
 | GEHC | 1 | ai_infrastructure | negative high |
 | GF | 1 | semiconductors | positive medium |
@@ -81,7 +86,6 @@
 | LHX | 1 | edge_robotics | positive high |
 | LITE | 1 | ai_infrastructure | ambiguous low |
 | MCHP | 1 | semiconductors | positive low |
-| MRVL | 1 | semiconductors | negative high |
 | MVIS | 1 | semiconductors | positive medium |
 | NAVI | 1 | semiconductors | positive medium |
 | NOC | 1 | edge_robotics | ambiguous low |
@@ -90,16 +94,20 @@
 | OKLO | 1 | energy | positive medium |
 | ON | 1 | materials_science | positive medium |
 | ORCL | 1 | ai_infrastructure | negative high |
+| PALX | 1 | semiconductors | positive high |
 | PEAK | 1 | semiconductors | negative medium |
 | QCOM | 1 | semiconductors | positive medium |
-| QUBT | 1 | quantum | ambiguous medium |
 | SEM | 1 | semiconductors | neutral low |
+| SERV | 1 | edge_robotics | negative high |
+| SKYQ | 1 | quantum | ambiguous low |
 | SMCI | 1 | ai_infrastructure | neutral medium |
 | SVCO | 1 | semiconductors | positive medium |
+| TDI | 1 | edge_robotics | positive medium |
 | TLN | 1 | semiconductors | negative medium |
 | TSEM | 1 | semiconductors | neutral low |
 | TT | 1 | ai_infrastructure | ambiguous low |
 | TTMI | 1 | semiconductors | positive medium |
+| TVC | 1 | energy | positive high |
 | WOLF | 1 | semiconductors | positive high |
 | XE | 1 | energy | positive high |
 | XMAX | 1 | semiconductors | positive high |
@@ -289,3 +297,19 @@
 | 2026-10-22 | Atomera Has Signed a Joint Development Agreement With IQE to Bring Hig | ATMS | positive high | direct | semiconductors | high | `177BF77F` |
 | 2026-10-22 | NVIDIA Expands AI Supply Chain With Six Partners Including Ibiden, Tar | AMKR | positive medium | indirect | ai_infrastructure | medium | `FA2BE72B` |
 | 2026-10-23 | Nvidia Lines Up Six Suppliers To Expand AI Chip Capacity Through 2028 | AMKR | positive medium | direct | semiconductors | medium | `8036796B` |
+| 2026-10-23 | Global semiconductor stocks tumbled as Chinese chipmaker CXMT's report |  | negative medium | direct | semiconductors | low | `733A76EB` |
+| 2026-10-23 | Echodyne awarded $250 million JIATF-401 counter-UAS contract (IDIQ) |  | positive high | direct | edge_robotics | medium | `BA946C27` |
+| 2026-10-23 | Marine Corps awarded Epirus an $11 million contract for HAVOC, autonom |  | positive medium | direct | edge_robotics | medium | `7A7D7947` |
+| 2026-10-23 | AeroVironment to supply counter-UAS systems for JIATF-401 Domestic Shi | AVAV | positive high | direct | edge_robotics | high | `BC59D08F` |
+| 2026-10-23 | Lam Research posts first-ever 40% operating margin but sold off as CEO | MRVL | ambiguous medium | direct | semiconductors | medium | `642412AF` |
+| 2026-10-23 | Teledyne FLIR Defense Launches Ranger R10-3DX Compact Mid-Range Counte | TDI | positive medium | direct | edge_robotics | high | `1B27A10C` |
+| 2026-10-23 | Leonardo DRS awarded U.S. Army C5ISR contract to advance high-definiti | DRS | positive medium | direct | edge_robotics | medium | `D90A7865` |
+| 2026-10-23 | NUBURU completes Tekne acquisition, adding $93m defense & dual-use pro | BURU | positive medium | direct | edge_robotics | medium | `53DF98A6` |
+| 2026-10-24 | Forgent Power Solutions CFO Departure Triggers 21.3% Stock Plunge | FPS | negative high | direct | ai_infrastructure | medium | `D14862E7` |
+| 2026-10-24 | Serve Robotics (SERV): Q2 2026 sharp revenue guidance cut to $9-$10 mi | SERV | negative high | direct | edge_robotics | medium | `2814402A` |
+| 2026-10-24 | Palomino Laboratories receives first commercial purchase order from hy | PALX | positive high | direct | semiconductors | high | `2F7E2F9B` |
+| 2026-10-24 | AeroVironment (AVAV) awarded three-year AI-Powered Multi-Threat C-UAS  | AVAV | positive high | direct | edge_robotics | high | `CE94D9ED` |
+| 2026-10-24 | NRC Approves Construction of Nation's First Small Modular Reactor (TVA | TVC | positive high | speculative | energy | high | `DED0AE4E` |
+| 2026-10-24 | Marvell analysts split on stock ahead of Q2 earnings Aug 27 - eciks.or | MRVL | ambiguous medium | direct | semiconductors | low | `57830C09` |
+| 2026-10-24 | Equinix launches liquid cooling centers for AI infrastructure testing | EQIX | positive medium | direct | ai_infrastructure | medium | `25971995` |
+| 2026-10-24 | D-Wave Quantum: Tax Withholdings, a Minnesota Foundry and Why a Sector | QUBT,SKYQ | ambiguous low | direct | quantum | medium | `16EE4ACB` |

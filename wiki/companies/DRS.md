@@ -65,3 +65,6 @@
 - Brief 8BA399FB | edge_robotics | confidence high | materiality direct
 - Leonardo DRS awarded $500M ceiling JIATF-401 IDIQ contract to accelerate delivery of tactical expeditionary sensing for counter-UAS mission
 - Source: https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-jiatf-401-idiq-contract-to-acce
+
+## Catalyst Log
+- [2026-10-23] Leonardo DRS awarded U.S. Army C5ISR contract to advance high-definition uncooled thermal cores | edge_robotics (positive medium) [`D90A7865`]

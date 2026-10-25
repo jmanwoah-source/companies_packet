@@ -31,3 +31,6 @@ conference_deep_dive
 
 ## Generated
 Generated: 2026-10-11T05:00:50Z
+
+## Catalyst Log
+- [2026-10-24] Forgent Power Solutions CFO Departure Triggers 21.3% Stock Plunge | ai_infrastructure (negative high) [`D14862E7`]

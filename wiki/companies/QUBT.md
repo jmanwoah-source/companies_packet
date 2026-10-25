@@ -32,5 +32,6 @@
 - Review QUBT for market cap, volume, and technical setup
 - Cross-reference with AWK, CDNS, ES for sector correlation
 
-## Catalyst Log
+## Catalyst Log- [2026-10-24] D-Wave Quantum: Tax Withholdings, a Minnesota Foundry and Why a Sector Selloff Isn't a Company Story | quantum (ambiguous low) [`16EE4ACB`]
+
 - [2026-10-20] Quantinuum Breaks Error-Correction World Record by 10x on Helios/Helix (10 physical qubits per logical qubit) | quantum (ambiguous medium) [`9A1F147B`]

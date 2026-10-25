@@ -1,41 +1,30 @@
 # Mirage Short List — Track C: Structural Breakdown
 
-**Generated:** 2026-10-22 23:13 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-24 22:25 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-conviction overbought naked-PUT targets (Rubber Band Man).
 
-**Tickers listed:** 7
+**Tickers listed:** 5
 
-## 1. CEG — 
-- **Score:** 35.0/100  ·  **Market cap:** $87.9B  ·  **Entered:** 2026-10-19 08:59  ·  **Updated:** 2026-10-22 10:54
-- **Engine data:** track_c_100=40
-- severity 40/100 (engine), hype 25/30: positive news pileup, zero wins, margins collapsing
+## 1. QUBT — QUBT
+- **Score:** 35.0/100  ·  **Market cap:** $2.2B  ·  **Entered:** 2026-10-24 14:59  ·  **Updated:** 2026-10-24 14:59
+- Quantinuum error-correction record, spec-only
 
-## 2. QUBT — 
-- **Score:** 35.0/100  ·  **Market cap:** $2.2B  ·  **Entered:** 2026-10-22 02:31  ·  **Updated:** 2026-10-22 10:54
-- **Engine data:** track_c_100=40
-- severity 40/100 (engine), hype 25/30: quantum news pileup with zero own wins, negative GM, +59% dilution
-
-## 3. MVIS — 
-- **Score:** 35.0/100  ·  **Market cap:** $109M  ·  **Entered:** 2026-10-22 02:31  ·  **Updated:** 2026-10-22 10:54
-- **Engine data:** track_c_100=40
-- severity 40/100 (engine), hype 25/30: positive print without wins, runway 2q, -31% dilution
-
-## 4. TLN — 
-- **Score:** 30.0/100  ·  **Market cap:** $17.6B  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-20 16:00
-- severity 50/100 engine
-- hype penalty 20/30
-
-## 5. SVCO — 
-- **Score:** 15.0/100  ·  **Market cap:** $455M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-22 23:13
+## 2. SVCO — 
+- **Score:** 30.0/100  ·  **Market cap:** $455M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-24 22:25
 - **Engine data:** track_c_100=70
-- mild: partnership real but single brief + dilution kill
+- runway <2q; dilution rising; OCF negative
 
-## 6. ATMS — 
-- **Score:** 5.0/100  ·  **Market cap:** $55.8B  ·  **Entered:** 2026-10-22 18:40  ·  **Updated:** 2026-10-22 23:13
+## 3. ATMS — 
+- **Score:** 30.0/100  ·  **Market cap:** $55.8B  ·  **Entered:** 2026-10-24 05:49  ·  **Updated:** 2026-10-24 22:25
 - **Engine data:** track_c_100=70
-- story without substance: single JDA brief, no revenue, kill flag
+- shares +214k pct YoY, runway <1q, C-UAS JDA unproven
 
-## 7. XMAX — 
-- **Score:** 0.0/100  ·  **Market cap:** $555M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-22 23:13
+## 4. SKYQ — SKYQ
+- **Score:** 30.0/100  ·  **Market cap:** $19M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-24 22:25
+- **Engine data:** track_c_100=70
+- runway ~0, cash $35k, rev -46 pct, D/E 3.12
+
+## 5. XMAX — 
+- **Score:** 10.0/100  ·  **Market cap:** $555M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-24 22:25
 - **Engine data:** track_c_100=90
-- story-vs-substance: single acquisition headline, share base 3.4x, dilution kill
+- shares +344 pct YoY; runway 1.8q; sev 90
