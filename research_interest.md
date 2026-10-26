@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 224
+- **Briefs Processed**: 225
 - **Unique Tickers**: 96
-- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 32, 'semiconductors': 73, 'materials_science': 8, 'energy': 23}
+- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 32, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -13,7 +13,7 @@
 | conference_deep_dive | 32 |
 | edge_robotics | 27 |
 | macro_government | 26 |
-| patent_supply_chain | 23 |
+| patent_supply_chain | 24 |
 
 ## Active Research List
 
@@ -47,6 +47,7 @@
 | AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
+| GF | 2 | semiconductors | positive medium |
 | HON | 2 | energy,quantum | positive high,positive medium |
 | LITE | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
 | LMT | 2 | edge_robotics,quantum | ambiguous low,positive medium |
@@ -78,7 +79,6 @@
 | FPS | 1 | ai_infrastructure | negative high |
 | GD | 1 | edge_robotics | ambiguous low |
 | GEHC | 1 | ai_infrastructure | negative high |
-| GF | 1 | semiconductors | positive medium |
 | GRF | 1 | semiconductors | positive medium |
 | HUM | 1 | ai_infrastructure | negative medium |
 | ICLR | 1 | semiconductors | positive medium |
@@ -323,3 +323,4 @@
 | 2026-10-25 | Atomera and IQE to jointly develop RF GaN-on-silicon | ATOM | positive medium | direct | materials_science | medium | `CAE15DFA` |
 | 2026-10-25 | Leonardo DRS Awarded JIATF-401 IDIQ Contract to Accelerate Delivery of | DRS | positive high | direct | edge_robotics | high | `DCDC4937` |
 | 2026-10-25 | TVA awarded $400M DOE grant to develop nation's first SMR at Clinch Ri | BWX | positive high | indirect | energy | high | `38B9D7A8` |
+| 2026-10-26 | GlobalFoundries Acquires Tagore's GaN IP - TechInsights | GF | positive medium | direct | semiconductors | medium | `E0DD65AC` |

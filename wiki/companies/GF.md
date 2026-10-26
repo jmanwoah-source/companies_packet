@@ -1,6 +1,7 @@
 # GF
 
 ## Catalyst Log
+- [2026-10-26] GlobalFoundries Acquires Tagore's GaN IP - TechInsights | semiconductors (positive medium) [`E0DD65AC`]
 
 - [2026-10-17] GlobalFoundries received additional $9.5M US federal funding for GaN-on-Silicon manufacturing at its Vermont facility | semiconductors (positive medium) [`210B2572`]
 

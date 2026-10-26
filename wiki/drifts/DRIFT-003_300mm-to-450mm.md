@@ -92,6 +92,8 @@ auto-re-rates certainty (2→6-8) and lifts Composite into EMERGING/HIGH.
 - Check whether 450mm is HBM/advanced-packaging-specific or a general foundry-scale shift (changes the layer + losers).
 
 ## Dated Evidence Notes
+
+- [2026-10-25] [audit-note] US-public 450mm loser edge is THIN: the 300mm Si-wafer makers (SUMCO, Shin-Etsu) are PRIVATE — the liquid displacement value sits in the private substrate layer, so TER/AXTI (US-listed, ~12-18 sub_downside, rumored) are the thin US-public proxy, not the full exposure. Confirmed via audit of FMP segment data.
 - [2026-10-25] [seed003a] Seeded as the schema stress test: big potential magnitude, low certainty/long timing must score NOISE yet stay filed for auto re-rating on new evidence.
 - [2026-10-25] [det003a] COUNTER-SIGNAL: ASML paused 450mm lithography development in 2013 (Instagram/fab-analysis, Sep 2026) — reinforces the low-certainty rating; a foundry commitment (not tool R&D) is the gate. Score unchanged (20 NOISE). https://www.instagram.com/reel/Dd4oywyCUwl/ (VERIFIED)
 

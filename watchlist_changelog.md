@@ -1,3 +1,10 @@
+
+## Watchlist — 2026-10-25
+- ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
+- Rechecked: 41 (batched quote calls: 1 via engine deepdive briefing)
+- Promotions: QBTS (best 75 >= 75 ACTIVE bar, 22 briefs corroborating)
+- Demotions: none (all ACTIVE names carried 14-day signal; best_track < 75 names held at WATCH/ACTIVE without 2-of-3 demotion triggers)
+- Next bi-weekly due: 2026-11-07
 ## Watchlist — ## Watchlist — 2026-10-25 18:31 UTC
 - ACTIVE: 16 · WATCH: 41 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 42 (batched quote calls: 0 — full-depth engine fetch covers due names)
