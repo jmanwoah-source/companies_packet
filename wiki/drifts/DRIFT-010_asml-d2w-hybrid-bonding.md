@@ -118,5 +118,4 @@ _Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmenta
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: ASML-only named edge: BESI (the displaced D2W-bonding incumbent) is Amsterdam-listed, not US — no clean US-listed loser; stated additive for the tracked universe. ASML >ceiling ($606B mcap FY2026-10); the quant edge on this drift is the >ceiling-flagged anchor, filtered per convention. ASML FY2025 FMP product segments have no back-end/bonding line yet (NXE, ArF immersion, ArF dry, KrF, I-line, EXE, Metrology & Inspection, Net service) — engine matches on sector.
 
-
 ## Last Updated (2026-10-26)

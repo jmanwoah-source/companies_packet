@@ -158,3 +158,12 @@
   single-branch `continue` made the decay branch unreachable). Unit-tested: hold on same /
   decay+requeue on rise / hold on drop. DRIFT-002 state reconciled to committed truth
   (saturated, zero_streak 3, last_composite 600); live re-run confirms the breaker holds.
+
+## 2026-10-26 09:16 — drift-scan run (e9711f5abb15)
+- Health: ALL_GOOD; drift_scan 13 queries -> 6 fresh candidates, 0 cascade queries (no eligible drifts this cycle).
+- **0 drifts filed (6 candidates reviewed, 6 rejected):** purewafer.com + foundrywatch.com = vendor/marketing homepages, no substitution event; siliconanalysts.com wafer-pricing = trend/thinkpiece (EUV cost curve, no new process swap or commitment); freedom251.com = High-NA explainer article, no new event (already covered by DRIFT-004); marketontology.com 2026-09-11 "Intel qualified High-NA EUV for 18A + Panther Lake, ASML-Samsung expansion" = EXISTING drift DRIFT-004 (not a new event) -> **status transitioned emerging -> scaling** per file rule (gate-fire observed), M/T/C held 6/4/6 (144 EMERGING), evidence note [det004b] added (UNVERIFIED aggregator source); linkedin Japan FY2027 HNA etch strategy = thinkpiece.
+- **CASCADE:** no eligible drifts this cycle (queue empty) -> no new next-layer tickers surfaced.
+- **Cascade gate (Trigger v2) after re-rate:** DRIFT-004 now ELIGIBLE (gate-fire emerging->scaling, 4 authored next-layer queries) — will execute in the NEXT cycle's drift_scan (Leg B).
+- Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); no fetch_errors; [STALE] flags on 002/007/008/009 rows unchanged (MPWR FY2023, etc. — last-known measurements).
+- Track D: 23 dossiers touched; INDEX regenerated; DRIFT-004 status column now `scaling`.
+- cascade_state: DRIFT-004 seeded {scaling, zero_streak 0, last_composite 144}; DRIFT-002 remains SATURATED (streak 3) — breaker holding.

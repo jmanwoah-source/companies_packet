@@ -10,6 +10,7 @@
 ---
 
 ## Catalyst Log
+- [2026-10-26] Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers | ai_infrastructure (positive medium) [`E5E3E659`]
 
 [2026-10-13T22:05:19Z] Strait of Hormuz Blockade Disrupts Global Photoresist Supply for Advanced Semiconductor Nodes
   Source: negative_intelligence | Impact: negative (high)

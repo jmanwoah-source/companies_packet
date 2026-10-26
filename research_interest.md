@@ -1,16 +1,16 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 225
-- **Unique Tickers**: 96
-- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 32, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
+- **Briefs Processed**: 226
+- **Unique Tickers**: 97
+- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 33, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
 | negative_intelligence | 63 |
+| conference_deep_dive | 33 |
 | quantum_research | 32 |
-| conference_deep_dive | 32 |
 | edge_robotics | 27 |
 | macro_government | 26 |
 | patent_supply_chain | 24 |
@@ -67,6 +67,7 @@
 | ATOM | 1 | materials_science | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
 | BWX | 1 | energy | positive high |
+| CARR | 1 | ai_infrastructure | positive medium |
 | CEG | 1 | energy | positive medium |
 | CMST | 1 | ai_infrastructure | positive medium |
 | CRWV | 1 | ai_infrastructure | negative high |
@@ -324,3 +325,4 @@
 | 2026-10-25 | Leonardo DRS Awarded JIATF-401 IDIQ Contract to Accelerate Delivery of | DRS | positive high | direct | edge_robotics | high | `DCDC4937` |
 | 2026-10-25 | TVA awarded $400M DOE grant to develop nation's first SMR at Clinch Ri | BWX | positive high | indirect | energy | high | `38B9D7A8` |
 | 2026-10-26 | GlobalFoundries Acquires Tagore's GaN IP - TechInsights | GF | positive medium | direct | semiconductors | medium | `E0DD65AC` |
+| 2026-10-26 | Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Dat | CARR | positive medium | direct | ai_infrastructure | medium | `E5E3E659` |

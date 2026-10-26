@@ -34,7 +34,7 @@
 Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 → composite 216 → HIGH (auto re-rate).
 
 ## Status
-- **emerging** (research-line shipments; no HVM commitment). Moves to `scaling` on a foundry HVM commitment.
+- **scaling** (foundry commitment observed: Intel qualified High-NA EUV for 18A manufacturing layers + Panther Lake production; Samsung 18A/DRAM partnership expansion — re-rate dated 2026-10-26, note below).
 
 ## Winner Edges
 | Ticker | cap-band | Company | Why advantaged | Moat | Evidence (dated, linked) |
@@ -75,6 +75,7 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 ## Dated Evidence Notes
 - [2026-10-25] [seed004a] Filed from semiconductors pillar validation (salvaged sub-agent evidence).
 - [2026-10-25] [det004a] Intel has exposed >1M wafers using High-NA systems and plans continued volume (ASML record $13B qtr, Tom's Hardware, 2026-10-15) — strengthens the tool-level demonstrated status; volume-HVM commitment still pending. Certainty held at 6 (score unchanged 144 EMERGING; re-rate on a foundry HVM commit). https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-ex (VERIFIED)
+- [2026-10-26] [det004b] GATE-FIRE OBSERVED: Market Ontology catalyst (evidence through 2026-09-11, rev 1 2026-10-25) — "ASML expanded High-NA EUV deployment partnerships with Intel and Samsung. Intel qualified High-NA EUV for 18A manufacturing layers and Panther Lake production." (underlying source: ASML expands High-NA ties with Samsung and Intel, 2026-09-10). Status transitioned emerging → scaling per file rule ("Moves to scaling on a foundry HVM commitment"). M/T/C held at 6/4/6 (composite 144 EMERGING) — foundry commitment noted, demonstrated production volume not yet evidenced; certainty re-rate (6→9) deferred until 18A HVM volume is observed. https://marketontology.com/catalysts/2026-09-11/asml-expands-high-na-euv-ties-as-intel-moves-tech-to-panther-lake-and-18a-layers-992f35 (UNVERIFIED — single aggregator source; primary ASML/Intel statement not yet located)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
