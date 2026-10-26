@@ -1,0 +1,47 @@
+{
+  "drift_id": "DRIFT-002",
+  "slug": "DRIFT-002_gan-led-to-power",
+  "m": 6,
+  "t": 10,
+  "c": 10,
+  "certainty_grade": "demonstrated",
+  "timing_years": 0.5,
+  "displacement_sub_class": "cutoff",
+  "mcap_at_stake_b": null,
+  "note": "Reference anchor (Cree LED divestiture 2021). ON PSG = power-semiconductor segment (cleanest GaN-power exposure measurable in the tracked set). SMART: FMP profile returns null (delisted/illiquid) -> stale row, hand estimate from the drift file stands.",
+  "tickers": {
+    "WOLF": {
+      "role": "winner",
+      "keywords": [
+        "Power Products"
+      ]
+    },
+    "SWKS": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductors"
+      ]
+    },
+    "ON": {
+      "role": "winner",
+      "keywords": [
+        "PSG"
+      ]
+    },
+    "NVTS": {
+      "role": "winner",
+      "keywords": [
+        "Reportable"
+      ]
+    },
+    "SMART": {
+      "role": "loser",
+      "keywords": [
+        "GaN",
+        "LED",
+        "Lighting",
+        "e-LED"
+      ]
+    }
+  }
+}

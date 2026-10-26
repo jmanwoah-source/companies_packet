@@ -8,13 +8,13 @@ notes below the table are maintained by the curator.
 |----|------|--------|-------|------|--------|---------------|--------------|
 | DRIFT-001 | DRIFT-001_gaa-node-transition.md | semiconductors | 432 | HIGH | scaling | AMAT, LRCX, KLAC, ASML | — |
 | DRIFT-002 | DRIFT-002_gan-led-to-power.md | semiconductors | 600 | CRITICAL | deployed | WOLF, SWKS, ON, NVTS | SMART |
-| DRIFT-003 | DRIFT-003_300mm-to-450mm.md | semiconductors | 20 | NOISE | emerging | — | — |
+| DRIFT-003 | DRIFT-003_300mm-to-450mm.md | semiconductors | 20 | NOISE | emerging | — | AXTI |
 | DRIFT-004 | DRIFT-004_high-na-euv.md | semiconductors | 144 | EMERGING | emerging | ASML, KLAC | — |
-| DRIFT-005 | DRIFT-005_liquid-cooling-default.md | ai-infrastructure | 336 | HIGH | scaling | VRT, SMCI | — |
+| DRIFT-005 | DRIFT-005_liquid-cooling-default.md | ai-infrastructure | 336 | HIGH | scaling | VRT, SMCI | ETN |
 | DRIFT-006 | DRIFT-006_smr-datacenter-power.md | advanced-energy | 105 | EMERGING | emerging | OKLO, CEG, NUS | — |
 | DRIFT-007 | DRIFT-007_autonomous-cuas.md | physical-ai | 180 | EMERGING | emerging | AVAV, RCAT, DRS | — |
-| DRIFT-008 | DRIFT-008_copper-to-cpo.md | ai-infrastructure | 294 | HIGH | scaling | AVGO, MRVL, COHR, IIVI | — |
-| DRIFT-009 | DRIFT-009_800v-dc-rack-power.md | ai-infrastructure | 180 | EMERGING | emerging | MCHP, NVTS | — |
+| DRIFT-008 | DRIFT-008_copper-to-cpo.md | ai-infrastructure | 294 | HIGH | scaling | AVGO, MRVL, COHR, IIVI | MPWR |
+| DRIFT-009 | DRIFT-009_800v-dc-rack-power.md | ai-infrastructure | 180 | EMERGING | emerging | MCHP, NVTS | MPWR |
 
 
 ## Status

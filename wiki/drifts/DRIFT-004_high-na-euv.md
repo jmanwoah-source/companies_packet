@@ -76,4 +76,20 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 - [2026-10-25] [seed004a] Filed from semiconductors pillar validation (salvaged sub-agent evidence).
 - [2026-10-25] [det004a] Intel has exposed >1M wafers using High-NA systems and plans continued volume (ASML record $13B qtr, Tom's Hardware, 2026-10-15) — strengthens the tool-level demonstrated status; volume-HVM commitment still pending. Certainty held at 6 (score unchanged 144 EMERGING; re-rate on a foundry HVM commit). https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-ex (VERIFIED)
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| ASML | winner | 0.0% (FY2025) | 605.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| KLAC | winner | 0.0% (FY2026) | 190.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+
+**Composite (M x T x C): 6 x 4 x 6 = **144** -> tier **EMERGING**
+  - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: pilot
+  - timing_years: 3 | displacement_sub_class: content-per-unit
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: Additive at tool layer; loser path contingent on the Intel low-NA hedge. Whole-company proxy for ASML/KLAC (coarse segments).
+
 ## Last Updated (2026-10-25)

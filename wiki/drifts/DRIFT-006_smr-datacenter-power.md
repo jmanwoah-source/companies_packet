@@ -82,4 +82,21 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-10-25] [det006a] NRC rule change allows applicants to leverage data/analyses from reactor demonstration projects into licensing (Reuters, 2026-10) + NRC review of NuScale US460 Standard Design Approval application completed review activities (NRC.gov) — both accelerate the licensing-gate clock; timing-gate still not fired (no SDA yet). Certainty held at 5 (score unchanged 105 EMERGING; re-rate on SDA grant). https://www.reuters.com/legal/litigation/us-nuclear-power-regulator-allows-applicants-include-data-a (VERIFIED) · https://www.nrc.gov/facilities-safety/new-reactors/advanced-reactors/who-were-working-with/past-lice (VERIFIED)
 - [2026-10-25] [det006b] Two more licensing/demand datapoints (gate not fired, score unchanged): (1) NRC updated+renewed Westinghouse AP1000 design certification through 2066, incorporating Vogtle 3&4 lessons (NRC 2026-10; Westinghouse = private under Brookfield — no new US-listed winner edge). https://www.nrc.gov/about-nrc/news-releases/2026/26-080 (VERIFIED) (2) Google signed a 20-yr $4.3B deal with Constellation to uprate 11 existing reactors (2026-10) — CEG cash-flow winner edge reinforced; this is uprates on existing PWRs, not an SDA-gate event. https://neutronbytes.com/2026-10-09/googles-20-year-4-3-billion-deal-with-constellation-to-uprate-11-reactors/ (UNVERIFIED — aggregator, cross-check with CEG IR).
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| CEG | winner | 0.0% (FY2025) | 89.8 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| NUS | winner | 0.0% (FY2025) | 0.2 | - (upside) | Consumer Defensive -> n/a (non-core sector — ticker likely wrong mapping) | - |
+| OKLO | winner | n/a (no matching segment data) | 4.9 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+
+**Composite (M x T x C): 7 x 3 x 5 = **105** -> tier **EMERGING**
+  - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed
+  - timing_years: 4 | displacement_sub_class: cutoff
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: timing-gate: NRC SDA. DATA-QUALITY: FMP profile-symbol('NUS') resolves to Nu Skin (cosmetics) — NuScale's 10-Q segment data is missing in FMP -> stale row. CEG Nuclear segment is the clean win line.
+
 ## Last Updated (2026-10-25)

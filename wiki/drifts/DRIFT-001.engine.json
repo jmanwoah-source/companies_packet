@@ -1,0 +1,38 @@
+{
+  "drift_id": "DRIFT-001",
+  "slug": "DRIFT-001_gaa-node-transition",
+  "m": 6,
+  "t": 8,
+  "c": 9,
+  "certainty_grade": "demonstrated",
+  "timing_years": 1.5,
+  "displacement_sub_class": "content-per-unit",
+  "mcap_at_stake_b": null,
+  "note": "FMP product segments are coarse for WFE (ASML/KLAC/LRCX report single 'Semiconductors'/'Systems' lines) -> exposure% there = whole-company proxy, not a keyword split. AMAT is the measurable one (Semiconductor Systems = 73.3%).",
+  "tickers": {
+    "AMAT": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductor Systems"
+      ]
+    },
+    "LRCX": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductor Products"
+      ]
+    },
+    "KLAC": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductors"
+      ]
+    },
+    "ASML": {
+      "role": "winner",
+      "keywords": [
+        "Systems"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "drift_id": "DRIFT-008",
+  "slug": "DRIFT-008_copper-to-cpo",
+  "m": 7,
+  "t": 6,
+  "c": 7,
+  "certainty_grade": "demonstrated",
+  "timing_years": 2,
+  "displacement_sub_class": "cutoff",
+  "mcap_at_stake_b": null,
+  "note": "Molex (named ELSFP incumbent) not in tracked universe. MPWR DC-To-DC = the silicon final-stage/interconnect power line displaced by CPO scale-out (US-listed proxy; ~10% of MPWR revenue -> engine sub_downside lands in low band, honest).",
+  "tickers": {
+    "AVGO": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductor Solutions"
+      ]
+    },
+    "MRVL": {
+      "role": "winner",
+      "keywords": [
+        "Data center"
+      ]
+    },
+    "COHR": {
+      "role": "winner",
+      "keywords": [
+        "Datacenter Communications"
+      ]
+    },
+    "IIVI": {
+      "role": "winner",
+      "keywords": [
+        "Datacenter Communications"
+      ]
+    },
+    "MPWR": {
+      "role": "loser",
+      "keywords": [
+        "DC To DC Products"
+      ]
+    }
+  }
+}

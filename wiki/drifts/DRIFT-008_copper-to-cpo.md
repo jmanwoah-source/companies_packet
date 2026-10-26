@@ -95,4 +95,23 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (≥448) on a named hyperscale
 ## Dated Evidence Notes
 - [2026-10-25] [seed008a] Filed by the Drift Detector judgment leg (candidate #22/23, DRIFT-008).
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| AVGO | winner | 57.7% (FY2025) | 1535.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| COHR | winner | 74.1% (FY2026) | 41.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| IIVI | winner | 74.1% (FY2026) | 30.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 56.0 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MRVL | winner | 74.4% (FY2026) | 200.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+
+**Composite (M x T x C): 7 x 6 x 7 = **294** -> tier **HIGH**
+  - Mcap at stake: $52.9B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - timing_years: 2 | displacement_sub_class: cutoff
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: Molex (named ELSFP incumbent) not in tracked universe. MPWR DC-To-DC = the silicon final-stage/interconnect power line displaced by CPO scale-out (US-listed proxy; ~10% of MPWR revenue -> engine sub_downside lands in low band, honest).
+
 ## Last Updated (2026-10-25)

@@ -97,4 +97,20 @@ auto-re-rates certainty (2→6-8) and lifts Composite into EMERGING/HIGH.
 - [2026-10-25] [seed003a] Seeded as the schema stress test: big potential magnitude, low certainty/long timing must score NOISE yet stay filed for auto re-rating on new evidence.
 - [2026-10-25] [det003a] COUNTER-SIGNAL: ASML paused 450mm lithography development in 2013 (Instagram/fab-analysis, Sep 2026) — reinforces the low-certainty rating; a foundry commitment (not tool R&D) is the gate. Score unchanged (20 NOISE). https://www.instagram.com/reel/Dd4oywyCUwl/ (VERIFIED)
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-003.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| AXTI | loser | 66.7% (FY2025) | 3.4 | 20.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Substrates |
+| TER | winner | 83.4% (FY2025) | 48.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Product |
+
+**Composite (M x T x C): 5 x 2 x 2 = **20** -> tier **NOISE**
+  - Mcap at stake: $2.3B (engine sum of loser exposure x mcap unless curated) | certainty_grade: rumored
+  - timing_years: 8 | displacement_sub_class: cutoff
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: Stress test. FMP measures the US-proxy reality: AXTI 'Substrates' = ~$0.05B -> the liquid 300mm-Si displacement value is PRIVATE (SUMCO/Shin-Etsu), confirming the audit note. TER 'Product' line = thin US proxy.
+
 ## Last Updated (2026-10-25)

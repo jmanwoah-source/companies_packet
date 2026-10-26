@@ -1,0 +1,26 @@
+{
+  "drift_id": "DRIFT-004",
+  "slug": "DRIFT-004_high-na-euv",
+  "m": 6,
+  "t": 4,
+  "c": 6,
+  "certainty_grade": "pilot",
+  "timing_years": 3,
+  "displacement_sub_class": "content-per-unit",
+  "mcap_at_stake_b": null,
+  "note": "Additive at tool layer; loser path contingent on the Intel low-NA hedge. Whole-company proxy for ASML/KLAC (coarse segments).",
+  "tickers": {
+    "ASML": {
+      "role": "winner",
+      "keywords": [
+        "Systems"
+      ]
+    },
+    "KLAC": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductors"
+      ]
+    }
+  }
+}

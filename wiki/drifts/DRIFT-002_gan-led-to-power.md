@@ -94,4 +94,23 @@ both edges intact.
 - [2026-10-25] [seed002a] Seeded as the reference anchor for a completed cross-domain transfer (LED→power GaN-on-Si).
 - [2026-10-25] [det002a] 8-inch GaN-on-Si next-layer entrant signal: Polar Semiconductor (PRIVATE, Bloomington MN) + IC-Link by imec announced 8-inch production of e-mode GaN devices via an imec GaN-on-Si process/device/epitaxy license transfer (2026-10-13). Directly answers the open question "any new 8-inch GaN-on-Si entrant?" — a non-US-privately-held foundry entering the 8-inch GaN-on-Si substrate/device layer. No new US-listed winner (Polar is private); WOLF/ON/NVTS exposure unchanged. Not a new drift (same substitution, existing winner/loser edges). https://www.businesswire.com/news/home/20261012027647/en/Polar-Collaborates-with-IC-Link-by-imec-to-Manufacture-8-inch-GaN-Technology/ (VERIFIED) · https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml (VERIFIED)
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| NVTS | winner | 0.0% (FY2024) [STALE] | 2.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ON | winner | 46.8% (FY2025) | 28.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
+| SMART | loser | n/a (no matching segment data) | ? | n/a | None -> ? (unmapped) | - |
+| SWKS | winner | n/a (no matching segment data) | 12.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| WOLF | winner | 100.0% (FY2025) | 1.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
+
+**Composite (M x T x C): 6 x 10 x 10 = **600** -> tier **CRITICAL**
+  - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - timing_years: 0.5 | displacement_sub_class: cutoff
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: Reference anchor (Cree LED divestiture 2021). ON PSG = power-semiconductor segment (cleanest GaN-power exposure measurable in the tracked set). SMART: FMP profile returns null (delisted/illiquid) -> stale row, hand estimate from the drift file stands.
+
 ## Last Updated (2026-10-25)

@@ -120,3 +120,23 @@
 - Cascade leg: DRIFT-002 zero_streak 2→3 → SATURATED (no next-layer tickers 3 consecutive cycles); cascade_state updated; 0 new tickers surfaced.
 - Cascade gate: 0 eligible next cycle (DRIFT-002 saturated).
 - Track D: 21 dossier backlinks regenerated; no new substitution_short_list rows.
+
+## 2026-10-26 (early) — drift engine v2: Gap 2 closed (engine owns scores + exposure)
+- Fork resolved: FMP MCP is **script-reachable** (Streamable HTTP, session-id header, inline JSON) — a
+  standalone .py can fetch FMP directly. New `~/.hermes/scripts/fmp_client.py` (stdlib-only client).
+- `drift_scoring.py` v2 = fully self-contained engine: sidecar config -> live FMP
+  (revenue-product-segmentation + profile-symbol) -> keyword exposure + composite M×T×C -> writes the
+  `## ENGINE SCORE` block into each drift .md (idempotent). LLM no longer writes ANY score/exposure %.
+- 9 `DRIFT-NNN.engine.json` sidecars authored (machine-readable inputs). Composites unchanged (432/600/
+  20/144/336/105/180/294/180) — the engine now OWNS them (single source; the hand table is fallback).
+- `drift_track_d.py` = ENGINE-FIRST: reads the ENGINE SCORE block as the authoritative Track D source
+  (exposure-source column added to substitution_short_list.md: engine vs hand). Fixed a pre-existing
+  `net_drift_position` bug (was summing detail strings -> always 0; now sums real sub_downside, e.g.
+  MPWR = -151.0). Engine-sourced loser rows now flow to the short list + dossier backlinks (MPWR, AXTI, ETN).
+- Item 4: `fmp_profiles.json` now persists FMP sector+industry+mcap for every engine ticker (25 tickers);
+  layer assignment is engine-driven (SECTOR_TO_LAYER).
+- Cron e9711f5abb15 prompt updated: STEP 4.0 runs the engine deterministically; LLM's only FMP-adjacent
+  duty = author the sidecar at filing (exact FMP segment keywords). FMP fetches removed from the LLM leg.
+- Backtest vs the 2025-10-28 NVIDIA 800V shock: `drift_backtest.py` -> `research/drift_backtest_800v.md`
+  (engine losers MPWR -11.8% realized = top-decliner in the set; sub-drawdown r=0.45, n=3).
+- Health gate ALL_GOOD; drift_scan + track_d re-run clean; cascade gate intact (DRIFT-002 saturated).

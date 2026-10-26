@@ -1,0 +1,33 @@
+{
+  "drift_id": "DRIFT-005",
+  "slug": "DRIFT-005_liquid-cooling-default",
+  "m": 7,
+  "t": 6,
+  "c": 8,
+  "certainty_grade": "demonstrated",
+  "timing_years": 2,
+  "displacement_sub_class": "architecture-reset",
+  "mcap_at_stake_b": null,
+  "note": "Named air-cooled CRAC incumbent not in tracked universe; ETN Electrical Americas/Global = representative data-center-elec exposure (class-level proxy, flagged).",
+  "tickers": {
+    "VRT": {
+      "role": "winner",
+      "keywords": [
+        "Product"
+      ]
+    },
+    "SMCI": {
+      "role": "winner",
+      "keywords": [
+        "Server And Storage Systems"
+      ]
+    },
+    "ETN": {
+      "role": "loser",
+      "keywords": [
+        "Electrical Americas",
+        "Electrical Global"
+      ]
+    }
+  }
+}

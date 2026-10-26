@@ -1,0 +1,33 @@
+{
+  "drift_id": "DRIFT-006",
+  "slug": "DRIFT-006_smr-datacenter-power",
+  "m": 7,
+  "t": 3,
+  "c": 5,
+  "certainty_grade": "claimed",
+  "timing_years": 4,
+  "displacement_sub_class": "cutoff",
+  "mcap_at_stake_b": null,
+  "note": "timing-gate: NRC SDA. DATA-QUALITY: FMP profile-symbol('NUS') resolves to Nu Skin (cosmetics) \u2014 NuScale's 10-Q segment data is missing in FMP -> stale row. CEG Nuclear segment is the clean win line.",
+  "tickers": {
+    "OKLO": {
+      "role": "winner",
+      "keywords": [
+        "Services"
+      ]
+    },
+    "CEG": {
+      "role": "winner",
+      "keywords": [
+        "Nuclear"
+      ]
+    },
+    "NUS": {
+      "role": "winner",
+      "keywords": [
+        "Power Generation",
+        "Nuclear"
+      ]
+    }
+  }
+}

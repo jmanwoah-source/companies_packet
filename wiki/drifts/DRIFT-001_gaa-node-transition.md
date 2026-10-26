@@ -90,4 +90,22 @@ Tier: **HIGH (200-499)** — track; next-cycle re-check.
 ## Dated Evidence Notes
 - [2026-10-25] [seed001a] Seeded as first process-node drift from the 2026 WFE structural upcycle.
 
+## ENGINE SCORE (deterministic — do not hand-edit)
+_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-001.engine.json`. Same inputs -> same output._
+
+**Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
+
+| Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
+|--------|------|--------------------|-----------|--------------|--------------------|------------------|
+| AMAT | winner | 73.3% (FY2025) | 299.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Systems |
+| ASML | winner | 0.0% (FY2025) | 605.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| KLAC | winner | 0.0% (FY2026) | 190.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| LRCX | winner | 0.0% (FY2026) | 288.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+
+**Composite (M x T x C): 6 x 8 x 9 = **432** -> tier **HIGH**
+  - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - timing_years: 1.5 | displacement_sub_class: content-per-unit
+  - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
+  - note: FMP product segments are coarse for WFE (ASML/KLAC/LRCX report single 'Semiconductors'/'Systems' lines) -> exposure% there = whole-company proxy, not a keyword split. AMAT is the measurable one (Semiconductor Systems = 73.3%).
+
 ## Last Updated (2026-10-25)
