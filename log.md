@@ -148,3 +148,13 @@
 - Cascade leg: DRIFT-002 found ON (US-listed named GaN-power entrant) -> zero_streak reset 0. DRIFT-001 found ENTG (GAA content-per-wafer 10-K language, NOT in tracked universe) -> new ticker surfaced to inclination pipeline, streak reset 0. DRIFT-005: 0 new US tickers (VRT parent/in-universe; Trane/LG non-DC-power or non-US) -> zero_streak 1.
 - Engine: 10 sidecars, all composites stable (432/600/20/144/336/105/180/294/180/84); no fetch_errors, no [STALE]. ASML FY2025 product segments have no back-end/bonding line (0.0% match, honest — first back-end revenue disclosure is the re-rate trigger).
 - Track D: 23 dossiers touched; INDEX now 10 drifts. Cascade gate: DRIFT-002 only eligible (001/005/008 no longer gate-fire — last_status already scaling; gate fired in a prior cycle).
+
+## 2026-10-26 (later) — cascade circuit-breaker fix (Trigger v2 saturation decay)
+- BUG (pre-existing, found during engine reconciliation): `cascade_gate()` decayed the
+  `saturated` flag on EVERY re-run of a `comp>=500 and saturated` drift — the breaker was a
+  no-op (any drift_track_d.py invocation reset DRIFT-002's committed saturation). Fix:
+  `cascade_state.json` now carries `last_composite` per drift; decay ONLY on a genuine upward
+  re-rate (comp > prev_comp). State-refresh and queue-decision are separate steps (the old
+  single-branch `continue` made the decay branch unreachable). Unit-tested: hold on same /
+  decay+requeue on rise / hold on drop. DRIFT-002 state reconciled to committed truth
+  (saturated, zero_streak 3, last_composite 600); live re-run confirms the breaker holds.

@@ -1,9 +1,18 @@
 ## Watchlist — ## Watchlist — 2026-10-26
 - ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
+- Rechecked: 2 (bi-weekly gate + promotion flags; batched FMP quote calls: 1)
+- Promotions: none
+- Demotions: none
+- Next bi-weekly due: 2026-10-27
+
+## Watchlist — 2026-10-26
+- ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 41 (bi-weekly gate + promotion flags; batched FMP quote calls: 1)
 - Promotions: none
 - Demotions: none
 - Next bi-weekly due: 2026-10-27
+
+
 
 ## Watchlist — 2026-10-25
 - ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
@@ -11,6 +20,8 @@
 - Promotions: QBTS (best 75 >= 75 ACTIVE bar, 22 briefs corroborating)
 - Demotions: none (all ACTIVE names carried 14-day signal; best_track < 75 names held at WATCH/ACTIVE without 2-of-3 demotion triggers)
 - Next bi-weekly due: 2026-11-07
+
+
 
 
 ## Watchlist — 2026-10-25 18:31 UTC
@@ -23,12 +34,16 @@
 
 
 
+
+
 ## Watchlist — 2026-10-25
 - ACTIVE: 15 · WATCH: 47 · DORMANT: 1 · ARCHIVED: 31
 - Rechecked: 0 (bi-weekly gate: nothing due; batched quote calls: 0)
 - Promotions: none
 - Demotions: none (cheap scan only — 63 tickers' track scores refreshed from this cycle's full-depth scoring; 43 promote_to_deepdive flags maintained for WATCH names with brief_count>=2 + fresh 14d brief)
 - Next bi-weekly due: 2026-11-08
+
+
 
 
 
@@ -43,10 +58,13 @@
 
 
 
+
+
 ## Watchlist — 2026-10-25
 - ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 43 (batched quote calls: 0 — engine deepdive fetch served as fresh quotes)
 - Promotions: LITE (best 84>=75, briefs 5)
 - Demotions: none
 - Next bi-weekly due: 2026-11-08
+
 
