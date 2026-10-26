@@ -140,3 +140,11 @@
 - Backtest vs the 2025-10-28 NVIDIA 800V shock: `drift_backtest.py` -> `research/drift_backtest_800v.md`
   (engine losers MPWR -11.8% realized = top-decliner in the set; sub-drawdown r=0.45, n=3).
 - Health gate ALL_GOOD; drift_scan + track_d re-run clean; cascade gate intact (DRIFT-002 saturated).
+
+## 2026-10-26 (later) — drift-scan e9711f5abb15
+- Health gate ALL_GOOD; drift_scan: 13 sector queries -> 39 fresh candidates, 16 cascade queries -> 27 results.
+- 1 drift filed: **DRIFT-010_asml-d2w-hybrid-bonding** (7x4x3 = 84 EMERGING; rumored; ASML winner, BESI displaced but non-US -> additive, no clean US loser). Evidence: SemiAnalysis 2026-10-15 (27 ASML D2W patent families) + Reuters 2026-10-16 (Besi -3%) + Dealroom 2026-10-19; 2 web searches, 0 page fetches.
+- 38 candidates rejected: market reports/thinkpieces (wafer frame, SiC market), earnings (ASML $13B qtr), additive/complementarity pieces (onsemi GaN "complements Si/SiC"), regulatory/PPA news not a process swap, vendor pages, 800V gigawatt deal already anchored to DRIFT-009.
+- Cascade leg: DRIFT-002 found ON (US-listed named GaN-power entrant) -> zero_streak reset 0. DRIFT-001 found ENTG (GAA content-per-wafer 10-K language, NOT in tracked universe) -> new ticker surfaced to inclination pipeline, streak reset 0. DRIFT-005: 0 new US tickers (VRT parent/in-universe; Trane/LG non-DC-power or non-US) -> zero_streak 1.
+- Engine: 10 sidecars, all composites stable (432/600/20/144/336/105/180/294/180/84); no fetch_errors, no [STALE]. ASML FY2025 product segments have no back-end/bonding line (0.0% match, honest — first back-end revenue disclosure is the re-rate trigger).
+- Track D: 23 dossiers touched; INDEX now 10 drifts. Cascade gate: DRIFT-002 only eligible (001/005/008 no longer gate-fire — last_status already scaling; gate fired in a prior cycle).
