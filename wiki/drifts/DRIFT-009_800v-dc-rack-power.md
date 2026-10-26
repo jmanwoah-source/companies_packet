@@ -89,12 +89,12 @@ _Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| MCHP | winner | 96.5% (FY2026) | 40.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Products Member |
-| MPWR | loser | 94.4% (FY2023) [STALE] | 56.0 | 56.6% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MCHP | winner | 96.5% (FY2026) | 41.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Products Member |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 57.8 | 56.6% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
 | NVTS | winner | 0.0% (FY2024) [STALE] | 2.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 6 x 6 x 5 = **180** -> tier **EMERGING**
-  - Mcap at stake: $52.9B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed
+  - Mcap at stake: $54.5B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed
   - timing_years: 2 | displacement_sub_class: architecture-reset
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: 800V rewire: stage-count collapse hits the 48V-rail multi-stage incumbents. MPWR DC-To-DC = the exposed final-stage line (engine sub_downside, claimed weight). NVTS segment line too thin to measure (single $0.1B reportable segment) -> upside row stays qualitative.

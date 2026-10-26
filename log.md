@@ -167,3 +167,10 @@
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); no fetch_errors; [STALE] flags on 002/007/008/009 rows unchanged (MPWR FY2023, etc. — last-known measurements).
 - Track D: 23 dossiers touched; INDEX regenerated; DRIFT-004 status column now `scaling`.
 - cascade_state: DRIFT-004 seeded {scaling, zero_streak 0, last_composite 144}; DRIFT-002 remains SATURATED (streak 3) — breaker holding.
+
+## Drift Scan — 2026-10-26 19:25 UTC
+- Health gate: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates; 4 cascade queries -> 0 results.
+- **FILED:** 0 drifts (0 candidates reviewed; nothing to reject — scan returned no fresh hits since last run).
+- **CASCADE:** DRIFT-004 was the sole eligible drift (gate-fire, 4 next-layer queries) -> 0 new next-layer tickers surfaced. cascade_state: DRIFT-004 zero_streak 0 -> 1 (saturated=false).
+- Engine (drift_scoring.py): 10 sidecars, all composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted.
+- Track D: 23 dossiers backlinked; INDEX regenerated; cascade gate post-run: 0 eligible (DRIFT-004 gate-fire consumed, nothing >=500 or transitioning).

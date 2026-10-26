@@ -1,93 +1,29 @@
+## Watchlist — 2026-10-26 16:34 UTC
+- ACTIVE: 17 · WATCH: 43 · DORMANT: 7 · ARCHIVED: 31
+- Rechecked: 0 due (bi-weekly gate: nothing due; 58 scores refreshed from deepdive engine fetch, batched quote calls: 0)
+- Promotions: none (no ticker >=75 this cycle; top LITE 69)
+- Demotions: none (entity_review holds unscored: AEM, ICLR, GRF, NAVI, ATMS, GF, SEM, TDI, TVC; promote flags re-set on AEM/ICLR/GRF/NAVI for next-cycle re-resolution)
+- Next bi-weekly due: 2026-11-09
+
 ## Watchlist — 2026-10-26
 - ACTIVE: 17 · WATCH: 42 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 57 scored (batched quote calls: 0 — bi-weekly gate: nothing due)
 - Promotions: none (all Track A passers already ACTIVE); full-depth queue set: IONQ(58→A74? re-q), HON(66), AEP(62) + entity-review re-resolve AEM/ICLR/GRF/NAVI
 - Demotions: none (no 2-of-3 triggers; DRS 73 + HON 66 below ACTIVE bar — fail-streak 1, watch next cycle)
 - Next bi-weekly due: 2026-11-09
+
 ## Watchlist — 2026-10-26
 - ACTIVE: 17 · WATCH: 42 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 57 scored (batched quote calls: 0 — bi-weekly gate: nothing due)
 - Promotions: none
 - Demotions: none
 - Next bi-weekly due: 2026-11-09
+
 ## Watchlist — ## Watchlist — 2026-10-26
 - ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
 - Rechecked: 2 (bi-weekly gate + promotion flags; batched FMP quote calls: 0 - scores from deepdive engine fetch)
 - Promotions: none
 - Demotions: AEM (entity_review: profile/brief entity labels disagree; WATCH, unscored), ICLR (entity_review: profile/brief entity labels disagree; WATCH, unscored)
 - Next bi-weekly due: 2026-11-09
-
-## Watchlist — 2026-10-26
-- ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
-- Rechecked: 2 (bi-weekly gate + promotion flags; batched FMP quote calls: 1)
-- Promotions: none
-- Demotions: none
-- Next bi-weekly due: 2026-10-27
-
-
-
-## Watchlist — 2026-10-26
-- ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
-- Rechecked: 41 (bi-weekly gate + promotion flags; batched FMP quote calls: 1)
-- Promotions: none
-- Demotions: none
-- Next bi-weekly due: 2026-10-27
-
-
-
-
-
-## Watchlist — 2026-10-25
-- ACTIVE: 17 · WATCH: 40 · DORMANT: 7 · ARCHIVED: 31
-- Rechecked: 41 (batched quote calls: 1 via engine deepdive briefing)
-- Promotions: QBTS (best 75 >= 75 ACTIVE bar, 22 briefs corroborating)
-- Demotions: none (all ACTIVE names carried 14-day signal; best_track < 75 names held at WATCH/ACTIVE without 2-of-3 demotion triggers)
-- Next bi-weekly due: 2026-11-07
-
-
-
-
-
-
-## Watchlist — 2026-10-25 18:31 UTC
-- ACTIVE: 16 · WATCH: 41 · DORMANT: 7 · ARCHIVED: 31
-- Rechecked: 42 (batched quote calls: 0 — full-depth engine fetch covers due names)
-- Promotions: none
-- Demotions: none
-- Promotion-hook set (next cycle full-depth): IONQ, QBTS, HON, HPE, NXPI, PNR, SMR, ON, CEG, CRWV, CVV, DOW, MVIS, NBIS, NTAP, NVTS, TLN, XE, XPEV, GEHC, AEM, GF, HUM, INFY, OKLO, FLNC, XMAX, WOLF, ICLR, LDOS, AEP, AI, QUBT, IREN, SMCI, SEM, TSEM, SVCO, ATMS, GRF, NAVI, BURU
-- Next bi-weekly due: 2026-10-25 + 0d
-
-
-
-
-
-
-
-## Watchlist — 2026-10-25
-- ACTIVE: 15 · WATCH: 47 · DORMANT: 1 · ARCHIVED: 31
-- Rechecked: 0 (bi-weekly gate: nothing due; batched quote calls: 0)
-- Promotions: none
-- Demotions: none (cheap scan only — 63 tickers' track scores refreshed from this cycle's full-depth scoring; 43 promote_to_deepdive flags maintained for WATCH names with brief_count>=2 + fresh 14d brief)
-- Next bi-weekly due: 2026-11-08
-
-
-
-
-
-
-
-
-## Watchlist — 2026-10-25
-- ACTIVE: 16 · WATCH: 41 · DORMANT: 7 · ARCHIVED: 31
-- Rechecked: 43 (batched quote calls: 0 — briefing quotes reused)
-- Promotions: INFQ (best_track_score=81 >=75, brief_count=27)
-- Demotions: FPS (WATCH->DORMANT, uncorroborated/no-signal), PALX (WATCH->DORMANT, uncorroborated/no-signal), SERV (WATCH->DORMANT, uncorroborated/no-signal), TVC (WATCH->DORMANT, uncorroborated/no-signal), SKYQ (WATCH->DORMANT, uncorroborated/no-signal)
-- Next bi-weekly due: 2026-11-08
-
-
-
-
-
-
 
 
