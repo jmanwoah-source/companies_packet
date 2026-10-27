@@ -96,7 +96,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (≥448) on a named hyperscale
 - [2026-10-25] [seed008a] Filed by the Drift Detector judgment leg (candidate #22/23, DRIFT-008).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

@@ -1,17 +1,17 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 226
-- **Unique Tickers**: 97
-- **Categories**: {'quantum': 33, 'edge_robotics': 34, 'ai_infrastructure': 33, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
+- **Briefs Processed**: 230
+- **Unique Tickers**: 98
+- **Categories**: {'quantum': 36, 'edge_robotics': 35, 'ai_infrastructure': 33, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
 | negative_intelligence | 63 |
+| quantum_research | 35 |
 | conference_deep_dive | 33 |
-| quantum_research | 32 |
-| edge_robotics | 27 |
+| edge_robotics | 28 |
 | macro_government | 26 |
 | patent_supply_chain | 24 |
 
@@ -24,10 +24,10 @@
 | IBM | 11 | ai_infrastructure,quantum | positive high,positive medium |
 | INFQ | 9 | quantum | positive high,positive low,positive medium |
 | INTC | 8 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
+| DRS | 7 | edge_robotics | positive high,positive medium |
 | MU | 7 | ai_infrastructure,semiconductors | negative high,positive high,positive medium |
 | TSM | 7 | semiconductors | negative medium,positive high,positive medium |
 | AVGO | 6 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
-| DRS | 6 | edge_robotics | positive high,positive medium |
 | NXPI | 6 | ai_infrastructure,semiconductors | negative high,negative medium |
 | IONQ | 5 | quantum | positive high,positive low,positive medium |
 | QBTS | 5 | quantum | positive high,positive medium |
@@ -44,6 +44,7 @@
 | HPE | 3 | ai_infrastructure,semiconductors | negative high,negative medium,neutral medium |
 | LSCC | 3 | edge_robotics,quantum,semiconductors | negative low,positive medium |
 | MRVL | 3 | semiconductors | ambiguous medium,negative high |
+| QUBT | 3 | quantum | ambiguous low,ambiguous medium,positive low |
 | AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
@@ -55,7 +56,6 @@
 | MSFT | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
 | NBIS | 2 | ai_infrastructure | negative high,negative medium |
 | PNR | 2 | ai_infrastructure | negative high |
-| QUBT | 2 | quantum | ambiguous low,ambiguous medium |
 | TSLA | 2 | semiconductors | negative medium,positive medium |
 | AAPL | 1 | semiconductors | negative high |
 | AEM | 1 | semiconductors | positive low |
@@ -101,6 +101,7 @@
 | PALX | 1 | semiconductors | positive high |
 | PEAK | 1 | semiconductors | negative medium |
 | QCOM | 1 | semiconductors | positive medium |
+| RGTI | 1 | quantum | positive medium |
 | SEM | 1 | semiconductors | neutral low |
 | SERV | 1 | edge_robotics | negative high |
 | SKYQ | 1 | quantum | ambiguous low |
@@ -326,3 +327,7 @@
 | 2026-10-25 | TVA awarded $400M DOE grant to develop nation's first SMR at Clinch Ri | BWX | positive high | indirect | energy | high | `38B9D7A8` |
 | 2026-10-26 | GlobalFoundries Acquires Tagore's GaN IP - TechInsights | GF | positive medium | direct | semiconductors | medium | `E0DD65AC` |
 | 2026-10-26 | Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Dat | CARR | positive medium | direct | ai_infrastructure | medium | `E5E3E659` |
+| 2026-10-27 | Leonardo DRS Wins JIATF-401 Contract for Counter-UAS Capabilities | DRS | positive high | direct | edge_robotics | medium | `0EE2A226` |
+| 2026-10-27 | Logical qubits start outperforming physical qubits - Quantinuum | QUBT | positive low | speculative | quantum | high | `81CD8469` |
+| 2026-10-27 | Disclosed Defence Quantum Computing Money Doubled To Tripled | RGTI | positive medium | indirect | quantum | low | `FD7E3EFE` |
+| 2026-10-27 | Quantum Cyber Invited to Present Quantum Antenna Technology at Quantum |  | positive low | direct | quantum | high | `F660680D` |

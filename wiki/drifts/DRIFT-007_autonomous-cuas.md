@@ -77,7 +77,7 @@ Tier: **EMERGING (50-199)** — a NATO award or DoD HIL-free standardization →
 - [2026-10-25] [seed007a] Filed from physical-AI pillar validation (salvaged sub-agent evidence).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-007.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-007.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

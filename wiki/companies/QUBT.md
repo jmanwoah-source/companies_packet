@@ -35,3 +35,6 @@
 ## Catalyst Log- [2026-10-24] D-Wave Quantum: Tax Withholdings, a Minnesota Foundry and Why a Sector Selloff Isn't a Company Story | quantum (ambiguous low) [`16EE4ACB`]
 
 - [2026-10-20] Quantinuum Breaks Error-Correction World Record by 10x on Helios/Helix (10 physical qubits per logical qubit) | quantum (ambiguous medium) [`9A1F147B`]
+
+## Catalyst Log
+- [2026-10-27] Logical qubits start outperforming physical qubits - Quantinuum | quantum (positive low) [`81CD8469`]

@@ -98,7 +98,7 @@ auto-re-rates certainty (2→6-8) and lifts Composite into EMERGING/HIGH.
 - [2026-10-25] [det003a] COUNTER-SIGNAL: ASML paused 450mm lithography development in 2013 (Instagram/fab-analysis, Sep 2026) — reinforces the low-certainty rating; a foundry commitment (not tool R&D) is the gate. Score unchanged (20 NOISE). https://www.instagram.com/reel/Dd4oywyCUwl/ (VERIFIED)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-003.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-003.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

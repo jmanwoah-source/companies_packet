@@ -95,7 +95,7 @@ both edges intact.
 - [2026-10-25] [det002a] 8-inch GaN-on-Si next-layer entrant signal: Polar Semiconductor (PRIVATE, Bloomington MN) + IC-Link by imec announced 8-inch production of e-mode GaN devices via an imec GaN-on-Si process/device/epitaxy license transfer (2026-10-13). Directly answers the open question "any new 8-inch GaN-on-Si entrant?" — a non-US-privately-held foundry entering the 8-inch GaN-on-Si substrate/device layer. No new US-listed winner (Polar is private); WOLF/ON/NVTS exposure unchanged. Not a new drift (same substitution, existing winner/loser edges). https://www.businesswire.com/news/home/20261012027647/en/Polar-Collaborates-with-IC-Link-by-imec-to-Manufacture-8-inch-GaN-Technology/ (VERIFIED) · https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml (VERIFIED)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

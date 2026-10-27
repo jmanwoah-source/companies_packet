@@ -182,3 +182,10 @@
 - **CASCADE:** queue empty this cycle -> nothing to process; cascade_state.json untouched (all zero_streaks held; DRIFT-002 saturated streak 3 — breaker holding).
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted; [STALE] last-known rows unchanged (MPWR FY2023, NVTS single $0.1B segment, NUS=Nu Skin misprofile).
 - Track D: 23 dossiers touched; INDEX regenerated; cascade gate post-run: 0 eligible.
+
+## 2026-10-27 03:55 — drift-scan run (e9711f5abb15)
+- Health: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates, 0 cascade queries (queue empty). ANOMALY: every query returned results_total=0 (not just 0 fresh) — SearXNG API UP/container RUNNING per health gate, so this is a degenerate scan (empty result sets), not a downed backend. No candidates to judge; treat Leg A as no-signal this cycle, flag for next run.
+- **0 drifts filed (0 candidates reviewed — degenerate scan, nothing to reject).** next_drift_id stays DRIFT-011.
+- **CASCADE:** queue empty (DRIFT-002 saturated at streak 3, breaker holding; no composite>=500 fresh, no gate-fires) -> cascade_state.json untouched.
+- Engine (drift_scoring.py): all 10 composites unchanged (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted. [STALE] last-known rows persist in drift files (MPWR FY2023 x2, NVTS FY2024 x2, DRS FY2024, RCAT FY2023) — engine re-fetched, segments remain last-known; NUS=Nu Skin misprofile unchanged.
+- Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible.

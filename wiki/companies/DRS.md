@@ -74,3 +74,6 @@
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-007` winner — cap sub-ceiling — DRS (counter-drone radar, C-UAS awards)
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+- [2026-10-27] Leonardo DRS Wins JIATF-401 Contract for Counter-UAS Capabilities | edge_robotics (positive high) [`0EE2A226`]

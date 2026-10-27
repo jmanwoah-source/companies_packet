@@ -84,7 +84,7 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-10-26] [det006c] NRC finalized the rule (news release 26-081) streamlining licensing for reactor designs tested in demonstration projects — applicants may leverage demonstration-reactor data while still demonstrating compliance and identifying differences. This converts the April-proposed rule (det006a) into final: the licensing-gate clock accelerates for demo-tested advanced designs, but no SDA has been granted → timing-gate NOT fired, score unchanged 105 EMERGING (re-rate on SDA grant). https://www.nrc.gov/about-nrc/news-releases/2026/26-081 (VERIFIED — official source). Also same cycle: NRC renewed AP1000 design certification (Revision 20, through ~2066, incorporating Vogtle 3&4 lessons) — PWR-class, not SMR-gate material. https://www.ans.org/news/2026-10-16/article-8493/nrc-oks-westinghouse-ap1000-design-certification-revision-renewal/ (VERIFIED).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
