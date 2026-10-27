@@ -81,6 +81,7 @@ Tier: **EMERGING (50-199)** — one hyperscaler 800V DC rack-volume commitment f
 ## Dated Evidence Notes
 - [2026-10-25] [seed009a] Filed from drift-scan leg A (query "800V DC data center architecture"): Microchip+Navitas 800V→6V OCP reference design (2026-10-05 PR) is the first dated, named commitment in the 800V rewire with two US-listed winners. INDEX.md Track D seed row "*(class)* legacy silicon final-stage power / 50V PoL/VRM — 800V rewire displacement" is now anchored to a real event.
 - [2026-10-25] [det009a] Second dated 800V DC proof point, cooling side: Trane Technologies (TT, NYSE) demonstrated industry-first 800V DC chiller architecture with Eaton + Danfoss (lab PoC, 3.5 MW / 1,000-ton class, ~2% system-efficiency gain; claims 1.8 MW freed compute per 200 MW DC) — announced 2026-09-30, SWORDS Ireland. Extends the 800V rewire into the mechanical/cooling layer (downstream industrial-elec value-chain layer). TT is a new potential mid-cap winner row (anchor-adjacent; verify cap via FMP); lab PoC only → certainty stays demonstrated-pilot, no re-rate yet (no hyperscaler volume commitment). https://investors.tranetechnologies.com/news-and-events/news-releases/news-release-details/2026/Trane-Technologies-Demonstrates-Industry-First-800-Volt-Direct-Current-Chiller-for-Next-Generation-AI-Data-Centers/default.aspx (VERIFIED — fetched 2026-10-25)
+- [2026-10-26] [det009b] Third dated 800V DC proof point, now co-developed with the OEM: Navitas + NVIDIA developed a 24 kW, 800 VDC-to-12 VDC power delivery board (PDB) for the NVIDIA MGX ecosystem — single-stage 800V→12V conversion explicitly eliminating the conventional 50V IBC stage, 16× NV6034 GaNFast 650V FETs (stacked half-bridge), 97% full-load efficiency target, >2,000 W/in³, NVIDIA 400×60 mm form factor; to be showcased at the 2026 OCP Global Summit. Follows the 20 kW 800V→6V board debuts at GTC 2026. This is OEM co-development, not yet a hyperscaler volume rack deployment → certainty held at 5, score unchanged 180 EMERGING. NVTS upside edge reinforced (the PDB IS the NV6034 line in product form). https://www.powerelectronicsnews.com/navitas-nvidia-develop-24-kw-800v-to-12v-power-board/ (VERIFIED — fetched 2026-10-26)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-009.engine.json`. Same inputs -> same output._
@@ -89,12 +90,12 @@ _Computed by drift_scoring.py v2 on 2026-10-26 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| MCHP | winner | 96.5% (FY2026) | 41.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Products Member |
-| MPWR | loser | 94.4% (FY2023) [STALE] | 57.8 | 56.6% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MCHP | winner | 96.5% (FY2026) | 41.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Products Member |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 57.4 | 56.6% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
 | NVTS | winner | 0.0% (FY2024) [STALE] | 2.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 6 x 6 x 5 = **180** -> tier **EMERGING**
-  - Mcap at stake: $54.5B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed
+  - Mcap at stake: $54.1B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed
   - timing_years: 2 | displacement_sub_class: architecture-reset
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: 800V rewire: stage-count collapse hits the 48V-rail multi-stage incumbents. MPWR DC-To-DC = the exposed final-stage line (engine sub_downside, claimed weight). NVTS segment line too thin to measure (single $0.1B reportable segment) -> upside row stays qualitative.
