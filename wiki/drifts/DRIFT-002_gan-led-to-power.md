@@ -93,6 +93,7 @@ both edges intact.
 ## Dated Evidence Notes
 - [2026-10-25] [seed002a] Seeded as the reference anchor for a completed cross-domain transfer (LED→power GaN-on-Si).
 - [2026-10-25] [det002a] 8-inch GaN-on-Si next-layer entrant signal: Polar Semiconductor (PRIVATE, Bloomington MN) + IC-Link by imec announced 8-inch production of e-mode GaN devices via an imec GaN-on-Si process/device/epitaxy license transfer (2026-10-13). Directly answers the open question "any new 8-inch GaN-on-Si entrant?" — a non-US-privately-held foundry entering the 8-inch GaN-on-Si substrate/device layer. No new US-listed winner (Polar is private); WOLF/ON/NVTS exposure unchanged. Not a new drift (same substitution, existing winner/loser edges). https://www.businesswire.com/news/home/20261012027647/en/Polar-Collaborates-with-IC-Link-by-imec-to-Manufacture-8-inch-GaN-Technology/ (VERIFIED) · https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml (VERIFIED)
+- [2026-10-27] [21ff8d7f] Re-surfaced by the 2026-10-27 Leg A scan (query "GaN-on-Si power epiwafer 8-inch"): Compound Semiconductor article of the same Polar/IC-Link-by-imec 8-inch e-mode GaN-on-Si license transfer (published 2026-10-13) adds market scope — AI data centres, automotive, aerospace & defense, grid; initial 40-650V window with expansion toward 800V-to-12V data-center conversion. Same entrant as det002a (dedup: no new edge, no re-rate). https://compoundsemiconductor.net/article/125605/Polar_and_Imec_announce_8-inch_GaN_partnership (VERIFIED, page fetched)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
@@ -101,11 +102,11 @@ _Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| NVTS | winner | 0.0% (FY2024) [STALE] | 2.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| ON | winner | 46.8% (FY2025) | 28.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
+| NVTS | winner | 0.0% (FY2024) [STALE] | 2.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ON | winner | 46.8% (FY2025) | 29.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
 | SMART | loser | n/a (no matching segment data) | ? | n/a | None -> ? (unmapped) | - |
-| SWKS | winner | n/a (no matching segment data) | 12.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| WOLF | winner | 100.0% (FY2025) | 1.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
+| SWKS | winner | n/a (no matching segment data) | 12.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| WOLF | winner | 100.0% (FY2025) | 1.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
 
 **Composite (M x T x C): 6 x 10 x 10 = **600** -> tier **CRITICAL**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated

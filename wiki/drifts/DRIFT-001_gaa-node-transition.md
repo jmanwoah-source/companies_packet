@@ -97,10 +97,10 @@ _Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AMAT | winner | 73.3% (FY2025) | 307.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Systems |
-| ASML | winner | 0.0% (FY2025) | 613.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| KLAC | winner | 0.0% (FY2026) | 194.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| LRCX | winner | 0.0% (FY2026) | 297.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| AMAT | winner | 73.3% (FY2025) | 306.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Systems |
+| ASML | winner | 0.0% (FY2025) | 619.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| KLAC | winner | 0.0% (FY2026) | 195.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| LRCX | winner | 0.0% (FY2026) | 297.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 6 x 8 x 9 = **432** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated

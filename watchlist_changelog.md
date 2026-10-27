@@ -29,3 +29,18 @@
 - Promotions: none
 - Demotions: AEM (entity_review: profile/brief entity labels disagree; WATCH, unscored), ICLR (entity_review: profile/brief entity labels disagree; WATCH, unscored)
 - Next bi-weekly due: 2026-11-09
+## Watchlist — 2026-10-27
+- ACTIVE: 6 · WATCH: 57 · DORMANT: 5 · ARCHIVED: 31
+- Rechecked: 0 (bi-weekly gate: nothing due, next due in 14d)
+- Promotions: none
+- Demotions: none (cheap demotion scan only — no rechecks this cycle)
+- Next bi-weekly due: 2026-10-27 +14d
+
+
+## Watchlist — 2026-10-27
+- ACTIVE: 6 · WATCH: 57 · DORMANT: 5 · ARCHIVED: 31
+- Rechecked: 0 (batched quote calls: 0) — nothing due (bi-weekly gate not reached)
+- Promotions: none
+- Demotions: none
+- Scores refreshed this cycle: 63 tickers re-scored by Deep-Dive; full-depth: AEP, DRS, GFS, HON, INFQ, IONQ, QBTS, SMR
+- Next bi-weekly due: 2026-10-30 13:18:20.639908+00:00

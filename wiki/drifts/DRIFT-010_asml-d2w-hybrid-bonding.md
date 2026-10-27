@@ -110,7 +110,7 @@ _Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| ASML | winner | 0.0% (FY2025) | 613.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ASML | winner | 0.0% (FY2025) | 619.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 7 x 4 x 3 = **84** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: rumored
