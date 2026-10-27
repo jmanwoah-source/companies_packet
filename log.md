@@ -197,3 +197,10 @@
 - **CASCADE:** queue empty (eligible=[]) -> cascade leg not executed for any drift; cascade_state.json untouched (all zero_streaks held; DRIFT-002 saturated streak 3 — breaker holding).
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84). ANOMALY: first engine pass had ALL 25 tickers fail with `tool statements/company error: Method not found` (stale MCP session); direct probe + re-run clean — second pass 0 fetch_errors, 25 FMP profiles persisted fresh; composites identical either way. [STALE] last-known rows unchanged (MPWR FY2023 x2, NVTS FY2024, NUS=Nu Skin misprofile).
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible. next_drift_id stays DRIFT-011.
+
+## 2026-10-27 16:41 — drift-scan run (e9711f5abb15)
+- Health: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates (0 total); 0 cascade queries (queue empty). ANOMALY (repeat of 03:55): ALL queries returned 0 raw results — diagnosed live: SearXNG JSON API UP, but unresponsive_engines show brave/google/google cse SUSPENDED (too many requests) + duckduckgo CAPTCHA. `time_range=month` filtering degrades to 0 results on the surviving Bing-only backend; probe without time_range returns 10 results. Leg A = no-signal this cycle due to engine degradation, not clean negative. Not a hard SearXNG-down -> run continued per protocol.
+- **0 drifts filed (0 candidates reviewed — degenerate scan, nothing to reject).** next_drift_id stays DRIFT-011.
+- **CASCADE:** queue empty (eligible=[]) -> cascade leg not executed; cascade_state.json untouched (all zero_streaks held; DRIFT-002 saturated streak 3 — breaker holding).
+- Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted. [STALE] last-known rows unchanged (MPWR FY2023, NVTS, NUS=Nu Skin misprofile).
+- Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible (nothing >=500 fresh, no gate-fires).
