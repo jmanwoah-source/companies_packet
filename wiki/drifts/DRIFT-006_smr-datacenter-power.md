@@ -94,7 +94,7 @@ _Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmenta
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
 | CEG | winner | 0.0% (FY2025) | 91.4 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 | NUS | winner | 0.0% (FY2025) | 0.2 | - (upside) | Consumer Defensive -> n/a (non-core sector — ticker likely wrong mapping) | - |
-| OKLO | winner | n/a (no matching segment data) | 4.9 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| OKLO | winner | n/a (no matching segment data) | 5.0 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 
 **Composite (M x T x C): 7 x 3 x 5 = **105** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed

@@ -253,3 +253,38 @@
 - Design principle: the seam grants a break URGENCY + provenance, NOT special scoring status. A
   break that is noise degrades to NOISE and consolidates out like any drift. Live spine verified
   byte-identical through dry-run.
+
+## 2026-10-28 17:55 — drift-scan (Leg A + A2 rescan)
+- Health gate: initially FAIL:primary_feeds (eia). ROOT CAUSE FIXED: primary_feeds.py EIA
+  cooldown parse used naive datetime vs aware now_utc() -> "can't subtract offset-naive
+  and offset-aware datetimes" (offset-aware bug introduced when cooldown flags were added);
+  a 6h last_500 cooldown was being mis-parsed as a hard error every tick. Patch:
+  strptime(...).replace(tzinfo=timezone.utc) in f_eia(). After fix: eia ok (cooldown path
+  correct, retry ~238m), gate ALL_GOOD. Drift leg proceeded.
+- drift_scan.py fresh: 13 sector queries -> 39 candidates; 6 a2 queries -> 18 a2
+  candidates; cascade 0 (queue empty). drift_ingest.py: 0 breaks merged.
+- 0 new drifts filed (39 base + 18 a2 = 57 reviewed, 57 rejected).
+- Base rejections (one-line): purewafer/hackster/entegris/forbes (vendor/marketing/trend,
+  no swap); Micron High-NA/wafer-bonding (same story as c1a0f2e9 -> note e53bc3e2 appended
+  to DRIFT-004, confirmatory, no re-rate); Polar/imec 8-inch GaN (dup DRIFT-002, private
+  winner); panel-vs-wafer/adv-packaging/eetimes-packaging (thinkpiece, no US winner);
+  liquid/immersion/ASHRAE (design guides, dup DRIFT-005); 800V x3 (dup DRIFT-009);
+  CPO copper-retreat x3 (dup DRIFT-008); SMR-BTM calculator + behind-the-meter (thinkpiece,
+  dup DRIFT-006); NRC AP1000 renewal to 2066 (regulatory renewal, not old->new);
+  Google-Constellation 890MW (same det006b deal, uprates on existing PWRs, gate not fired);
+  transformer lead-times (supply news, not a process swap).
+- A2 shadow-run (18 reviewed, 18 rejected): dominant reasons — listicle/guide (tape-out
+  guides, foundry-vs-fabless, distributor picks), private winner (Mueon $65M AI rack —
+  no ticker), anchor-sized winner (ON/Powertitan-3.0 Sungrow design win, NXP-VW; ON is
+  anchor cap, slot rule 1 fails). Real-signal items logged: LX Semicon exits SiC + 60
+  patents (KRX, non-US; confirms SiC consolidation but no US-listed winner/loser edge);
+  Advanced Photonics Coalition spec portfolio (2026-10-20, 60 orgs) -> appended as
+  note apc054c1 to DRIFT-008 (ecosystem standards milestone, not a new substitution).
+  Gated 3rd slot UNUSED: no A2 candidate satisfied all 3 rules (no nano/sub-ceiling
+  US-listed winner with demonstrated/pilot certainty this cycle).
+- Notes appended (no re-rate): DRIFT-004 +e53bc3e2; DRIFT-008 +apc054c1.
+- Engine: drift_scoring.py 10 sidecars, composites unchanged
+  (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors, 25 FMP profiles persisted.
+  FLAG: DRIFT-002 NVTS row [STALE] (FY2024 segment) — last-known, retained.
+- Track D: rebuilt; 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate
+  post-run: 0 eligible -> cascade_state.json unchanged this cycle.

@@ -16,3 +16,10 @@
 - Entity review (not scored this cycle): AEM, ATMS, ICLR
 - Next bi-weekly due: 2026-11-11
 
+
+## Watchlist — 2026-10-28
+- ACTIVE: 13 · WATCH: 39 · DORMANT: 14 · ARCHIVED: 36
+- Rechecked: 6 (batched quote calls: 0 — promotion-flag due set, no FMP recheck needed; scored from deepdive engine run)
+- Promotions: NXPI (best_track 80>=75, briefs 25); AVAV (best_track 77>=75, briefs 11); ON (best_track 80>=75, briefs 7); FLEX (best_track 76>=75, briefs 5); INFY (best_track 80>=75, briefs 6)
+- Demotions: CACI (WATCH->DORMANT: single-brief, never corroborated); MTSI (WATCH->DORMANT: single-brief, never corroborated)
+- Next bi-weekly due: 2026-11-11

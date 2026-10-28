@@ -96,6 +96,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (≥448) on a named hyperscale
 - [2026-10-25] [seed008a] Filed by the Drift Detector judgment leg (candidate #22/23, DRIFT-008).
 - [2026-10-27] [0ce737f4] Second production proof point (PECC Summit, 2026-10-20): NVIDIA Dan Kuchta — CPO in production AI networking with silicon-photonic microring modulators + high-power external lasers + detachable fiber; Spectrum-X Ethernet Photonics switches claim 5x power efficiency and 10x MTBI vs pluggable-transceiver switches; pluggables (USFP, w/ Cisco 2026-10-12) AND copper explicitly remain in the roadmap (448 Gb/s-class copper) — architecture boundary, not cutoff. Status/scoring unchanged (scaling, 294 HIGH); status line already anticipates CPO scale-out production as the trigger — this confirms CPO scale-out production but copper-in-rack retention means cutoff sub-class is partial; no re-rate this cycle. https://convergedigest.com/nvidia-kuchta-pecc-cpo-npo-optics-serviceability/ (VERIFIED — search-confirmed, Oct 20 2026)
 - [2026-10-27] [8eba2808] Corroborating proof point (Hot Interconnects 2026): NVIDIA Gilad Shainer — Spectrum-X Ethernet Photonics CPO "now in production", built on TSMC COUPE packaging + NVIDIA microring modulators; optical scale-out approaching ~10% of compute power consumption in large AI systems; copper retained aggressively for short-reach Scale Up, CPO for Scale Out. Same drift, second OEM confirmation; no new named winner/loser edges (NVDA is the integrator, not a tracked winner row; MPWR loser line unchanged). https://convergedigest.com/hot-interconnects-nvidia-gilad-shainer-gigascale-ai-factory-network-architecture/ (VERIFIED — search-confirmed)
+- [2026-10-28] [apc054c1] Standards milestone (A2 leg candidate #54): Advanced Photonics Coalition (60 member orgs: foundries, PIC makers, laser/packaging/test suppliers) released its full specification portfolio 2026-10-20 at the PECC Summit — CPO system-level architecture overview, CPO recommended practices, silicon-photonic manufacturing spec, 4-core multicore fiber/FAU spec, CPO test practices. Stated goal: remove implementation variation + supply-chain silos to drive high-volume, lower-cost photonics manufacturing for AI/data center. This is an ecosystem-level adoption gate (standards de-risking volume CPO), not a new substitution — same DRIFT-008 drift, third corroboration of the CPO scale-out timeline. No re-rate (status scaling, cutoff-partial sub-class unchanged); note only. https://prnewswire.com/news-releases/advanced-photonics-coalition-announces-portfolio-of-specifications-and-best-practice-documents-to-accelerate-high-volume-manufacturing-of-optical-networking-gear-302913234.html (VERIFIED — search-confirmed, 2026-10-20)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
@@ -104,14 +105,14 @@ _Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AVGO | winner | 57.7% (FY2025) | 1653.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
-| COHR | winner | 74.1% (FY2026) | 46.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| AVGO | winner | 57.7% (FY2025) | 1679.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| COHR | winner | 74.1% (FY2026) | 47.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
 | IIVI | winner | 74.1% (FY2026) | 30.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
-| MPWR | loser | 94.4% (FY2023) [STALE] | 59.0 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
-| MRVL | winner | 74.4% (FY2026) | 218.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 59.5 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MRVL | winner | 74.4% (FY2026) | 220.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
 
 **Composite (M x T x C): 7 x 6 x 7 = **294** -> tier **HIGH**
-  - Mcap at stake: $55.7B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - Mcap at stake: $56.2B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
   - timing_years: 2 | displacement_sub_class: cutoff
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Molex (named ELSFP incumbent) not in tracked universe. MPWR DC-To-DC = the silicon final-stage/interconnect power line displaced by CPO scale-out (US-listed proxy; ~10% of MPWR revenue -> engine sub_downside lands in low band, honest).

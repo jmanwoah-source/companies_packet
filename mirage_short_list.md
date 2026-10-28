@@ -1,9 +1,9 @@
 # Mirage Short List — Track C: Structural Breakdown
 
-**Generated:** 2026-10-28 14:33 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-28 17:31 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-conviction overbought naked-PUT targets (Rubber Band Man).
 
-**Tickers listed:** 7
+**Tickers listed:** 8
 
 ## 1. QUBT — QUBT
 - **Score:** 35.0/100  ·  **Market cap:** $1.5B  ·  **Entered:** 2026-10-24 14:59  ·  **Updated:** 2026-10-28 14:33
@@ -23,22 +23,26 @@
 - scored 35
 
 ## 4. SVCO — 
-- **Score:** 30.0/100  ·  **Market cap:** $230M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-28 14:33
+- **Score:** 30.0/100  ·  **Market cap:** $233M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-28 17:31
 - **Engine data:** track_c_100=70
-- Severity 70 (runway 1.8q + dilution); hype 0; MIRAGE (C=30, non-passing)
+- C severity 70 (engine), hype penalty 0; score=30
 
-## 5. SKYQ — SKYQ
-- **Score:** 30.0/100  ·  **Market cap:** $10M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-28 14:33
+## 5. ATMS — 
+- **Score:** 30.0/100  ·  **Market cap:** $56M  ·  **Entered:** 2026-10-24 05:49  ·  **Updated:** 2026-10-28 17:31
 - **Engine data:** track_c_100=70
-- Severity 70 (runway 0q, dilution 95%); hype 0; MIRAGE (C=15, non-passing)
+- C severity 70 (engine), hype penalty 0; score=30
 
-## 6. ATMS — 
-- **Score:** 15.0/100  ·  **Market cap:** $56M  ·  **Entered:** 2026-10-24 05:49  ·  **Updated:** 2026-10-28 14:33
+## 6. SKYQ — SKYQ
+- **Score:** 30.0/100  ·  **Market cap:** $10M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-28 17:31
 - **Engine data:** track_c_100=70
-- engine severity 70/100
-- hype penalty 15/30
+- C severity 70 (engine), hype penalty 0; score=30
 
-## 7. XMAX — 
-- **Score:** 10.0/100  ·  **Market cap:** $536M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-28 14:33
+## 7. PRZO — ParaZero Technologies Ltd.
+- **Score:** 30.0/100  ·  **Market cap:** $15M  ·  **Entered:** 2026-10-28 17:31  ·  **Updated:** 2026-10-28 17:31
+- **Engine data:** track_c_100=70
+- C severity 70 (engine), hype penalty 0; score=30
+
+## 8. XMAX — 
+- **Score:** 10.0/100  ·  **Market cap:** $530M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-28 17:31
 - **Engine data:** track_c_100=90
-- Severity 100 (extreme: 344% dilution, GM -969bps, runway 1.8q); hype 0; MIRAGE (C=0, non-passing)
+- C severity 90 (engine), hype penalty 0; score=10

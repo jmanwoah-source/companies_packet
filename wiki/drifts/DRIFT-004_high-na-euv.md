@@ -80,6 +80,7 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 - [2026-10-27] [605a1f79] Leg A rescan datapoint (no re-rate): TSMC + ASML exploring 12-inch photomasks to unlock High-NA EUV's full-field capability for 2nm/angstrom-era nodes (DigiTimes, 2026-10-12) — mask-layer (consumables) extension of the High-NA adoption path, consistent with the eBeam 2031 12-inch-mask survey in det004c; still no HVM volume commit, C held at 6 (144 EMERGING). https://digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html (UNVERIFIED — aggregator snippet)
 - [2026-10-28] [b4d547df] Leg A rescan datapoint (no re-rate): Hitachi High-Tech + ZEISS accelerate a joint development framework for defect inspection for 2nm-node HVM with High-NA-EUV lithography (Hitachi High-Tech news release, 2026-09-30) — downstream metrology/inspection tooling layer extending the High-NA adoption stack beyond litho itself; no new US-listed winner edge (Hitachi = TYO, ZEISS = XETRA), C held at 6 (144 EMERGING). https://www.hitachi-hightech.com/global/en/news/nr20260930.html (VERIFIED — direct primary URL)
 - [2026-10-28] [c1a0f2e9] Leg A rescan datapoint (no re-rate; DRIFT-004 already filed → confirmatory, not a new event): Micron (MU) roadmap names wafer bonding on its 1ε DRAM process (in development) and High-NA EUV in later DRAM generations, with vHBM/vEIM custom-HBM mass production targeted 2028 (XenonSpectrum/Mezha, 2026-10). This is a DRAM-side roadmap commitment to High-NA at the exposure layer — claimed (roadmap, 2028), consistent with the det004c aggregator timelines (Samsung 2028 / TSMC 2030); no new US-listed winner edge (ASML/KLAC already named in DRIFT-004), C held at 6 (144 EMERGING). https://xenospectrum.com/en/micron-dram-bonding-vertical-memory/ (UNVERIFIED — secondary).
+- [2026-10-28] [e53bc3e2] Same-story re-scan datapoint (no re-rate): Micron wafer-bonding + High-NA EUV DRAM roadmap re-circulated on two new URLs (gate.com 25211122, ramtrend #5287) — same event as c1a0f2e9, confirmatory only; C held at 6 (144 EMERGING). https://www.gate.com/news/detail/MU/micron-plans-wafer-bonding-and-high-na-euv-for-next-gen-dram-25211122 · https://ramtrend.com/news/5287-micron-maps-wafer-bonding-and-high-na-euv-into-its-dram-roadmap (UNVERIFIED — secondary).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
@@ -88,8 +89,8 @@ _Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| ASML | winner | 0.0% (FY2025) | 640.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| KLAC | winner | 0.0% (FY2026) | 206.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ASML | winner | 0.0% (FY2025) | 640.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| KLAC | winner | 0.0% (FY2026) | 207.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 6 x 4 x 6 = **144** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: pilot

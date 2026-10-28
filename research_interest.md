@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 239
+- **Briefs Processed**: 240
 - **Unique Tickers**: 100
-- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 81, 'materials_science': 8, 'energy': 23}
+- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 81, 'materials_science': 8, 'energy': 24}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -15,6 +15,7 @@
 | macro_government | 26 |
 | patent_supply_chain | 24 |
 | sec_edgar | 5 |
+| osti_grants | 1 |
 
 ## Active Research List
 
@@ -343,3 +344,4 @@
 | 2026-10-28 | EDGAR new entrant: Galaxy Digital Inc. (GLXY) (CIK 0001859392) - match |  | positive medium | direct | semiconductors | high | `10EADA79` |
 | 2026-10-28 | EDGAR new entrant: ParaZero Technologies Ltd. (PRZO) (CIK 0001916241)  |  | positive medium | direct | semiconductors | high | `1ECD9A91` |
 | 2026-10-28 | EDGAR new entrant: T3 Defense Inc. (DFNS, DFNSW) (CIK 0001787518) - ma |  | positive medium | direct | semiconductors | high | `4C5848FC` |
+| 2026-10-28 | National Outlook of Nuclear Energy for Data Centers and Case Study Ana |  | positive low | indirect | energy | high | `251E2B20` |
