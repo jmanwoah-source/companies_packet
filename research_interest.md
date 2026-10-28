@@ -1,9 +1,9 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 234
+- **Briefs Processed**: 239
 - **Unique Tickers**: 100
-- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 76, 'materials_science': 8, 'energy': 23}
+- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 81, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
@@ -14,6 +14,7 @@
 | edge_robotics | 29 |
 | macro_government | 26 |
 | patent_supply_chain | 24 |
+| sec_edgar | 5 |
 
 ## Active Research List
 
@@ -337,3 +338,8 @@
 | 2026-10-28 | Two Chip Stocks Upgraded To Buy On AI Data-Center Business | MTSI | positive medium | direct | semiconductors | medium | `26529A08` |
 | 2026-10-28 | NXP Stock Falls 9% After Hours on Q4 Revenue Guidance | NXPI | negative low | direct | semiconductors | low | `2A77A746` |
 | 2026-10-28 | IonQ Wins AFRL Phase 2 Contract to Beam Quantum Entanglement Through O | IONQ | positive medium | direct | quantum | medium | `86B6CC1E` |
+| 2026-10-28 | EDGAR new entrant: Spark I Acquisition Corp (SPKL, SPKLF, SPKLU, SPKLW |  | neutral low | speculative | semiconductors | high | `46D563CC` |
+| 2026-10-28 | EDGAR new entrant: ECOLAB INC. (ECL) (CIK 0000031462) - match "liquid  |  | neutral low | indirect | semiconductors | high | `DEA7BBB7` |
+| 2026-10-28 | EDGAR new entrant: Galaxy Digital Inc. (GLXY) (CIK 0001859392) - match |  | positive medium | direct | semiconductors | high | `10EADA79` |
+| 2026-10-28 | EDGAR new entrant: ParaZero Technologies Ltd. (PRZO) (CIK 0001916241)  |  | positive medium | direct | semiconductors | high | `1ECD9A91` |
+| 2026-10-28 | EDGAR new entrant: T3 Defense Inc. (DFNS, DFNSW) (CIK 0001787518) - ma |  | positive medium | direct | semiconductors | high | `4C5848FC` |

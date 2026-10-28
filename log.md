@@ -239,3 +239,17 @@
 - Catalyst notes appended (additive, no re-rate, no substitution-pair mutation): DRIFT-004 +c1a0f2e9 (Micron High-NA roadmap, 144 EMERGING), DRIFT-006 +7e3d9b1a (CEG 890MW/2700MW, 105 EMERGING).
 - Engine: drift_scoring.py 10 sidecars, composites unchanged (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors. FLAG: DRIFT-002 NVTS row [STALE] (FY2024 segment) — engine row retained as last-known.
 - Track D: rebuilt; 0 cascade eligible this cycle.
+
+## 2026-10-26 — news-break seam wired to the Drift Detector cron
+- `~/.hermes/scripts/drift_ingest.py`: one ingress contract, many producers. Merges breaks from
+  `drift_inbox.json` into the `drift_candidates.json` spine as `priority:"break"`; idempotent
+  (deterministic `BREAK-<md5[:8]>` id); dedupes vs filed-drift URLs (HOST-AGNOSTIC on path?query —
+  fixed the uk./www. exact-match miss this session) + already-processed state. `--run` kicks the
+  deterministic legs.
+- Cron `e9711f5abb15` (Drift Detector): STEP 0.3 now runs `drift_ingest.py`; STEP 1 (c) documents
+  the `breaks` leg — breaks are judged FIRST, same quality bar as scan candidates (never filed on
+  assertion alone), `verify: SECOND-SOURCE` noted in Evidence, same-story/different-URL breaks are
+  re-rating signals (append dated Evidence note) not duplicate filings.
+- Design principle: the seam grants a break URGENCY + provenance, NOT special scoring status. A
+  break that is noise degrades to NOISE and consolidates out like any drift. Live spine verified
+  byte-identical through dry-run.
