@@ -1,4 +1,11 @@
-## Watchlist — 2026-10-27
+Watchlist — 2026-10-27
+- ACTIVE: 7 · WATCH: 54 · DORMANT: 7 · ARCHIVED: 31
+- Rechecked: 7 (batched quote calls: 1 — full briefing quotes via engine deepdive; 43 promote-hook tickers updated from briefing quotes)
+- Promotions: none
+- Demotions: TVC (WATCH->DORMANT, single-brief uncorroborated — TVA is a federal authority, not a tradable equity)
+- Next bi-weekly due: 2026-11-09
+
+2026-10-27
 - ACTIVE: 7 · WATCH: 55 · DORMANT: 6 · ARCHIVED: 31
 - Rechecked: 0 (nothing bi-weekly due; batched quote calls: 0)
 - Promotions: INFQ (best=75, briefs=27)
