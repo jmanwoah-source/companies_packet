@@ -231,3 +231,11 @@
 - WOLF (−25.9% resid) and AXTI (+32.2% resid) flagged idiosyncratic = their OWN events
   (Wolfspeed Ch.11 / AXTI substrate surge), NOT the drift. This is the fix for the
   "carried-as-winner but fell" read: it was macro + idiosyncratic, never a signal miss.
+
+## 2026-10-28 11:32 — drift-scan (Leg A rescan)
+- Health gate ALL_GOOD; drift_scan.py fresh: 13 sector queries → 39 candidates; cascade 0 (queue empty).
+- 0 new drifts filed (39 reviewed, 39 rejected). Leg B: cascade queue empty → no eligible drift, no cascade state changes.
+- Rejections (one-line): 450mm/GAA/etch/fab-guide/purewafer (educational/wiki/marketing, no swap); Micron High-NA 1ε/vHBM 2028 (duplicate DRIFT-004, confirmed — note c1a0f2e9 appended); Polar+imec 8-inch GaN (duplicate DRIFT-002, private winner); adv-packaging/panel-vs-wafer/TSMC 5x-CoWoS (trend/thinkpiece or scale-up, no clean old→new + US winner); liquid/immersion cooling (design guides, dup DRIFT-005); 800V DC (dup DRIFT-009); CPO copper-retreat (dup DRIFT-008, NVIDIA claimed); SMR-BTM (PPA calculators/thinkpiece, dup DRIFT-006); transformer lead-time (supply/demand news, not a process swap); NRC AP1000 cert renewed to 2066 (regulatory renewal of existing design, not old→new); Google–Constellation 890 MW (SAME det006b 20yr/$4.3B CEG deal at primary URL + 15yr/2700MW supply agreement; uprates on existing PWRs, gate NOT fired — note 7e3d9b1a appended, CEG cash-flow edge confirmed).
+- Catalyst notes appended (additive, no re-rate, no substitution-pair mutation): DRIFT-004 +c1a0f2e9 (Micron High-NA roadmap, 144 EMERGING), DRIFT-006 +7e3d9b1a (CEG 890MW/2700MW, 105 EMERGING).
+- Engine: drift_scoring.py 10 sidecars, composites unchanged (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors. FLAG: DRIFT-002 NVTS row [STALE] (FY2024 segment) — engine row retained as last-known.
+- Track D: rebuilt; 0 cascade eligible this cycle.

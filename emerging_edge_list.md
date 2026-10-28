@@ -1,6 +1,6 @@
 # Emerging Edge List — Track B: Emerging Bottleneck / Tech Edge
 
-**Generated:** 2026-10-28 07:23 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-28 11:32 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-beta, explosive-delta oversold naked-CALL targets (Rubber Band Man).
 
 **Tickers listed:** 0
