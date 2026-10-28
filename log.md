@@ -217,3 +217,17 @@
 - **CASCADE:** queue empty (eligible=[]) -> cascade leg not executed; cascade_state.json untouched.
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted fresh.
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible (nothing >=500 fresh, no gate-fires).
+
+## 2026-10-26 — drift de-noise: residual spread (strip macro drift)
+- New `~/.hermes/scripts/drift_denoise.py` + report `research/drift_denoise_800v.md`.
+- Method: residual(t) = move(t) − SMH (the sector beta); per-drift spread =
+  mean(loser residual) − mean(winner residual). The absolute level is macro; ONLY the
+  residual spread is the substitution signal. Idiosyncratic outliers (|resid|≥20%) flagged,
+  not averaged in.
+- Finding (800V window, SMH −2.9%): DRIFT-008 spread −8.2% (substitution real — MPWR
+  residual −9.0 vs winners −0.7); DRIFT-009 spread +0.7% (honest null — 800V is an
+  architecture-reset, market grows, no clean loser to de-rate — consistent with the drift
+  note); DRIFT-005 +7.7% (NOT supported — ETN class-proxy proxy, flagged).
+- WOLF (−25.9% resid) and AXTI (+32.2% resid) flagged idiosyncratic = their OWN events
+  (Wolfspeed Ch.11 / AXTI substrate surge), NOT the drift. This is the fix for the
+  "carried-as-winner but fell" read: it was macro + idiosyncratic, never a signal miss.
