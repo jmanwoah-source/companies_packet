@@ -84,7 +84,7 @@ Tier: **EMERGING (50-199)** — one hyperscaler 800V DC rack-volume commitment f
 - [2026-10-26] [det009b] Third dated 800V DC proof point, now co-developed with the OEM: Navitas + NVIDIA developed a 24 kW, 800 VDC-to-12 VDC power delivery board (PDB) for the NVIDIA MGX ecosystem — single-stage 800V→12V conversion explicitly eliminating the conventional 50V IBC stage, 16× NV6034 GaNFast 650V FETs (stacked half-bridge), 97% full-load efficiency target, >2,000 W/in³, NVIDIA 400×60 mm form factor; to be showcased at the 2026 OCP Global Summit. Follows the 20 kW 800V→6V board debuts at GTC 2026. This is OEM co-development, not yet a hyperscaler volume rack deployment → certainty held at 5, score unchanged 180 EMERGING. NVTS upside edge reinforced (the PDB IS the NV6034 line in product form). https://www.powerelectronicsnews.com/navitas-nvidia-develop-24-kw-800v-to-12v-power-board/ (VERIFIED — fetched 2026-10-26)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-009.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-009.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

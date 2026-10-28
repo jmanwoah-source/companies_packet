@@ -98,7 +98,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (≥448) on a named hyperscale
 - [2026-10-27] [8eba2808] Corroborating proof point (Hot Interconnects 2026): NVIDIA Gilad Shainer — Spectrum-X Ethernet Photonics CPO "now in production", built on TSMC COUPE packaging + NVIDIA microring modulators; optical scale-out approaching ~10% of compute power consumption in large AI systems; copper retained aggressively for short-reach Scale Up, CPO for Scale Out. Same drift, second OEM confirmation; no new named winner/loser edges (NVDA is the integrator, not a tracked winner row; MPWR loser line unchanged). https://convergedigest.com/hot-interconnects-nvidia-gilad-shainer-gigascale-ai-factory-network-architecture/ (VERIFIED — search-confirmed)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

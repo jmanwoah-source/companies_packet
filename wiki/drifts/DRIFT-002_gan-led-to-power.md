@@ -96,7 +96,7 @@ both edges intact.
 - [2026-10-27] [21ff8d7f] Re-surfaced by the 2026-10-27 Leg A scan (query "GaN-on-Si power epiwafer 8-inch"): Compound Semiconductor article of the same Polar/IC-Link-by-imec 8-inch e-mode GaN-on-Si license transfer (published 2026-10-13) adds market scope — AI data centres, automotive, aerospace & defense, grid; initial 40-650V window with expansion toward 800V-to-12V data-center conversion. Same entrant as det002a (dedup: no new edge, no re-rate). https://compoundsemiconductor.net/article/125605/Polar_and_Imec_announce_8-inch_GaN_partnership (VERIFIED, page fetched)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-002.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

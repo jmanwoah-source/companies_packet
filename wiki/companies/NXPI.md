@@ -41,7 +41,8 @@ Generated: 2026-10-14T08:02:38Z
 - [2026-10-14] NXP Semiconductors (NXPI) Stock May Be Near Fair Value After Citi Downgrade | semiconductors (neutral low indirect/low)
 - [2026-10-14] NXP Semi Gets Hit With a Double Downgrade. Why Texas Instruments Stock Is a Better Bet. | semiconductors (negative medium direct/medium)
 | 2026-10-15 | This Wall Street Pro Makes a Compelling Argument for 70% Gains on NXP Semiconduc | negative | medium | indirect | negative_intelligence | semiconductors | affected |
-## Catalyst Log
+## Catalyst Log- [2026-10-28] NXP Stock Falls 9% After Hours on Q4 Revenue Guidance | semiconductors (negative low) [`2A77A746`]
+
 [2026-10-15T08:42:10Z] NXP Semiconductors falls as Citi cuts stock on limited data center exposure - Yahoo Finance Singapore
   Source: negative_intelligence | Impact: neutral (low) | Conf: low
   Summary: NXP Semiconductors falls as Citi cuts stock on limited data center exposure - Yahoo Finance Singapore (headline-only signal; source body unavailable). Impact classified neutral/low on keyword evidence from headline alone. Ticker coverage: NXPI. Category: ai_infrastructure. Confidence is capped at lo

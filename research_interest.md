@@ -1,17 +1,17 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 230
-- **Unique Tickers**: 98
-- **Categories**: {'quantum': 36, 'edge_robotics': 35, 'ai_infrastructure': 33, 'semiconductors': 74, 'materials_science': 8, 'energy': 23}
+- **Briefs Processed**: 234
+- **Unique Tickers**: 100
+- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 76, 'materials_science': 8, 'energy': 23}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 63 |
-| quantum_research | 35 |
+| negative_intelligence | 65 |
+| quantum_research | 36 |
 | conference_deep_dive | 33 |
-| edge_robotics | 28 |
+| edge_robotics | 29 |
 | macro_government | 26 |
 | patent_supply_chain | 24 |
 
@@ -26,10 +26,10 @@
 | INTC | 8 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
 | DRS | 7 | edge_robotics | positive high,positive medium |
 | MU | 7 | ai_infrastructure,semiconductors | negative high,positive high,positive medium |
+| NXPI | 7 | ai_infrastructure,semiconductors | negative high,negative low,negative medium |
 | TSM | 7 | semiconductors | negative medium,positive high,positive medium |
 | AVGO | 6 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
-| NXPI | 6 | ai_infrastructure,semiconductors | negative high,negative medium |
-| IONQ | 5 | quantum | positive high,positive low,positive medium |
+| IONQ | 6 | quantum | positive high,positive low,positive medium |
 | QBTS | 5 | quantum | positive high,positive medium |
 | RTX | 5 | edge_robotics | ambiguous low,positive high |
 | ARM | 4 | ai_infrastructure,edge_robotics | positive high,positive medium |
@@ -67,6 +67,7 @@
 | ATOM | 1 | materials_science | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
 | BWX | 1 | energy | positive high |
+| CACI | 1 | edge_robotics | positive medium |
 | CARR | 1 | ai_infrastructure | positive medium |
 | CEG | 1 | energy | positive medium |
 | CMST | 1 | ai_infrastructure | positive medium |
@@ -90,6 +91,7 @@
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
 | MCHP | 1 | semiconductors | positive low |
+| MTSI | 1 | semiconductors | positive medium |
 | MVIS | 1 | semiconductors | positive medium |
 | NAVI | 1 | semiconductors | positive medium |
 | NOC | 1 | edge_robotics | ambiguous low |
@@ -331,3 +333,7 @@
 | 2026-10-27 | Logical qubits start outperforming physical qubits - Quantinuum | QUBT | positive low | speculative | quantum | high | `81CD8469` |
 | 2026-10-27 | Disclosed Defence Quantum Computing Money Doubled To Tripled | RGTI | positive medium | indirect | quantum | low | `FD7E3EFE` |
 | 2026-10-27 | Quantum Cyber Invited to Present Quantum Antenna Technology at Quantum |  | positive low | direct | quantum | high | `F660680D` |
+| 2026-10-28 | CACI Wins $500M Contract for SkyValor Drone Defense | CACI | positive medium | direct | edge_robotics | medium | `DFCB8FFC` |
+| 2026-10-28 | Two Chip Stocks Upgraded To Buy On AI Data-Center Business | MTSI | positive medium | direct | semiconductors | medium | `26529A08` |
+| 2026-10-28 | NXP Stock Falls 9% After Hours on Q4 Revenue Guidance | NXPI | negative low | direct | semiconductors | low | `2A77A746` |
+| 2026-10-28 | IonQ Wins AFRL Phase 2 Contract to Beam Quantum Entanglement Through O | IONQ | positive medium | direct | quantum | medium | `86B6CC1E` |

@@ -85,7 +85,7 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-10-27] [5c8bb9d4] Leg A rescan datapoints (no re-rate; gate NOT fired): (1) NRC AP1000 design certification renewal (Revision 20, through ~2066, Vogtle 3&4 lessons) re-surfaced with the Federal Register final rule (2026-10-14, 2026-21030) — supersedes the det006b news-release citation with the official register text; AP1000 is an existing large-PWR design, NOT an advanced-design SDA, so the timing-gate clock is unaffected. https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal (VERIFIED — official). (2) Google/Constellation 20-yr $4.3B uprate deal (11 existing reactors, 2026-10-09) re-surfaced — already logged as det006b (2); no new edge. Score unchanged 105 EMERGING (re-rate on SDA grant).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-27 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
