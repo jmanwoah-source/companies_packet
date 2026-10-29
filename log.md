@@ -327,3 +327,33 @@
 - Track D: rebuilt; 23 dossiers touched; INDEX regenerated (10 drifts); cascade
   gate post-run: 0 eligible (nothing >=500 or gate-fire) -> cascade_state.json
   unchanged this cycle.
+
+## 2026-10-29 drift-scan (Drift Detector)
+- Health gate: ALL_GOOD (vllm UP, searxng UP/RUNNING, feeds FRESH, disk OK; eia DEGRADED).
+- Scan: 13 sector -> 39 base candidates; 6 a2 -> 18 a2 candidates; 0 cascade queries
+  (0 eligible). 0 breaks merged (drift_ingest N=0). No overlap-lock skip,
+  upstream_suspicious_queries=0 (no suspension).
+- Filed: 0 new drifts (57 candidates reviewed: 39 base + 18 a2).
+  Rejection highlights (base): Polar/IC-Link 8" GaN-on-Si (x3) = same entrant as
+  DRIFT-002 det002a/21ff8d7f, PRIVATE winner, no new US-listed edge -> no re-file;
+  GF-TSMC $2B interposer deal = US-listed winner GF delisted (FMP profile-symbol('GF')
+  -> "The New Germany Fund", marketCap $167M; PIF ownership) -> no US ticker, REJECTED;
+  rest = thinkpieces/guides (high-NA explainer, FinFET-vs-GAA explainer, liquid-cooling
+  comparison, 800VDC architecture blogs, transformer-lead-time research) or earnings/
+  growth not a process swap (ON analyst bull-case).
+  A2 shadow-run: 18 reviewed, 18 rejected. Dominant reasons: listicle/guide (top-30,
+  tape-out explainer, foundry-vs-fabless explainer, USPTO/WIPO search-tool pages,
+  MATLAB file), non-US/PRIVATE winner (SawStreet private x2, EnSilica AIM, Mueon
+  $65M raise x2), anchor-only / no US-listed winner (ON Sungrow design-win),
+  patent/spec-only (Si-SiC hybrid patent, APC CPO specs = already noted on DRIFT-008).
+  3rd slot UNUSED: no A2 candidate with a nano/sub-ceiling US-listed winner at
+  pilot-or-better certainty.
+- Cascade leg: 0 eligible drifts this cycle -> 0 new tickers surfaced;
+  cascade_state.json unchanged (no increment — nothing to count).
+- Engine: drift_scoring.py 10 sidecars, composites held
+  (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors. Pre-existing [STALE]
+  segments on DRIFT-002 (NVTS FY2024) / DRIFT-007 / DRIFT-008 / DRIFT-009 remain
+  flagged last-known (no new FMP data; rows preserved).
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
+  (10 drifts), substitution_short_list refreshed. Cascade gate post-run: 0 eligible
+  (nothing >=500 or gate-fire) -> cascade_queue.json eligible=[].

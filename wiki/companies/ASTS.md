@@ -29,3 +29,6 @@
 - [2026-09-27T15:30:00Z] [2026-09-27T15:30:00Z] KBW Cuts Core Scientific Market Cap Estimate - finance.yahoo.com (impact: negative)
 - [2026-10-06T13:16:31Z] KBW Cuts Core Scientific Market Cap Estimate (ai_infrastructure) | positive | direct | low
 - [2026-10-06T13:13:16Z] KBW Cuts Core Scientific Market Cap Estimate (ai_infrastructure) | Impact: positive | Materiality: direct | Confidence: low
+
+## Catalyst Log
+- [2026-10-29] Premarket Movers: MU, ASTS, ADBE Slide As China Chip Threat and Analyst Downgrades Rattle Stocks | semiconductors (negative medium) [`D974A0C4`]

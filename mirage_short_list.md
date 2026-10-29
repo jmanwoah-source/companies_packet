@@ -1,6 +1,6 @@
 # Mirage Short List — Track C: Structural Breakdown
 
-**Generated:** 2026-10-29 06:02 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-29 13:13 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-conviction overbought naked-PUT targets (Rubber Band Man).
 
 **Tickers listed:** 8
@@ -28,21 +28,25 @@
 - C severity 70 (engine), hype penalty 0; score=30
 
 ## 5. PRZO — ParaZero Technologies Ltd.
-- **Score:** 30.0/100  ·  **Market cap:** $15M  ·  **Entered:** 2026-10-28 17:31  ·  **Updated:** 2026-10-29 06:02
+- **Score:** 30.0/100  ·  **Market cap:** $15M  ·  **Entered:** 2026-10-28 17:31  ·  **Updated:** 2026-10-29 13:13
 - **Engine data:** track_c_100=70
-- severity=70; hype_penalty=0
+- severity=70
+- hype=0
 
 ## 6. SVCO — 
-- **Score:** 25.0/100  ·  **Market cap:** $233M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-29 06:02
+- **Score:** 25.0/100  ·  **Market cap:** $228M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-29 13:13
 - **Engine data:** track_c_100=70
-- severity=70; hype_penalty=5
+- severity=70
+- hype=5
 
-## 7. SKYQ — SKYQ
-- **Score:** 15.0/100  ·  **Market cap:** $10M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-29 06:02
-- **Engine data:** track_c_100=70
-- severity=70; hype_penalty=15
-
-## 8. XMAX — 
-- **Score:** 0.0/100  ·  **Market cap:** $530M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-29 06:02
+## 7. XMAX — 
+- **Score:** 5.0/100  ·  **Market cap:** $537M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-29 13:13
 - **Engine data:** track_c_100=90
-- severity=90; hype_penalty=20
+- severity=90
+- hype=5
+
+## 8. SKYQ — SKYQ
+- **Score:** 5.0/100  ·  **Market cap:** $10M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-29 13:13
+- **Engine data:** track_c_100=70
+- severity=70
+- hype=25

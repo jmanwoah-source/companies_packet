@@ -103,10 +103,10 @@ _Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmenta
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
 | NVTS | winner | 0.0% (FY2024) [STALE] | 2.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| ON | winner | 46.8% (FY2025) | 29.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
+| ON | winner | 46.8% (FY2025) | 29.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
 | SMART | loser | n/a (no matching segment data) | ? | n/a | None -> ? (unmapped) | - |
-| SWKS | winner | n/a (no matching segment data) | 13.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| WOLF | winner | 100.0% (FY2025) | 1.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
+| SWKS | winner | n/a (no matching segment data) | 13.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| WOLF | winner | 100.0% (FY2025) | 1.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
 
 **Composite (M x T x C): 6 x 10 x 10 = **600** -> tier **CRITICAL**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated

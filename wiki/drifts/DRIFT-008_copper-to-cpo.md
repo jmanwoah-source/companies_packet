@@ -105,14 +105,14 @@ _Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AVGO | winner | 57.7% (FY2025) | 1679.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
-| COHR | winner | 74.1% (FY2026) | 47.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| AVGO | winner | 57.7% (FY2025) | 1647.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| COHR | winner | 74.1% (FY2026) | 47.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
 | IIVI | winner | 74.1% (FY2026) | 30.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
-| MPWR | loser | 94.4% (FY2023) [STALE] | 59.5 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
-| MRVL | winner | 74.4% (FY2026) | 220.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 58.8 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MRVL | winner | 74.4% (FY2026) | 191.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
 
 **Composite (M x T x C): 7 x 6 x 7 = **294** -> tier **HIGH**
-  - Mcap at stake: $56.2B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - Mcap at stake: $55.5B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
   - timing_years: 2 | displacement_sub_class: cutoff
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Molex (named ELSFP incumbent) not in tracked universe. MPWR DC-To-DC = the silicon final-stage/interconnect power line displaced by CPO scale-out (US-listed proxy; ~10% of MPWR revenue -> engine sub_downside lands in low band, honest).

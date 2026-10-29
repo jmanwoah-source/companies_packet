@@ -1,3 +1,10 @@
+## Watchlist — 2026-10-29
+- ACTIVE: 14 · WATCH: 40 · DORMANT: 18 · ARCHIVED: 36
+- Rechecked: 5 (batched quote calls: 0 — prices from deepdive engine briefing)
+- Promotions: none
+- Demotions: none
+- Next bi-weekly due: 2026-11-12
+- Notes: SAI added to entity-review (SAIC quantum brief belongs to SAIC, private); CMST INVALID_TICKER; TXN excluded ($283B >= $100B gate); SWKS/VST new to universe (DORMANT, 0 briefs)
 ## Watchlist — 2026-10-29 (03:40 UTC, deep-dive cron)
 - ACTIVE: 13 · WATCH: 41 · DORMANT: 16 · ARCHIVED: 36
 - Rechecked: 0 due (bi-weekly gate: next due 2026-11-12; cheap demotion scan only; batched quote calls: 0)

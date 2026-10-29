@@ -19,3 +19,6 @@
 
 ### Dated Catalyst Notes:
 - [2026-10-02] [2026-10-02] MongoDB just got a reality check from Wall Street - TheStreet (negative_intelligence: neutral)
+
+## Catalyst Log
+- [2026-10-29] Premarket Movers: MU, ASTS, ADBE Slide As China Chip Threat and Analyst Downgrades Rattle Stocks | semiconductors (negative medium) [`D974A0C4`]

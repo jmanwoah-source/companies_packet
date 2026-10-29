@@ -1,14 +1,14 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 247
-- **Unique Tickers**: 102
-- **Categories**: {'quantum': 38, 'edge_robotics': 36, 'ai_infrastructure': 34, 'semiconductors': 85, 'materials_science': 9, 'energy': 24}
+- **Briefs Processed**: 248
+- **Unique Tickers**: 104
+- **Categories**: {'quantum': 38, 'edge_robotics': 36, 'ai_infrastructure': 34, 'semiconductors': 86, 'materials_science': 9, 'energy': 24}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 70 |
+| negative_intelligence | 71 |
 | quantum_research | 37 |
 | conference_deep_dive | 33 |
 | edge_robotics | 29 |
@@ -62,11 +62,13 @@
 | PNR | 2 | ai_infrastructure | negative high |
 | TSLA | 2 | semiconductors | negative medium,positive medium |
 | AAPL | 1 | semiconductors | negative high |
+| ADBE | 1 | semiconductors | negative medium |
 | AEM | 1 | semiconductors | positive low |
 | AI | 1 | ai_infrastructure | negative high |
 | ALGM | 1 | semiconductors | positive low |
 | AMAT | 1 | semiconductors | positive high |
 | AMZN | 1 | ai_infrastructure | negative medium |
+| ASTS | 1 | semiconductors | negative medium |
 | ATMS | 1 | semiconductors | positive high |
 | ATOM | 1 | materials_science | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
@@ -354,3 +356,4 @@
 | 2026-10-29 | Vistra (NYSE:VST) Stock Price Down 2.8% Following Analyst Downgrade | VST | negative low | direct | ai_infrastructure | low | `A9C2604F` |
 | 2026-10-29 | NXP Semiconductors (NXPI.US) falls nearly 6% in early trading on Q4 re | NXPI | negative medium | direct | semiconductors | low | `AB6AA93F` |
 | 2026-10-29 | Novel Crystal Technology Ships 150mm Ga2O3 Substrate Samples | AMKR,MTSI | ambiguous medium | indirect | materials_science | medium | `E9F38589` |
+| 2026-10-29 | Premarket Movers: MU, ASTS, ADBE Slide As China Chip Threat and Analys | ADBE,ASTS | negative medium | direct | semiconductors | low | `D974A0C4` |
