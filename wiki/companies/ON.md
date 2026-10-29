@@ -24,7 +24,8 @@ patent
 Generated: 2026-10-14T08:02:38Z
 - [2026-10-14] ON Semiconductor Patents - Insights & Stats (Updated 2025) | semiconductors (positive low indirect/low)
 | 2026-10-13 | ON Semiconductor Patents - Insights & Stats (Updated 2025) | positive | high | direct | patent_supply_chain | materials_science | benefit |
-## Catalyst Log
+## Catalyst Log- [2026-10-29] ON Semiconductor Falls 5%, NXP Drops 4% as Soft Q4 Guidance (midpoint $3.85B) Revives Auto Chip Worries | semiconductors (negative medium) [`E247C333`]
+
 [2026-10-15T08:38:17Z] ON Semiconductor Patents - Insights & Stats (Updated 2025)
   Source: patent | Impact: positive (medium) | Conf: medium
   Summary: ON Semiconductor has 7878 patents globally, out of which 5376 have been granted. Of these 7878 patents, more than 80% patents are active.How Many Patents did ON... · Countries in which ON...

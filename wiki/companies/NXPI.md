@@ -153,3 +153,10 @@ Generated: 2026-10-14T08:02:38Z
 
 ### Dated Catalyst Notes:
 - [2026-10-02] [2026-10-02] TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe (patent_supply_chain: positive)
+
+## Catalyst Log- [2026-10-29] ON Semiconductor Falls 5%, NXP Drops 4% as Soft Q4 Guidance (midpoint $3.85B) Revives Auto Chip Worries | semiconductors (negative medium) [`E247C333`]
+
+- [2026-10-29] NXP Semiconductors (NXPI) Faces Stock Dip After Q3 Guidance, Dividend Outlook Remains Solid | semiconductors (negative medium) [`6C784478`]
+
+## Catalyst Log
+- [2026-10-29] NXP Semiconductors (NXPI.US) falls nearly 6% in early trading on Q4 revenue guidance below expectations | semiconductors (negative medium) [`AB6AA93F`]

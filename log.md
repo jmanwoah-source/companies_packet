@@ -288,3 +288,42 @@
   FLAG: DRIFT-002 NVTS row [STALE] (FY2024 segment) — last-known, retained.
 - Track D: rebuilt; 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate
   post-run: 0 eligible -> cascade_state.json unchanged this cycle.
+- [2026-10-29] drift-scan: health gate DEGRADED (eia primary feed in 4-tick error
+  streak, demoted=false — gate FAIL:primary_feeds; informational, EIA leg only,
+  drift scan itself clean). drift_scan.py fresh: 13 sector queries -> 36 base
+  candidates; 6 a2 queries -> 18 a2 candidates; 0 cascade (queue empty). WARNING:
+  1 query flagged upstream_suspension ('450mm wafer foundry transition' returned
+  0 with all time-capable engines down — engines_down brave/duckduckgo/google/
+  google cse; Bing-backed plain queries all healthy with 8-10 fresh).
+  drift_ingest.py: 0 breaks merged.
+- 0 new drifts filed (36 base + 18 a2 = 54 reviewed, 54 rejected).
+- Base rejections (one-line; window is largely the same 1-month pool as
+  2026-10-28): ASML-HighNA-explainer/SPIE-Hyper-NA/Micron-wafer-bonding (dup
+  DRIFT-004, already noted x2 — 3rd re-circulation, no new datapoint); FinFET-vs-
+  GAA/WSe2-science/post-etch-inspection (educational/thinkpiece, no swap or US
+  winner); Polar/imec 8-inch GaN x3 (dup DRIFT-002, Polar = PRIVATE winner);
+  adv-packaging/panels x3 (thinkpiece, no US winner); liquid/immersion/ASHRAE x4
+  (design guides, dup DRIFT-005); 800VDC x3 (dup DRIFT-009); CPO-copper x3 (dup
+  DRIFT-008); SMR-BTM calculator + behind-the-meter x3 (thinkpiece, dup
+  DRIFT-006); NRC AP1000 renewal to 2066 (regulatory renewal, not old->new);
+  Hadron pre-application (rumored, pre-application stage, no US winner);
+  Google-Constellation 890MW (uprates on existing PWRs, same det006b, gate not
+  fired); nuclear-deal-tracker/transformer-lead-times x3 (supply/trend, not a
+  process swap).
+- A2 shadow-run (18 reviewed, 18 rejected; precision NOT tainted — suspension
+  flag was on a Leg A query, not A2): SawStreet/WIN x2 (Korea backend services,
+  non-US), tape-out guide + foundry-vs-fabless + MATLAB exchange + FAR 9.2
+  (listicle/guide x5), EnSilica (AIM: ENSI, non-US), NXP-VW (anchor-sized winner,
+  rule 1 fails), onsemi-Sungrow BESS (anchor cap + additive efficiency claim),
+  SiC patent x3 (patent filings, rumored), Mueon $65M x2 (funding raise, PRIVATE,
+  no ticker), APC CPO specs (already noted apc054c1 on DRIFT-008 last cycle),
+  Marvell/Lumentum/Coherent M&A musing (speculative trade, not a process
+  substitution). Dominant rejection reasons: listicle/guide (5), non-US/PRIVATE
+  winner (8), anchor-sized (2), rumored/patent (3). Gated 3rd slot UNUSED: no A2
+  candidate with nano/sub-ceiling US-listed winner at pilot-or-better certainty.
+- Engine: drift_scoring.py 10 sidecars, composites unchanged
+  (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors, 25 FMP profiles
+  persisted.
+- Track D: rebuilt; 23 dossiers touched; INDEX regenerated (10 drifts); cascade
+  gate post-run: 0 eligible (nothing >=500 or gate-fire) -> cascade_state.json
+  unchanged this cycle.

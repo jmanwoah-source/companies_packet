@@ -37,3 +37,6 @@ Last updated: 2026-10-11T21:26:41Z
 ## Catalyst Log- [2026-10-23] Nvidia Lines Up Six Suppliers To Expand AI Chip Capacity Through 2028 | semiconductors (positive medium) [`8036796B`]
 
 - [2026-10-22] NVIDIA Expands AI Supply Chain With Six Partners Including Ibiden, Targeting 2.5x Substrate Capacity | ai_infrastructure (positive medium) [`FA2BE72B`]
+
+## Catalyst Log
+- [2026-10-29] Novel Crystal Technology Ships 150mm Ga2O3 Substrate Samples | materials_science (ambiguous medium) [`E9F38589`]

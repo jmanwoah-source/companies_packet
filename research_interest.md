@@ -1,19 +1,19 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 240
-- **Unique Tickers**: 100
-- **Categories**: {'quantum': 37, 'edge_robotics': 36, 'ai_infrastructure': 33, 'semiconductors': 81, 'materials_science': 8, 'energy': 24}
+- **Briefs Processed**: 247
+- **Unique Tickers**: 102
+- **Categories**: {'quantum': 38, 'edge_robotics': 36, 'ai_infrastructure': 34, 'semiconductors': 85, 'materials_science': 9, 'energy': 24}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 65 |
-| quantum_research | 36 |
+| negative_intelligence | 70 |
+| quantum_research | 37 |
 | conference_deep_dive | 33 |
 | edge_robotics | 29 |
 | macro_government | 26 |
-| patent_supply_chain | 24 |
+| patent_supply_chain | 25 |
 | sec_edgar | 5 |
 | osti_grants | 1 |
 
@@ -24,11 +24,11 @@
 | NVDA | 14 | ai_infrastructure,edge_robotics,energy,materials_science,semiconductors | ambiguous low,negative high,positive high,positive medium |
 | AMD | 12 | ai_infrastructure,edge_robotics,materials_science,semiconductors | negative medium,positive high,positive medium |
 | IBM | 11 | ai_infrastructure,quantum | positive high,positive medium |
+| NXPI | 10 | ai_infrastructure,semiconductors | negative high,negative low,negative medium |
 | INFQ | 9 | quantum | positive high,positive low,positive medium |
 | INTC | 8 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
 | DRS | 7 | edge_robotics | positive high,positive medium |
 | MU | 7 | ai_infrastructure,semiconductors | negative high,positive high,positive medium |
-| NXPI | 7 | ai_infrastructure,semiconductors | negative high,negative low,negative medium |
 | TSM | 7 | semiconductors | negative medium,positive high,positive medium |
 | AVGO | 6 | ai_infrastructure,semiconductors | negative medium,positive high,positive medium |
 | IONQ | 6 | quantum | positive high,positive low,positive medium |
@@ -41,13 +41,13 @@
 | SMTC | 4 | semiconductors | negative high,negative low,positive medium |
 | AEP | 3 | energy | positive high,positive low,positive medium |
 | ALAB | 3 | ai_infrastructure | ambiguous low,negative medium |
+| AMKR | 3 | ai_infrastructure,materials_science,semiconductors | ambiguous medium,positive medium |
 | AV | 3 | edge_robotics | positive high,positive medium |
 | GFS | 3 | semiconductors | negative high,positive high |
 | HPE | 3 | ai_infrastructure,semiconductors | negative high,negative medium,neutral medium |
 | LSCC | 3 | edge_robotics,quantum,semiconductors | negative low,positive medium |
 | MRVL | 3 | semiconductors | ambiguous medium,negative high |
 | QUBT | 3 | quantum | ambiguous low,ambiguous medium,positive low |
-| AMKR | 2 | ai_infrastructure,semiconductors | positive medium |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | GEV | 2 | energy | ambiguous low,positive low |
 | GF | 2 | semiconductors | positive medium |
@@ -56,7 +56,9 @@
 | LMT | 2 | edge_robotics,quantum | ambiguous low,positive medium |
 | META | 2 | energy | positive high,positive medium |
 | MSFT | 2 | ai_infrastructure,semiconductors | ambiguous low,positive high |
+| MTSI | 2 | materials_science,semiconductors | ambiguous medium,positive medium |
 | NBIS | 2 | ai_infrastructure | negative high,negative medium |
+| ON | 2 | materials_science,semiconductors | negative medium,positive medium |
 | PNR | 2 | ai_infrastructure | negative high |
 | TSLA | 2 | semiconductors | negative medium,positive medium |
 | AAPL | 1 | semiconductors | negative high |
@@ -93,19 +95,18 @@
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
 | MCHP | 1 | semiconductors | positive low |
-| MTSI | 1 | semiconductors | positive medium |
 | MVIS | 1 | semiconductors | positive medium |
 | NAVI | 1 | semiconductors | positive medium |
 | NOC | 1 | edge_robotics | ambiguous low |
 | NTAP | 1 | ai_infrastructure | negative high |
 | NVTS | 1 | materials_science | ambiguous low |
 | OKLO | 1 | energy | positive medium |
-| ON | 1 | materials_science | positive medium |
 | ORCL | 1 | ai_infrastructure | negative high |
 | PALX | 1 | semiconductors | positive high |
 | PEAK | 1 | semiconductors | negative medium |
 | QCOM | 1 | semiconductors | positive medium |
 | RGTI | 1 | quantum | positive medium |
+| SAI | 1 | quantum | positive medium |
 | SEM | 1 | semiconductors | neutral low |
 | SERV | 1 | edge_robotics | negative high |
 | SKYQ | 1 | quantum | ambiguous low |
@@ -117,6 +118,7 @@
 | TT | 1 | ai_infrastructure | ambiguous low |
 | TTMI | 1 | semiconductors | positive medium |
 | TVC | 1 | energy | positive high |
+| VST | 1 | ai_infrastructure | negative low |
 | WOLF | 1 | semiconductors | positive high |
 | XE | 1 | energy | positive high |
 | XMAX | 1 | semiconductors | positive high |
@@ -345,3 +347,10 @@
 | 2026-10-28 | EDGAR new entrant: ParaZero Technologies Ltd. (PRZO) (CIK 0001916241)  |  | positive medium | direct | semiconductors | high | `1ECD9A91` |
 | 2026-10-28 | EDGAR new entrant: T3 Defense Inc. (DFNS, DFNSW) (CIK 0001787518) - ma |  | positive medium | direct | semiconductors | high | `4C5848FC` |
 | 2026-10-28 | National Outlook of Nuclear Energy for Data Centers and Case Study Ana |  | positive low | indirect | energy | high | `251E2B20` |
+| 2026-10-29 | NXP Semiconductors (NXPI) Faces Stock Dip After Q3 Guidance, Dividend  | NXPI | negative medium | direct | semiconductors | low | `6C784478` |
+| 2026-10-29 | ON Semiconductor Falls 5%, NXP Drops 4% as Soft Q4 Guidance (midpoint  | NXPI,ON | negative medium | direct | semiconductors | medium | `E247C333` |
+| 2026-10-29 | SAIC Becomes First Mission Integrator to Deliver Practical Quantum Sol | SAI | positive medium | direct | quantum | high | `6639B80D` |
+| 2026-10-29 | FormFactor sinks despite offering up strong Q3 results, guidance |  | ambiguous medium | direct | semiconductors | medium | `D2E69BA8` |
+| 2026-10-29 | Vistra (NYSE:VST) Stock Price Down 2.8% Following Analyst Downgrade | VST | negative low | direct | ai_infrastructure | low | `A9C2604F` |
+| 2026-10-29 | NXP Semiconductors (NXPI.US) falls nearly 6% in early trading on Q4 re | NXPI | negative medium | direct | semiconductors | low | `AB6AA93F` |
+| 2026-10-29 | Novel Crystal Technology Ships 150mm Ga2O3 Substrate Samples | AMKR,MTSI | ambiguous medium | indirect | materials_science | medium | `E9F38589` |

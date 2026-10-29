@@ -10,6 +10,7 @@
 ---
 
 ## Catalyst Log
+- [2026-10-29] Vistra (NYSE:VST) Stock Price Down 2.8% Following Analyst Downgrade | ai_infrastructure (negative low) [`A9C2604F`]
 
 [2026-10-13T22:05:19Z] DOE awards $900 million for milestone-based SMR deployment projects with 11 advanced nuclear reactors
   Source: government | Impact: positive (high)

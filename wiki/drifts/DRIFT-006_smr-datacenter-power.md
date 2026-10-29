@@ -86,7 +86,7 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-10-28] [7e3d9b1a] Leg A rescan datapoint (no re-rate; gate NOT fired — CEG cash-flow winner edge confirmed at primary source): Google–Constellation "890 MW of new nuclear capacity" PPA (Constellation IR, 2026-10-06) IS the det006b 20-yr/$4.3B deal re-surfaced with the official primary URL; adds one new detail — a separate 15-yr energy supply agreement for a further 2,700 MW across PJM fleet. "New" capacity is delivered via uprates (turbines/steam-gen/control upgrades) at the 11 existing CEG units, NOT greenfield SMR — so it does not touch the NRC SDA timing-gate clock. Confirms CEG as the demonstrated cash-flow winner on the hyperscaler-DC demand leg (existing-PWR uprate + 20-yr PPA + 15-yr supply agreement); developer tier (OKLO/NUS) still binary/gated. Score unchanged 105 EMERGING (re-rate on SDA grant). https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html (VERIFIED — official primary source).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

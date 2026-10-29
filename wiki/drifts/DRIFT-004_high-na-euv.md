@@ -83,7 +83,7 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 - [2026-10-28] [e53bc3e2] Same-story re-scan datapoint (no re-rate): Micron wafer-bonding + High-NA EUV DRAM roadmap re-circulated on two new URLs (gate.com 25211122, ramtrend #5287) — same event as c1a0f2e9, confirmatory only; C held at 6 (144 EMERGING). https://www.gate.com/news/detail/MU/micron-plans-wafer-bonding-and-high-na-euv-for-next-gen-dram-25211122 · https://ramtrend.com/news/5287-micron-maps-wafer-bonding-and-high-na-euv-into-its-dram-roadmap (UNVERIFIED — secondary).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-28 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
