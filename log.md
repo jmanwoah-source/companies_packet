@@ -1,5 +1,14 @@
 # Log — Action History
 
+## 2026-10-29 — Naming-sentinel cleanup (Hard Rule 3 enforcement)
+- Archived 6 violation dossiers to wiki/archived/ (archive, never delete):
+  - `AMD (AMD)/` duplicate container for `AMD/` (3 catalyst notes already present in AMD/AMD.md — content verified, zero loss)
+  - `ALPHABET (GOOGL)/` name-anchored root (2 quantum notes already present in GOOGL/GOOGL.md lines 18-19 — zero loss)
+  - `AELUMA (PRIVATE)/`, `AETINA (PRIVATE)/`, `BECHTEL (PRIVATE)/` — private entities do not get company dossiers
+  - `MGM.AS.md` foreign-suffix root (`MGM.md` + `MGMAS/MGMAS.md` remain canonical)
+- Residual check: 0 `*(PRIVATE)*` dirs, 0 name-anchored roots, 0 foreign-suffix roots in wiki/companies/
+- Permanent guard: skill `wiki-naming-sentinel` now gates all dossier create/move/restore
+
 ## 2026-06-22
 - [INIT] Clean rebuild of knowledge base wiki at ~/wiki
 - Stripped all operational/trading system content
