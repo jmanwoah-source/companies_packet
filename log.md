@@ -421,3 +421,24 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
   (10 drifts), substitution_short_list refreshed. Cascade gate post-run:
   0 eligible.
+
+## 2026-10-30 — Drift Detector (e9711f5abb15)
+- Health gate: ALL_GOOD (EIA feed degraded — informational).
+- SCAN: upstream SUSPENSION — all 19 queries (13 sector + 6 A2) flagged
+  upstream_suspension (engines brave/duckduckgo/google/google-cse all
+  unresponsive; 0 results each). Zero candidates is the suspension, not
+  query quality. No re-run (post-scan guard), no query tuning from this cycle.
+- BREAKS: 0 merged (drift_ingest idempotent, 0 processed).
+- JUDGMENT: 0 candidates reviewed (base 0 + A2 0) → 0 drifts filed.
+  A2 shadow precision: tainted — suspension; excluded from tuning average.
+  3rd A2 slot: unused (no A2 candidates).
+- CASCADE: queue empty (no drift >=500 unsaturated or gate-fire this cycle;
+  DRIFT-002 remains saturated). 0 new tickers; no zero_streak updates needed
+  (nothing eligible ran).
+- ENGINE: drift_scoring.py re-scored all 10 drifts, no composite deltas
+  (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 ·
+  008 294 · 009 180 · 010 84); no fetch_errors, no [STALE] segments; 25 FMP
+  profiles persisted.
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
+  (10 drifts); no file deltas (idempotent). Cascade gate post-run: 0 eligible.
+- Commit: none — drift-owned files unchanged this cycle.
