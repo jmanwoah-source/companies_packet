@@ -105,7 +105,7 @@ _Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmenta
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
 | AXTI | loser | 66.7% (FY2025) | 4.0 | 20.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Substrates |
-| TER | winner | 83.4% (FY2025) | 46.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Product |
+| TER | winner | 83.4% (FY2025) | 46.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Product |
 
 **Composite (M x T x C): 5 x 2 x 2 = **20** -> tier **NOISE**
   - Mcap at stake: $2.7B (engine sum of loser exposure x mcap unless curated) | certainty_grade: rumored

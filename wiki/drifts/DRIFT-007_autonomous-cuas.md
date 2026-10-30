@@ -83,8 +83,8 @@ _Computed by drift_scoring.py v2 on 2026-10-29 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AVAV | winner | 18.4% (FY2026) | 7.0 | - (upside) | Industrials -> downstream (industrial elec) / substrate | UxS |
-| DRS | winner | 0.0% (FY2024) [STALE] | 10.7 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
+| AVAV | winner | 18.4% (FY2026) | 6.9 | - (upside) | Industrials -> downstream (industrial elec) / substrate | UxS |
+| DRS | winner | 0.0% (FY2024) [STALE] | 10.6 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
 | RCAT | winner | 50.0% (FY2023) [STALE] | 0.8 | - (upside) | Industrials -> downstream (industrial elec) / substrate | Consumer, Other Segments |
 
 **Composite (M x T x C): 6 x 5 x 6 = **180** -> tier **EMERGING**
