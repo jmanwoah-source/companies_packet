@@ -378,3 +378,46 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
   (10 drifts), substitution_short_list refreshed. Cascade gate post-run: 0 eligible
   (nothing >=500 or gate-fire) -> cascade_queue.json eligible=[].
+
+## 2026-10-30 03:13 — drift-scan (Drift Detector)
+- Health gate FAIL:primary_feeds (osti 1-tick error not yet demoted; eia
+  demoted 7-tick error streak) — informational; OSTI/EIA feeds only, drift
+  scan itself clean. Proceeded per 2026-10-29 precedent (gate fail on
+  demoted/info feeds is not drift-scan-blocking).
+- drift_scan.py fresh: 13 sector queries -> 39 base candidates; 6 a2 queries
+  -> 3 a2 candidates; 0 cascade (queue empty). WARNING: 5 queries flagged
+  upstream_suspension (engines_down brave/duckduckgo/google — Bing-backed
+  rows still returned 18-20 fresh; suspension-tainted cycle: A2 precision
+  count excluded from tuning average).
+- drift_ingest.py: 0 breaks merged.
+- Filed: 0 new drifts (42 candidates reviewed: 39 base + 3 a2). next_drift_id
+  DRIFT-011 unconsumed.
+- Base rejections: 450mm x3 (thinkpiece/market-report; dup DRIFT-003 pool);
+  High-NA x3 (dup DRIFT-004; TSMC-2030 + Lam/imec -> evidence notes det004d,
+  no re-rate); GAA x3 (educational/thinkpiece, dup DRIFT-001); GaN-on-Si x3
+  (dup DRIFT-002, Polar/imec = PRIVATE winner; 8-inch free-standing =
+  research paper); adv-packaging x3 (thinkpiece); liquid-cooling x3 (dup
+  DRIFT-005; 3C Datalec = non-US M&A); 800VDC x3 (dup DRIFT-009); CPO x3 (dup
+  DRIFT-008); immersion x3 (dup DRIFT-005 guides; Ferveret = PRIVATE);
+  SMR/DC x3 (dup DRIFT-006; Utah 9.4GW proposal -> evidence note det006d);
+  NRC x3 (dup det006a/c; rule finalization -> det006d); microreactor-PPA x3
+  (dup DRIFT-006; Google/CEG PPA re-circulation); transformer lead-time x3
+  (supply-shortage trend, not old->new process swap; no named winner).
+- A2 rejections (3/3, precision EXCLUDED — suspension-tainted cycle):
+  WIN Semiconductors design win (foreign TPEx:3105, no US ticker);
+  design-for-procurement (LinkedIn guide, no swap); case-interview (guide/
+  listicle). Dominant reason: guide/listicle + foreign.
+- Gated 3rd A2 slot: UNUSED (no a2 candidate met rule 1 — no US nano/
+  sub-ceiling winner).
+- Notes appended (no re-rate): DRIFT-004 +det004d (Lam Aether dry-resist
+  verified fetch; LRCX tools-layer edge flagged for next-cycle sidecar);
+  DRIFT-006 +det006d (Utah 9.4GW SMR proposal; NRC rule finalization).
+- Cascade leg: 0 eligible drifts (queue empty) -> 0 new tickers surfaced;
+  cascade_state.json unchanged this cycle (no eligible drift to update
+  zero_streak on).
+- Engine: drift_scoring.py 10 sidecars, composites held
+  (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors, 25 FMP profiles
+  persisted.
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
+  (10 drifts), substitution_short_list refreshed. Cascade gate post-run:
+  0 eligible.

@@ -1,18 +1,18 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 248
-- **Unique Tickers**: 104
-- **Categories**: {'quantum': 38, 'edge_robotics': 36, 'ai_infrastructure': 34, 'semiconductors': 86, 'materials_science': 9, 'energy': 24}
+- **Briefs Processed**: 253
+- **Unique Tickers**: 107
+- **Categories**: {'quantum': 38, 'edge_robotics': 37, 'ai_infrastructure': 34, 'semiconductors': 89, 'materials_science': 9, 'energy': 25}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
 | negative_intelligence | 71 |
 | quantum_research | 37 |
-| conference_deep_dive | 33 |
-| edge_robotics | 29 |
-| macro_government | 26 |
+| conference_deep_dive | 36 |
+| edge_robotics | 30 |
+| macro_government | 27 |
 | patent_supply_chain | 25 |
 | sec_edgar | 5 |
 | osti_grants | 1 |
@@ -59,6 +59,7 @@
 | MTSI | 2 | materials_science,semiconductors | ambiguous medium,positive medium |
 | NBIS | 2 | ai_infrastructure | negative high,negative medium |
 | ON | 2 | materials_science,semiconductors | negative medium,positive medium |
+| PALX | 2 | semiconductors | positive high |
 | PNR | 2 | ai_infrastructure | negative high |
 | TSLA | 2 | semiconductors | negative medium,positive medium |
 | AAPL | 1 | semiconductors | negative high |
@@ -71,6 +72,7 @@
 | ASTS | 1 | semiconductors | negative medium |
 | ATMS | 1 | semiconductors | positive high |
 | ATOM | 1 | materials_science | positive medium |
+| AXTI | 1 | semiconductors | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
 | BWX | 1 | energy | positive high |
 | CACI | 1 | edge_robotics | positive medium |
@@ -82,6 +84,7 @@
 | DELL | 1 | ai_infrastructure | negative high |
 | DOW | 1 | energy | ambiguous low |
 | EC | 1 | edge_robotics | neutral low |
+| EPC | 1 | semiconductors | positive low |
 | EQIX | 1 | ai_infrastructure | positive medium |
 | FLEX | 1 | ai_infrastructure | positive medium |
 | FPS | 1 | ai_infrastructure | negative high |
@@ -101,10 +104,10 @@
 | NAVI | 1 | semiconductors | positive medium |
 | NOC | 1 | edge_robotics | ambiguous low |
 | NTAP | 1 | ai_infrastructure | negative high |
+| NU | 1 | energy | positive medium |
 | NVTS | 1 | materials_science | ambiguous low |
 | OKLO | 1 | energy | positive medium |
 | ORCL | 1 | ai_infrastructure | negative high |
-| PALX | 1 | semiconductors | positive high |
 | PEAK | 1 | semiconductors | negative medium |
 | QCOM | 1 | semiconductors | positive medium |
 | RGTI | 1 | quantum | positive medium |
@@ -357,3 +360,8 @@
 | 2026-10-29 | NXP Semiconductors (NXPI.US) falls nearly 6% in early trading on Q4 re | NXPI | negative medium | direct | semiconductors | low | `AB6AA93F` |
 | 2026-10-29 | Novel Crystal Technology Ships 150mm Ga2O3 Substrate Samples | AMKR,MTSI | ambiguous medium | indirect | materials_science | medium | `E9F38589` |
 | 2026-10-29 | Premarket Movers: MU, ASTS, ADBE Slide As China Chip Threat and Analys | ADBE,ASTS | negative medium | direct | semiconductors | low | `D974A0C4` |
+| 2026-10-30 | Palomino gains first commercial purchase order from strategic hypersca | PALX | positive high | direct | semiconductors | medium | `45463406` |
+| 2026-10-30 | AXT raises private equity financing of up to $545m in Tongmei | AXTI | positive medium | direct | semiconductors | medium | `EC9E2BCF` |
+| 2026-10-30 | EPC adds two three-phase inverter evaluation platforms to 100V GaN mot | EPC | positive low | direct | semiconductors | medium | `772CAE6F` |
+| 2026-10-30 | Orqa U.S. Awarded $38 Million for U.S. Department of War Drone Dominan |  | positive high | direct | edge_robotics | low | `5887D998` |
+| 2026-10-30 | Nuclear Reactor Development Thrives in Indiana and Kentucky (NuScale S | NU | positive medium | indirect | energy | medium | `23BCFEE0` |

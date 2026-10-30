@@ -39,3 +39,6 @@ Broad Agency Announcement (BAA) Solicitation Number: DE-FOA-000348...
 
 ## Last Updated
 2026-10-07T11:30:59Z
+
+## Catalyst Log
+- [2026-10-30] EPC adds two three-phase inverter evaluation platforms to 100V GaN motor drive portfolio | semiconductors (positive low) [`772CAE6F`]

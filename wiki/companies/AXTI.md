@@ -18,3 +18,5 @@
 
 **Summary:** Here’s Why AXT Stock Fell 12% Yesterday. TIKR.com
 
+## Catalyst Log
+- [2026-10-30] AXT raises private equity financing of up to $545m in Tongmei | semiconductors (positive medium) [`EC9E2BCF`]
