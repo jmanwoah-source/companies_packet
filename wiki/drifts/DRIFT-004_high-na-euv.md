@@ -85,7 +85,7 @@ Tier: **EMERGING (50-199)** — one foundry commitment flips certainty 6→9 →
 - [2026-10-30] [det004d] Two tools-layer datapoints (no re-rate): (1) Lam Research + imec demonstrated 100% electrical yield for ruthenium direct-metal-etch structures at 20nm pitch with a single High-NA EUV exposure — validates Lam's Aether dry-resist platform for angstrom-era patterning; joint Lam-imec commitment (newsroom 2026-10-27) extends to 3D integration + next-gen memory. LRCX is a named tools-layer winner edge (dry-resist/patterning); LRCX not yet in the sidecar — formalize next cycle. (2) TSMC High-NA EUV 2030 HVM commitment re-circulated (consistent with det004c). Certainty held at 6 (re-rate trigger = foundry HVM volume, TSMC 2030 is roadmap-stage; score unchanged 144 EMERGING). https://newsroom.lamresearch.com/lam-imec-3d-integration-dry-resist-ai-semiconductor-scaling (VERIFIED) · https://www.techtimes.com/articles/329679/20261029/lam-research-imec-prove-dry-resist-ready-high-na-euv-ruthenium-interconnects.htm (VERIFIED via fetch).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-004.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

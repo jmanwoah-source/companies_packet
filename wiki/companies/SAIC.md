@@ -1,5 +1,6 @@
 # SAIC — Science Applications International
-## Catalyst Log
+## Catalyst Log- [2026-10-31] SAIC Becomes First Mission Integrator to Deliver Practical Quantum Tech; $400M Recompete Contract with U.S. Intelligence | quantum (positive medium) [`998273C1`]
+
 | Date | Headline | Direction | Materiality | Category | Confidence | Brief |
 |------|----------|-----------|-------------|----------|------------|-------|
 | 2026-10-02 | The SpiNNaker2 chip: a many-core platform for flexible ... - arXiv | positive medium | direct | ai_infrastructure | medium | `36113707` |

@@ -58,3 +58,6 @@ date_created: "2026-10-15T05:50:46.469545+00:00"
 
 ## Catalyst Log
 - [2026-10-22] Monarch Quantum Supports Infleqtion's Next Phase of NASA's Quantum Gravity Pathfinder Mission (QGGPf hardware award) | quantum (positive medium) [`E4B7928C`]
+
+## After-Hours Research
+- 2026-10-31 INFQ .11B shelf + ISS upgrade + Nvidia tie-up (Apr 2026, resurfaced via ledger) | negative | DILUTION WATCH: .11B shelf registered offering — Track-B kill already caps conviction; verify takedown in next 10-Q. | https://news.google.com/rss/articles/CBMikAFBVV95cUxNejA2N3lNcWlBTWt2dkEyTGczalVERV9GZVVaZnljVmp4RlFPT21PM2xLaTlYZkpBYkNTbGJoZ0NIYm9iX0l0a2d4cUhrLXJfQ3hKZnJHSlZ6U2dfU3RfNGpodlExNWdTY2xtMl9tLTFjNFlMRzAxb0pyNkM3OUpSVTkwQVF1TEdDTDFlNDFmSEY?oc=5

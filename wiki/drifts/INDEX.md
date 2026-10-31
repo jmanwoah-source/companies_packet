@@ -17,6 +17,7 @@ notes below the table are maintained by the curator.
 | DRIFT-009 | DRIFT-009_800v-dc-rack-power.md | ai-infrastructure | 180 | EMERGING | emerging | MCHP, NVTS | MPWR |
 | DRIFT-010 | DRIFT-010_asml-d2w-hybrid-bonding.md | semiconductors | 84 | EMERGING | emerging | ASML | — |
 | DRIFT-011 | DRIFT-011_us-silicon-interposer-gfs.md | semiconductors | 336 | HIGH | scaling | GFS | — |
+| DRIFT-012 | DRIFT-012_10kv-sic-igbt-domestic.md | semiconductors | 96 | EMERGING | emerging | NVTS | — |
 
 
 ## Status

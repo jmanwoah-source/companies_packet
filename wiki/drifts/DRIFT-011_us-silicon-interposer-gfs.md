@@ -109,7 +109,7 @@ framework is exercised (term/value growth) or a second US interposer site is con
   searches needed). 1 of 2 base slots used.
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-011.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-011.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
@@ -122,6 +122,5 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
   - timing_years: 2 | displacement_sub_class: additive
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: GFS-only named winner (mid, ~$23B FMP profile mcap): $2B multi-year TSMC contract for US-based CoWoS silicon interposers (incl. eDTC) at Malta NY, volume ramp H1 2028. Additive — no clean US-listed loser (displaced capacity is intra-TSMC allocation; TSMC is the customer). DATA-QUALITY: FMP revenue-product-segmentation for GFS FY2025 returns a single coarse line (Engineering And Other Pre-Fabric Services, $769M) with no interposer/adv-packaging segment — engine matches on sector (Technology/Semiconductors).
-
 
 ## Last Updated (2026-10-30)

@@ -503,3 +503,11 @@
 - Track D: drift_track_d.py rebuilt — 24 dossiers touched (incl. NEW GFS
   winner backlink), INDEX regenerated (11 drifts). Cascade gate post-run:
   0 eligible.
+
+## 2026-10-31 drift-scan (cron e9711f5abb15)
+- Health gate ALL_GOOD (EIA feed degraded — informational). Scan: 13 sector + 6 a2 queries → 39 base candidates + 18 a2 candidates; 0 upstream-suspension flags; 0 news breaks merged.
+- FILED: DRIFT-012 10kV SiC IGBT domestic process (NVTS ALATTIS award) — M4×T4×C6 = **96 EMERGING**, A2 gated 3rd slot USED (rules satisfied: sub-ceiling winner NVTS $2.2B; pilot/award certainty; named process award). FMP NVTS segmentation = single "Reportable Segment" FY2024 $83.3M → whole-company proxy noted.
+- Base candidates: 0 new drifts — all fresh hits are same-story re-circulations of filed drifts (ASML record Q3 → DRIFT-004; Google/CEG 890MW uprate PPA + NRC DOE/DOD licensing final rule → DRIFT-006; 800V-DC + CPO articles → DRIFT-008/009). No re-rate warranted (ASML/Samsung/TSMC High-NA HVM dates = roadmap-stage, consistent with existing det004c).
+- A2 shadow-run: 18 reviewed, 17 rejected — dominant reasons: listicle/guide (3), distributor/vendor pages (4), private/no-ticker startups (3), anchor-sized winner (Wolfspeed EV/SiC, WOLF $1.2B is sub-ceiling but story is product-launch not substitution → 2), foreign (LX Semicon, SK Hynix), rumor/thin (5). 1 filed (3rd slot). Precision 1/18 = 5.6% (cycle NOT tainted — 0 upstream suspensions).
+- CASCADE leg: 0 eligible drifts (no composite ≥500 unsaturated, no gate-fires) → 0 cascade queries, 0 new tickers; no zero_streak changes.
+- Engine: 12 drifts re-scored, all composites unchanged, 0 fetch_errors, 0 stale segments. NVTS dossier backlink now +3 winner edges (DRIFT-002/009/012).

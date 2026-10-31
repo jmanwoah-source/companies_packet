@@ -1,19 +1,20 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 270
-- **Unique Tickers**: 72
-- **Categories**: {'edge_robotics': 25, 'quantum': 17, 'semiconductors': 50, 'energy': 15, 'ai_infrastructure': 15, 'materials_science': 3}
+- **Briefs Processed**: 287
+- **Unique Tickers**: 78
+- **Categories**: {'semiconductors': 58, 'edge_robotics': 29, 'quantum': 17, 'energy': 15, 'ai_infrastructure': 18, 'materials_science': 3}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 30 |
-| edge_robotics | 19 |
-| conference_deep_dive | 18 |
+| negative_intelligence | 33 |
+| edge_robotics | 20 |
+| conference_deep_dive | 19 |
 | quantum_research | 16 |
+| patent_supply_chain | 15 |
 | macro_government | 14 |
-| patent_supply_chain | 14 |
+| fmp_anomaly_feed | 9 |
 | edgar_atom | 8 |
 | sec_edgar | 5 |
 | osti_grants | 1 |
@@ -22,24 +23,28 @@
 
 | Ticker | Briefs | Category | Impact |
 |--------|--------|----------|--------|
-| INFQ | 8 | quantum | positive low,positive medium |
+| INFQ | 7 | quantum | positive low,positive medium |
+| AVAV | 5 | edge_robotics | ambiguous low,positive high |
 | DRS | 5 | edge_robotics | positive high,positive medium |
-| AVAV | 4 | edge_robotics | ambiguous low,positive high |
 | IONQ | 4 | quantum | positive low,positive medium |
 | NXPI | 4 | semiconductors | negative low,negative medium |
 | AEP | 3 | energy | positive high,positive low,positive medium |
 | AMKR | 3 | ai_infrastructure,materials_science,semiconductors | ambiguous medium,positive medium |
-| AV | 3 | edge_robotics | positive high,positive medium |
 | MRVL | 3 | semiconductors | ambiguous high,ambiguous medium |
+| ON | 3 | semiconductors | negative high,negative medium |
 | QUBT | 3 | quantum | ambiguous low,ambiguous medium,positive low |
 | ALAB | 2 | ai_infrastructure | negative medium |
 | ALGM | 2 | ai_infrastructure,semiconductors | positive low,positive medium |
+| AV | 2 | edge_robotics | positive high |
 | FLNC | 2 | ai_infrastructure,energy | negative high,negative medium |
 | MTSI | 2 | materials_science,semiconductors | ambiguous medium,positive medium |
-| ON | 2 | semiconductors | negative medium |
+| ONDS | 2 | edge_robotics | ambiguous low,positive low |
+| ONTO | 2 | semiconductors | negative high,negative medium |
 | PALX | 2 | semiconductors | positive high |
+| SMCI | 2 | ai_infrastructure | negative medium,neutral medium |
 | ADBE | 1 | semiconductors | negative medium |
 | AI | 1 | ai_infrastructure | negative high |
+| APLD | 1 | ai_infrastructure | negative low |
 | ASTS | 1 | semiconductors | negative medium |
 | ATMS | 1 | semiconductors | positive high |
 | ATOM | 1 | materials_science | positive medium |
@@ -49,6 +54,7 @@
 | CACI | 1 | edge_robotics | positive medium |
 | CARR | 1 | ai_infrastructure | positive medium |
 | CRDO | 1 | semiconductors | ambiguous high |
+| DIT | 1 | ai_infrastructure | negative low |
 | EC | 1 | edge_robotics | neutral low |
 | ENPH | 1 | semiconductors | positive medium |
 | EPC | 1 | semiconductors | positive low |
@@ -69,20 +75,20 @@
 | LITE | 1 | semiconductors | positive high |
 | LSCC | 1 | semiconductors | negative low |
 | MCHP | 1 | semiconductors | positive low |
+| MOBX | 1 | semiconductors | negative low |
 | NAVI | 1 | semiconductors | positive medium |
 | NBIS | 1 | ai_infrastructure | negative medium |
+| NTAP | 1 | ai_infrastructure | negative medium |
 | NU | 1 | energy | positive medium |
 | OKLO | 1 | energy | positive medium |
-| ONDS | 1 | edge_robotics | ambiguous low |
-| ONTO | 1 | semiconductors | negative medium |
 | PEAK | 1 | semiconductors | negative medium |
 | QCOM | 1 | edge_robotics | positive low |
 | RGTI | 1 | quantum | positive medium |
 | SAI | 1 | quantum | positive medium |
+| SAIC | 1 | quantum | positive medium |
 | SEM | 1 | semiconductors | neutral low |
 | SERV | 1 | edge_robotics | negative high |
 | SKYQ | 1 | quantum | ambiguous low |
-| SMCI | 1 | ai_infrastructure | neutral medium |
 | SMR | 1 | energy | positive low |
 | SMTC | 1 | semiconductors | negative low |
 | SNPS | 1 | ai_infrastructure | positive low |
@@ -93,14 +99,13 @@
 | VRT | 1 | ai_infrastructure | positive medium |
 | VST | 1 | ai_infrastructure | negative low |
 | WOLF | 1 | semiconductors | positive high |
+| WULF | 1 | ai_infrastructure | negative low |
 | XMAX | 1 | semiconductors | positive high |
 
 ## Research of Interest
 
 | Date | Headline | Tickers | Impact | Materiality | Category | Confidence | Brief ID |
 |------|----------|---------|--------|-------------|----------|------------|----------|
-| 2026-10-17 | Titan C-UAS - AeroVironment | AV | positive medium | direct | edge_robotics | high | `65FCEC54` |
-| 2026-10-17 | Infleqtion Secures UK Funding for Quantum Signal-Tracking System | INFQ | positive medium | direct | quantum | medium | `6E142AF7` |
 | 2026-10-17 | 2025–present global memory supply shortage |  | positive medium | indirect | semiconductors | low | `96A5BF34` |
 | 2026-10-17 | AeroVironment Titan MS selected by JIATF-401 for $80.5M award; AV awar | AV | positive high | direct | edge_robotics | high | `0888ABD7` |
 | 2026-10-17 | Infleqtion secures $11M DoD APFIT award to accelerate deployment of qu | INFQ | positive medium | direct | quantum | high | `7EA18EBA` |
@@ -224,3 +229,20 @@
 | 2026-10-31 | Earnings Call: Q1 2027 - Credo Technology Group Holding (CRDO) | CRDO,MRVL | ambiguous high | direct | semiconductors | medium | `A8387F03` |
 | 2026-10-31 | Allegro MicroSystems Introduces New Power and Cooling Solutions for Su | ALGM | positive medium | direct | ai_infrastructure | high | `150314A7` |
 | 2026-10-31 | Piper Sandler cuts Intel price target to $90 on weak Q4 guidance; sub- | ON,ONTO | negative medium | indirect | semiconductors | medium | `2EA38253` |
+| 2026-10-31 | Intel's Worst Crash in 50 Years: Q4 Guidance Collapse - INTC -29-30% O | ON,ONTO | negative high | direct | semiconductors | medium | `2E9651B0` |
+| 2026-10-31 | Insider open-market purchase: HEALY JAMES bought $19,999,980 of RAPP ( |  | positive high | direct | edge_robotics | high | `9ADF920F` |
+| 2026-10-31 | Insider open-market purchase: Venrock Healthcare Capital Partners III, |  | positive low | direct | edge_robotics | high | `4DFFBE1B` |
+| 2026-10-31 | Insider open-market purchase: NIPPON LIFE INSURANCE CO bought $8,671,4 |  | positive low | direct | edge_robotics | high | `0B413622` |
+| 2026-10-31 | Volume breakout: XMAX trading at 3.2x 5-day average volume |  | ambiguous low | direct | semiconductors | high | `09A9C584` |
+| 2026-10-31 | Volume breakout: INTC trading at 4.7x 5-day average volume |  | negative high | direct | semiconductors | high | `17606A9A` |
+| 2026-10-31 | Revenue disconnect: IONQ revenue +202% YoY ($43M -> $130M) |  | positive medium | direct | semiconductors | high | `8AAB43CC` |
+| 2026-10-31 | Revenue disconnect: QBTS revenue +179% YoY ($9M -> $25M) |  | positive medium | direct | semiconductors | high | `98314562` |
+| 2026-10-31 | Revenue disconnect: AVAV revenue +141% YoY ($821M -> $1977M) |  | positive high | direct | semiconductors | high | `8E8E3989` |
+| 2026-10-31 | Revenue disconnect: ALAB revenue +115% YoY ($396M -> $853M) |  | positive medium | direct | semiconductors | high | `5D1DECB5` |
+| 2026-10-31 | UNICOM & Fourier: Modular liquid-cooled AI infrastructure |  | positive low | speculative | ai_infrastructure | low | `8A696D47` |
+| 2026-10-31 | AeroVironment Wins $117.3M P550 US Army Contract | AVAV | positive high | direct | edge_robotics | high | `8611ED17` |
+| 2026-10-31 | Ondas Positions Field-Proven Aerial Security Portfolio to Support $250 | ONDS | positive low | direct | edge_robotics | low | `C00E326D` |
+| 2026-10-31 | SAIC Becomes First Mission Integrator to Deliver Practical Quantum Tec | SAIC | positive medium | direct | quantum | high | `998273C1` |
+| 2026-10-31 | Dell fell 9.55% to $459.40 after analyst downgrade; server revenue att | NTAP,SMCI | negative medium | indirect | ai_infrastructure | low | `4F29978B` |
+| 2026-10-31 | Applied Digital (NASDAQ:APLD) Shares Down 8.2% After Analyst Downgrade | APLD,DIT,WULF | negative low | direct | ai_infrastructure | medium | `F4117AC6` |
+| 2026-10-31 | Mobix Labs (MOBX) registers up to 6M shares for resale via S-1 | MOBX | negative low | speculative | semiconductors | high | `F4FC2415` |

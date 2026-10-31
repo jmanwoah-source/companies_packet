@@ -14,3 +14,6 @@ Much of the AI data center pipeline will never be built, and some of what is bui
 
 ## Last Updated
 2026-10-06T06:31:19Z
+
+## Catalyst Log
+- [2026-10-31] Applied Digital (NASDAQ:APLD) Shares Down 8.2% After Analyst Downgrade | ai_infrastructure (negative low) [`F4117AC6`]

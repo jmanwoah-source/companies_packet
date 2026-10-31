@@ -1,0 +1,20 @@
+{
+  "drift_id": "DRIFT-012",
+  "slug": "DRIFT-012_10kv-sic-igbt-domestic",
+  "m": 4,
+  "t": 4,
+  "c": 6,
+  "certainty_grade": "pilot",
+  "timing_years": 4,
+  "displacement_sub_class": "additive",
+  "mcap_at_stake_b": null,
+  "note": "ALATTIS 10kV SiC IGBT domestic-process award (NVTS, 2026-09-28). Additive at new voltage tier; no clean US loser (class row only, low-confidence). FMP NVTS segmentation = single 'Reportable Segment' (FY2024 $83.3M) — whole-company proxy until NVTS splits power-semi segments.",
+  "tickers": {
+    "NVTS": {
+      "role": "winner",
+      "keywords": [
+        "Reportable Segment"
+      ]
+    }
+  }
+}

@@ -10,6 +10,7 @@
 ---
 
 ## Catalyst Log
+- [2026-10-31] Dell fell 9.55% to $459.40 after analyst downgrade; server revenue attributed to memory-chip cost inflation, triggering  | ai_infrastructure (negative medium) [`4F29978B`]
 
 [2026-10-15T08:38:17Z] Barclays downgrades Dell, HPE and NetApp on enterprise AI timing; Dell plunges 11%, leading data center sell-off
   Source: negative_intelligence | Impact: ambiguous (medium) | Conf: medium
