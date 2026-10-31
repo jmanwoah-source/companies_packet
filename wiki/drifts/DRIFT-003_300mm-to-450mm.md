@@ -104,11 +104,11 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AXTI | loser | 66.7% (FY2025) | 4.0 | 20.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Substrates |
-| TER | winner | 83.4% (FY2025) | 46.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Product |
+| AXTI | loser | 66.7% (FY2025) | 3.6 | 20.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Substrates |
+| TER | winner | 83.4% (FY2025) | 42.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Product |
 
 **Composite (M x T x C): 5 x 2 x 2 = **20** -> tier **NOISE**
-  - Mcap at stake: $2.7B (engine sum of loser exposure x mcap unless curated) | certainty_grade: rumored
+  - Mcap at stake: $2.4B (engine sum of loser exposure x mcap unless curated) | certainty_grade: rumored
   - timing_years: 8 | displacement_sub_class: cutoff
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Stress test. FMP measures the US-proxy reality: AXTI 'Substrates' = ~$0.05B -> the liquid 300mm-Si displacement value is PRIVATE (SUMCO/Shin-Etsu), confirming the audit note. TER 'Product' line = thin US proxy.

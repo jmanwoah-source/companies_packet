@@ -20,3 +20,6 @@
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-005` winner — cap mid — Vertiv
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+- [2026-10-31] Vertiv launches global ecosystem to advance end-to-end thermal and fluid management for AI-scale infrastructure | ai_infrastructure (positive medium) [`15CD7F44`]

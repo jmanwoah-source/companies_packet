@@ -16,6 +16,7 @@ notes below the table are maintained by the curator.
 | DRIFT-008 | DRIFT-008_copper-to-cpo.md | ai-infrastructure | 294 | HIGH | scaling | AVGO, MRVL, COHR, IIVI | MPWR |
 | DRIFT-009 | DRIFT-009_800v-dc-rack-power.md | ai-infrastructure | 180 | EMERGING | emerging | MCHP, NVTS | MPWR |
 | DRIFT-010 | DRIFT-010_asml-d2w-hybrid-bonding.md | semiconductors | 84 | EMERGING | emerging | ASML | — |
+| DRIFT-011 | DRIFT-011_us-silicon-interposer-gfs.md | semiconductors | 336 | HIGH | scaling | GFS | — |
 
 
 ## Status

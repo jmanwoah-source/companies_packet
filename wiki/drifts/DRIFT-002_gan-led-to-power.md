@@ -102,11 +102,11 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| NVTS | winner | 0.0% (FY2024) [STALE] | 2.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| ON | winner | 46.8% (FY2025) | 29.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
+| NVTS | winner | 0.0% (FY2024) [STALE] | 2.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ON | winner | 46.8% (FY2025) | 27.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | PSG |
 | SMART | loser | n/a (no matching segment data) | ? | n/a | None -> ? (unmapped) | - |
-| SWKS | winner | n/a (no matching segment data) | 13.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| WOLF | winner | 100.0% (FY2025) | 1.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
+| SWKS | winner | n/a (no matching segment data) | 13.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| WOLF | winner | 100.0% (FY2025) | 1.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Power Products |
 
 **Composite (M x T x C): 6 x 10 x 10 = **600** -> tier **CRITICAL**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
@@ -114,4 +114,4 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Reference anchor (Cree LED divestiture 2021). ON PSG = power-semiconductor segment (cleanest GaN-power exposure measurable in the tracked set). SMART: FMP profile returns null (delisted/illiquid) -> stale row, hand estimate from the drift file stands.
 
-## Last Updated (2026-10-25)
+## Last Updated (2026-10-30)

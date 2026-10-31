@@ -442,3 +442,64 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
   (10 drifts); no file deltas (idempotent). Cascade gate post-run: 0 eligible.
 - Commit: none — drift-owned files unchanged this cycle.
+
+## 2026-10-30 (2nd run) — Drift Detector (e9711f5abb15)
+- Health gate: ALL_GOOD (EIA feed degraded — informational). Scan fresh:
+  13 sector queries → 39 base candidates; 6 A2 queries → 18 A2 candidates;
+  0 cascade queries. upstream_suspicious_queries = 0 (note: brave/google/
+  google-cse engines down on every query — degraded-but-not-suspension;
+  candidate counts unaffected). No skip-lock hit.
+- BREAKS: 0 merged (drift_ingest idempotent, 0 processed).
+- JUDGMENT: 57 candidates reviewed (39 base + 18 A2).
+  FILED: DRIFT-011 us-silicon-interposer-gfs — GFS/TSMC multi-year $2B US-based
+  CoWoS silicon-interposer manufacturing (Malta NY, eDTC, volume ramp H1 2028).
+  M×T×C = 6×8×7 = 336 HIGH, additive (no clean US loser; TSMC is the customer).
+  Primary source page fetched (1 of 2 fetch budget); VERIFIED.
+  BASE SLOT 2 UNUSED — all other base candidates rejected:
+   - Polar/IC-Link 8-inch GaN-on-Si (GaN-on-Si query): already logged as DRIFT-002
+     det002a (2026-10-25) — dedup, no new edge (Polar = PRIVATE).
+   - Micron wafer-bonding + High-NA DRAM roadmap: already logged as DRIFT-004
+     c1a0f2e9 (2026-10-28) — re-circulation, no re-rate.
+   - Google/Constellation 890MW uprate PPA: already logged as DRIFT-006 7e3d9b1a
+     (primary source confirmed last cycle) — no new edge.
+   - NRC AP1000 design-cert renewal (3 URLs): PWR-class cert renewal, not SMR
+     SDA gate; already logged as DRIFT-006 det006c/5c8bb9d4 — regulatory
+     housekeeping, not a substitution.
+   - Micron wafer-bonding vHBM roadmap (mezha), ASML High-NA explainers (3),
+     450mm guide/visual pieces (2), GAAFET market report, etch papers (2),
+     800V DC explainers/whitepapers (3), liquid-cooling explainers (3),
+     CPO explainers (2 + YouTube), transformer lead-time thinkpieces (3),
+     custom-silicon race long-read, SMR PPA calculator, BTM state-policy piece:
+     thinkpieces/guides/standards-documents/re-circulations — no named
+     process swap or commitment.
+  SAME-STORY EVIDENCE NOTES (no re-rate): DRIFT-005 +067a5d49 (Ferveret
+  in-rack immersion at MIT — PRIVATE winner, DCD VERIFIED; score 336 HIGH held).
+- A2 SHADOW (18 reviewed, 18 rejected; 3rd slot UNUSED):
+   - 7 listicle/guide/tooling (Top-30 rankings, wafergraph, tape-out guide,
+     MATLAB file exchange, USPTO/Wikipedia/FAR pages, energy-startups top-29).
+   - 4 non-substitution (QuickLogic 6-figure eFPGA IP contract = revenue
+     increment not process swap; EnSilica tape-out = LSE-listed, non-US;
+     SawStreet = private backend service profile; WSJ startup compute piece).
+   - 2 anchor-sized winner (onsemi/Sungrow SiC design win — ON ~$29B mid-to-
+     anchor, winner set not nano/sub-ceiling edge; simplywall.st duplicate).
+   - 1 rumored/no-swap (LX Semicon SiC patent exit — Korean private, patent
+     divestiture, no US winner).
+   - 4 standards/regulatory-doc (APC CPO specs = already logged on DRIFT-008
+     apc054c1; FAR 52.209-1 + Subpart 9.2 = procurement boilerplate).
+  Slot rules: (1) nano/sub-ceiling US winner FAIL on all; (2) certainty bar
+  FAIL (rumored/roadmap); (3) specific swap FAIL (listicles/guides).
+  Precision count CLEAN this cycle (no suspension flag) — first untainted A2
+  sample: 0/18 eligible (dominant reason: listicle/guide 7/18).
+- CASCADE: queue empty this cycle (nothing >=500 unsaturated or gate-fire;
+  DRIFT-002 saturated at 3 zero-streak, excluded). 0 new tickers; no
+  cascade_state.json writes needed.
+- ENGINE: drift_scoring.py re-scored all 11 sidecars — DRIFT-011 = 336 (new,
+  matches md table); no composite deltas on the other 10 (001 432 · 002 600 ·
+  003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84);
+  no fetch_errors, no [STALE] on GFS (data-quality note: GFS FMP
+  revenue-product-segmentation = single coarse FY2025 line
+  "Engineering And Other Pre-Fabrication Services" $769M — engine matches on
+  sector). 26 FMP profiles persisted.
+- Track D: drift_track_d.py rebuilt — 24 dossiers touched (incl. NEW GFS
+  winner backlink), INDEX regenerated (11 drifts). Cascade gate post-run:
+  0 eligible.

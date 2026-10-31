@@ -72,6 +72,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (448+) on a named hyperscaler 
 
 ## Dated Evidence Notes
 - [2026-10-25] [seed005a] Filed from ai-infrastructure pillar validation (salvaged sub-agent evidence).
+- [2026-10-30] [067a5d49] Leg A rescan datapoint (no re-rate): Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT for AI-driven materials research (DCD, 2026-10; claim: +35% compute capacity in-rack). Named deployment but small research-site scope, and Ferveret is PRIVATE (not US-listed) — no new US-listed winner edge (VRT/SMCI unchanged); supports the immersion sub-path of the liquid-cooling default. Score unchanged 336 HIGH. https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/ (VERIFIED) · https://bitcoinversus.tech/2026-10-28/mit-ferveret-rack-immersion-cooling-35-percent-compute-capacity-2026/ (UNVERIFIED — secondary, 35% claim)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
 _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-005.engine.json`. Same inputs -> same output._
@@ -80,9 +81,9 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| ETN | loser | 0.0% (FY2025) | 152.9 | 0.0% | Industrials -> downstream (industrial elec) / substrate | - |
-| SMCI | winner | 56.2% (FY2026) | 22.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Server And Storage Systems |
-| VRT | winner | 82.0% (FY2025) | 94.7 | - (upside) | Industrials -> downstream (industrial elec) / substrate | Product |
+| ETN | loser | 0.0% (FY2025) | 143.7 | 0.0% | Industrials -> downstream (industrial elec) / substrate | - |
+| SMCI | winner | 56.2% (FY2026) | 21.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Server And Storage Systems |
+| VRT | winner | 82.0% (FY2025) | 89.5 | - (upside) | Industrials -> downstream (industrial elec) / substrate | Product |
 
 **Composite (M x T x C): 7 x 6 x 8 = **336** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
@@ -90,4 +91,4 @@ _Computed by drift_scoring.py v2 on 2026-10-30 from FMP revenue-product-segmenta
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Named air-cooled CRAC incumbent not in tracked universe; ETN Electrical Americas/Global = representative data-center-elec exposure (class-level proxy, flagged).
 
-## Last Updated (2026-10-25)
+## Last Updated (2026-10-30)

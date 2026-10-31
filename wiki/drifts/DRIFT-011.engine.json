@@ -1,0 +1,21 @@
+{
+  "drift_id": "DRIFT-011",
+  "slug": "DRIFT-011_us-silicon-interposer-gfs",
+  "m": 6,
+  "t": 8,
+  "c": 7,
+  "certainty_grade": "pilot",
+  "timing_years": 2,
+  "displacement_sub_class": "additive",
+  "mcap_at_stake_b": null,
+  "note": "GFS-only named winner (mid, ~$23B FMP profile mcap): $2B multi-year TSMC contract for US-based CoWoS silicon interposers (incl. eDTC) at Malta NY, volume ramp H1 2028. Additive — no clean US-listed loser (displaced capacity is intra-TSMC allocation; TSMC is the customer). DATA-QUALITY: FMP revenue-product-segmentation for GFS FY2025 returns a single coarse line (Engineering And Other Pre-Fabric Services, $769M) with no interposer/adv-packaging segment — engine matches on sector (Technology/Semiconductors).",
+  "tickers": {
+    "GFS": {
+      "role": "winner",
+      "keywords": [
+        "Semiconductors",
+        "Engineering And Other Pre-Fabrication Services"
+      ]
+    }
+  }
+}

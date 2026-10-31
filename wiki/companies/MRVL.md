@@ -88,3 +88,6 @@ Generated: 2026-10-14T08:02:38Z
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-008` winner — cap mid — Marvell
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+- [2026-10-31] Earnings Call: Q1 2027 - Credo Technology Group Holding (CRDO) | semiconductors (ambiguous high) [`A8387F03`]

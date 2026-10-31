@@ -31,3 +31,6 @@ government
 
 ## Generated
 Generated: 2026-10-11T05:00:50Z
+
+## Catalyst Log
+- [2026-10-31] Earnings Call: Q1 2027 - Credo Technology Group Holding (CRDO) | semiconductors (ambiguous high) [`A8387F03`]

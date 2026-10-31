@@ -4,7 +4,8 @@
 - **Total Signal Briefs**: 10
 - **Signal Hit Rate**: 70%
 - **Primary Category**: semiconductors
-## Catalyst Log
+## Catalyst Log- [2026-10-30] Edge intelligence: 10 trends driving startup success worldwide - Qualcomm | edge_robotics (positive low) [`8154CD8F`]
+
 - **2026-10-06T22:00:00Z**: [West Asia conflict may delay India's chip projects - The Economic Times](https://m.economictimes.com/tech/technology/west-asia-conflict-may-delay-indias-chip-projects/amp_articleshow/132023492.cms|Impact:positive|Level:high)
 - **2026-10-06T22:00:00Z**: [How agentic AI controls factory robots at the edge](https://www.qualcomm.com/news/onq/2026/07/edge-ai-agents-industrial-robot-control|Impact:positive|Level:high)
 - **2026-10-06T22:00:00Z**: [Automate 2026: Orbbec Brings AI-Powered Vision Solutions to Address Industrial A](https://sensorsandsystems.com/automate-2026-orbbec-brings-ai-powered-vision-solutions-to-address-industrial-automation-challenges/|Impact:positive|Level:high)

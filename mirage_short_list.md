@@ -1,6 +1,6 @@
 # Mirage Short List — Track C: Structural Breakdown
 
-**Generated:** 2026-10-30 02:32 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
+**Generated:** 2026-10-30 18:04 · **Cumulative list — demotion requires 2 consecutive sub-gate runs**
 **Trading use:** High-conviction overbought naked-PUT targets (Rubber Band Man).
 
 **Tickers listed:** 7
@@ -17,27 +17,27 @@
 - hype_penalty 25
 - scored 35
 
-## 3. SVCO — 
-- **Score:** 30.0/100  ·  **Market cap:** $228M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-30 02:32
-- **Engine data:** track_c_100=70
-- Samsung partnership brief
-
-## 4. QUBT — QUBT
+## 3. QUBT — QUBT
 - **Score:** 30.0/100  ·  **Market cap:** $1.5B  ·  **Entered:** 2026-10-24 14:59  ·  **Updated:** 2026-10-29 17:28
 - **Engine data:** track_c_100=40
 - Quantinuum record is sector news, zero own milestones + 58.9% dilution = story without substance
 
-## 5. SKYQ — SKYQ
-- **Score:** 30.0/100  ·  **Market cap:** $11M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-30 02:32
+## 4. PRZO — ParaZero Technologies Ltd.
+- **Score:** 30.0/100  ·  **Market cap:** $14M  ·  **Entered:** 2026-10-28 17:31  ·  **Updated:** 2026-10-30 18:04
 - **Engine data:** track_c_100=70
-- no direct briefs
+- story w/o substance (negative drev, no catalyst)
 
-## 6. PRZO — ParaZero Technologies Ltd.
-- **Score:** 30.0/100  ·  **Market cap:** $15M  ·  **Entered:** 2026-10-28 17:31  ·  **Updated:** 2026-10-30 02:32
+## 5. SVCO — 
+- **Score:** 20.0/100  ·  **Market cap:** $207M  ·  **Entered:** 2026-10-22 10:54  ·  **Updated:** 2026-10-30 18:04
 - **Engine data:** track_c_100=70
-- no direct briefs
+- story w/o substance (1.8q runway, tiny base)
+
+## 6. SKYQ — SKYQ
+- **Score:** 20.0/100  ·  **Market cap:** $11M  ·  **Entered:** 2026-10-24 19:18  ·  **Updated:** 2026-10-30 18:04
+- **Engine data:** track_c_100=70
+- story w/o substance (shell financials, sector brief)
 
 ## 7. XMAX — 
-- **Score:** 0.0/100  ·  **Market cap:** $525M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-30 02:32
+- **Score:** 10.0/100  ·  **Market cap:** $416M  ·  **Entered:** 2026-10-18 21:27  ·  **Updated:** 2026-10-30 18:04
 - **Engine data:** track_c_100=90
-- acquisition brief
+- story w/o substance (negative GM flow, 1.8q runway)

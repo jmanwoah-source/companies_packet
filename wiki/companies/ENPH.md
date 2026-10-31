@@ -10,6 +10,7 @@
 ---
 
 ## Catalyst Log
+- [2026-10-30] Infineon supplying world's first 900V GaN monolithic BDS devices to Enphase | semiconductors (positive medium) [`E3C4F83B`]
 
 [2026-10-13T21:39:26Z] FERC orders all six regional grid operators to reform data center interconnection rules within 60 days
   Source: government | Impact: positive (high)
