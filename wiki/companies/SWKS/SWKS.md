@@ -4,7 +4,8 @@
 - **Total Signal Briefs**: 2
 - **Signal Hit Rate**: 100%
 - **Primary Category**: semiconductors
-## Catalyst Log
+## Catalyst Log- [2026-11-02] Skyworks Absorbs Qorvo Today. The Case for Owning It. | semiconductors (neutral medium) [`F94A7D82`]
+
 - **2026-10-06T22:00:00Z**: [Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Pri](https://www.tradevae.com/news/stock-markets/teradyne-shares-slide-after-baird-downgrade-analyst-says-gpu-upside-already-priced-in/|Impact:positive|Level:high)
 - **2026-10-06T22:00:00Z**: [Teradyne Shares Slide After Baird Downgrade, Analyst Says GPU Upside Already Pri](https://www.tradevae.com/news/stock-markets/teradyne-shares-slide-after-baird-downgrade-analyst-says-gpu-upside-already-priced-in/|Impact:positive|Level:high)
 

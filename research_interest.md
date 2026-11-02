@@ -1,40 +1,41 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 310
-- **Unique Tickers**: 74
-- **Categories**: {'quantum': 18, 'edge_robotics': 30, 'ai_infrastructure': 17, 'energy': 16, 'semiconductors': 57, 'materials_science': 3}
+- **Briefs Processed**: 339
+- **Unique Tickers**: 76
+- **Categories**: {'energy': 17, 'edge_robotics': 32, 'quantum': 17, 'ai_infrastructure': 18, 'semiconductors': 80, 'materials_science': 3}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 29 |
-| edge_robotics | 18 |
-| conference_deep_dive | 18 |
-| quantum_research | 17 |
+| negative_intelligence | 32 |
+| edgar_atom | 21 |
+| conference_deep_dive | 20 |
+| edge_robotics | 17 |
 | macro_government | 16 |
-| edgar_atom | 13 |
+| quantum_research | 16 |
+| gnews_wire | 14 |
 | patent_supply_chain | 11 |
 | fmp_anomaly_feed | 9 |
 | sec_edgar | 5 |
-| gnews_wire | 3 |
-| osti_grants | 1 |
-| ah_bridge | 1 |
+| ah_bridge | 4 |
+| osti_grants | 2 |
 
 ## Active Research List
 
 | Ticker | Briefs | Category | Impact |
 |--------|--------|----------|--------|
-| AVAV | 5 | edge_robotics | ambiguous low,positive high |
 | DRS | 5 | edge_robotics | positive high,positive medium |
 | INFQ | 5 | quantum | positive low,positive medium |
-| IONQ | 5 | quantum | positive high,positive low,positive medium |
+| AVAV | 4 | edge_robotics | ambiguous low,positive high |
+| IONQ | 4 | quantum | positive high,positive low,positive medium |
 | NXPI | 4 | semiconductors | negative low,negative medium |
 | AEP | 3 | energy | positive high,positive low,positive medium |
 | AMKR | 3 | ai_infrastructure,materials_science,semiconductors | ambiguous medium,positive medium |
 | MRVL | 3 | semiconductors | ambiguous high,ambiguous medium |
 | ON | 3 | semiconductors | negative high,negative medium |
 | QUBT | 3 | quantum | ambiguous low,ambiguous medium,positive low |
+| TSEM | 3 | semiconductors | neutral low,positive high,positive medium |
 | ALAB | 2 | ai_infrastructure,quantum | negative medium,positive medium |
 | CEG | 2 | energy | positive high,positive low |
 | LSCC | 2 | materials_science,semiconductors | negative low,positive low |
@@ -44,7 +45,6 @@
 | PALX | 2 | semiconductors | positive high |
 | SMCI | 2 | ai_infrastructure | negative medium,neutral medium |
 | ADBE | 1 | semiconductors | negative medium |
-| AI | 1 | ai_infrastructure | negative high |
 | ALGM | 1 | ai_infrastructure | positive medium |
 | APLD | 1 | ai_infrastructure | negative low |
 | ASTS | 1 | semiconductors | negative medium |
@@ -68,8 +68,10 @@
 | GEV | 1 | energy | positive low |
 | GF | 1 | semiconductors | positive medium |
 | GRF | 1 | semiconductors | positive medium |
+| GTX | 1 | ai_infrastructure | positive medium |
 | HPE | 1 | ai_infrastructure | neutral medium |
 | IREN | 1 | ai_infrastructure | negative medium |
+| JCI | 1 | ai_infrastructure | positive medium |
 | KEYS | 1 | semiconductors | positive low |
 | LDOS | 1 | edge_robotics | positive medium |
 | LEU | 1 | energy | positive medium |
@@ -93,8 +95,8 @@
 | SMTC | 1 | semiconductors | negative low |
 | SNPS | 1 | ai_infrastructure | positive low |
 | SVCO | 1 | semiconductors | positive medium |
+| SWKS | 1 | semiconductors | neutral medium |
 | TDI | 1 | edge_robotics | positive medium |
-| TSEM | 1 | semiconductors | neutral low |
 | TVC | 1 | energy | positive high |
 | VRT | 1 | ai_infrastructure | positive medium |
 | VST | 1 | ai_infrastructure | negative low |
@@ -104,9 +106,6 @@
 
 | Date | Headline | Tickers | Impact | Materiality | Category | Confidence | Brief ID |
 |------|----------|---------|--------|-------------|----------|------------|----------|
-| 2026-10-19 | The Pentagon's $350 Million Quantum Push: Why IonQ Could Benefit More  | IONQ | positive medium | indirect | quantum | low | `01A4CCE8` |
-| 2026-10-19 | AeroVironment awarded $51M Army delivery contract; U.S. Army awards 10 | AVAV | positive high | direct | edge_robotics | medium | `46E570C1` |
-| 2026-10-19 | Why Did C3ai (AI) Stock Fall Over -18% Today? (AI data-center expectat | AI | negative high | direct | ai_infrastructure | low | `ADD0F2B9` |
 | 2026-10-20 | X-energy, Amazon, American Electric Power Partner to Bring SMR Project | AEP | positive high | direct | energy | high | `7DE9A947` |
 | 2026-10-20 | DOW Expands Autonomous Warfare Efforts as Huntsville Drone Industry Gr | LDOS | positive medium | direct | edge_robotics | medium | `C1A7F844` |
 | 2026-10-20 | Quantinuum Breaks Error-Correction World Record by 10x on Helios/Helix | QUBT | ambiguous medium | speculative | quantum | high | `9A1F147B` |
@@ -245,3 +244,32 @@
 | 2026-11-02 | Polar: Another convert for GaN-on-silicon (GaN-on-Si foundry momentum; | LSCC | positive low | indirect | materials_science | medium | `DE0D54A5` |
 | 2026-11-02 | IonQ Expands AFRL Quantum Network With New Award | IONQ | positive high | direct | quantum | low | `DC62046F` |
 | 2026-11-02 | SAIC launches quantum solutions for federal agencies (quantum sensing, | ALAB | positive medium | direct | quantum | medium | `022A397A` |
+| 2026-11-02 | Does a Battery Award Give Fluence (NASDAQ:FLNC) a Lift? - Kalkine Medi |  | positive low | direct | semiconductors | low | `5851F7E1` |
+| 2026-11-02 | Albemarle (ALB) Opens Special Meetings to Shareholders and Secures $1. |  | ambiguous medium | direct | semiconductors | medium | `F4F14B8A` |
+| 2026-11-02 | Elbit Systems wins $170m IDF training contract - grafa.com |  | positive medium | direct | semiconductors | medium | `845BFA06` |
+| 2026-11-02 | Elbit Systems Awarded Approximately $170 Million Contract to Establish |  | positive medium | direct | semiconductors | high | `6D2E744B` |
+| 2026-11-02 | After-hours backlog_jump: SMCI $60,000M Why Wall Street Isn't Buying S |  | positive high | direct | edge_robotics | low | `3B26C531` |
+| 2026-11-02 | Garrett's Data Center Cooling Applications: The Future of Cooling | GTX | positive medium | direct | ai_infrastructure | high | `393AC843` |
+| 2026-11-02 | Advanced Sensors and Instrumentation 2025 Summary of Accomplishments |  | neutral low | indirect | energy | high | `2A58C094` |
+| 2026-11-02 | EDGAR fast-lane 8-K: AMERICAS CARMART INC 0001171843-26-007015 |  | ambiguous low | direct | semiconductors | high | `FACB6A7A` |
+| 2026-11-02 | Tutor Perini unit wins $19M Army medical center contract By Investing. |  | positive low | direct | semiconductors | medium | `FF702E85` |
+| 2026-11-02 | EDGAR fast-lane 8-K: Allarity Therapeutics, Inc. 0001213900-26-114682 |  | ambiguous low | direct | semiconductors | high | `E564D7AB` |
+| 2026-11-02 | EDGAR fast-lane 8-K: INTRUSION INC 0001683168-26-008223 |  | ambiguous low | direct | semiconductors | high | `FD3E7ADD` |
+| 2026-11-02 | EDGAR fast-lane 8-K: TripAdvisor, Inc. 0001193125-26-442627 |  | ambiguous low | direct | semiconductors | high | `0E304F2B` |
+| 2026-11-02 | EDGAR fast-lane 8-K: Alpine Income Property Trust, Inc. 0001104659-26- |  | ambiguous low | direct | semiconductors | high | `8EC8019A` |
+| 2026-11-02 | EDGAR fast-lane 8-K: ACCENDRA HEALTH INC/VA/ 0001104659-26-120905 |  | ambiguous low | direct | semiconductors | high | `DE672913` |
+| 2026-11-02 | EDGAR fast-lane 8-K: Kosmos Energy Ltd. 0001509991-26-000058 |  | ambiguous low | direct | semiconductors | high | `DBD078A1` |
+| 2026-11-02 | Orion Group Holdings Announces New Contract Awards of $250 Million - D |  | positive medium | direct | semiconductors | medium | `199348D5` |
+| 2026-11-02 | Mizuho raises First Solar stock price target to $328 on contract strat |  | positive medium | direct | semiconductors | low | `CFD073F5` |
+| 2026-11-02 | Leonardo DRS Selected by AV for U.S. Army’s Enduring-High Energy Laser |  | positive high | direct | semiconductors | medium | `635018CD` |
+| 2026-11-02 | JCI Stock Pivots to AI Cooling With $23 Billion Backlog | JCI | positive medium | direct | ai_infrastructure | medium | `FC4D2F15` |
+| 2026-11-02 | Skyworks Absorbs Qorvo Today. The Case for Owning It. | SWKS | neutral medium | direct | semiconductors | medium | `F94A7D82` |
+| 2026-11-02 | After-hours backlog_jump: SMCI $7,000M Supermicro (SMCI) Finalizes $7  |  | positive medium | direct | edge_robotics | medium | `08668C1D` |
+| 2026-11-02 | EDGAR fast-lane 8-K: ABVC BIOPHARMA, INC. 0001213900-26-114729 |  | ambiguous medium | direct | semiconductors | high | `139C20EF` |
+| 2026-11-02 | Why Is Tower Semiconductor Stock Gaining Monday? - Benzinga | TSEM | positive medium | direct | semiconductors | medium | `D0EA526F` |
+| 2026-11-02 | After-hours dollar_catalyst: AEP $2,650M Bloom Energy (BE) Is Up 7.5%  |  | positive high | direct | edge_robotics | medium | `C6956806` |
+| 2026-11-02 | CoreWeave after Microsoft spend cut: $76.07 bull, $27.48 bear - Financ |  | ambiguous medium | indirect | semiconductors | medium | `E9C84793` |
+| 2026-11-02 | Can the Doosan Agreement Speed Up NuScale Power (NYSE:SMR) Plans? - Ka |  | positive medium | direct | semiconductors | medium | `C4C78268` |
+| 2026-11-02 | Tower Semiconductor: A Beat and a Bigger Guide the Market Isn't Celebr | TSEM | positive high | direct | semiconductors | low | `13EA4A2C` |
+| 2026-11-02 | Lockheed Martin (LMT) Lands $2.1 Billion Ukraine Missile Order With Pr |  | positive medium | direct | semiconductors | medium | `D15C9D02` |
+| 2026-11-02 | SOX Closed -7.2% on October 30 While HBM Sold Out Through 2027 |  | negative high | direct | semiconductors | high | `9E4812B1` |

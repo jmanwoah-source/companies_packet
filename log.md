@@ -535,3 +535,23 @@
   011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
+
+## 2026-11-02 drift-scan 16:30 (cron e9711f5abb15)
+- Health gate ALL_GOOD (EIA feed degraded — informational).
+- Scan: 13 sector + 6 a2 queries → **0 base, 0 a2, 0 cascade candidates;
+  19/19 queries flagged upstream_suspension** (all 4 engines brave/duckduckgo/
+  google/google-cse down mid-scan, HTTP 200 with zero rows). This is the
+  SearXNG IP-suspension signature, NOT query quality — per post-scan guard:
+  no filing, no query tuning from this cycle. 0 news breaks merged.
+- 0 drifts filed (0 candidates to review — spine fully empty under suspension).
+- A2 shadow-run: 0 candidates (suspension) — precision count TAINTED, excluded
+  from tuning average.
+- CASCADE: queue empty (0 eligible; DRIFT-002 saturated zero_streak 3 holding,
+  no gate-fires) → no eligible drift to write back; zero_streak/saturated held.
+- Engine: 12 sidecars re-scored, all composites unchanged
+  (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 ·
+  009 180 · 010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments;
+  26 FMP profiles persisted.
+- Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate
+  0 eligible.
