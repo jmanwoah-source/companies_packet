@@ -119,5 +119,9 @@ Generated: 2026-10-14T08:02:38Z
 - [2026-10-06T13:13:16Z] Google Quantum AI Achieves Major Error Correction Milestone (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Nature: Quantum Computing Breakthrough in Qubit Error Correction 2026 (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 
-## Catalyst Log
+## Catalyst Log- [2026-11-02] IonQ Secures $7.5M AFRL Phase 2 Award for Full-Stack Quantum Networking | quantum (positive medium) [`DFF05107`]
+
 - [2026-10-28] IonQ Wins AFRL Phase 2 Contract to Beam Quantum Entanglement Through Open Air Drones | quantum (positive medium) [`86B6CC1E`]
+
+## Catalyst Log
+- [2026-11-02] IonQ Expands AFRL Quantum Network With New Award | quantum (positive high) [`DC62046F`]

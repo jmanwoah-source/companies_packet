@@ -77,14 +77,14 @@ Tier: **EMERGING (50-199)** — a NATO award or DoD HIL-free standardization →
 - [2026-10-25] [seed007a] Filed from physical-AI pillar validation (salvaged sub-agent evidence).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-007.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-02 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-007.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
 | AVAV | winner | 18.4% (FY2026) | 6.4 | - (upside) | Industrials -> downstream (industrial elec) / substrate | UxS |
-| DRS | winner | 0.0% (FY2024) [STALE] | 10.1 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
+| DRS | winner | 0.0% (FY2024) [STALE] | 10.0 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
 | RCAT | winner | 50.0% (FY2023) [STALE] | 0.7 | - (upside) | Industrials -> downstream (industrial elec) / substrate | Consumer, Other Segments |
 
 **Composite (M x T x C): 6 x 5 x 6 = **180** -> tier **EMERGING**

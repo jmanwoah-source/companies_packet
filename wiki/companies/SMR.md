@@ -6,7 +6,8 @@
 **Negative Signals**: 0
 **Categories**: energy
 ---
-## Catalyst Log
+## Catalyst Log- [2026-10-31] DOE to invest $900M in next-generation nuclear | energy (positive medium) [`819FABEE`]
+
 - [2026-10-17] Big coal states eye small nuclear reactors for grid, economy | energy (positive low) [`C12E905B`]
 [2026-10-15T08:38:17Z] DOE selects companies for $94M in light water SMR deployment awards - American Nuclear Society -- ANS
   Source: government | Impact: positive (high) | Conf: low

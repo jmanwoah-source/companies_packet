@@ -82,7 +82,7 @@ Tier: **EMERGING (50-199)** — prototype validation milestone or follow-on cont
 - [2026-10-31] [9ae3b6d1] Filed (A2 3rd-slot gate: sub-ceiling winner NVTS + competitive government award at pilot/design-win certainty + named process award). 10 kV SiC IGBT domestic-process substitution; additive at the new voltage tier, no clean US loser.
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-012.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-02 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-012.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 
@@ -95,6 +95,5 @@ _Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmenta
   - timing_years: 4 | displacement_sub_class: additive
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: ALATTIS 10kV SiC IGBT domestic-process award (NVTS, 2026-09-28). Additive at new voltage tier; no clean US loser (class row only, low-confidence). FMP NVTS segmentation = single 'Reportable Segment' (FY2024 $83.3M) — whole-company proxy until NVTS splits power-semi segments.
-
 
 ## Last Updated (2026-10-31)

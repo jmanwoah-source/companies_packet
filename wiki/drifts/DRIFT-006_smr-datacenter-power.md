@@ -87,7 +87,7 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-10-30] [det006d] Two demand-side datapoints (no re-rate; gate not fired): (1) 9.4GW SMR-powered data-center campus PROPOSED in Utah (DCD, 2026-10-01) — multi-GW behind-the-meter SMR demand signal, but proposal-stage (rumored certainty; no developer named in headline, no NRC filing); strengthens the demand case, not the licensing clock. (2) NRC finalized the rule allowing applicants to leverage prior DOE/DOD-authorized reactor designs into licensing (ANS, 2026-10-28) — finalization of the det006a rule change; SDA gate still un-fired, C held at 5 (score unchanged 105 EMERGING). Re-circulation noted, no new datapoint: Google/Constellation 20-yr 890MW uprate PPA re-surfaced via POWER Magazine (2026-10-07) — same event as det006b/det006c. https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/ (VERIFIED) · https://www.ans.org/news/article-8512/nrc-finalizes-rule-on-licensing-reactors-with-prior-doe-or-dod (VERIFIED) · https://www.powermag.com/google-deal-backs-890-mw-of-constellation-nuclear-uprates-at-11-pjm-reactor (dup).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-10-31 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-02 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

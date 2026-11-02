@@ -511,3 +511,27 @@
 - A2 shadow-run: 18 reviewed, 17 rejected — dominant reasons: listicle/guide (3), distributor/vendor pages (4), private/no-ticker startups (3), anchor-sized winner (Wolfspeed EV/SiC, WOLF $1.2B is sub-ceiling but story is product-launch not substitution → 2), foreign (LX Semicon, SK Hynix), rumor/thin (5). 1 filed (3rd slot). Precision 1/18 = 5.6% (cycle NOT tainted — 0 upstream suspensions).
 - CASCADE leg: 0 eligible drifts (no composite ≥500 unsaturated, no gate-fires) → 0 cascade queries, 0 new tickers; no zero_streak changes.
 - Engine: 12 drifts re-scored, all composites unchanged, 0 fetch_errors, 0 stale segments. NVTS dossier backlink now +3 winner edges (DRIFT-002/009/012).
+
+## 2026-11-02 drift-scan (cron e9711f5abb15)
+- Health gate ALL_GOOD (EIA feed degraded — informational). Scan: 13 sector +
+  6 a2 queries → 6 base candidates, 0 a2 candidates, 0 cascade results;
+  **17/19 queries flagged upstream_suspension** — SearXNG upstream engines were
+  IP-suspended mid-scan; the low candidate count this cycle is the suspension,
+  not query quality (no query tuning from this cycle). 0 news breaks merged.
+- 0 drifts filed (6 base candidates reviewed, 6 rejected): 2 LinkedIn wafer-
+  market trend thinkpieces + Wikipedia fab article = 450mm re-circulation of
+  filed DRIFT-003 (no new commit, thinkpieces rejected); 3 High-NA EUV items
+  (ASML record $13B quarter, TSMC/Samsung HVM dates 2028/2030, EUV market-size
+  forecast) = same-story re-circulations of filed DRIFT-004, roadmap-stage
+  (consistent with det004c/c1a0f2e9 datapoints; no re-rate).
+- A2 shadow-run: 0 candidates (suspension) — precision count TAINTED, excluded
+  from tuning average.
+- CASCADE: queue empty (0 eligible: nothing >=500 unsaturated — DRIFT-002
+  saturated at zero_streak 3, holding; no gate-fires) → 0 new tickers.
+  zero_streak advanced DRIFT-004 1→2, DRIFT-005 1→2 (each one more cycle from
+  saturation).
+- Engine: 12 sidecars re-scored, all composites unchanged (001 432 · 002 600 ·
+  003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 ·
+  011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
+- Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate
+  0 eligible.

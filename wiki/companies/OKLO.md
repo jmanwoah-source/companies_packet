@@ -20,3 +20,7 @@
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-006` winner — cap sub-ceiling — Oklo (Aurora microreactor, Idaho)
 <!-- DRIFT_EXPOSURE:END -->
+
+## After-Hours Research
+- 2026-11-02 Oklo Launched Another $1 Billion Stock Sale - How Much Dilution Shareholders Have Absorbed Since IPO (2026-10- | negative | New ~$1B equity offering; cumulative post-IPO dilution quantified; track-B dilution kill (reconfirms 25.8% kill note) | https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXEwcERvenNBUy1jY1hIR2Y1Q0hVcERpODJWRU5paXNsS2RIbEdrbDVkOC1lbXFRVm1VRXo4SkszMDlUU18yNHR0WExmSzJjMUJHbzY3UzVRZzZZdExid3NIZXEtUG1oa1F4UnVocC1jYWxrUXNEUWV4TEZyczVqNGFKeEUtX0dtc2NObnlwNEVmX0hjeWVyaWdjZG0?oc=5
+- 2026-11-02 Oklo surges after receiving approval for next phase in the construction of its first reactor (stale-surface, pubdate 2026-03-17; missed by 14d ledger) | positive | Named milestone: regulatory approval for next construction phase of first commercial SMR; historical evidence, not fresh catalyst | https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RFZ3dTJ0LUZRckdxa0xqMWppRWJBcnlOaVBZU3pqLXl3eFp2ZnhZRVRrNlJSNmFTYVd1ZmZkSjVsb0FUeDdZS0NsZDhXY19WV09OMHNjSV9ySnFVbklQUThNS2xwaFp4V1lIR3pmYjdEMjVBM2lMVGdMTlpJbms?oc=5

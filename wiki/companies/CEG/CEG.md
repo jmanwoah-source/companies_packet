@@ -4,7 +4,8 @@
 - **Total Signal Briefs**: 5
 - **Signal Hit Rate**: 40%
 - **Primary Category**: semiconductors
-## Catalyst Log
+## Catalyst Log- [2026-11-02] DOE's $5B Loan to Constellation: Revolutionizing Nuclear Power | energy (positive high) [`74051C9C`]
+
 - **2026-10-06T22:00:00Z**: [Klarna Cuts Guidance and Loses Two Longtime Executives | Fintech News](https://fintechnews.one/article/klarna-cuts-guidance-and-loses-two-longtime-executives|Impact:positive|Level:medium)
 - **2026-10-06T22:00:00Z**: [Energy Department Awards $94 Million to American Companies to Help Expedite the ](https://www.energy.gov/articles/energy-department-awards-94-million-american-companies-help-expedite-deployments-small|Impact:positive|Level:high)
 - **2026-10-06T22:00:00Z**: [Rydberg atom-based vector and polarization sensor (US Patent 12748140)](https://exa.ai/library/legal/patent/wb3pjn570yp|Impact:neutral|Level:high)
@@ -42,7 +43,8 @@ government
 Generated: 2026-10-14T08:02:38Z
 - [2026-10-14] Data Center Electricity Demand in 2026: What It Means for Utilities and Power Producers | energy (positive medium indirect/medium)
 | 2026-10-13 | Data Center Electricity Demand in 2026: What It Means for Utilities and Power Pr | positive | high | direct | macro_government | energy | benefit |
-## Catalyst Log
+## Catalyst Log- [2026-11-02] DOE Generation III+ SMR Program: $17.26M award to Constellation SMR Development LLC for NRC Early Site Permit | energy (positive low) [`6223F12B`]
+
 [2026-10-15T08:38:17Z] Data Center Electricity Demand in 2026: What It Means for Utilities and Power Producers
   Source: government | Impact: positive (high) | Conf: high
   Summary: Data center electricity demand is now the main reason US power consumption is growing again. The Energy Information Administration's July 2026 Short-Term Energy Outlook, released July 7, 2026, projects US electricity consumption of 11.70 billion kilowatt-hours per day in 2026 and 12.05 billion in 20

@@ -79,3 +79,6 @@
 - `DRIFT-009` winner — cap sub-ceiling (est. $2-3B, verify via FMP) — Navitas Semiconductor
 - `DRIFT-012` winner — cap sub-ceiling — Navitas Semiconductor
 <!-- DRIFT_EXPOSURE:END -->
+
+## After-Hours Research
+- 2026-10-31 Navitas Semiconductor (NVTS) Is Down 6.7% After Nvidia AI MGX Showcase Tie‑In And $500M ATM Plan | negative | $500M ATM equity offering announced with Nvidia AI MGX showcase tie-in — dilution watch (track-B), high/negative | https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1d6WGEtMzFSUm92Ti1sODdla0RZdHpUUEZRc0RJMm10TTFmV1dDTUh2aHI0R0I5ZUVhajBqb0E2YWIzdFZOTWJ1cDdDcWhfMG5BcFdoR01NLXE4VjA5LWRWeTduX3FURjFsMk9iQUpyTlgyUjlJWUNjY0VYZG5tX1RHRjVFRm9lY21IdEFwOGdNNmd3MTl4R24xTEx0R2M?oc=5

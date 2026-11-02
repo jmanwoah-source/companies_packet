@@ -54,3 +54,6 @@
 - Brief 0C31B23A | ai_infrastructure | confidence high | materiality direct
 - Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit
 - Source: https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml
+
+## Catalyst Log
+- [2026-11-02] SAIC launches quantum solutions for federal agencies (quantum sensing, optical interconnects, PQC portfolio) | quantum (positive medium) [`022A397A`]
