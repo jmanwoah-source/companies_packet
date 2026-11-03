@@ -75,5 +75,9 @@
 - `DRIFT-007` winner — cap sub-ceiling — DRS (counter-drone radar, C-UAS awards)
 <!-- DRIFT_EXPOSURE:END -->
 
-## Catalyst Log
+## Catalyst Log- [2026-11-03] Leonardo DRS Selected by AV for U.S. Army's Enduring-High Energy Laser Program | edge_robotics (positive high) [`ED2F7C8F`]
+
 - [2026-10-27] Leonardo DRS Wins JIATF-401 Contract for Counter-UAS Capabilities | edge_robotics (positive high) [`0EE2A226`]
+
+## Catalyst Log
+- [2026-11-03] Leonardo DRS tapped to support Army's high-energy laser program | edge_robotics (positive high) [`EE292C0A`]

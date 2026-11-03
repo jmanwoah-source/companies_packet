@@ -12,3 +12,6 @@
 
 ## Last Updated
 2026-10-06T06:31:19Z
+
+## Catalyst Log
+- [2026-11-03] Aehr Test Systems (AEHR) Q1 2027 Earnings Call Transcript - Record $33M revenue and $150M full-year guidance | semiconductors (positive medium) [`1C149B55`]

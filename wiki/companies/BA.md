@@ -18,3 +18,6 @@
 - [2026-09-27T15:30:00Z] [2026-09-27T15:30:00Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics - www.robinsonheli.com (impact: positive)
 - [2026-10-06T13:16:31Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics (edge_robotics) | positive | direct | low- [2026-10-06T13:16:31Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics (edge_robotics) | positive | direct | low
 - [2026-10-06T13:13:16Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics (edge_robotics) | Impact: positive | Materiality: direct | Confidence: low
+
+## Catalyst Log
+- [2026-11-03] Boeing To Receive Up to $945.9 Million Sole Source Contract for MILSATCOM Sustainment | semiconductors (positive medium) [`212E5BC1`]

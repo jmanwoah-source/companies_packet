@@ -95,9 +95,9 @@ _Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| CEG | winner | 0.0% (FY2025) | 91.1 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| CEG | winner | 0.0% (FY2025) | 94.1 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 | NUS | winner | 0.0% (FY2025) | 0.2 | - (upside) | Consumer Defensive -> n/a (non-core sector — ticker likely wrong mapping) | - |
-| OKLO | winner | n/a (no matching segment data) | 4.4 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| OKLO | winner | n/a (no matching segment data) | 4.3 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 
 **Composite (M x T x C): 7 x 3 x 5 = **105** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: claimed

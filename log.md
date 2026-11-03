@@ -1,5 +1,31 @@
 # Log — Action History
 
+## 2026-11-03 drift-scan 17:35 (cron e9711f5abb15) — SUSPENSION CYCLE
+- Health gate: initial `FAIL:primary_feeds` — OSTI feed had flipped to `status: error`
+  (streak 1). Diagnosed NOT dead: the OSTI API is content-negotiated and served a
+  non-well-formed body at 17:02, tripping the XML-only `f_osti` parser. LIVE-VERIFIED
+  the endpoint up (HTTP 200, 20 records/phrase). FIX: `primary_feeds.py` `_osti_records()`
+  now parses BOTH XML and JSON (JSON field map: `report_number`→absent, `other_number`
+  carries it; `contract_number` aliases `doe_contract_number`); a single malformed phrase
+  no longer sinks the feed; all-phrases-failed still raises so it can demote. Ran the feed,
+  OSTI back to `ok streak=0`; gate re-verified `ALL_GOOD`. Backup
+  `primary_feeds.py.bak_osti_json_20261103`.
+- Scan: 13 sector + 6 a2 queries → **0 base, 0 a2, 0 cascade candidates; 19/19 queries
+  flagged `upstream_suspension`** (all 4 engines brave/duckduckgo/google/google-cse down
+  mid-scan, HTTP 200 with zero rows). SearXNG IP-suspension signature, NOT query quality —
+  per post-scan guard (b): no filing, no query tuning from this cycle. 0 news breaks merged.
+- 0 drifts filed (0 candidates to review — spine fully empty under suspension).
+- A2 shadow-run: 0 candidates (suspension) — precision count **TAINTED — suspension**,
+  excluded from the 2-cycle tuning average.
+- CASCADE: queue empty (0 eligible — DRIFT-002 only ≥500, saturated zero_streak 3 holding;
+  no gate-fires) → no eligible drift to write back; zero_streak/saturated held.
+- Engine: drift_scoring.py 12 sidecars re-scored, all composites unchanged
+  (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 ·
+  010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted
+  (live mcap re-pull only: NVTS 2.1→2.3, MPWR 61.1→66.0 — no score delta).
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts),
+  cascade gate 0 eligible.
+
 ## 2026-11-03 drift-scan (cron e9711f5abb15)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK).
 - Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 fresh candidates; 0 cascade queries (0 eligible); 0 breaks merged. Post-scan guard clean: `upstream_suspicious_queries: 0` — NOT a suspension cycle; A2 precision count NOT tainted (clean 2nd shadow-run cycle).

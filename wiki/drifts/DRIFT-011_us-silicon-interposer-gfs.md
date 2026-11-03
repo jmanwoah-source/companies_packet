@@ -115,7 +115,7 @@ _Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| GFS | winner | 100.0% (FY2025) | 22.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Engineering And Other Pre-Fabrication Services |
+| GFS | winner | 100.0% (FY2025) | 23.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Engineering And Other Pre-Fabrication Services |
 
 **Composite (M x T x C): 6 x 8 x 7 = **336** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: pilot

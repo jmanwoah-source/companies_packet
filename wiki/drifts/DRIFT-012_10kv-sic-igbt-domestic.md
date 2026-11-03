@@ -88,7 +88,7 @@ _Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| NVTS | winner | 100.0% (FY2024) [STALE] | 2.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Reportable Segment |
+| NVTS | winner | 100.0% (FY2024) [STALE] | 2.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Reportable Segment |
 
 **Composite (M x T x C): 4 x 4 x 6 = **96** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: pilot

@@ -52,5 +52,6 @@
 - Lattice and TI Join Forces to Advance Real-time Edge AI Sensor Fusion - EE Times Asia
 - Source: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2k2bWpEYlVJT1VPODN4eXNXcGNRY3VmS2thS1ROcUhHQmdtb3lMLXRnWTFGSVkzb3ExaGRGMzhBRHg0UlR4UnRPS3kxVnpmRVlaelc2c28yMzNDSjN2VjduRFZwX2J3eW1WVlBpRUJKVjdoelBvVGxjd0RWMTgtdGZ2MkJUc25mN29KbHRSVDAzZE91b0JBdk1jaWJjLVJBQVZOX29QTTRRRW8?oc=5
 
-## Catalyst Log
+## Catalyst Log- [2026-11-03] Lattice Semiconductor pops as Q3 results, guidance top estimates | semiconductors (positive high) [`ADD59223`]
+
 - [2026-11-02] Polar: Another convert for GaN-on-silicon (GaN-on-Si foundry momentum; related gallium-oxide breakthrough news) | materials_science (positive low) [`DE0D54A5`]

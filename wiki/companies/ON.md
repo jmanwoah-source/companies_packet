@@ -62,3 +62,10 @@ Generated: 2026-10-14T08:02:38Z
 ## Catalyst Log- [2026-10-31] Intel's Worst Crash in 50 Years: Q4 Guidance Collapse - INTC -29-30% Oct 30 2026, worst single-day decline since 1974 | semiconductors (negative high) [`2E9651B0`]
 
 - [2026-10-31] Piper Sandler cuts Intel price target to $90 on weak Q4 guidance; sub-$100B Intel-ecosystem names (ON, ONTO, ONDN) carry | semiconductors (negative medium) [`2EA38253`]
+
+## Catalyst Log- [2026-11-03] Gallium Nitride in Power Electronics: TSMC 2027 foundry exit reshapes the power semiconductor supply chain | materials_science (positive medium) [`834C15CD`]
+
+- [2026-11-02] ON Semiconductor sinks on Q3 results, guidance; announces $600M deal for Ferric | semiconductors (negative high) [`EDBD794E`]
+
+## Catalyst Log
+- [2026-11-03] onsemi beats with strong Q3 margins and raises outlook; shares slip on forecasts and Ferric acquisition | semiconductors (positive high) [`003948DB`]
