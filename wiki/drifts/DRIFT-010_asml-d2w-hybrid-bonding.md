@@ -104,7 +104,7 @@ volume line would push this into HIGH.
   ASML D2W hybrid-bonding, SemiAnalysis + Reuters + Dealroom, 2 web searches, 0 page fetches).
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-02 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-010.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-010.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

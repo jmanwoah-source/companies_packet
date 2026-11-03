@@ -1,5 +1,16 @@
 # Log — Action History
 
+## 2026-11-03 drift-scan (cron e9711f5abb15)
+- Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK).
+- Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 fresh candidates; 0 cascade queries (0 eligible); 0 breaks merged. Post-scan guard clean: `upstream_suspicious_queries: 0` — NOT a suspension cycle; A2 precision count NOT tainted (clean 2nd shadow-run cycle).
+- 0 drifts filed (57 candidates reviewed: 39 base + 18 a2).
+  Base rejections: already-filed re-surfaces (800V Envision/NVIDIA/Siemens → DRIFT-009; CPO/silicon interposer → DRIFT-008; High-NA EUV → DRIFT-004; GAA etch → DRIFT-001; 450mm pricing → DRIFT-003; SMR/NRC → DRIFT-006; liquid/immersion cooling → DRIFT-005), thinkpieces/lead-time guides (transformer 160-week study, Apers PUE), non-US winners (Envision China 800V commercial deploy, SK hynix, 3C/Datalec India), vendor pages (SawStreet, Molex, Stulz). No base candidate met the old→new + named-US-winner bar.
+- Re-rating (not a filing): Envision Energy world-first COMMERICAL integrated 800 V DC deployment at Galaxy AI campus (SST 10/13.8 kV→800 V DC @98.5% + BESS, live GPU loads; announced 2026-11-02, pv-magazine, VERIFIED via search) → Dated Evidence note det009d on DRIFT-009. Non-US deployer, in-house hardware: no US winner/loser edge created; re-rate trigger (first named US-hyperscaler 800VDC volume rack/campus commit) unchanged. Score HELD 180 EMERGING.
+- A2 shadow-run (clean cycle): 18 reviewed, 18 rejected. Dominant reasons: anchor/mid-cap winner or PRIVATE (Wolfspeed multiyear SiC EV device agreement — re-surface of DRIFT-002/012 territory, WOLF mid-cap anchor, fails slot rule 1; ON simplywall.st energy-storage note = anchor + opinion piece; Win Foundry/SawStreet = private/Korean), listicle/guide (JIM 10-step, anysilicon qualification checklist, newmarketpitch top-startups, ic-components CPO explainer), foreign (LX Semicon SiC exit = Korean), no old→new named swap (WSJ Modal compute startup, DOE $389M R&D awards = 4 LOI grants to Helion/CFS/Vertical Semiconductor/Sibelco — all PRIVATE, no US-listed winner, additive R&D funding, not a process swap). 3rd slot UNUSED: no A2 candidate with a nano/sub-ceiling US-listed winner at pilot-or-better certainty naming a specific old→new swap or named-design qualification.
+- CASCADE: queue empty (0 eligible — DRIFT-002 only ≥500, saturated zero_streak 3 holding; no gate-fires) → no eligible drift to write back; zero_streak/saturated held.
+- Engine: drift_scoring.py 12 sidecars, all composites unchanged (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate 0 eligible.
+
 ## 2026-11-02 drift-scan 22:52 (cron e9711f5abb15)
 - Health gate ALL_GOOD (all sources UP; EIA feed not flagged — informational only).
 - Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 fresh candidates, 0 cascade (0 eligible); 0 breaks merged. Post-scan guard clean: `upstream_suspicious_queries: 0` (every query returned 20 fresh results) — NOT a suspension cycle.

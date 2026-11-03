@@ -17,4 +17,4 @@ appears here even though it is not 'overbought' (mirage track = Track C, valuati
 - `Exposure source`: **engine** = computed by `drift_scoring.py` from live FMP revenue-product-segmentation (deterministic, re-run every cycle); **hand** = curator estimate from the drift file (fallback for tickers FMP can't measure — e.g. delisted/segment-less names).
 - low-confidence rows are flags, not short calls; promote on FMP revenue-line confirmation.
 - class-level losers (no named ticker) are NOT listed here — they stay in the drift files.
-- Generated: 2026-11-02 · 5 named loser rows across 12 drifts.
+- Generated: 2026-11-03 · 5 named loser rows across 12 drifts.
