@@ -21,5 +21,6 @@
 - `DRIFT-005` winner — cap mid — Vertiv
 <!-- DRIFT_EXPOSURE:END -->
 
-## Catalyst Log
+## Catalyst Log- [2026-11-04] Vertiv expands liquid cooling portfolio in EMEA to accelerate AI-ready data centre deployments | ai_infrastructure (positive medium) [`715A176E`]
+
 - [2026-10-31] Vertiv launches global ecosystem to advance end-to-end thermal and fluid management for AI-scale infrastructure | ai_infrastructure (positive medium) [`15CD7F44`]

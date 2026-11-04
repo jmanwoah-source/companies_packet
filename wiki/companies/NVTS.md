@@ -34,6 +34,7 @@
 | 2026-10-15 | Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ... | positive | high | indirect | conference_deep_dive | semiconductors | mentioned |
 
 ## Catalyst Log
+- [2026-11-04] GlobalFoundries and Navitas Semiconductor announce long-term strategic partnership to accelerate US-based GaN supply | materials_science (positive high) [`59A5663C`]
 
 [2026-10-15T08:42:10Z] Navitas collaborates with NVIDIA on 24kW, 800V-to-12V power delivery ...
   Source: conference | Impact: neutral (low) | Conf: low

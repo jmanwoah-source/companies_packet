@@ -1,5 +1,26 @@
 # Log — Action History
 
+## 2026-11-04 drift-scan (cron e9711f5abb15) — SUSPENSION CYCLE (3rd)
+- Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK,
+  intel_bus OK).
+- Scan: 13 sector + 6 a2 queries -> 0 base, 0 a2, 0 cascade candidates; **19/19 queries
+  flagged `upstream_suspension`** (zero rows with all 4 engines brave/duckduckgo/google/
+  google-cse down mid-scan). Same SearXNG IP-suspension signature as the 2026-11-03
+  cycles — NOT query quality; per post-scan guard (b): no filing, no query tuning from
+  this cycle. 0 news breaks merged (drift_ingest).
+- 0 drifts filed (0 candidates to review — spine fully empty under suspension).
+- A2 shadow-run: 0 candidates (suspension) — precision count **TAINTED — suspension**,
+  excluded from the 2-cycle tuning average. 3rd-slot A2 gate NOT evaluated (no candidates).
+- CASCADE: queue empty (0 eligible — DRIFT-002 only >=500, saturated zero_streak 3
+  holding; no gate-fires) -> no eligible drift to write back; zero_streak/saturated held.
+- Engine: drift_scoring.py 12 sidecars re-scored, all composites unchanged
+  (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 ·
+  010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts),
+  cascade gate 0 eligible.
+
+# Log — Action History
+
 ## 2026-11-03 drift-scan (cron e9711f5abb15) — SUSPENSION CYCLE (2nd)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.0% free, wiki_drift OK).
 - Scan: 13 sector + 6 a2 queries → 0 base, 0 a2, 0 cascade candidates; **19/19 queries

@@ -55,3 +55,7 @@
 ## Catalyst Log- [2026-11-03] Lattice Semiconductor pops as Q3 results, guidance top estimates | semiconductors (positive high) [`ADD59223`]
 
 - [2026-11-02] Polar: Another convert for GaN-on-silicon (GaN-on-Si foundry momentum; related gallium-oxide breakthrough news) | materials_science (positive low) [`DE0D54A5`]
+
+## Catalyst Log- [2026-11-04] Lattice Semiconductor sets fiscal 2027 revenue guidance at about $1B, 23.6% above trailing 12-month revenue of $808.8M | semiconductors (positive high) [`0D77CADD`]
+
+- [2026-11-04] Lattice Semiconductor Is Riding the AI Server Wave to Big Growth | ai_infrastructure (positive low) [`9B382895`]

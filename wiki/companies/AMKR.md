@@ -38,7 +38,8 @@ Last updated: 2026-10-11T21:26:41Z
 
 - [2026-10-22] NVIDIA Expands AI Supply Chain With Six Partners Including Ibiden, Targeting 2.5x Substrate Capacity | ai_infrastructure (positive medium) [`FA2BE72B`]
 
-## Catalyst Log
+## Catalyst Log- [2026-11-04] AMD after-hours guidance beats expectations, shares jump 9%; Philadelphia Semiconductor Index (SOX) rises 2.63% | semiconductors (positive high) [`CE339AD4`]
+
 - [2026-10-29] Novel Crystal Technology Ships 150mm Ga2O3 Substrate Samples | materials_science (ambiguous medium) [`E9F38589`]
 
 ## After-Hours Research
