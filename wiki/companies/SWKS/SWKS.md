@@ -15,3 +15,6 @@
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-002` winner — cap mid — Skyworks (GaN power)
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+- [2026-11-03] Skyworks Solutions (SWKS) crashes 13% after weak Q4 guidance following Qorvo deal | semiconductors (negative high) [`38C49BF8`]

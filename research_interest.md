@@ -1,15 +1,15 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 374
-- **Unique Tickers**: 80
-- **Categories**: {'energy': 15, 'ai_infrastructure': 19, 'edge_robotics': 37, 'quantum': 17, 'semiconductors': 105, 'materials_science': 4}
+- **Briefs Processed**: 389
+- **Unique Tickers**: 82
+- **Categories**: {'energy': 15, 'ai_infrastructure': 19, 'edge_robotics': 38, 'quantum': 17, 'semiconductors': 119, 'materials_science': 4}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 39 |
-| gnews_wire | 33 |
+| negative_intelligence | 46 |
+| gnews_wire | 41 |
 | conference_deep_dive | 22 |
 | edgar_atom | 22 |
 | edge_robotics | 18 |
@@ -32,12 +32,13 @@
 | IONQ | 4 | quantum | positive high,positive low,positive medium |
 | NXPI | 4 | semiconductors | negative low,negative medium |
 | TSEM | 4 | semiconductors | neutral low,neutral medium,positive high,positive medium |
+| ADEA | 3 | semiconductors | negative high |
 | AMKR | 3 | ai_infrastructure,materials_science,semiconductors | ambiguous medium,positive medium |
 | LSCC | 3 | materials_science,semiconductors | negative low,positive high,positive low |
 | MRVL | 3 | semiconductors | ambiguous high,ambiguous medium |
-| ADEA | 2 | semiconductors | negative high |
 | CC | 2 | ai_infrastructure | positive medium |
 | CEG | 2 | energy | positive high,positive low |
+| LITE | 2 | semiconductors | positive high |
 | MTSI | 2 | materials_science,semiconductors | ambiguous medium,positive medium |
 | ONDS | 2 | edge_robotics | ambiguous low,positive low |
 | ONTO | 2 | semiconductors | negative high,negative medium |
@@ -45,6 +46,7 @@
 | QUBT | 2 | quantum | ambiguous low,positive low |
 | SAIC | 2 | quantum | positive low,positive medium |
 | SMCI | 2 | ai_infrastructure | negative medium,neutral medium |
+| SWKS | 2 | semiconductors | negative high,neutral medium |
 | ADBE | 1 | semiconductors | negative medium |
 | ADIL | 1 | semiconductors | negative high |
 | AEHR | 1 | semiconductors | positive medium |
@@ -59,11 +61,13 @@
 | AXTI | 1 | semiconductors | positive medium |
 | BA | 1 | semiconductors | positive medium |
 | BURU | 1 | edge_robotics | positive medium |
+| BVS | 1 | semiconductors | negative medium |
 | BWX | 1 | energy | positive high |
 | CACI | 1 | edge_robotics | positive medium |
 | CARR | 1 | ai_infrastructure | positive medium |
 | CRDO | 1 | semiconductors | ambiguous high |
 | DIT | 1 | ai_infrastructure | negative low |
+| DXC | 1 | semiconductors | negative medium |
 | ENPH | 1 | semiconductors | positive medium |
 | EPC | 1 | semiconductors | positive low |
 | EQIX | 1 | ai_infrastructure | positive medium |
@@ -80,7 +84,6 @@
 | KEYS | 1 | semiconductors | positive low |
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
-| LITE | 1 | semiconductors | positive high |
 | MOBX | 1 | semiconductors | negative low |
 | NAVI | 1 | semiconductors | positive medium |
 | NBIS | 1 | ai_infrastructure | negative medium |
@@ -98,7 +101,6 @@
 | SMTC | 1 | semiconductors | negative low |
 | SNPS | 1 | ai_infrastructure | positive low |
 | SVCO | 1 | semiconductors | positive medium |
-| SWKS | 1 | semiconductors | neutral medium |
 | TDI | 1 | edge_robotics | positive medium |
 | TVC | 1 | energy | positive high |
 | UIS | 1 | ai_infrastructure | positive low |
@@ -307,3 +309,18 @@
 | 2026-11-03 | Aehr Test Systems (AEHR) Q1 2027 Earnings Call Transcript - Record $33 | AEHR | positive medium | direct | semiconductors | high | `1C149B55` |
 | 2026-11-03 | BWX Technologies (BWXT) Lands Fort Campbell Microreactor Contract In $ |  | positive high | direct | edge_robotics | high | `DE434E9A` |
 | 2026-11-03 | XTEND AI Robotics, Inc. Completes Delivery Under $2.8 Million Defense  |  | positive medium | direct | semiconductors | high | `EE8D827F` |
+| 2026-11-03 | Intel Shares Plunge Nearly 30%, Amazon Falls As AI Spending Comes Unde |  | negative high | direct | semiconductors | medium | `74DD0E4F` |
+| 2026-11-03 | US Stock Futures Slip as Apple Margin Outlook and Palantir Contract Gr |  | negative medium | indirect | semiconductors | medium | `CC593EA2` |
+| 2026-11-03 | RIG Q3 deep dive: Valaris acquisition and tight rig markets shape Tran |  | positive medium | direct | semiconductors | medium | `66525EDE` |
+| 2026-11-03 | Fluor (FLR) Lands $2.4 Billion Navy Deal Following Pullback Is It A Ba |  | positive high | direct | semiconductors | medium | `23D10CD1` |
+| 2026-11-03 | SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class A |  | negative medium | direct | semiconductors | low | `6D7EF708` |
+| 2026-11-03 | ON Semiconductor beats earnings estimates as AI revenue surges - Proac |  | positive medium | direct | semiconductors | low | `48F9C942` |
+| 2026-11-03 | Rosen Law Firm investigation into Xerox Holdings securities claims aft |  | negative high | direct | semiconductors | medium | `0F3EC6EF` |
+| 2026-11-03 | Bioventus (BVS) Drops -17.6% Over 30 Days After Q3 Revenue Miss (Q3 $1 | BVS | negative medium | direct | semiconductors | low | `2D92537B` |
+| 2026-11-03 | Marvell narrows FQ3 2027 revenue guidance band (+/-5% to +/-2%) amid a | LITE | positive high | direct | semiconductors | medium | `B503DA67` |
+| 2026-11-03 | Verra Mobility: Avis Exit And Enterprise Expiry Weigh On The Stock (NA |  | negative medium | direct | semiconductors | low | `491815CA` |
+| 2026-11-03 | Leonardo DRS Joins US Army High-Energy Laser Program - Israel Defense |  | positive high | direct | edge_robotics | medium | `E8435EC6` |
+| 2026-11-03 | Telos Corporation Awarded Xacta Contract by U.S. Department of State - |  | positive medium | direct | semiconductors | medium | `7B89BF3B` |
+| 2026-11-03 | Adeia (ADEA) Plunges ~14-24% After Q3 Revenue Miss and Guidance Cut (F | ADEA | negative high | direct | semiconductors | low | `0F2AE74A` |
+| 2026-11-03 | Skyworks Solutions (SWKS) crashes 13% after weak Q4 guidance following | SWKS | negative high | direct | semiconductors | medium | `38C49BF8` |
+| 2026-11-03 | DXC Technology (DXC) down -6.23% after FQ2 FY2027 cut to full-year rev | DXC | negative medium | direct | semiconductors | low | `BFD9C944` |

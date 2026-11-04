@@ -44,7 +44,8 @@ Last updated: 2026-10-11T21:26:41Z
   **Headline:** Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over ...
   **So What:** ALAB, LITE are touched by this development. Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over ... Source: conference_deep_dive. Context: News: Optoelectronics 13 October 2026 Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and 
   **Next:** Track for concrete follow-on (contract, filing, announcement) within 7 days.
-## Catalyst Log
+## Catalyst Log- [2026-11-03] Marvell narrows FQ3 2027 revenue guidance band (+/-5% to +/-2%) amid agreed all-stock acquisition of Lumentum at $115B i | semiconductors (positive high) [`B503DA67`]
+
 - [2026-10-25] Jensen Huang: optics demand 15x; InP laser capacity the bottleneck - Lumentum (LITE) and Coherent hold 70-80% of InP las | semiconductors (positive high) [`021B4451`]
 
 [2026-10-15T08:42:10Z] Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over ...

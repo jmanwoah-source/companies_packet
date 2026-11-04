@@ -105,14 +105,14 @@ _Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AVGO | winner | 57.7% (FY2025) | 1589.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| AVGO | winner | 57.7% (FY2025) | 1585.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
 | COHR | winner | 74.1% (FY2026) | 40.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
 | IIVI | winner | 74.1% (FY2026) | 30.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
-| MPWR | loser | 94.4% (FY2023) [STALE] | 66.0 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
-| MRVL | winner | 74.4% (FY2026) | 148.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+| MPWR | loser | 94.4% (FY2023) [STALE] | 65.3 | 94.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | DC To DC Products |
+| MRVL | winner | 74.4% (FY2026) | 150.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
 
 **Composite (M x T x C): 7 x 6 x 7 = **294** -> tier **HIGH**
-  - Mcap at stake: $62.3B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
+  - Mcap at stake: $61.6B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
   - timing_years: 2 | displacement_sub_class: cutoff
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
   - note: Molex (named ELSFP incumbent) not in tracked universe. MPWR DC-To-DC = the silicon final-stage/interconnect power line displaced by CPO scale-out (US-listed proxy; ~10% of MPWR revenue -> engine sub_downside lands in low band, honest).

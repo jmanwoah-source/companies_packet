@@ -1,32 +1,24 @@
 ## Watchlist — 2026-11-03
-- ACTIVE: 17 · WATCH: 77 · DORMANT: 10 · ARCHIVED: 50
-- Rechecked: 29 (batched quote calls: 0 — deepdive re-score pass covered due-ticker signals; all 30 14d-due were ARCHIVED)
-- Promotions: DRS (best=84 bc=7), AVAV (best=82 bc=4)
+- ACTIVE: 17 · WATCH: 67 · DORMANT: 20 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; next due in 7d)
+- Promotions: none
 - Demotions: none
-- Promote flags cleared (full-depth scored): 21 | promote hooks set for next cycle: IONQ, DRS, AVAV, INFQ, QUBT, KEYS, TSEM, SVCO, ATMS, NAVI, AMKR, BURU, PALX, EQIX, ATOM, CARR, MTSI, SAI, AXTI, EPC, NU, ENPH, SNPS, CC, QUCY, AEHR
-- Next bi-weekly due: 8 day(s)
+- Entity review: QUCY (profile vs quote name drift, not scored)
+- Next bi-weekly due: 2026-11-10
 
 ## Watchlist — 2026-11-03
-- ACTIVE: 14 · WATCH: 71 · DORMANT: 12 · ARCHIVED: 49
-- Rechecked: 1 (QUCY promote-flag; batched quote calls: 0 — entity-review held, quote_name=Mainz Biomed disagrees with profile Quantum Cyber, flag cleared, not scored)
-- Promotions: LSCC (WATCH->ACTIVE: best=78, briefs=4); SMTC (best=79, briefs=3); ALGM (best=79, briefs=3); FPS (best=78, briefs=2)
-- Demotions: none (6 ACTIVE names initially demoted by misapplied 2-of-3 rule — reverted; all kept >=1 fresh brief in 14d)
-- Archived: 12 (no_signal_2_consecutive_rechecks: COHR, ECL, GLXY, PRZO, HII, LYCA, ALB, ESLT, NDAQ, TPC, WFRD, ORN)
-- Next bi-weekly due: 2026-11-10 (7d)## Watchlist — 2026-11-03
-- ACTIVE: 10 · WATCH: 75 · DORMANT: 24 · ARCHIVED: 37
-- Rechecked: 0 FMP quote rechecks (30 by-date tickers all already ARCHIVED; 26 promotion-queue tickers scored full-depth via Deep-Dive engine data; batched quote calls: 0)
-- Promotions: none (no WATCH/DORMANT crossed best_track_score >= 75 with 2+ corroborating briefs)
-- Demotions: none (no 2-of-3 rule met among due tickers)
-- Entity review: QUCY held unscored (quote 'Mainz Biomed N.V.' vs profile 'Quantum Cyber N.V.')
-- Note: ACTIVE TTMI/NOC/FLEX/INFY due for recheck but absent from Deep-Dive briefing universe this cycle — carried on prior scores
-- Next bi-weekly due: 2026-11-03 (9d)
-## Watchlist — 2026-11-03
-- ACTIVE: 10 · WATCH: 73 · DORMANT: 24 · ARCHIVED: 37
-- Rechecked: 0 (bi-weekly gate: nothing due; batched quote calls: 0)
-- Promotions: CRDO (WATCH->ACTIVE, best 77 >= 75, briefs 2); LITE (WATCH->ACTIVE, best 76 >= 75, briefs 3)
-- Demotions: SEM (WATCH->DORMANT, single-brief never corroborated); RDDT (WATCH->DORMANT, single-brief never corroborated); JCI (WATCH->DORMANT, single-brief never corroborated); TNC (new watchlist entry, WATCH, best 47); AEIS (new watchlist entry, WATCH, best 67); RIG (new watchlist entry, WATCH, best 11)
-- Promotion hook set: 26 tickers (fresh positive direct/medium briefs + brief_count>=2)
+- ACTIVE: 17 · WATCH: 67 · DORMANT: 20 · ARCHIVED: 51
+- Rechecked: 69 (batched quote calls: 1 via engine deepdive brief)
+- Promotions: GFS (WATCH->ACTIVE best=78, briefs>=2), CVV (WATCH->ACTIVE best=76, briefs>=2)
+- Demotions: TTMI, NOC, FLEX (ACTIVE->WATCH, best<75 + 0 briefs); HON, PNR, CRWV, DOW, MVIS, NVTS, XE, XPEV, GEHC, HUM (WATCH->DORMANT, no fresh signal 2 consecutive rechecks); BA archived (mcap ceiling $138B)
 - Next bi-weekly due: 2026-11-11
+## Watchlist — 2026-11-03
+- ACTIVE: 18 · WATCH: 77 · DORMANT: 10 · ARCHIVED: 50
+- Rechecked: 18 (batched quote calls: 1)
+- Promotions: ADBE (best=76 Track A, briefs=2)
+- Demotions: none
+- Next bi-weekly due: 2026-11-17
+
 ## Watchlist — 2026-11-02
 - ACTIVE: 14 · WATCH: 52 · DORMANT: 37 · ARCHIVED: 36
 - Rechecked: 1 (batched quote calls: 0 — AEM promotion-hook full-depth recheck; 81 tickers re-scored from deepdive briefing)
