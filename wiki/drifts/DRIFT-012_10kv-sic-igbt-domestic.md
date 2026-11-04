@@ -82,7 +82,7 @@ Tier: **EMERGING (50-199)** — prototype validation milestone or follow-on cont
 - [2026-10-31] [9ae3b6d1] Filed (A2 3rd-slot gate: sub-ceiling winner NVTS + competitive government award at pilot/design-win certainty + named process award). 10 kV SiC IGBT domestic-process substitution; additive at the new voltage tier, no clean US loser.
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-012.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-04 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-012.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

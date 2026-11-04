@@ -75,7 +75,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (448+) on a named hyperscaler 
 - [2026-10-30] [067a5d49] Leg A rescan datapoint (no re-rate): Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT for AI-driven materials research (DCD, 2026-10; claim: +35% compute capacity in-rack). Named deployment but small research-site scope, and Ferveret is PRIVATE (not US-listed) — no new US-listed winner edge (VRT/SMCI unchanged); supports the immersion sub-path of the liquid-cooling default. Score unchanged 336 HIGH. https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/ (VERIFIED) · https://bitcoinversus.tech/2026-10-28/mit-ferveret-rack-immersion-cooling-35-percent-compute-capacity-2026/ (UNVERIFIED — secondary, 35% claim)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-005.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-04 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-005.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

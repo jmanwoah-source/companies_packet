@@ -619,3 +619,39 @@
   26 FMP profiles persisted.
 - Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
+## 2026-11-04 drift-scan (cron e9711f5abb15)
+- Health gate ALL_GOOD (stale: signal_briefs + vetted_tickers ~2h — informational,
+  other jobs' cadence; no primary_feed issues).
+- Scan: 13 sector + 6 a2 queries → **39 base, 18 a2, 0 cascade candidates**;
+  0 upstream_suspicious_queries (SearXNG engines healthy). 0 news breaks merged.
+- **0 drifts filed (57 candidates reviewed: 39 base, 18 a2 — all rejected).**
+  - Base rejections: market-size/growth reports + vendor thought-leadership (Yahoo
+    wafer-equipment market, LinkedIn market pulses, EUV/GaN-on-Si epi market
+    reports, Schneider/Vertiv 800VDC marketing, immersion/liquid-cooling explainers,
+    transformer lead-time explainers) — none names a specific process swap or
+    commitment; C-UAS/SMR hits (Google-Constellation PPA, Radiant DOE OK) are
+    same-story re-surfaces of already-logged DRIFT-006 datapoints (det006b/det006e);
+    ON+Sungrow ESS design win = DRIFT-002 re-surface (design win, not substitution).
+  - a2 rejections (18): 6 listicle/guide (how-to-start-fabless, foundry-switching
+    checklist, tape-out planning posts), 5 distributor/patent-DB/vendor pages
+    (wafergraph, MaxVal, Molex, AMAT job post, WIN-Semi newsroom), 4 anchor-sized
+    winners or private (Onsemi, Wolfspeed, Mueon PRIVATE, Turba Labs PRIVATE), 3
+    no US-ticker winner / no specific swap (LX SiC patent sale = Korean private
+    exit; Commerce Korea grant = foreign; CPO expert-call = talk, no qualification).
+- **A2 shadow-run: 18 reviewed, 18 rejected; dominant reasons = listicle/guide +
+  vendor/distributor junk (11/18), anchor/private winner (5/18), no-defensible-swap
+  (2/18). 3rd slot UNUSED (no candidate cleared all three gate rules). Not tainted
+  (no suspension) — counts toward the 2-cycle tuning average; junk skew confirms
+  the 2026-10-26 expectation that A2 precision needs query tightening.**
+- Evidence notes appended (no re-rate, no new drift): DRIFT-002 det002g (Polar/imec
+  8-inch GaN re-surfaced via ChipNews — dedup, 600 CRITICAL held) · DRIFT-004
+  det004e (Samsung High-NA HVM 2028 DRAM-first + TSMC ~2030 schedule confirmed in
+  ASML record-quarter report — C held 6, 144 EMERGING held).
+- CASCADE: queue empty (0 eligible; no composite >=500 unsaturated, no gate-fires)
+  → nothing to write back; DRIFT-002 saturated (zero_streak 3) holding.
+- Engine: 12 sidecars re-scored, all composites unchanged (001 432 · 002 600 ·
+  003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 ·
+  011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
+- Track D: 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate
+  0 eligible.

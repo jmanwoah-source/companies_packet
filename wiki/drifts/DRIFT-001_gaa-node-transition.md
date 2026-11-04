@@ -91,7 +91,7 @@ Tier: **HIGH (200-499)** — track; next-cycle re-check.
 - [2026-10-25] [seed001a] Seeded as first process-node drift from the 2026 WFE structural upcycle.
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-001.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-04 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-001.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

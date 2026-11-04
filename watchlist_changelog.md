@@ -1,22 +1,30 @@
-## Watchlist — 2026-11-03
+## Watchlist — 2026-11-04
 - ACTIVE: 17 · WATCH: 67 · DORMANT: 20 · ARCHIVED: 51
-- Rechecked: 0 (nothing due; next due in 7d)
+- Rechecked: 0 (batched quote calls: 0 — briefing data used, no fresh FMP calls needed)
 - Promotions: none
 - Demotions: none
-- Entity review: QUCY (profile vs quote name drift, not scored)
-- Next bi-weekly due: 2026-11-10
+- Entity review: QUCY (quote/profile name drift, held WATCH, unscored)
+- Next bi-weekly due: 2026-11-12
 
 ## Watchlist — 2026-11-03
-- ACTIVE: 17 · WATCH: 67 · DORMANT: 20 · ARCHIVED: 51
-- Rechecked: 69 (batched quote calls: 1 via engine deepdive brief)
-- Promotions: GFS (WATCH->ACTIVE best=78, briefs>=2), CVV (WATCH->ACTIVE best=76, briefs>=2)
-- Demotions: TTMI, NOC, FLEX (ACTIVE->WATCH, best<75 + 0 briefs); HON, PNR, CRWV, DOW, MVIS, NVTS, XE, XPEV, GEHC, HUM (WATCH->DORMANT, no fresh signal 2 consecutive rechecks); BA archived (mcap ceiling $138B)
-- Next bi-weekly due: 2026-11-11
+- ACTIVE: 17 · WATCH: 44 · DORMANT: 50 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; scores-only update from deep-dive briefing)
+- Promotions: BVS (seeded DORMANT, briefs=0); DXC (seeded DORMANT, briefs=0); FLR (seeded DORMANT, briefs=0); IT (seeded DORMANT, briefs=0); QRVO (seeded DORMANT, briefs=0); TLS (seeded DORMANT, briefs=0); XTND (seeded DORMANT, briefs=0); AEHR (WATCH->ACTIVE, best=82, briefs=2); GFS (WATCH->ACTIVE, best=78, briefs=12); CVV (WATCH->ACTIVE, best=76, briefs=5)
+- Demotions: BWXT (WATCH->DORMANT, single/zero brief); HPE (WATCH->DORMANT, single/zero brief); SMR (WATCH->DORMANT, single/zero brief); FLNC (WATCH->DORMANT, single/zero brief); AEP (WATCH->DORMANT, single/zero brief); LHX (WATCH->DORMANT, single/zero brief); SWKS (WATCH->DORMANT, single/zero brief); FSLR (WATCH->DORMANT, single/zero brief); CERS (WATCH->DORMANT, single/zero brief); EFOR (WATCH->DORMANT, single/zero brief); KEQU (WATCH->DORMANT, single/zero brief); RRX (WATCH->DORMANT, single/zero brief)
+- Next bi-weekly due: 2026-11-17
+
 ## Watchlist — 2026-11-03
-- ACTIVE: 18 · WATCH: 77 · DORMANT: 10 · ARCHIVED: 50
-- Rechecked: 18 (batched quote calls: 1)
-- Promotions: ADBE (best=76 Track A, briefs=2)
-- Demotions: none
+- ACTIVE: 17 · WATCH: 44 · DORMANT: 50 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; scores-only update from deep-dive briefing)
+- Promotions: BVS (seeded DORMANT, briefs=0); DXC (seeded DORMANT, briefs=0); FLR (seeded DORMANT, briefs=0); IT (seeded DORMANT, briefs=0); QRVO (seeded DORMANT, briefs=0); TLS (seeded DORMANT, briefs=0); XTND (seeded DORMANT, briefs=0); AEHR (WATCH->ACTIVE, best=82, briefs=2); GFS (WATCH->ACTIVE, best=78, briefs=12); CVV (WATCH->ACTIVE, best=76, briefs=5)
+- Demotions: BWXT (WATCH->DORMANT, single/zero brief); HPE (WATCH->DORMANT, single/zero brief); SMR (WATCH->DORMANT, single/zero brief); FLNC (WATCH->DORMANT, single/zero brief); AEP (WATCH->DORMANT, single/zero brief); LHX (WATCH->DORMANT, single/zero brief); SWKS (WATCH->DORMANT, single/zero brief); FSLR (WATCH->DORMANT, single/zero brief); CERS (WATCH->DORMANT, single/zero brief); EFOR (WATCH->DORMANT, single/zero brief); KEQU (WATCH->DORMANT, single/zero brief); RRX (WATCH->DORMANT, single/zero brief)
+- Next bi-weekly due: 2026-11-17
+
+## Watchlist — 2026-11-03
+- ACTIVE: 17 · WATCH: 44 · DORMANT: 50 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; scores-only update from deep-dive briefing)
+- Promotions: BVS (seeded DORMANT, briefs=0); DXC (seeded DORMANT, briefs=0); FLR (seeded DORMANT, briefs=0); IT (seeded DORMANT, briefs=0); QRVO (seeded DORMANT, briefs=0); TLS (seeded DORMANT, briefs=0); XTND (seeded DORMANT, briefs=0); AEHR (WATCH->ACTIVE, best=82, briefs=2); GFS (WATCH->ACTIVE, best=78, briefs=12); CVV (WATCH->ACTIVE, best=76, briefs=5)
+- Demotions: BWXT (WATCH->DORMANT, single/zero brief); HPE (WATCH->DORMANT, single/zero brief); SMR (WATCH->DORMANT, single/zero brief); FLNC (WATCH->DORMANT, single/zero brief); AEP (WATCH->DORMANT, single/zero brief); LHX (WATCH->DORMANT, single/zero brief); SWKS (WATCH->DORMANT, single/zero brief); FSLR (WATCH->DORMANT, single/zero brief); CERS (WATCH->DORMANT, single/zero brief); EFOR (WATCH->DORMANT, single/zero brief); KEQU (WATCH->DORMANT, single/zero brief); RRX (WATCH->DORMANT, single/zero brief)
 - Next bi-weekly due: 2026-11-17
 
 ## Watchlist — 2026-11-02
@@ -26,6 +34,8 @@
 - Demotions: none
 - Promotion queue set (44): WATCH/DORMANT names with >=2 corroborated briefs + fresh catalyst in last 14d (AEP, IONQ, CEG, AMKR, LHX, SVCO, MTSI, PALX, CACI, SAIC, TSEM, ENPH, AXTI, QBTS, QUBT, ONDS, SMR, SNPS, ALGM, CARR, EQIX, HPE, KEYS, LDOS, EPC, FSLR, FLNC, SMCI, APLD, ASTS, COHR, CRDO, DIT, ECL, GTX, IREN, MOBX, NU, ONDS, PRZO, QUCY, RGTI, SAI, SERV, SKYQ, SVCO, TSEM, WULF, XMAX, BURU, ATMS, ATOM, CARR, CC, ESLT, GLXY, HPE, NAVI, SNPS, SWKS)
 - Next bi-weekly due: 2026-11-16
+
+
 ## Watchlist — 2026-11-02
 - ACTIVE: 7 · WATCH: 57 · DORMANT: 39 · ARCHIVED: 37
 - Rechecked: 75 (batched quote calls: 1 — engine FMP batch of 82)
@@ -34,24 +44,23 @@
 - Next bi-weekly due: 2026-11-16
 
 
+
+
 ## Watchlist — 2026-11-02 (22:57 run)
 - ACTIVE: 8 · WATCH: 75 · DORMANT: 21 · ARCHIVED: 37
 - Rechecked: 82 (full deepdive data pull; batched quote calls: 0)
 - Promotions: SAIC (WATCH->ACTIVE best=78>=75 + briefs=2); 19 DORMANT->WATCH (briefs>=2 + fresh signal): ADBE, APLD, ASTS, ATOM, CARR, CC, DIT, EQIX, FPS, MOBX, MTSI, PALX, RGTI, SERV, SKYQ, SWKS, VST, WULF
 - Demotions: none
 - Next bi-weekly due: 2026-11-11## Watchlist — 2026-11-03
-- ACTIVE: 15 · WATCH: 70 · DORMANT: 11 · ARCHIVED: 50
-- Rechecked: 73 (batched quote calls: 1)
-- Promotions: ON (WATCH->ACTIVE: Track A 78 >= 75 + 6 corroborating briefs 14d)
-- Demotions: none
-- Archived: TXN (exited mcap ceiling $276B >= $100B)
-- Entity review (held WATCH): QUCY, SAI, DIT, NAVI, ADIL
-- Promote hooks set: IONQ, DRS, HPE, NXPI, SMR, AVAV, INFQ, FLNC, AEP, QUBT, SMCI, TSEM, LHX, AMKR, PALX, MTSI, SWKS, FSLR, ONDS, ONTO, CC
+- ACTIVE: 17 · WATCH: 44 · DORMANT: 50 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; scores-only update from deep-dive briefing)
+- Promotions: BVS (seeded DORMANT, briefs=0); DXC (seeded DORMANT, briefs=0); FLR (seeded DORMANT, briefs=0); IT (seeded DORMANT, briefs=0); QRVO (seeded DORMANT, briefs=0); TLS (seeded DORMANT, briefs=0); XTND (seeded DORMANT, briefs=0); AEHR (WATCH->ACTIVE, best=82, briefs=2); GFS (WATCH->ACTIVE, best=78, briefs=12); CVV (WATCH->ACTIVE, best=76, briefs=5)
+- Demotions: BWXT (WATCH->DORMANT, single/zero brief); HPE (WATCH->DORMANT, single/zero brief); SMR (WATCH->DORMANT, single/zero brief); FLNC (WATCH->DORMANT, single/zero brief); AEP (WATCH->DORMANT, single/zero brief); LHX (WATCH->DORMANT, single/zero brief); SWKS (WATCH->DORMANT, single/zero brief); FSLR (WATCH->DORMANT, single/zero brief); CERS (WATCH->DORMANT, single/zero brief); EFOR (WATCH->DORMANT, single/zero brief); KEQU (WATCH->DORMANT, single/zero brief); RRX (WATCH->DORMANT, single/zero brief)
 - Next bi-weekly due: 2026-11-17
+
 ## Watchlist — ## Watchlist — 2026-11-03
-- ACTIVE: 15 · WATCH: 71 · DORMANT: 10 · ARCHIVED: 50
-- Rechecked: 21 (batched quote calls: 1 — fresh full-universe briefing fetch serves as recheck quote)
-- Promotions: none
-- Demotions: none
-- Next bi-weekly due: in 7 days
-- Entity-review this cycle: QUCY, SAI, DIT, ADIL, NAVI, EPC, SEM (labels vs briefs disagree; WATCH, not scored)
+- ACTIVE: 17 · WATCH: 44 · DORMANT: 50 · ARCHIVED: 51
+- Rechecked: 0 (nothing due; scores-only update from deep-dive briefing)
+- Promotions: BVS (seeded DORMANT, briefs=0); DXC (seeded DORMANT, briefs=0); FLR (seeded DORMANT, briefs=0); IT (seeded DORMANT, briefs=0); QRVO (seeded DORMANT, briefs=0); TLS (seeded DORMANT, briefs=0); XTND (seeded DORMANT, briefs=0); AEHR (WATCH->ACTIVE, best=82, briefs=2); GFS (WATCH->ACTIVE, best=78, briefs=12); CVV (WATCH->ACTIVE, best=76, briefs=5)
+- Demotions: BWXT (WATCH->DORMANT, single/zero brief); HPE (WATCH->DORMANT, single/zero brief); SMR (WATCH->DORMANT, single/zero brief); FLNC (WATCH->DORMANT, single/zero brief); AEP (WATCH->DORMANT, single/zero brief); LHX (WATCH->DORMANT, single/zero brief); SWKS (WATCH->DORMANT, single/zero brief); FSLR (WATCH->DORMANT, single/zero brief); CERS (WATCH->DORMANT, single/zero brief); EFOR (WATCH->DORMANT, single/zero brief); KEQU (WATCH->DORMANT, single/zero brief); RRX (WATCH->DORMANT, single/zero brief)
+- Next bi-weekly due: 2026-11-17

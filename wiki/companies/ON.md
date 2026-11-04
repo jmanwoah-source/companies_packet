@@ -67,5 +67,6 @@ Generated: 2026-10-14T08:02:38Z
 
 - [2026-11-02] ON Semiconductor sinks on Q3 results, guidance; announces $600M deal for Ferric | semiconductors (negative high) [`EDBD794E`]
 
-## Catalyst Log
+## Catalyst Log- [2026-11-04] NXP Faces Market Uncertainty Amid Tariffs And Leadership Change | Axtek ... | semiconductors (ambiguous low) [`5E9214FD`]
+
 - [2026-11-03] onsemi beats with strong Q3 margins and raises outlook; shares slip on forecasts and Ferric acquisition | semiconductors (positive high) [`003948DB`]

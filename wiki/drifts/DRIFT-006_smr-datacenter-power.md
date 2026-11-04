@@ -89,7 +89,7 @@ Tier: **EMERGING (50-199)** — gate-fire re-rate: T 3→6, C 5→9 → **378 �
 - [2026-11-02] [det006e] Microreactor-category licensing datapoint (no re-rate; NRC SDA timing-gate NOT fired — score unchanged 105 EMERGING): Radiant Nuclear (PRIVATE, no US ticker) announced DOE granted approval of the Documented Safety Analysis (DSA) for its Kaleidos 400kW-class microreactor, covering **full-power** operation (not just first criticality) — the first such approval in the microreactor industry. Next step is DOE's Readiness Review before the 5-phase DOME test campaign at INL (target: 60 EFPD / 150h continuous full-power). Deployment is defense-first (Buckley SFB, Fort Benning 2028; Navy selection at Crane IN), NOT behind-the-meter DC — so it de-risks the microreactor technology category and the licensing pathway, but does not advance the DC-serving NRC SDA that is this drift's timing-gate. (2026-10-29; VERIFIED — primary + Business Wire + ANS Newswire, multi-source.) Caveat: a DOE test authorization at INL is not an NRC commercial license. https://www.radiantnuclear.com/news/radiant-secure-doe-approval-for-full-power-operations (VERIFIED) · https://www.businesswire.com/news/home/20261029539545/en/ (VERIFIED)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-04 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-006.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

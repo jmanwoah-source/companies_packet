@@ -1,22 +1,22 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 389
-- **Unique Tickers**: 82
-- **Categories**: {'energy': 15, 'ai_infrastructure': 19, 'edge_robotics': 38, 'quantum': 17, 'semiconductors': 119, 'materials_science': 4}
+- **Briefs Processed**: 424
+- **Unique Tickers**: 80
+- **Categories**: {'edge_robotics': 40, 'ai_infrastructure': 18, 'quantum': 17, 'energy': 15, 'semiconductors': 151, 'materials_science': 4}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| negative_intelligence | 46 |
-| gnews_wire | 41 |
+| gnews_wire | 51 |
+| negative_intelligence | 47 |
+| edgar_atom | 43 |
 | conference_deep_dive | 22 |
-| edgar_atom | 22 |
 | edge_robotics | 18 |
 | quantum_research | 16 |
-| macro_government | 14 |
+| macro_government | 13 |
 | patent_supply_chain | 13 |
-| fmp_anomaly_feed | 9 |
+| fmp_anomaly_feed | 11 |
 | sec_edgar | 5 |
 | ah_bridge | 4 |
 | osti_grants | 2 |
@@ -26,11 +26,11 @@
 | Ticker | Briefs | Category | Impact |
 |--------|--------|----------|--------|
 | DRS | 7 | edge_robotics | positive high,positive medium |
-| ON | 6 | materials_science,semiconductors | negative high,negative medium,positive high,positive medium |
+| ON | 7 | materials_science,semiconductors | ambiguous low,negative high,negative medium,positive high,positive medium |
 | INFQ | 5 | quantum | positive low,positive medium |
+| NXPI | 5 | semiconductors | ambiguous low,negative low,negative medium |
 | AVAV | 4 | edge_robotics | ambiguous low,positive high |
 | IONQ | 4 | quantum | positive high,positive low,positive medium |
-| NXPI | 4 | semiconductors | negative low,negative medium |
 | TSEM | 4 | semiconductors | neutral low,neutral medium,positive high,positive medium |
 | ADEA | 3 | semiconductors | negative high |
 | AMKR | 3 | ai_infrastructure,materials_science,semiconductors | ambiguous medium,positive medium |
@@ -50,7 +50,6 @@
 | ADBE | 1 | semiconductors | negative medium |
 | ADIL | 1 | semiconductors | negative high |
 | AEHR | 1 | semiconductors | positive medium |
-| AEP | 1 | energy | positive medium |
 | ALAB | 1 | quantum | positive medium |
 | ALGM | 1 | ai_infrastructure | positive medium |
 | APLD | 1 | ai_infrastructure | negative low |
@@ -79,14 +78,12 @@
 | GRF | 1 | semiconductors | positive medium |
 | GTX | 1 | ai_infrastructure | positive medium |
 | HPE | 1 | ai_infrastructure | neutral medium |
-| IREN | 1 | ai_infrastructure | negative medium |
 | JCI | 1 | ai_infrastructure | positive medium |
 | KEYS | 1 | semiconductors | positive low |
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
 | MOBX | 1 | semiconductors | negative low |
 | NAVI | 1 | semiconductors | positive medium |
-| NBIS | 1 | ai_infrastructure | negative medium |
 | NTAP | 1 | ai_infrastructure | negative medium |
 | NU | 1 | energy | positive medium |
 | QCOM | 1 | edge_robotics | positive low |
@@ -107,13 +104,12 @@
 | VRT | 1 | ai_infrastructure | positive medium |
 | VST | 1 | ai_infrastructure | negative low |
 | WULF | 1 | ai_infrastructure | negative low |
+| XPRO | 1 | energy | ambiguous medium |
 
 ## Research of Interest
 
 | Date | Headline | Tickers | Impact | Materiality | Category | Confidence | Brief ID |
 |------|----------|---------|--------|-------------|----------|------------|----------|
-| 2026-10-21 | X-energy, AEP and Amazon team up for proposed Indiana SMR project | AEP | positive medium | direct | energy | medium | `B32E67D4` |
-| 2026-10-21 | Nebius: Next Chip To Fall As AI Infrastructure Bubble Starts To Burst  | IREN,NBIS | negative medium | direct | ai_infrastructure | low | `48E2582E` |
 | 2026-10-21 | Leonardo DRS wins $500M slot to supply counter-drone radar | DRS | positive high | direct | edge_robotics | medium | `DDE00B34` |
 | 2026-10-21 | HPE Has a 12x Forward PE and 400% Growth. So Why Won't Wall Street Buy | HPE,SMCI | neutral medium | direct | ai_infrastructure | medium | `CC5664E0` |
 | 2026-10-21 | Pentagon's $200M Farseer Program Pushes Quantum Navigation That Alread | INFQ,IONQ | positive low | speculative | quantum | low | `D7AE903A` |
@@ -324,3 +320,38 @@
 | 2026-11-03 | Adeia (ADEA) Plunges ~14-24% After Q3 Revenue Miss and Guidance Cut (F | ADEA | negative high | direct | semiconductors | low | `0F2AE74A` |
 | 2026-11-03 | Skyworks Solutions (SWKS) crashes 13% after weak Q4 guidance following | SWKS | negative high | direct | semiconductors | medium | `38C49BF8` |
 | 2026-11-03 | DXC Technology (DXC) down -6.23% after FQ2 FY2027 cut to full-year rev | DXC | negative medium | direct | semiconductors | low | `BFD9C944` |
+| 2026-11-04 | Gartner Q3 net income jumps 506% to $214m - grafa.com |  | negative low | direct | semiconductors | low | `DAB4981E` |
+| 2026-11-04 | Gartner (NYSE:IT) Slides After Q3 Revenue Miss Overshadows EPS Beat -  |  | negative low | direct | semiconductors | low | `B483025A` |
+| 2026-11-04 | Telos wins State Department cybersecurity contract By Investing.com -  |  | positive medium | direct | semiconductors | low | `AA1696E0` |
+| 2026-11-04 | Telos wins State Department cybersecurity contract - Investing.com |  | positive medium | direct | semiconductors | low | `78300BFD` |
+| 2026-11-04 | Expro (XPRO) Q3 2026 Earnings Call: Guidance rose despite a fourth-qua | XPRO | ambiguous medium | direct | energy | medium | `7B5FCB7F` |
+| 2026-11-04 | Insider open-market purchase: Buckley Mortimer J bought $998,421 of BA |  | positive medium | direct | edge_robotics | high | `9E491692` |
+| 2026-11-04 | Insider open-market purchase: MOLLENKOPF STEVEN M bought $510,427 of B |  | positive medium | direct | edge_robotics | high | `7FD59832` |
+| 2026-11-04 | EDGAR fast-lane 8-K: SUPERNUS PHARMACEUTICALS, INC. 0001104659-26-1210 |  | ambiguous low | direct | semiconductors | high | `A81B5886` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Indivior Pharmaceuticals, Inc. 0001104659-26-1210 |  | ambiguous low | direct | semiconductors | high | `C302706C` |
+| 2026-11-04 | EDGAR fast-lane 8-K: CBIZ, Inc. 0001193125-26-442819 |  | ambiguous low | direct | semiconductors | high | `825DB225` |
+| 2026-11-04 | EDGAR fast-lane 8-K: PMGC Holdings Inc. 0001213900-26-114909 |  | ambiguous low | direct | semiconductors | high | `6A45FC71` |
+| 2026-11-04 | EDGAR fast-lane 8-K: RGC RESOURCES INC 0001437749-26-034416 |  | ambiguous low | direct | semiconductors | high | `67197D2F` |
+| 2026-11-04 | EDGAR fast-lane 8-K: DAVEY TREE EXPERT CO 0001628280-26-068827 |  | ambiguous low | direct | semiconductors | high | `B20AF742` |
+| 2026-11-04 | EDGAR fast-lane 8-K: SHERWIN WILLIAMS CO 0001193125-26-443395 |  | ambiguous low | direct | semiconductors | high | `E4CDD02F` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Strategic Storage Trust VI, Inc. 0001193125-26-44 |  | ambiguous low | direct | semiconductors | high | `DF1FBEBA` |
+| 2026-11-04 | EDGAR fast-lane 8-K: BROADWIND, INC. 0001437749-26-034471 |  | ambiguous low | direct | semiconductors | high | `07636409` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Starlink AI Acquisition Corp 0001493152-26-049653 |  | ambiguous low | direct | semiconductors | high | `2C4B9C04` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Tevogen Inc. 0001493152-26-049649 |  | ambiguous low | direct | semiconductors | high | `3EABF8AE` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Karyopharm Therapeutics Inc. 0001193125-26-444164 |  | negative low | direct | semiconductors | high | `B59E2628` |
+| 2026-11-04 | EDGAR fast-lane 8-K: MERCER INTERNATIONAL INC. 0001193125-26-444106 |  | ambiguous low | direct | semiconductors | high | `FA975E4C` |
+| 2026-11-04 | Ball (NYSE:BALL) surprises with strong Q3 2026 - TradingView |  | positive low | direct | semiconductors | medium | `529A211D` |
+| 2026-11-04 | EDGAR fast-lane 8-K: WEIS MARKETS INC 0000105418-26-000055 |  | ambiguous low | direct | semiconductors | high | `EDAF79B8` |
+| 2026-11-04 | EDGAR fast-lane 8-K: GEOSPACE TECHNOLOGIES CORP 0001437749-26-034539 |  | ambiguous low | direct | semiconductors | high | `025A28E6` |
+| 2026-11-04 | EDGAR fast-lane 8-K: AEON Biopharma, Inc. 0001837607-26-000081 |  | ambiguous low | direct | semiconductors | high | `D2677203` |
+| 2026-11-04 | Regal Rexnord (NYSE:RRX) exceeds Q3 2026 expectations - TradingView |  | positive low | direct | semiconductors | medium | `64B397AF` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Kairos Pharma, LTD. 0001493152-26-049744 |  | ambiguous low | direct | semiconductors | high | `AA92095F` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Alphega Innovations Corp 0002038564-26-000018 |  | ambiguous low | direct | semiconductors | high | `5A23FF7E` |
+| 2026-11-04 | EDGAR fast-lane 8-K: Stewards, Inc. 0001663577-26-000333 |  | ambiguous low | direct | semiconductors | high | `5D58EB3B` |
+| 2026-11-04 | EDGAR fast-lane 8-K: EagleRock Land, LLC 0001193125-26-445637 |  | ambiguous low | direct | semiconductors | high | `726F29BC` |
+| 2026-11-04 | EDGAR fast-lane 8-K: REDWOOD TRUST INC 0001104659-26-122170 |  | ambiguous low | direct | semiconductors | high | `7D22AED7` |
+| 2026-11-04 | Varonis Systems (NASDAQ:VRNS) beats Q3 2026 sales expectations - Tradi |  | positive low | direct | semiconductors | medium | `105CEC48` |
+| 2026-11-04 | Seadrill (NYSE:SDRL) surprises with strong Q3 2026 - TradingView |  | positive low | direct | semiconductors | medium | `7B37054D` |
+| 2026-11-04 | Fortune Brands (NYSE:FBIN) misses Q3 2026 revenue estimates - TradingV |  | negative low | direct | semiconductors | medium | `7D304C3D` |
+| 2026-11-04 | NXP Faces Market Uncertainty Amid Tariffs And Leadership Change / Axte | NXPI,ON | ambiguous low | direct | semiconductors | low | `5E9214FD` |
+| 2026-11-04 | Leonardo DRS (NASDAQ:DRS) CFO Michael Dippold Sells 14,317 Shares of C |  | negative low | direct | semiconductors | low | `C9F62039` |

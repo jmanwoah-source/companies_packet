@@ -99,7 +99,7 @@ Tier: **HIGH (200-499)** — promotes to CRITICAL (≥448) on a named hyperscale
 - [2026-10-28] [apc054c1] Standards milestone (A2 leg candidate #54): Advanced Photonics Coalition (60 member orgs: foundries, PIC makers, laser/packaging/test suppliers) released its full specification portfolio 2026-10-20 at the PECC Summit — CPO system-level architecture overview, CPO recommended practices, silicon-photonic manufacturing spec, 4-core multicore fiber/FAU spec, CPO test practices. Stated goal: remove implementation variation + supply-chain silos to drive high-volume, lower-cost photonics manufacturing for AI/data center. This is an ecosystem-level adoption gate (standards de-risking volume CPO), not a new substitution — same DRIFT-008 drift, third corroboration of the CPO scale-out timeline. No re-rate (status scaling, cutoff-partial sub-class unchanged); note only. https://prnewswire.com/news-releases/advanced-photonics-coalition-announces-portfolio-of-specifications-and-best-practice-documents-to-accelerate-high-volume-manufacturing-of-optical-networking-gear-302913234.html (VERIFIED — search-confirmed, 2026-10-20)
 
 ## ENGINE SCORE (deterministic — do not hand-edit)
-_Computed by drift_scoring.py v2 on 2026-11-03 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
+_Computed by drift_scoring.py v2 on 2026-11-04 from FMP revenue-product-segmentation + profile-symbol (script-reachable FMP MCP) + curated sidecar `DRIFT-008.engine.json`. Same inputs -> same output._
 
 **Exposure & sub_downside (loser legs = Track D source; winner legs = upside):**
 

@@ -158,5 +158,6 @@ Generated: 2026-10-14T08:02:38Z
 
 - [2026-10-29] NXP Semiconductors (NXPI) Faces Stock Dip After Q3 Guidance, Dividend Outlook Remains Solid | semiconductors (negative medium) [`6C784478`]
 
-## Catalyst Log
+## Catalyst Log- [2026-11-04] NXP Faces Market Uncertainty Amid Tariffs And Leadership Change | Axtek ... | semiconductors (ambiguous low) [`5E9214FD`]
+
 - [2026-10-29] NXP Semiconductors (NXPI.US) falls nearly 6% in early trading on Q4 revenue guidance below expectations | semiconductors (negative medium) [`AB6AA93F`]
