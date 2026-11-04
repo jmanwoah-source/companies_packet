@@ -655,3 +655,33 @@
   011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
+## 2026-11-04 drift-scan (2nd run) — Drift Detector (cron e9711f5abb15)
+- Health gate ALL_GOOD. Scan: 13 sector + 6 a2 queries → **39 base, 18 a2, 0
+  cascade candidates**; 0 upstream_suspicious_queries (SearXNG healthy); 0 news
+  breaks merged.
+- **0 drifts filed (57 candidates reviewed: 39 base, 18 a2 — all rejected).**
+  Deterministic re-scan of the same candidate set as the 11-04 first run; no new
+  events. Base rejects = thinkpieces/market-forecasts/whitepapers (wafer-equipment,
+  EUV/GaN market reports, 800VDC vendor marketing, immersion/liquid-cooling
+  explainers, transformer lead-time explainers) + same-story re-surfaces of
+  already-logged DRIFT-004/006/008/009 datapoints; SHINKO ABF→glass-core/hybrid-RDL
+  packaging and Decima immersion pilot both fail the named-US-winner bar (private/
+  JP, or no US input winner). a2 rejects (18) = funding-raise/private (Mueon ×3),
+  listicle/ranking (Top-30, LEAP Awards), patent/IP filings (SiC ×3),
+  thinkpieces/checklists; two genuine design wins failed slot rules — ON/Sungrow
+  BESS SiC (ON ~$25B = anchor, fails slot rule 1) and QuickLogic six-figure eFPGA
+  IP contract (additive IP license, no exclusive old→new qualification, fails rule 3).
+- **A2 shadow-run: 18 reviewed, 18 rejected; 3rd slot UNUSED (no candidate cleared
+  all three gate rules). Not tainted (no suspension) — counts toward the 2-cycle
+  tuning average.**
+- No evidence-note appends needed (all base candidates either already logged in a
+  dated note this cycle's set or failed the quality bar outright).
+- CASCADE: queue empty (0 eligible; DRIFT-002 saturated, no composite >=500
+  unsaturated, no gate-fires) → no zero_streak write-back (Step 4.1 scoped to
+  eligible drifts).
+- Engine: 12 sidecars re-scored, all composites unchanged (001 432 · 002 600 ·
+  003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 ·
+  011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
+- Track D: 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate
+  0 eligible.
