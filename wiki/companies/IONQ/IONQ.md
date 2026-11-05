@@ -124,4 +124,6 @@ Generated: 2026-10-14T08:02:38Z
 - [2026-10-28] IonQ Wins AFRL Phase 2 Contract to Beam Quantum Entanglement Through Open Air Drones | quantum (positive medium) [`86B6CC1E`]
 
 ## Catalyst Log
+
+<!-- merged 2026-11-04 from 'IONQ (IONQ)' shell container (naming-sentinel dedup) -->
 - [2026-11-02] IonQ Expands AFRL Quantum Network With New Award | quantum (positive high) [`DC62046F`]

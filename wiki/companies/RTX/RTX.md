@@ -62,3 +62,9 @@ Monitor for earnings reports, contract announcements, or sector rotation events.
 - [2026-10-06T13:13:16Z] Quantum Sensor Patent Filed for Defense/Aerospace Applications 2026 (quantum) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics (edge_robotics) | Impact: positive | Materiality: direct | Confidence: medium
 - [2026-10-06T13:13:16Z] Autonomous Defense Systems Supply Chain Developments 2026 (edge_robotics) | Impact: positive | Materiality: direct | Confidence: medium
+
+## Catalyst Log
+
+<!-- merged 2026-11-04 from 'RTX (RTX)' shell container (naming-sentinel dedup) -->
+- [2026-10-06T13:13:16Z] Autonomous Defense Systems Supply Chain Developments 2026 (edge_robotics) | Impact: positive | Materiality: direct | Confidence: low
+- [2026-10-06T13:13:16Z] Sikorsky and Robinson Helicopter Secure U.S. Marine Corps Contract for Autonomous Aerial Logistics (edge_robotics) | Impact: positive | Materiality: direct | Confidence: low

@@ -1,5 +1,22 @@
 # Log — Action History
 
+## 2026-11-04 governance — Naming-sentinel cleanup: 44 violations re-keyed/archived, 4 dup containers merged
+- Audit: 45 non-canonical dir roots in wiki/companies/ (NAME (TICKER), foreign-suffix,
+  wrong-ticker, no-paren). Per user instruction, **NVIDIA (NVDA) KEPT as-is**; 44 processed.
+- Backup /tmp/wiki_pre_rekey_20261104.tar.gz before mutation (401K, companies/ subtree).
+- Duplicate containers (name==ticker): IBM (IBM), ASML (ASML), IONQ (IONQ), RTX (RTX)
+  (RTX dup created by the 767-flat migration of RTX.md) — dated notes merged into the
+  canonical primary (full-line normalized dedup; IBM/IONQ shells were pure duplicates,
+  ASML +2 notes, RTX +2 notes), shells archived. Zero content loss verified
+  (every shell note present in primary post-merge).
+- 40 other violations ARCHIVED to wiki/archived/naming_violations_20261104/<D>/ —
+  archive-only (no merge) to avoid wrong-ticker corruption (e.g. NEBIUS (NB) is NBIS,
+  FLUTTER (MGM.AS) foreign suffix); content preserved, restorable.
+- Post-state: companies/ = 820 canonical <T>/<T>.md dirs + 1 user-kept NVIDIA (NVDA);
+  0 flat root files (index.json is metadata-only); wiki_note_path() 0 bad resolutions;
+  ticker_universe() 1555 (unchanged); health gate ALL_GOOD.
+
+
 ## 2026-11-04 governance — Canonical directory path enforcement: flat -> <T>/<T>.md (767 dossiers)
 - Audited wiki/companies/: 767 flat <T>.md root dossiers + 98 dir-form <T>/<T>.md containers;
   0 dual-form conflicts (no ticker existed in both forms) => pure rename, 0 merges.

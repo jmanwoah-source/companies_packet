@@ -17,3 +17,9 @@
 - `DRIFT-004` winner — cap >ceiling — ASML
 - `DRIFT-010` winner — cap >ceiling — ASML Holding N.V.
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+
+<!-- merged 2026-11-04 from 'ASML (ASML)' shell container (naming-sentinel dedup) -->
+- [2026-10-06T13:13:16Z] Moodys: Semiconductor Supply Chains Are a Major Bottleneck in 2026 (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
+- [2026-10-06T13:13:16Z] ASM International Launches Breakthrough Flowable Carbon Technology for Advanced Node Scaling (semiconductors) | Impact: positive | Materiality: direct | Confidence: medium
