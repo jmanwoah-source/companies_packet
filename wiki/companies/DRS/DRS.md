@@ -9,7 +9,8 @@
 
 ---
 
-## Catalyst Log- [2026-10-21] Leonardo DRS Awarded JIATF-401 IDIQ Contract to Accelerate Delivery of Tactical Expeditionary Sensing Capabilities for C | edge_robotics (positive high) [`C84ED8B3`]
+## Catalyst Log
+- [2026-11-02] 635018CD Leonardo DRS Selected by AV for U.S. Army’s Enduring-High Energy Laser Production Program - The Daily Tribune News | semiconductors (positive high)- [2026-10-21] Leonardo DRS Awarded JIATF-401 IDIQ Contract to Accelerate Delivery of Tactical Expeditionary Sensing Capabilities for C | edge_robotics (positive high) [`C84ED8B3`]
 
 - [2026-10-21] Leonardo DRS wins $500M slot to supply counter-drone radar | edge_robotics (positive high) [`DDE00B34`]
 

@@ -6,7 +6,8 @@
 **Negative Signals**: 0
 **Categories**: semiconductors
 ---
-## Catalyst Log- [2026-10-16] GlobalFoundries selected to operate two new semiconductor fabs in New York with GM supply agreement | semiconductors (positive high) [`BFA1D769`]
+## Catalyst Log
+- [2026-11-04] 59A5663C GlobalFoundries and Navitas Semiconductor announce long-term strategic partnership to accelerate US-based GaN supply | materials_science (positive high)- [2026-10-16] GlobalFoundries selected to operate two new semiconductor fabs in New York with GM supply agreement | semiconductors (positive high) [`BFA1D769`]
 - [2026-10-16] GlobalFoundries' CHIPS Program award amended to support $5bn investment | semiconductors (positive high) [`323F2A75`]
 [2026-10-15T08:38:17Z] GlobalFoundries stock rises on U.S.-Japan semiconductor deal: up to $21B to fund two new 300mm fabs in Malta, NY
   Source: negative_intelligence | Impact: ambiguous (medium) | Conf: medium

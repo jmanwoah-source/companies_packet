@@ -1,22 +1,22 @@
 # Research of Interest
 
 ## Signal Hit Rate Dashboard
-- **Briefs Processed**: 456
-- **Unique Tickers**: 82
-- **Categories**: {'semiconductors': 173, 'energy': 14, 'quantum': 14, 'edge_robotics': 41, 'ai_infrastructure': 21, 'materials_science': 6}
+- **Briefs Processed**: 469
+- **Unique Tickers**: 86
+- **Categories**: {'semiconductors': 183, 'energy': 14, 'quantum': 14, 'edge_robotics': 42, 'ai_infrastructure': 21, 'materials_science': 7}
 
 ## Source Type Distribution
 | Source Type | Count |
 |-------------|-------|
-| gnews_wire | 69 |
-| negative_intelligence | 51 |
-| edgar_atom | 46 |
+| gnews_wire | 78 |
+| negative_intelligence | 52 |
+| edgar_atom | 47 |
 | conference_deep_dive | 24 |
 | edge_robotics | 18 |
 | patent_supply_chain | 15 |
 | quantum_research | 13 |
+| fmp_anomaly_feed | 12 |
 | macro_government | 11 |
-| fmp_anomaly_feed | 11 |
 | sec_edgar | 5 |
 | ah_bridge | 4 |
 | osti_grants | 2 |
@@ -75,12 +75,15 @@
 | FSLR | 1 | energy | positive medium |
 | GEV | 1 | energy | positive low |
 | GF | 1 | semiconductors | positive medium |
+| GFS | 1 | semiconductors | positive medium |
 | GRF | 1 | semiconductors | positive medium |
 | GTX | 1 | ai_infrastructure | positive medium |
 | JCI | 1 | ai_infrastructure | positive medium |
+| LAC | 1 | materials_science | negative medium |
 | LEU | 1 | energy | positive medium |
 | LHX | 1 | edge_robotics | positive high |
 | LRCX | 1 | semiconductors | positive medium |
+| METC | 1 | materials_science | negative medium |
 | MOBX | 1 | semiconductors | negative low |
 | NAVI | 1 | semiconductors | positive medium |
 | NTAP | 1 | ai_infrastructure | negative medium |
@@ -96,13 +99,14 @@
 | SKYQ | 1 | quantum | ambiguous low |
 | SMCI | 1 | ai_infrastructure | negative medium |
 | SMR | 1 | energy | positive medium |
-| SMTC | 1 | semiconductors | negative low |
 | SNPS | 1 | ai_infrastructure | positive low |
 | SVCO | 1 | semiconductors | positive medium |
 | SWH | 1 | edge_robotics | positive medium |
 | TDI | 1 | edge_robotics | positive medium |
+| TMC | 1 | materials_science | negative medium |
 | TVC | 1 | energy | positive high |
 | TWO | 1 | ai_infrastructure | positive high |
+| UAMY | 1 | materials_science | negative medium |
 | UIS | 1 | ai_infrastructure | positive low |
 | VST | 1 | ai_infrastructure | negative low |
 | WULF | 1 | ai_infrastructure | negative low |
@@ -112,7 +116,6 @@
 
 | Date | Headline | Tickers | Impact | Materiality | Category | Confidence | Brief ID |
 |------|----------|---------|--------|-------------|----------|------------|----------|
-| 2026-10-21 | Stocks On Pace for Weekly Loss Despite Yield Drop | SMTC | negative low | indirect | semiconductors | medium | `D472CC16` |
 | 2026-10-22 | Tower Semiconductor Ltd. (TSEM) drops 8.4% on sector weakness | SEM,TSEM | neutral low | direct | semiconductors | low | `9E7D7E43` |
 | 2026-10-22 | Buongiorno and Ulm to collaborate on $1.9M DOE grant to advance GEH BW | GEV | positive low | indirect | energy | high | `D1F6204F` |
 | 2026-10-22 | Infleqtion secures £9 million to advance quantum radio-frequency sensi | INFQ | positive medium | direct | quantum | medium | `BEB0C872` |
@@ -381,3 +384,16 @@
 | 2026-11-04 | A $1.03 million yearly cost cut is complete; Polar Power targets about |  | positive low | direct | semiconductors | high | `97EE3211` |
 | 2026-11-04 | EDGAR fast-lane 8-K: Array Technologies, Inc. 0001193125-26-446483 |  | positive high | direct | semiconductors | high | `78682349` |
 | 2026-11-04 | Shoals (NASDAQ:SHLS) reports upbeat Q3 2026, guides for strong full-ye |  | positive medium | direct | semiconductors | low | `952C6F5E` |
+| 2026-11-04 | How Investors May Respond To Jacobs Solutions (J) $37 Billion Grid Con |  | positive high | direct | semiconductors | medium | `841B4107` |
+| 2026-11-04 | Powerus hits $300M valuation via Nasdaq merger as Trump-backed drone d |  | positive medium | direct | semiconductors | low | `723BAEA9` |
+| 2026-11-04 | HAE (NYSE:HAE) Plasma Contract Expansion and Affirmed Guidance Set Sta |  | positive medium | direct | semiconductors | low | `7D1521EC` |
+| 2026-11-04 | Gartner downgraded at Truist after weak Q3 results (IT:NYSE) - Seeking |  | negative medium | direct | semiconductors | medium | `F627D7B1` |
+| 2026-11-04 | EDGAR fast-lane 8-K: MCGRATH RENTCORP 0001193125-26-447163 |  | neutral low | direct | semiconductors | high | `52BCB23A` |
+| 2026-11-04 | ZenaTech’s Drone as a Service Signs Nearly US$1 Million in Solar Const |  | positive medium | direct | semiconductors | low | `D7643F48` |
+| 2026-11-04 | Samsung Electronics Plans to Exit 8-Inch Foundry Production by End-203 | GFS | positive medium | speculative | semiconductors | medium | `12B7FB18` |
+| 2026-11-04 | Insider open-market purchase: Tamer Ford bought $294,566 of LSCC (dire |  | positive medium | direct | edge_robotics | high | `1062BB1C` |
+| 2026-11-04 | Trimble (NASDAQ:TRMB) posts Q3 2026 sales in line with estimates but s |  | neutral low | direct | semiconductors | low | `9DDEA2F0` |
+| 2026-11-04 | Trex (NYSE:TREX) reports upbeat Q3 2026, stock soars - StockStory |  | positive medium | direct | semiconductors | medium | `61EE44B0` |
+| 2026-11-04 | Lithium Americas (LAC), Ramaco Resources (METC), TMC (TMC) and United  | LAC,METC,TMC | negative medium | direct | materials_science | low | `646A83C0` |
+| 2026-11-04 | American Superconductor’s (NASDAQ:AMSC) Q3 CY2026 sales beat estimates |  | positive medium | direct | semiconductors | medium | `429910D1` |
+| 2026-11-04 | Onterris (NYSE:ONT) reports strong Q3 2026 - TradingView |  | positive low | direct | semiconductors | medium | `6675F7F4` |

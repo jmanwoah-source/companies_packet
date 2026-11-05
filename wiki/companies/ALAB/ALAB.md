@@ -16,7 +16,8 @@
 ## Notes
 - Entry appended by Agent7_Scribe run 2026-10-14.
 
-## Catalyst Log- [2026-10-20] Why Is Astera Labs (ALAB) Stock Down -9.36% Today? | ai_infrastructure (negative medium) [`5FA72155`]
+## Catalyst Log
+- [2026-10-31] 5D1DECB5 Revenue disconnect: ALAB revenue +115% YoY ($396M -> $853M) | semiconductors (positive medium)- [2026-10-20] Why Is Astera Labs (ALAB) Stock Down -9.36% Today? | ai_infrastructure (negative medium) [`5FA72155`]
 
 - [2026-10-18] Why Northland Downgraded Astera Labs Even Though It Expects Earnings to Rise | ai_infrastructure (negative medium) [`F53F2ED8`]
 

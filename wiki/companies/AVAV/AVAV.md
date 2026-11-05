@@ -23,7 +23,9 @@ edge_robotics
 Generated: 2026-10-14T08:02:38Z
 - [2026-10-14] GPS-Free Test Flight Success Marks Critical Advance for Aviation, National Security - U.S. Departmen | quantum (positive medium direct/medium)
 - [2026-10-14] Which Drone Stock Is Dominating in 2026: Red Cat, Ondas, or AeroVironment? | edge_robotics (positive medium direct/medium)
-## Catalyst Log- [2026-10-19] AeroVironment awarded $51M Army delivery contract; U.S. Army awards 10 companies up to $7B in counter-drone contracts | edge_robotics (positive high) [`46E570C1`]
+## Catalyst Log
+- [2026-11-03] 319A1859 AeroVironment Is Down 70% From Its High While Drone Budgets Explode. Here's What Went Wrong -- and Whether It's Fixable. - The Motley Fool | semiconductors (positive medium)
+- [2026-10-31] 8E8E3989 Revenue disconnect: AVAV revenue +141% YoY ($821M -> $1977M) | semiconductors (positive high)- [2026-10-19] AeroVironment awarded $51M Army delivery contract; U.S. Army awards 10 companies up to $7B in counter-drone contracts | edge_robotics (positive high) [`46E570C1`]
 - [2026-10-16] GPS-Free Test Flight Success Marks Critical Advance for Aviation, National Security - U.S. Department of War (.gov) | quantum (positive medium) [`40783D8C`]
 [2026-10-15T08:38:17Z] Which Drone Stock Is Dominating in 2026: Red Cat, Ondas, or AeroVironment?
   Source: edge_robotics | Impact: neutral (low) | Conf: low
