@@ -1,5 +1,21 @@
 # Log — Action History
 
+## 2026-11-04 governance — Canonical directory path enforcement: flat -> <T>/<T>.md (767 dossiers)
+- Audited wiki/companies/: 767 flat <T>.md root dossiers + 98 dir-form <T>/<T>.md containers;
+  0 dual-form conflicts (no ticker existed in both forms) => pure rename, 0 merges.
+- Full-tree backup /tmp/wiki_pre_migration_20261104.tar.gz (1742 .md) before any mutation.
+- Migrated all 767 flat dossiers to wiki/companies/<T>/<T>.md via idempotent engine
+  (/tmp/flat_to_dir.py, dry-run then --apply; git mv for tracked files).
+- Enforced canonical form at the source: pipeline_engine.py ensure_wiki_file() now forces
+  new dossiers into <T>/<T>.md directory form (flat root creation kills split-brain).
+- Verified: wiki_note_path() resolves all 865 dir-form containers to <T>/<T>.md;
+  ticker_universe() = 1555; flat_root = 0; health gate verdict ALL_GOOD;
+  md count reconciliation 1742 (backup) == 1742 (current).
+- OUT OF SCOPE (naming-sentinel classes, separate supervised pass): 44 dir roots with
+  NAME (TICKER) / foreign-suffix / wrong-ticker forms (e.g. NVIDIA (NVDA), NEBIUS (NB))
+  + 3 duplicate containers (IBM+IBM (IBM), ASML+ASML (ASML), IONQ+IONQ (IONQ)).
+
+
 ## 2026-11-04 governance — AGENTS.md market-cap ceiling fix (manual edit, user-confirmed)
 - Rule 6 rewritten: soft ~$100B ceiling -> soft ceiling band **$500M to $300B**
   (floor ~$500M tradable common equity; $200B-$300B allowed + flagged `near_ceiling`;

@@ -39,3 +39,6 @@
 ### Drift Exposure (auto — net_drift_position: +1 winner edge(s))
 - `DRIFT-011` winner — cap mid — GlobalFoundries
 <!-- DRIFT_EXPOSURE:END -->
+
+## Catalyst Log
+- [2026-11-04] Samsung Electronics Plans to Exit 8-Inch Foundry Production by End-2030 | semiconductors (positive medium) [`12B7FB18`]
