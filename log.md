@@ -1,5 +1,13 @@
 # Log — Action History
 
+## 2026-11-04 governance — AGENTS.md market-cap ceiling fix (manual edit, user-confirmed)
+- Rule 6 rewritten: soft ~$100B ceiling -> soft ceiling band **$500M to $300B**
+  (floor ~$500M tradable common equity; $200B-$300B allowed + flagged `near_ceiling`;
+  >=$300B drop; null-CIK = fund, drop). Explicit anti-split-brain note added: do NOT
+  reject tickers for exceeding ~$100B.
+- Header "Last updated" bumped to 2026-11-04. Edits applied user-side via terminal
+  (protected-write gate timed out on agent-initiated patch).
+
 ## 2026-11-04 drift-scan (cron e9711f5abb15) — SUSPENSION CYCLE (3rd)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK,
   intel_bus OK).
