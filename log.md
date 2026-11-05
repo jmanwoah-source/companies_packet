@@ -1,5 +1,13 @@
 # Log — Action History
 
+## 2026-11-04 governance — NVIDIA (NVDA) exception retracted (user: "delete NVIDIA, my bad")
+- User retracted the 2026-11-04 keep exception: `NVIDIA (NVDA)` container (1KB stub,
+  0 dated notes) archived to wiki/archived/naming_violations_20261104/ — archive,
+  never delete (Hard Rule 5). The canonical NVDA dossier (NVDA/NVDA.md) is untouched.
+- Post-state: wiki/companies/ = 820 canonical <T>/<T>.md dirs, 0 flat files,
+  0 non-canonical roots — fully clean.
+
+
 ## 2026-11-04 governance — Naming-sentinel cleanup: 44 violations re-keyed/archived, 4 dup containers merged
 - Audit: 45 non-canonical dir roots in wiki/companies/ (NAME (TICKER), foreign-suffix,
   wrong-ticker, no-paren). Per user instruction, **NVIDIA (NVDA) KEPT as-is**; 44 processed.
