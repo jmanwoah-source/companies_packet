@@ -1,11 +1,29 @@
 # Log — Action History
 
+## 2026-11-05 clean-slate standardization — nested wiki/ removal + ingestion lock (user directive)
+- `wiki/wiki/` nested tree + all legacy symlinks REMOVED; `companies/` re-initialized EMPTY at root.
+- All legacy company dossiers discarded per user directive — future research re-seeds cleanly from FMP filing batches.
+- Path invariants baked into all cron scripts (startup FATAL guardrail):
+  `WIKI_ROOT = Path("/home/jaren/wiki").resolve(strict=True)`; `assert not (WIKI_ROOT / "wiki").exists()`;
+  `COMPANIES_DIR = WIKI_ROOT / "companies"` must exist and not be a symlink.
+- Consumers re-pointed: unharnessed_fmp_ingestor.py, unharnessed_swarm_recalibrator.py, tier_lists.py,
+  pipeline_engine.py (L1317/L2199 companies path + guardrail), drift_track_d/drift_ingest/drift_scoring/
+  drift_backtest/drift_denoise (drifts+companies paths + guardrails), radar_13f.py (WORKPAPER/COMPANIES),
+  build_universe.py (companies universe).
+- Cron job prompts (jobs.json) de-nested: 7 stale `wiki/wiki/` path refs fixed (After-Hours dossier appends,
+  Drift Detector paths, Deep-Dive archived/ path); Deep-Dive prompt's stale ~$100B mcap guideline replaced
+  with $500M-$300B band per rule 6.
+- Verification: 11/11 modules py_compile OK; guardrail negative test FIRES on simulated nested dir;
+  11/11 modules import clean with guardrail passing. Zero `wiki/wiki` refs remain in scripts/, cron/ (excl. outputs).
+
+
 ## 2026-11-04 governance — NVIDIA (NVDA) exception retracted (user: "delete NVIDIA, my bad")
 - User retracted the 2026-11-04 keep exception: `NVIDIA (NVDA)` container (1KB stub,
   0 dated notes) archived to wiki/archived/naming_violations_20261104/ — archive,
   never delete (Hard Rule 5). The canonical NVDA dossier (NVDA/NVDA.md) is untouched.
 - Post-state: wiki/companies/ = 820 canonical <T>/<T>.md dirs, 0 flat files,
   0 non-canonical roots — fully clean.
+
 
 
 ## 2026-11-04 governance — Naming-sentinel cleanup: 44 violations re-keyed/archived, 4 dup containers merged
@@ -25,6 +43,7 @@
   ticker_universe() 1555 (unchanged); health gate ALL_GOOD.
 
 
+
 ## 2026-11-04 governance — Canonical directory path enforcement: flat -> <T>/<T>.md (767 dossiers)
 - Audited wiki/companies/: 767 flat <T>.md root dossiers + 98 dir-form <T>/<T>.md containers;
   0 dual-form conflicts (no ticker existed in both forms) => pure rename, 0 merges.
@@ -41,6 +60,7 @@
   + 3 duplicate containers (IBM+IBM (IBM), ASML+ASML (ASML), IONQ+IONQ (IONQ)).
 
 
+
 ## 2026-11-04 governance — AGENTS.md market-cap ceiling fix (manual edit, user-confirmed)
 - Rule 6 rewritten: soft ~$100B ceiling -> soft ceiling band **$500M to $300B**
   (floor ~$500M tradable common equity; $200B-$300B allowed + flagged `near_ceiling`;
@@ -48,6 +68,7 @@
   reject tickers for exceeding ~$100B.
 - Header "Last updated" bumped to 2026-11-04. Edits applied user-side via terminal
   (protected-write gate timed out on agent-initiated patch).
+
 
 ## 2026-11-04 drift-scan (cron e9711f5abb15) — SUSPENSION CYCLE (3rd)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK,
@@ -70,6 +91,7 @@
 
 # Log — Action History
 
+
 ## 2026-11-03 drift-scan (cron e9711f5abb15) — SUSPENSION CYCLE (2nd)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.0% free, wiki_drift OK).
 - Scan: 13 sector + 6 a2 queries → 0 base, 0 a2, 0 cascade candidates; **19/19 queries
@@ -86,6 +108,7 @@
   010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts),
   cascade gate 0 eligible.
+
 
 ## 2026-11-03 drift-scan 17:35 (cron e9711f5abb15) — SUSPENSION CYCLE
 - Health gate: initial `FAIL:primary_feeds` — OSTI feed had flipped to `status: error`
@@ -113,6 +136,7 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts),
   cascade gate 0 eligible.
 
+
 ## 2026-11-03 drift-scan (cron e9711f5abb15)
 - Health gate ALL_GOOD (vllm/searxng UP, feeds FRESH, disk 52.1% free, wiki_drift OK).
 - Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 fresh candidates; 0 cascade queries (0 eligible); 0 breaks merged. Post-scan guard clean: `upstream_suspicious_queries: 0` — NOT a suspension cycle; A2 precision count NOT tainted (clean 2nd shadow-run cycle).
@@ -124,6 +148,7 @@
 - Engine: drift_scoring.py 12 sidecars, all composites unchanged (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate 0 eligible.
 
+
 ## 2026-11-02 drift-scan 22:52 (cron e9711f5abb15)
 - Health gate ALL_GOOD (all sources UP; EIA feed not flagged — informational only).
 - Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 fresh candidates, 0 cascade (0 eligible); 0 breaks merged. Post-scan guard clean: `upstream_suspicious_queries: 0` (every query returned 20 fresh results) — NOT a suspension cycle.
@@ -133,6 +158,7 @@
 - CASCADE: queue empty (0 eligible — DRIFT-002 only ≥500, saturated zero_streak 3 holding; no gate-fires) → no eligible drift to write back; zero_streak/saturated held (drift_track_d recomputed gate → 0 eligible).
 - Engine: drift_scoring.py 12 sidecars re-scored, all composites unchanged (001 432 · 002 600 · 003 20 · 004 144 · 005 336 · 006 105 · 007 180 · 008 294 · 009 180 · 010 84 · 011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate 0 eligible. Committed only this job's drift file + log entry (unrelated other-job watchlist/dossier changes left uncommitted).
+
 
 ## 2026-10-29 (19:20 cycle) — drift-scan (Drift Detector)
 - Health gate: ALL_GOOD (vllm UP, searxng UP, feeds FRESH, disk 29% free; EIA feed DEGRADED — informational).
@@ -146,6 +172,7 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (10 drifts), substitution_short_list refreshed. Cascade gate post-run: 0 eligible (nothing ≥500 or gate-fire).
 - Data-quality note: FMP `statements` revenue-product-segmentation('GFS') returned a NON-FOUNDRY profile's segments (water-fabrication lines) — FMP GFS segmentation is corrupt/wrong-symbol; GFS excluded from any engine sidecar this cycle (no ticker edge filed).
 
+
 ## 2026-10-29 — Naming-sentinel cleanup (Hard Rule 3 enforcement)
 - Archived 6 violation dossiers to wiki/archived/ (archive, never delete):
   - `AMD (AMD)/` duplicate container for `AMD/` (3 catalyst notes already present in AMD/AMD.md — content verified, zero loss)
@@ -154,6 +181,7 @@
   - `MGM.AS.md` foreign-suffix root (`MGM.md` + `MGMAS/MGMAS.md` remain canonical)
 - Residual check: 0 `*(PRIVATE)*` dirs, 0 name-anchored roots, 0 foreign-suffix roots in wiki/companies/
 - Permanent guard: skill `wiki-naming-sentinel` now gates all dossier create/move/restore
+
 
 ## 2026-06-22
 - [INIT] Clean rebuild of knowledge base wiki at ~/wiki
@@ -165,6 +193,7 @@
 - Cross-linking via [[wikilinks]] active
 
 ---
+
 
 ## 2026-10-22 — Karpathy layout migration
 - Backup: /tmp/wiki_pre_migration_20261022.tar.gz (941KB, pre-migration state)
@@ -178,14 +207,17 @@
 
 ---
 
+
 ## 2026-10-22 — Sector + comparison backfill (post-migration)
 - 4 sector dossiers in wiki/sectors/ (semiconductors, advanced-energy-grid, ai-infrastructure-thermal, physical-ai-edge-automation) — 802 verified ticker links
 - 6 comparisons in wiki/comparisons/ (ceg-vs-vst, oklo-vs-ge-v, rgti-vs-ionq, on-vs-mchp, drs-vs-avav, qcom-edge-ai) — sub-agent web research, financials cited with source+date, 'verify next run' markers where FMP data pending
 - Repaired 20 broken relative links in sectors (truncated path artifacts)
 
+
 ## 2026-10-22 — AGENTS.md written
 - Approved by user (Discord), protected-write gate satisfied
 - Karpathy topology + hard rules + consumer list + sub-agent timeout protocol recorded
+
 
 ## 2026-10-22 — Audit pass (recursive research sweep)
 - Dedup: 72 dossiers, -377 exact-duplicate dated note lines (ARE was 257->164 lines)
@@ -199,6 +231,7 @@
 
 ---
 
+
 ## 2026-10-25 — Phase 1: drift-event schema (technology-substitution graph)
 - Backup: /tmp/wiki_pre_phase1_drifts_20261025.tar.gz (2.6MB, pre-drifts state)
 - Created wiki/drifts/ (first-class drift-event objects; upgrades concepts/ gap files to a bipartite graph: Company node + Drift-Event node, typed edges)
@@ -208,6 +241,7 @@
 - Pending Phase 2-4: Track D generator into tier_lists.py, autonomous drift-detector cron (value-chain scaffold → substitution scan → LLM win/lose judgment), cascade-on-event wiring into CASCADE.md
 - Gate verify + stress-test agents follow
 
+
 ## 2026-10-25 — Phase 1 stress-test: 5-panel pillar validation + v1.1 fixes
 - Dispatched 5 sub-agents (semi / ai-infra / advanced-energy / physical-AI / adversarial schema-critic). ALL 5 hit the 600s timeout (backend ~50s/web call; each had 2-5 API calls = reads + 1 salvageable search). Salvage protocol per AGENTS.md: extracted each transcript's research (real dated sources), wrote the 5 validation dossiers inline to wiki/research/drift-validation/.
 - Panel verdicts: ALL 4 pillars PASS; schema-critic = YES-with-fixes.
@@ -216,6 +250,7 @@
 - INDEX.md: v1.1 note + 4 sample drifts queued for Phase 2 filing (DRIFT-004 High-NA EUV 144, DRIFT-005 liquid-cooling default 336, DRIFT-006 SMR DC power 105 gate-watched, DRIFT-007 autonomous C-UAS 180).
 - Deferred to Phase 2/3: gradual displacement curve, private-winner supplier-discovery cascade rule, horizon column in tier table.
 - Lesson codified: research+write children WILL 600s-timeout on this backend — salvage transcripts, write inline in parent. Confirmed 5-for-5.
+
 
 ## 2026-10-25 — Phase 2: file DRIFT-004..007 + Track D generator + backlinks
 
@@ -228,6 +263,7 @@
 - **Pending user approval (protected-write gate):** AGENTS.md topology + consumer list should gain `wiki/drifts/` and root `substitution_short_list.md` (generator-owned). Staged in log; do not route around the gate.
 - Next: Phase 3 autonomous drift-detector cron (sector dossiers as query scaffold → substitution-language scan → LLM win/lose judgment → files candidate events for scoring).
 
+
 ## 2026-10-25 — Phase 3: autonomous drift detector (scan + judgment + cron)
 
 - **`~/.hermes/scripts/drift_scan.py`** (deterministic, no LLM): 13 substitution-language queries across the 4 pillars (value-chain layers as scaffold), SearXNG local JSON API, time_range=month (structural cadence, not news-day), 2.5s sleeps, dedup vs ALL existing drift evidence URLs + 14d feed_raw.json, caps 3 candidates/query, appends per-query health ledger to drift_query_health.jsonl. Verified live: 13 queries → 39 fresh candidates in ~35s (real hits: NVIDIA 800VDC architecture, CPO production planning, 8-inch free-standing GaN substrate paper, TSMC 2nm node).
@@ -237,12 +273,14 @@
 - **Remaining (Phase 4):** cascade-on-event wiring into concepts/CASCADE.md — drift events become CASCADE triggers (today CASCADE triggers on a company's score; the upgrade is to trigger on the drift event, propagating to ALL linked dossiers + next value-chain layer).
 - **Pending user approval (protected-write gate):** AGENTS.md gains wiki/drifts/ + root substitution_short_list.md to topology/consumers. Staged in log; do not route around the gate.
 
+
 ## 2026-10-25 — Phase 4: cascade-on-event wiring (CASCADE.md Trigger v2)
 
 - `concepts/CASCADE.md` gains **Trigger v2 — Drift-Event cascade**: the trigger is the DRIFT, not the ticker. Fires on Composite >= 500 (CRITICAL) OR status transition to `scaling` (gate-fire: NRC SDA, foundry commitment, hyperscaler PPA campus-wide).
 - Wiring: (1) read event edges (winner/loser/Sequencing/competitive; FM-2 net_drift_position handles dual-role nodes), (2) deterministic re-sync via drift_track_d.py (one re-rate propagates to all linked dossiers — no manual per-ticker edits), (3) cascade to the NEXT value-chain layer via Sequencing `enables`/`prerequisite-for` (450mm wafer → large-substrate makers → large-wafer tool makers), (4) FM-4 private-winner supplier-discovery (Anduril → public edge-NPU/sensor suppliers), (5) losers' exposure re-estimated from FMP fundamentals (revenue line per value-chain layer) at the next Deep-Dive pass — lifts sub_downside from `est.` to measured.
 - Guards: <500 drifts don't self-cascade (re-rate or gate-fire only); max 4 drifts/cycle; 3 cycles w/ 0 new tickers → SATURATED; cascade never auto-adds to ACTIVE.
 - **Build status: Phases 1-4 COMPLETE.** The system is now a self-sustaining loop: detector cron finds substitution language → files/scores drift events → Track D + backlinks propagate deterministically → CRITICAL/gate-fire drifts cascade on the event to the next value-chain layer → new tickers feed the existing inclination pipeline.
+
 
 ## 2026-10-25 — Drift Detector judgment leg executed on live candidates (end-to-end proof)
 
@@ -254,6 +292,7 @@
 - **This is the end-to-end proof the loop yields a real artifact:** deterministic SearXNG scan → LLM win/lose + M/T/C judgment → filed DRIFT-008 → drift_track_d.py re-synced Track D + 20 backlinks + INDEX. The Goldman-consultant standard (grounded, dated, linked, no invented numbers) held.
 - **All 4 build phases complete AND the autonomous loop has produced real output.** The system now runs unattended: detector cron (e9711f5abb15, 360m) → judgment → file/score → deterministic propagation → cascade-on-event.
 
+
 ## 2026-10-25 — drift-scan 06:48 (e9711f5abb15, 360m cadence)
 
 - Health gate ALL_GOOD; drift_scan.py fresh: 13 queries → 36 fresh candidates; 4 cascade queries (DRIFT-002) → 0 results.
@@ -262,6 +301,7 @@
 - **CASCADE leg (Trigger v2):** DRIFT-002 eligible (composite 600 CRITICAL), 4 next-layer queries (GaN-on-Si epiwafer power device entrants) → 0 fresh results. 0 new tickers surfaced → cascade_state.json zero_streak 0→1 (saturates at 3). Notable: the Polar/imec Leg-A hits are on-target evidence for DRIFT-002's open question (8-inch GaN-on-Si volume path) but name no NEW tracked-universe ticker.
 - drift_track_d.py re-sync: INDEX.md regenerated (9 drifts), substitution_short_list.md rebuilt, 21 company backlinks touched (MCHP +1, NVTS +1 → now carries DRIFT-009 edges).
 
+
 ## 2026-10-25 — drift-scan 13:11 (e9711f5abb15, 360m cadence)
 
 - Health gate ALL_GOOD; drift_scan.py fresh: 13 queries → 39 fresh candidates; 4 cascade queries (DRIFT-002) → 0 results.
@@ -269,12 +309,14 @@
 - **CASCADE leg (Trigger v2):** DRIFT-002 eligible (composite 600 CRITICAL), 4 next-layer queries → 0 fresh results. 0 new tickers surfaced → cascade_state.json zero_streak 1→2 (saturates at 3; one more zero cycle and DRIFT-002 cascade stops firing).
 - drift_track_d.py re-sync: INDEX.md regenerated (9 drifts, composites unchanged), substitution_short_list.md rebuilt, 21 company backlinks touched.
 
+
 ## 2026-10-25 (evening) — drift-scan
 - Health gate: ALL_GOOD; drift_scan: 13 sector queries → 39 fresh candidates; 4 cascade queries (DRIFT-002) → 0 fresh.
 - 0 drifts filed (39 candidates reviewed, 39 rejected: 27 dupes of existing drifts DRIFT-001/002/003/004/005/006/008/009 — incl. Polar/imec 8" GaN (already in DRIFT-002 dated notes; PRIVATE company, same substitution); 6 non-drifts — transformer lead-time/pricing (supply constraint, no process swap), NRC AP1000 SDC renewal (regulatory status under DRIFT-006 pillar, no new named winner), vendor/thinkpiece content).
 - Cascade leg: DRIFT-002 zero_streak 2→3 → SATURATED (no next-layer tickers 3 consecutive cycles); cascade_state updated; 0 new tickers surfaced.
 - Cascade gate: 0 eligible next cycle (DRIFT-002 saturated).
 - Track D: 21 dossier backlinks regenerated; no new substitution_short_list rows.
+
 
 ## 2026-10-26 (early) — drift engine v2: Gap 2 closed (engine owns scores + exposure)
 - Fork resolved: FMP MCP is **script-reachable** (Streamable HTTP, session-id header, inline JSON) — a
@@ -296,6 +338,7 @@
   (engine losers MPWR -11.8% realized = top-decliner in the set; sub-drawdown r=0.45, n=3).
 - Health gate ALL_GOOD; drift_scan + track_d re-run clean; cascade gate intact (DRIFT-002 saturated).
 
+
 ## 2026-10-26 (later) — drift-scan e9711f5abb15
 - Health gate ALL_GOOD; drift_scan: 13 sector queries -> 39 fresh candidates, 16 cascade queries -> 27 results.
 - 1 drift filed: **DRIFT-010_asml-d2w-hybrid-bonding** (7x4x3 = 84 EMERGING; rumored; ASML winner, BESI displaced but non-US -> additive, no clean US loser). Evidence: SemiAnalysis 2026-10-15 (27 ASML D2W patent families) + Reuters 2026-10-16 (Besi -3%) + Dealroom 2026-10-19; 2 web searches, 0 page fetches.
@@ -303,6 +346,7 @@
 - Cascade leg: DRIFT-002 found ON (US-listed named GaN-power entrant) -> zero_streak reset 0. DRIFT-001 found ENTG (GAA content-per-wafer 10-K language, NOT in tracked universe) -> new ticker surfaced to inclination pipeline, streak reset 0. DRIFT-005: 0 new US tickers (VRT parent/in-universe; Trane/LG non-DC-power or non-US) -> zero_streak 1.
 - Engine: 10 sidecars, all composites stable (432/600/20/144/336/105/180/294/180/84); no fetch_errors, no [STALE]. ASML FY2025 product segments have no back-end/bonding line (0.0% match, honest — first back-end revenue disclosure is the re-rate trigger).
 - Track D: 23 dossiers touched; INDEX now 10 drifts. Cascade gate: DRIFT-002 only eligible (001/005/008 no longer gate-fire — last_status already scaling; gate fired in a prior cycle).
+
 
 ## 2026-10-26 (later) — cascade circuit-breaker fix (Trigger v2 saturation decay)
 - BUG (pre-existing, found during engine reconciliation): `cascade_gate()` decayed the
@@ -314,6 +358,7 @@
   decay+requeue on rise / hold on drop. DRIFT-002 state reconciled to committed truth
   (saturated, zero_streak 3, last_composite 600); live re-run confirms the breaker holds.
 
+
 ## 2026-10-26 09:16 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD; drift_scan 13 queries -> 6 fresh candidates, 0 cascade queries (no eligible drifts this cycle).
 - **0 drifts filed (6 candidates reviewed, 6 rejected):** purewafer.com + foundrywatch.com = vendor/marketing homepages, no substitution event; siliconanalysts.com wafer-pricing = trend/thinkpiece (EUV cost curve, no new process swap or commitment); freedom251.com = High-NA explainer article, no new event (already covered by DRIFT-004); marketontology.com 2026-09-11 "Intel qualified High-NA EUV for 18A + Panther Lake, ASML-Samsung expansion" = EXISTING drift DRIFT-004 (not a new event) -> **status transitioned emerging -> scaling** per file rule (gate-fire observed), M/T/C held 6/4/6 (144 EMERGING), evidence note [det004b] added (UNVERIFIED aggregator source); linkedin Japan FY2027 HNA etch strategy = thinkpiece.
@@ -323,12 +368,14 @@
 - Track D: 23 dossiers touched; INDEX regenerated; DRIFT-004 status column now `scaling`.
 - cascade_state: DRIFT-004 seeded {scaling, zero_streak 0, last_composite 144}; DRIFT-002 remains SATURATED (streak 3) — breaker holding.
 
+
 ## Drift Scan — 2026-10-26 19:25 UTC
 - Health gate: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates; 4 cascade queries -> 0 results.
 - **FILED:** 0 drifts (0 candidates reviewed; nothing to reject — scan returned no fresh hits since last run).
 - **CASCADE:** DRIFT-004 was the sole eligible drift (gate-fire, 4 next-layer queries) -> 0 new next-layer tickers surfaced. cascade_state: DRIFT-004 zero_streak 0 -> 1 (saturated=false).
 - Engine (drift_scoring.py): 10 sidecars, all composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted.
 - Track D: 23 dossiers backlinked; INDEX regenerated; cascade gate post-run: 0 eligible (DRIFT-004 gate-fire consumed, nothing >=500 or transitioning).
+
 
 ## 2026-10-26 21:50 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD. drift_scan: 13 sector queries -> 39 fresh candidates; 0 cascade queries (queue empty, no eligible drifts).
@@ -338,12 +385,14 @@
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted; [STALE] last-known rows unchanged (MPWR FY2023, NVTS single $0.1B segment, NUS=Nu Skin misprofile).
 - Track D: 23 dossiers touched; INDEX regenerated; cascade gate post-run: 0 eligible.
 
+
 ## 2026-10-27 03:55 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates, 0 cascade queries (queue empty). ANOMALY: every query returned results_total=0 (not just 0 fresh) — SearXNG API UP/container RUNNING per health gate, so this is a degenerate scan (empty result sets), not a downed backend. No candidates to judge; treat Leg A as no-signal this cycle, flag for next run.
 - **0 drifts filed (0 candidates reviewed — degenerate scan, nothing to reject).** next_drift_id stays DRIFT-011.
 - **CASCADE:** queue empty (DRIFT-002 saturated at streak 3, breaker holding; no composite>=500 fresh, no gate-fires) -> cascade_state.json untouched.
 - Engine (drift_scoring.py): all 10 composites unchanged (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted. [STALE] last-known rows persist in drift files (MPWR FY2023 x2, NVTS FY2024 x2, DRS FY2024, RCAT FY2023) — engine re-fetched, segments remain last-known; NUS=Nu Skin misprofile unchanged.
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible.
+
 
 ## 2026-10-27 10:05 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD. drift_scan: 13 sector queries -> 39 fresh candidates; 0 cascade queries (queue empty, no eligible drifts).
@@ -353,12 +402,14 @@
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84). ANOMALY: first engine pass had ALL 25 tickers fail with `tool statements/company error: Method not found` (stale MCP session); direct probe + re-run clean — second pass 0 fetch_errors, 25 FMP profiles persisted fresh; composites identical either way. [STALE] last-known rows unchanged (MPWR FY2023 x2, NVTS FY2024, NUS=Nu Skin misprofile).
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible. next_drift_id stays DRIFT-011.
 
+
 ## 2026-10-27 16:41 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates (0 total); 0 cascade queries (queue empty). ANOMALY (repeat of 03:55): ALL queries returned 0 raw results — diagnosed live: SearXNG JSON API UP, but unresponsive_engines show brave/google/google cse SUSPENDED (too many requests) + duckduckgo CAPTCHA. `time_range=month` filtering degrades to 0 results on the surviving Bing-only backend; probe without time_range returns 10 results. Leg A = no-signal this cycle due to engine degradation, not clean negative. Not a hard SearXNG-down -> run continued per protocol.
 - **0 drifts filed (0 candidates reviewed — degenerate scan, nothing to reject).** next_drift_id stays DRIFT-011.
 - **CASCADE:** queue empty (eligible=[]) -> cascade leg not executed; cascade_state.json untouched (all zero_streaks held; DRIFT-002 saturated streak 3 — breaker holding).
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted. [STALE] last-known rows unchanged (MPWR FY2023, NVTS, NUS=Nu Skin misprofile).
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible (nothing >=500 fresh, no gate-fires).
+
 
 ## 2026-10-27 22:50 — drift-scan run (e9711f5abb15)
 - Health: ALL_GOOD. drift_scan: 13 sector queries -> 0 fresh candidates (0 total); 0 cascade queries (queue empty). ANOMALY (repeat of 03:55/16:41, 4th recurrence): ALL queries returned 0 raw results — diagnosed live: SearXNG JSON API UP, unresponsive_engines = brave SUSPENDED (too many requests) + duckduckgo CAPTCHA + google/google cse SUSPENDED (access denied / too many requests). Only Bing serving; `time_range=month` degrades to 0 on Bing-only backend (probe without time_range returns 7-10 results). Leg A = no-signal this cycle due to engine degradation, not a clean negative.
@@ -372,6 +423,7 @@
 - **CASCADE:** queue empty (eligible=[]) -> cascade leg not executed; cascade_state.json untouched.
 - Engine (drift_scoring.py): all 10 composites stable (001=432, 002=600, 003=20, 004=144, 005=336, 006=105, 007=180, 008=294, 009=180, 010=84); 0 fetch_errors; 25 FMP profiles persisted fresh.
 - Track D: 23 dossiers touched; INDEX regenerated (10 drifts); cascade gate post-run: 0 eligible (nothing >=500 fresh, no gate-fires).
+
 
 ## 2026-10-26 — drift de-noise: residual spread (strip macro drift)
 - New `~/.hermes/scripts/drift_denoise.py` + report `research/drift_denoise_800v.md`.
@@ -387,6 +439,7 @@
   (Wolfspeed Ch.11 / AXTI substrate surge), NOT the drift. This is the fix for the
   "carried-as-winner but fell" read: it was macro + idiosyncratic, never a signal miss.
 
+
 ## 2026-10-28 11:32 — drift-scan (Leg A rescan)
 - Health gate ALL_GOOD; drift_scan.py fresh: 13 sector queries → 39 candidates; cascade 0 (queue empty).
 - 0 new drifts filed (39 reviewed, 39 rejected). Leg B: cascade queue empty → no eligible drift, no cascade state changes.
@@ -394,6 +447,7 @@
 - Catalyst notes appended (additive, no re-rate, no substitution-pair mutation): DRIFT-004 +c1a0f2e9 (Micron High-NA roadmap, 144 EMERGING), DRIFT-006 +7e3d9b1a (CEG 890MW/2700MW, 105 EMERGING).
 - Engine: drift_scoring.py 10 sidecars, composites unchanged (432/600/20/144/336/105/180/294/180/84), 0 fetch_errors. FLAG: DRIFT-002 NVTS row [STALE] (FY2024 segment) — engine row retained as last-known.
 - Track D: rebuilt; 0 cascade eligible this cycle.
+
 
 ## 2026-10-26 — news-break seam wired to the Drift Detector cron
 - `~/.hermes/scripts/drift_ingest.py`: one ingress contract, many producers. Merges breaks from
@@ -408,6 +462,7 @@
 - Design principle: the seam grants a break URGENCY + provenance, NOT special scoring status. A
   break that is noise degrades to NOISE and consolidates out like any drift. Live spine verified
   byte-identical through dry-run.
+
 
 ## 2026-10-28 17:55 — drift-scan (Leg A + A2 rescan)
 - Health gate: initially FAIL:primary_feeds (eia). ROOT CAUSE FIXED: primary_feeds.py EIA
@@ -483,6 +538,7 @@
   gate post-run: 0 eligible (nothing >=500 or gate-fire) -> cascade_state.json
   unchanged this cycle.
 
+
 ## 2026-10-29 drift-scan (Drift Detector)
 - Health gate: ALL_GOOD (vllm UP, searxng UP/RUNNING, feeds FRESH, disk OK; eia DEGRADED).
 - Scan: 13 sector -> 39 base candidates; 6 a2 -> 18 a2 candidates; 0 cascade queries
@@ -512,6 +568,7 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
   (10 drifts), substitution_short_list refreshed. Cascade gate post-run: 0 eligible
   (nothing >=500 or gate-fire) -> cascade_queue.json eligible=[].
+
 
 ## 2026-10-30 03:13 — drift-scan (Drift Detector)
 - Health gate FAIL:primary_feeds (osti 1-tick error not yet demoted; eia
@@ -556,6 +613,7 @@
   (10 drifts), substitution_short_list refreshed. Cascade gate post-run:
   0 eligible.
 
+
 ## 2026-10-30 — Drift Detector (e9711f5abb15)
 - Health gate: ALL_GOOD (EIA feed degraded — informational).
 - SCAN: upstream SUSPENSION — all 19 queries (13 sector + 6 A2) flagged
@@ -576,6 +634,7 @@
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated
   (10 drifts); no file deltas (idempotent). Cascade gate post-run: 0 eligible.
 - Commit: none — drift-owned files unchanged this cycle.
+
 
 ## 2026-10-30 (2nd run) — Drift Detector (e9711f5abb15)
 - Health gate: ALL_GOOD (EIA feed degraded — informational). Scan fresh:
@@ -638,6 +697,7 @@
   winner backlink), INDEX regenerated (11 drifts). Cascade gate post-run:
   0 eligible.
 
+
 ## 2026-10-31 drift-scan (cron e9711f5abb15)
 - Health gate ALL_GOOD (EIA feed degraded — informational). Scan: 13 sector + 6 a2 queries → 39 base candidates + 18 a2 candidates; 0 upstream-suspension flags; 0 news breaks merged.
 - FILED: DRIFT-012 10kV SiC IGBT domestic process (NVTS ALATTIS award) — M4×T4×C6 = **96 EMERGING**, A2 gated 3rd slot USED (rules satisfied: sub-ceiling winner NVTS $2.2B; pilot/award certainty; named process award). FMP NVTS segmentation = single "Reportable Segment" FY2024 $83.3M → whole-company proxy noted.
@@ -645,6 +705,7 @@
 - A2 shadow-run: 18 reviewed, 17 rejected — dominant reasons: listicle/guide (3), distributor/vendor pages (4), private/no-ticker startups (3), anchor-sized winner (Wolfspeed EV/SiC, WOLF $1.2B is sub-ceiling but story is product-launch not substitution → 2), foreign (LX Semicon, SK Hynix), rumor/thin (5). 1 filed (3rd slot). Precision 1/18 = 5.6% (cycle NOT tainted — 0 upstream suspensions).
 - CASCADE leg: 0 eligible drifts (no composite ≥500 unsaturated, no gate-fires) → 0 cascade queries, 0 new tickers; no zero_streak changes.
 - Engine: 12 drifts re-scored, all composites unchanged, 0 fetch_errors, 0 stale segments. NVTS dossier backlink now +3 winner edges (DRIFT-002/009/012).
+
 
 ## 2026-11-02 drift-scan (cron e9711f5abb15)
 - Health gate ALL_GOOD (EIA feed degraded — informational). Scan: 13 sector +
@@ -671,6 +732,7 @@
   0 eligible.
 
 
+
 ## 2026-11-02 drift-scan 16:30 (cron e9711f5abb15)
 - Health gate ALL_GOOD (EIA feed degraded — informational).
 - Scan: 13 sector + 6 a2 queries → **0 base, 0 a2, 0 cascade candidates;
@@ -689,6 +751,7 @@
   26 FMP profiles persisted.
 - Track D: 24 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
 
 ## 2026-11-04 drift-scan (cron e9711f5abb15)
 - Health gate ALL_GOOD (stale: signal_briefs + vetted_tickers ~2h — informational,
@@ -725,6 +788,7 @@
   011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
 
 ## 2026-11-04 drift-scan (2nd run) — Drift Detector (cron e9711f5abb15)
 - Health gate ALL_GOOD. Scan: 13 sector + 6 a2 queries → **39 base, 18 a2, 0
