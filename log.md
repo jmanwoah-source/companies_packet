@@ -819,3 +819,11 @@
   011 336 · 012 96); 0 fetch_errors, 0 stale segments; 26 FMP profiles persisted.
 - Track D: 23 dossiers touched, INDEX regenerated (12 drifts), cascade gate
   0 eligible.
+
+## 2026-11-09 Drift scan — 0 filed
+- Health: ALL_GOOD; drift scan: 13 sector + 6 a2 queries, 57 candidates (39 base + 18 a2)
+- 0 breaks merged (drift_ingest)
+- Judgment: 39 base rejected (14 repeats of existing drifts 002/003/004/008/009, 15 regulatory/roadmap/listicle, 10 capacity-shift not substitution); 18 A2 rejected (listicles, funding, patents, design-wins without substitution mechanism, ecosystem proof for existing drifts)
+- 0 new drifts filed; 3rd-slot A2: unused (no qualifying candidate)
+- Cascade: 0 eligible (no drift >= 500 or gate-fire; DRIFT-002 at 600 is saturated)
+- Engine: 0 sidecars (no drifts filed this cycle)
