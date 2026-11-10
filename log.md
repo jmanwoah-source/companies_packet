@@ -840,3 +840,16 @@
 - Engine: drift_scoring.py 1 sidecar (DRIFT-013), 0 fetch_errors, 26 FMP profiles persisted.
 - Track D: drift_track_d.py rebuilt — 1 named loser row (LRCX, sub_downside 38.4%, medium confidence) on short list; backlink SKIP (no LRCX dossier yet); 0 dossiers touched.
 - Index: INDEX.md regenerated (1 drift).
+
+## 2026-11-10 drift-scan (cron e9711f5abb15)
+
+- Health: ALL_GOOD (vllm UP, searxng UP/RUNNING, feeds FRESH, disk 48.5% free).
+- Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 = 57 candidates; 0 upstream_suspicious_queries; 0 news breaks merged. No overlap-lock skip.
+- **FILED: DRIFT-014 — behind-the-meter SMR nuclear power for data centers.** M×T×C = 6×7×6 = **252 MODERATE**. Old: grid-connected nuclear/grid power → New: behind-the-meter SMR at data center campuses. Winners: NM (NuScale US460, NRC behind-the-meter approved) + CEG (Constellation Energy, Google 20yr PPA). Additive — grid generators lose marginal hyperscale contracts to behind-the-meter. Timing: 2027–2029.
+- **FILED: DRIFT-015 — 800VDC data center power architecture.** M×T×C = 5×5×4 = **100 LOW**. Old: standard AC/400V distribution → New: native 800VDC rack power. Winners: NVDA (spec leader), VRT (sidecar architecture), BE (DC fuel cell). Loser: class row (legacy UPS/PDU). Additive, infrastructure-upgrade, timing: 2027–2030.
+- Base candidates: 37 rejected. Rejection breakdown — 450mm = thinkpiece/vendor/market-report, no commitment; Micron roadmap/ASML $13B qtr = re-circulation of DRIFT-004; CPO production planning = re-circulation of DRIFT-008; GAA etch/vertically stacked = academic paper + educational explainer, no commercial swap; GaN-on-Si epiwafer = market report + MicroLED-tag page + product catalog, no US winner commitment; advanced packaging = trend/thinkpiece (SHINKO ABF→glass-core is DRIFT-001 companion, capacity expansion not substitution); liquid cooling = design guides/Trane glossary; transformer lead times = supply constraint, no process swap.
+- A2 shadow-run (18 reviewed, 18 rejected; 3rd slot UNUSED): dominant reasons — listicle/guide (sourceability 2027 semi outlook, newmarketpitch cooling-startups, jim.com how-to, deepchecks pitch-deck guide), foreign/PRIVATE (Molex CPO product page — US listed but vendor page, not a substitution event; LX Semicon SiC exit = Korean; EnSilica AIM-listed), anchor-sized winner (ON Sungrow, WOLF), patent/spec-only (SiC patent), funding/no-swap (WSJ startup article, Crusoe company page, techcrunch datacenter-mass-production), standards/spec doc (APC CPO specs = already logged on DRIFT-008 apc054c1). 3rd A2 slot UNUSED — no A2 candidate with a nano/sub-ceiling US-listed winner at pilot-or-better certainty.
+- Cascade: 0 eligible drifts (nothing >=500 unsaturated; DRIFT-002 saturated at 600). 0 new tickers surfaced. No zero_streak changes needed.
+- Engine: drift_scoring.py 3 sidecars re-scored (DRIFT-013=336, DRIFT-014=252, DRIFT-015=100); all composites match file values; 0 fetch_errors, 0 stale segments; 29 FMP profiles persisted.
+- Track D: drift_track_d.py rebuilt — 24 dossiers touched (NEW: GFS, NM, CEG, BE); INDEX regenerated (13 drifts); cascade gate 0 eligible.
+

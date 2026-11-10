@@ -1,0 +1,26 @@
+{
+  "drift_id": "DRIFT-015",
+  "slug": "800vdc-data-center-power",
+  "m": 5,
+  "t": 5,
+  "c": 4,
+  "certainty_grade": "D",
+  "timing_years": "2027-2030",
+  "displacement_sub_class": "infrastructure-upgrade",
+  "mcap_at_stake_b": 0.0,
+  "note": "NVIDIA+Vertiv pushing 800VDC spec; 2027+ ramp; additive power architecture shift.",
+  "tickers": {
+    "NVDA": {
+      "role": "winner",
+      "keywords": ["NVLink", "data center GPU", "AI computing"]
+    },
+    "VRT": {
+      "role": "winner",
+      "keywords": ["critical power", "data center power distribution"]
+    },
+    "BE": {
+      "role": "winner",
+      "keywords": ["fuel cell", "solid oxide fuel cell", "energy storage"]
+    }
+  }
+}

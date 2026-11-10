@@ -1,0 +1,22 @@
+{
+  "drift_id": "DRIFT-014",
+  "slug": "behind-the-meter-smr",
+  "m": 6,
+  "t": 7,
+  "c": 6,
+  "certainty_grade": "C",
+  "timing_years": "2027-2029",
+  "displacement_sub_class": "new-capacity",
+  "mcap_at_stake_b": 0.0,
+  "note": "Google-Constellation 20-year nuclear PPA signed; NRC behind-the-meter approved; NuScale US460 sole provider.",
+  "tickers": {
+    "NM": {
+      "role": "winner",
+      "keywords": ["SMR", "nuclear", "modular reactor"]
+    },
+    "CEG": {
+      "role": "winner",
+      "keywords": ["nuclear generation", "independent power"]
+    }
+  }
+}
