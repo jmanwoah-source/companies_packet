@@ -6,6 +6,7 @@ notes below the table are maintained by the curator.
 
 | ID | File | Sector | M×T×C | Tier | Status | Named winners | Named losers |
 |----|------|--------|-------|------|--------|---------------|--------------|
+| DRIFT-001 | DRIFT-001_advanced-packaging-replaces-node-scaling.md | ? | 392 | UNKNOWN | ? | — | — |
 | DRIFT-013 | DRIFT-013_high-na-euv-hvm.md | ? | 336 | UNKNOWN | ? | — | LRCX |
 | DRIFT-014 | DRIFT-014_behind-the-meter-smr.md | ? | 252 | UNKNOWN | ? | — | — |
 | DRIFT-015 | DRIFT-015_800vdc-data-center-power.md | ? | 100 | UNKNOWN | ? | — | — |
