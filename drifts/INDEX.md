@@ -6,3 +6,4 @@ notes below the table are maintained by the curator.
 
 | ID | File | Sector | M×T×C | Tier | Status | Named winners | Named losers |
 |----|------|--------|-------|------|--------|---------------|--------------|
+| DRIFT-013 | DRIFT-013_high-na-euv-hvm.md | ? | 336 | UNKNOWN | ? | — | LRCX |

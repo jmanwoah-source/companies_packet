@@ -6,10 +6,11 @@ appears here even though it is not 'overbought' (mirage track = Track C, valuati
 
 | Ticker | Company | Drift | sub_downside | Certainty weight | Confidence | Exposure source | Drift tier (M×T×C) |
 |--------|---------|-------|--------------|------------------|------------|-----------------|--------------------|
+| LRCX | (engine: Technology -> tools (fab/litho) / manufacturing — see drift layer fields) | DRIFT-013 | 38.4 | 0.5990639625585024 | medium | engine | UNKNOWN (336) |
 
 ## Notes
 - sub_downside = revenue-exposure-% × certainty-weight (schema v1.1). Midpoint shown for 'est. lo-hi' ranges.
 - `Exposure source`: **engine** = computed by `drift_scoring.py` from live FMP revenue-product-segmentation (deterministic, re-run every cycle); **hand** = curator estimate from the drift file (fallback for tickers FMP can't measure — e.g. delisted/segment-less names).
 - low-confidence rows are flags, not short calls; promote on FMP revenue-line confirmation.
 - class-level losers (no named ticker) are NOT listed here — they stay in the drift files.
-- Generated: 2026-11-09 · 0 named loser rows across 0 drifts.
+- Generated: 2026-11-10 · 1 named loser rows across 1 drifts.

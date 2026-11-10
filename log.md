@@ -827,3 +827,16 @@
 - 0 new drifts filed; 3rd-slot A2: unused (no qualifying candidate)
 - Cascade: 0 eligible (no drift >= 500 or gate-fire; DRIFT-002 at 600 is saturated)
 - Engine: 0 sidecars (no drifts filed this cycle)
+
+## 2026-11-10 drift-scan (cron e9711f5abb15)
+
+- Health: ALL_GOOD (vllm UP, searxng UP/RUNNING, feeds FRESH, disk 48.5% free).
+- Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 = 57 candidates; 0 upstream_suspicious_queries; 0 news breaks. No overlap-lock skip.
+- **FILED: DRIFT-013 — ArF immersion lithography → High-NA EUV (11nm) at sub-3nm nodes.** M×T×C = 7×8×6 = **336 HIGH**, additive (no clean US loser; mature-node ArF remains dominant). Winner: ASML (sole High-NA EUV NXE:3000 series). Loser: LRCX (lithography exposure tools at advanced nodes, limited displacement). Timing: 2027–2028.
+- Evidence: ASML Q3 2026 record $13B quarter + Samsung HVM 2028 commit (Tom's Hardware, VERIFIED); Micron 2026 High-NA roadmap for 3D NAND/DRAM (Tom's Hardware, VERIFIED); SemiAnalysis ASML hybrid bonding tool alongside HVM ramp pressing BEI (VERIFIED).
+- Base candidates: 38 rejected. Rejection breakdown — 450mm trio = historical/archival (and DRIFT-003), no active commitment; Gate-all-around etch = academic paper (PMC) + model pages + educational explainer, no commercial swap; GaN-on-Si power epiwafer = product page + market report + product catalog, no substitution commitment; advanced packaging = trend/thinkpiece (TSMC CoWoS scaling is capacity expansion not substitution); liquid cooling = design guides/PPU explainers; 800V DC = NVIDIA standard-setting (evolution, not substitution); CPO = NVIDIA OOI prototype, research-stage only, no commercialization timeline; immersion cooling = early pilots (MIT, Chicago), not hyperscaler-scale; SMR behind the meter = blog/listicle, no concrete commitment; NRC standard design = regulatory event enabling SMRs downstream; microreactor PPA = deployment model shift not technology substitution; transformer lead time = supply constraint not a substitution.
+- A2 shadow-run (18 reviewed, 18 rejected): dominant reasons — listicle/guide (JIM 10-step, anysilicon checklist, deepchecks pitch deck, newmarketpitch top-startups, ic-components CPO explainer, jim ept vendor pages), foreign/PRIVATE (SawStreet private, EnSilica AIM-listed, Mueon $65M raise), anchor-sized winner (ON/Powertitan-3.0 Sungrow design win = mid-cap anchor, fails slot rule 1; LX Semicon SiC exit = Korean), patent/spec-only (SiC patent, APC CPO specs = already on DRIFT-008), non-substitution (QuickLogic eFPGA contract = revenue increment, not process swap). 3rd A2 slot UNUSED (no candidate with nano/sub-ceiling US-listed winner at pilot-or-better certainty).
+- Cascade: 0 eligible drifts (nothing >=500 unsaturated; DRIFT-002 saturated at 600). 0 new tickers surfaced.
+- Engine: drift_scoring.py 1 sidecar (DRIFT-013), 0 fetch_errors, 26 FMP profiles persisted.
+- Track D: drift_track_d.py rebuilt — 1 named loser row (LRCX, sub_downside 38.4%, medium confidence) on short list; backlink SKIP (no LRCX dossier yet); 0 dossiers touched.
+- Index: INDEX.md regenerated (1 drift).

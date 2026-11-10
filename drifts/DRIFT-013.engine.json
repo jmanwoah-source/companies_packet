@@ -1,0 +1,22 @@
+{
+  "drift_id": "DRIFT-013",
+  "slug": "high-na-euv-hvm",
+  "m": 7,
+  "t": 8,
+  "c": 6,
+  "certainty_grade": "B",
+  "timing_years": "2027-2028",
+  "displacement_sub_class": "equipment-substitution",
+  "mcap_at_stake_b": 150.0,
+  "note": "ASML High-NA EUV HVM 2028; Samsung committed; Micron/TSMC roadmap. NXE:3000 series sole provider.",
+  "tickers": {
+    "ASML": {
+      "role": "winner",
+      "keywords": ["NXE"]
+    },
+    "LRCX": {
+      "role": "loser",
+      "keywords": ["System"]
+    }
+  }
+}
