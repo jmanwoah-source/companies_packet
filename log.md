@@ -891,3 +891,13 @@
   - A2 (18 candidates): 5 SKIP (guide/listicle), 13 evaluated — no new base drifts from A2; 3rd-slot A2 not used (no candidate met all three gates: nano/sub-ceiling winner + pilot certainty + named old→new)
 - **Cascade:** DRIFT-016 eligible at 576; 0 new tickers found → zero_streak=1 (not saturated)
 - **Track D delta:** +2 new drifts; LITE/COHR/MRVL/AVGO/CRDO/ALAB/ON/WOLF/IFXN/TEL profiles updated
+
+## 2026-11-11 Drift Scan Run (cron e9711f5abb15)
+- Health: ALL_GOOD (stale:file_feed_raw.json,file_signal_briefs.json,file_vetted_tickers.json — informational)
+- Scan: 13 sector + 6 a2 queries → 39 base + 18 a2 = 57 candidates; 0 upstream_suspicious_queries; 0 news breaks
+- **FILED: 0 drifts** (57 candidates reviewed: 39 base + 18 a2 — all rejected)
+- Base rejections (one-line): 450mm = historical/archival (abandoned, not an active substitution), no new commitment; ASML $13B qtr = earnings, not substitution; GAA FET/etched gate = academic paper (PMC), no commercial swap; High-NA EUV = re-circulation of DRIFT-013; CPO production = re-circulation of DRIFT-016; advanced packaging = trend/thinkpiece, no named-US-winner commitment; liquid cooling/800VDC = already-filed (DRIFT-015/009); SMR/PPA = DRIFT-014 re-surface; transformer lead time = supply constraint, not a process swap
+- A2 shadow-run (18 reviewed, 18 rejected): dominant reasons — listicle/guide (6: JIM 10-step, anysilicon checklist, newmarketpitch top-startups, ic-components CPO explainer, deepchecks pitch deck, jim ept vendor), foreign/PRIVATE (SawStreet private, Mueon $65M raise, LX Semicon Korean exit, EnSilica AIM-listed), anchor-sized (ON/Sungrow design win = ON mid-cap anchor, fails slot rule 1; WOLF), patent/spec-only (SiC patent, APC CPO specs = already on DRIFT-008), non-substitution (QuickLogic eFPGA = revenue increment not process swap; Understand Tech AI platform = tooling not process swap). 3rd A2 slot UNUSED — no candidate with nano/sub-ceiling US-listed winner at pilot-or-better certainty naming a specific old→new swap.
+- CASCADE: 0 eligible drifts (DRIFT-002 saturated; no composite >=500 unsaturated, no gate-fires) → 0 new tickers; no zero_streak write-back needed
+- Engine: drift_scoring.py 6 sidecars re-scored, all composites stable (DRIFT-001=392, DRIFT-013=336, DRIFT-014=252, DRIFT-015=100, DRIFT-016=576, DRIFT-017=336); 0 fetch_errors, 0 stale segments; 38 FMP profiles persisted
+- Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (13 drifts); cascade gate 0 eligible
