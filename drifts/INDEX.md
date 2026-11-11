@@ -10,3 +10,5 @@ notes below the table are maintained by the curator.
 | DRIFT-013 | DRIFT-013_high-na-euv-hvm.md | ? | 336 | UNKNOWN | ? | — | LRCX |
 | DRIFT-014 | DRIFT-014_behind-the-meter-smr.md | ? | 252 | UNKNOWN | ? | — | — |
 | DRIFT-015 | DRIFT-015_800vdc-data-center-power.md | ? | 100 | UNKNOWN | ? | — | — |
+| DRIFT-016 | DRIFT-016_co-packaged-optics-replaces-copper-interconnects.md | ? | 576 | UNKNOWN | ? | — | TEL |
+| DRIFT-017 | DRIFT-017_vertical-gan-displaces-sic-power-transistors.md | ? | 336 | UNKNOWN | ? | — | WOLF |

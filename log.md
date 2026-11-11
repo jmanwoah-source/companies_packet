@@ -866,3 +866,28 @@
 - Engine: drift_scoring.py 4 sidecars re-scored (DRIFT-001=392 NEW, DRIFT-013=336, DRIFT-014=252, DRIFT-015=100); 0 fetch_errors, 0 stale segments; 34 FMP profiles persisted (TSM, AMD, AEIS, AMKR added fresh profiles).
 - Track D: drift_track_d.py rebuilt — 28 dossiers touched (NEW: TSM, AMD, INTC, AEIS, AMKR); INDEX regenerated (13 drifts now include DRIFT-001); cascade gate 0 eligible.
 - Commit: changed files tracked and committed.
+## 2026-11-11 Drift Scan Run
+- **Health:** ALL_GOOD (stale:file_feed_raw.json,file_signal_briefs.json,file_vetted_tickers.json)
+- **Scan output:** 13 sector queries -> 39 fresh candidates; 6 a2 (small-cap) queries -> 18 a2 candidates; 0 cascade results
+- **Breaks:** 0 merges
+- **Filed:**
+  - DRIFT-016: Co-Packaged Optics (CPO) Replaces Copper Interconnects — M×T×C = 576 (A grade, HIGH)
+  - DRIFT-017: Vertical GaN Displaces Silicon Power Transistors — M×T×C = 336 (B grade, HIGH)
+- **Rejected candidates:**
+  - 450mm wafer foundry transition: NOT a substitution event — 450mm was already abandoned, no new process named
+  - ASML record $13B Q: Earnings news, not a technology substitution event
+  - GAA FET / Stacked GAA: Academic/research paper, no commercial commitment
+  - 450mm SemiWiki: Historical analysis, not an active substitution
+  - PLP/Panel-level packaging: Guide/process overview, not a specific substitution
+  - 800VDC/Vertiv/ NVIDIA: Already filed as DRIFT-015
+  - High-NA EUV/ASML: Already filed as DRIFT-013
+  - Silicon wafer reclaim: Market size article, not a substitution
+  - SHINKO/Kinsus substrate: Listicle/feature piece
+  - SMR/NuScale: Already filed as DRIFT-014
+  - Transformer lead times: Market bottleneck article, not a substitution
+  - Immersion cooling: Process overview, no old→new swap
+  - Data center PUE: Investment overview, not a substitution
+  - SB Energy/ NBU Energy: SEC filings/ sustainability page, not a substitution
+  - A2 (18 candidates): 5 SKIP (guide/listicle), 13 evaluated — no new base drifts from A2; 3rd-slot A2 not used (no candidate met all three gates: nano/sub-ceiling winner + pilot certainty + named old→new)
+- **Cascade:** DRIFT-016 eligible at 576; 0 new tickers found → zero_streak=1 (not saturated)
+- **Track D delta:** +2 new drifts; LITE/COHR/MRVL/AVGO/CRDO/ALAB/ON/WOLF/IFXN/TEL profiles updated

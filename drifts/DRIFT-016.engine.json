@@ -1,0 +1,42 @@
+{
+  "drift_id": "DRIFT-016",
+  "slug": "co-packaged-optics-replaces-copper-interconnects",
+  "m": 8,
+  "t": 9,
+  "c": 8,
+  "certainty_grade": "A",
+  "timing_years": "2027-2028",
+  "displacement_sub_class": "interconnect-substitution",
+  "mcap_at_stake_b": 2000.0,
+  "note": "CPO replaces copper scale-up interconnects; Lumentum $5B CPO win, Coherent $20B LTA, NVIDIA CPO switches shipping; Lumentum-Marvell merger Nov 2026 creates combined CPO category leader",
+  "tickers": {
+    "LITE": {
+      "role": "winner",
+      "keywords": ["Datacom Transceivers and Components", "Lasers", "Datacenter & Communications"]
+    },
+    "COHR": {
+      "role": "winner",
+      "keywords": ["Datacenter & Communications", "Lasers"]
+    },
+    "MRVL": {
+      "role": "winner",
+      "keywords": ["Semiconductor Solutions", "Data Center"]
+    },
+    "AVGO": {
+      "role": "winner",
+      "keywords": ["Semiconductor Solutions"]
+    },
+    "CRDO": {
+      "role": "winner",
+      "keywords": ["Semiconductor Solutions"]
+    },
+    "ALAB": {
+      "role": "winner",
+      "keywords": ["Communication Equipment"]
+    },
+    "TEL": {
+      "role": "loser",
+      "keywords": ["Connectivity & Sensors"]
+    }
+  }
+}
