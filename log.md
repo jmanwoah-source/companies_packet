@@ -901,3 +901,15 @@
 - CASCADE: 0 eligible drifts (DRIFT-002 saturated; no composite >=500 unsaturated, no gate-fires) → 0 new tickers; no zero_streak write-back needed
 - Engine: drift_scoring.py 6 sidecars re-scored, all composites stable (DRIFT-001=392, DRIFT-013=336, DRIFT-014=252, DRIFT-015=100, DRIFT-016=576, DRIFT-017=336); 0 fetch_errors, 0 stale segments; 38 FMP profiles persisted
 - Track D: drift_track_d.py rebuilt — 23 dossiers touched, INDEX regenerated (13 drifts); cascade gate 0 eligible
+
+## Drift Scanner — 2026-11-12
+
+- **Health:** ALL_GOOD (stale: file_feed_raw.json, file_signal_briefs.json, file_vetted_tickers.json)
+- **Scan results:** 13 sector queries → 39 base candidates; 6 a2 queries → 18 a2 candidates; 0 cascade results
+- **Breaks:** 0
+- **Drifts filed:** 0
+- **Review:** 57 base candidates + 18 a2 candidates reviewed. Rejection summary: 51/57 base candidates rejected — not a substitution event (general earnings/market-growth/news/educational/landslide stories with no specific old→new process swap + named US winner). 6/18 a2 candidates rejected — listicle/guide/educational (how-to, directory, standards overview, LinkedIn general content). 6/18 a2 candidates rejected — no named US-listed winner in design-win/qualification context (patent filings, startup directories, generic regulatory analysis, company-specific events).
+- **A2 precision tally:** 18 reviewed, 12 rejected (listicle/guide/educational), 6 rejected (no named US winner) → quality: low-signal queries; tuning needed.
+- **3rd-slot (A2 gate):** NOT USED — no A2 candidate met all three criteria (nano/sub-ceiling winner + pilot-or-demonstrated certainty + specific old→new process swap).
+- **Cascade:** DRIFT-016 (CPO→copper, composite 576) was eligible; 0 new tickers → zero_streak=3 → saturated=true. No eligible drifts this cycle after Track D rebuild.
+- **Engine:** 6 drifts scored (no fetch errors). All composites unchanged.
