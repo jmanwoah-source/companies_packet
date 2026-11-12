@@ -12,3 +12,4 @@ notes below the table are maintained by the curator.
 | DRIFT-015 | DRIFT-015_800vdc-data-center-power.md | ? | 100 | UNKNOWN | ? | — | — |
 | DRIFT-016 | DRIFT-016_co-packaged-optics-replaces-copper-interconnects.md | ? | 576 | UNKNOWN | ? | — | TEL |
 | DRIFT-017 | DRIFT-017_vertical-gan-displaces-sic-power-transistors.md | ? | 336 | UNKNOWN | ? | — | WOLF |
+| DRIFT-018 | DRIFT-018_ASML-hybrid-bonding-displaces-BESI.md | ? | 448 | UNKNOWN | ? | — | — |

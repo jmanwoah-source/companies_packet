@@ -913,3 +913,43 @@
 - **3rd-slot (A2 gate):** NOT USED — no A2 candidate met all three criteria (nano/sub-ceiling winner + pilot-or-demonstrated certainty + specific old→new process swap).
 - **Cascade:** DRIFT-016 (CPO→copper, composite 576) was eligible; 0 new tickers → zero_streak=3 → saturated=true. No eligible drifts this cycle after Track D rebuild.
 - **Engine:** 6 drifts scored (no fetch errors). All composites unchanged.
+
+## 2026-11-12 drift-scan
+
+- **Candidates reviewed:** 40 sector (base) + 18 A2 = 58 total. 39 fresh sector + 0 cascade.
+- **Drifts filed:** DRIFT-018: ASML Hybrid Bonding Tool Displaces BESEI in D2W Packaging (M=8, T=8, C=7, Composite=448, Grade B).
+  - Old→New: Besi's D2W hybrid bonding tools → ASML track-based D2W hybrid bonding tool.
+  - Winner: ASML (US-listed) — 27 patent families, architecture design with Prodrive/VDL ETG, logic volume at TSMC/Intel.
+  - Loser: BESEI (BESI, BESTEKY.SI) — sole HVM D2W bonder, logic HB concentrated at TSMC/Intel where ASML has 20+ year relationships.
+  - Evidence: SemiAnalysis Oct 15 2026 deep dive — VERIFIED.
+- **Rejected (base):** 37 candidates — mostly secondary coverage of existing drifts (DRIFT-013, DRIFT-014, DRIFT-015, DRIFT-016), general market overviews, encyclopedic overviews, vendor marketing, no named substitution with US winner.
+- **Rejected (A2):** 18 candidates — dominant rejection: listicle/guide/educational content (8), no named US winner (5), vendor marketing (3), specific events without substitution (2), academic (1).
+- **3rd-slot (A2 gate):** NOT USED — no A2 candidates reviewed (all 18 rejected at base judgment before slot consideration).
+- **Cascade:** 0 eligible drifts this cycle (nothing >=500 or gate-fire in cascade queue).
+- **Engine:** 7 drifts scored (composite=448 for DRIFT-018; all others unchanged). 38 FMP profiles persisted.
+- **Track D:** 7 drifts parsed, substitution_short_list.md written. DRIFT-018 now tracked.
+
+## 2026-11-12 drift-scan (run)
+- Health: ALL_GOOD (stale: file_feed_raw.json, file_signal_briefs.json, file_vetted_tickers.json)
+- Scan: 13 sector queries → 39 fresh candidates; 6 a2 queries → 18 a2 candidates; 0 cascade queries; 0 upstream_suspicious
+- Breaks merged: 0
+- Drifts filed: 0
+- Candidates reviewed: 39 base + 18 a2 = 57 total
+- Rejected reasons:
+  - 450mm foundry transition: historical analysis, no new substitution event (450mm already dead)
+  - High-NA EUV HVM: confirmation of existing DRIFT-013, no new event
+  - GAA etch content: amplification story (more etch = more Lam), not substitution
+  - GaN-on-Si epiwafer: market growth piece, not substitution
+  - Advanced packaging replaces node scaling: already DRIFT-001, no new event
+  - Liquid cooling default: thinkpiece/general adoption, no named substitution with US winners
+  - 800VDC architecture: confirmation of existing DRIFT-015, already filed
+  - CPO copper replace: confirmation of existing DRIFT-016 (576 composite), already filed
+  - Immersion cooling: Ferveret pilot at MIT, but general adoption story — no named US winners meeting quality bar
+  - SMR behind-the-meter: confirmation of existing DRIFT-014
+  - NRC SAR: regulatory process piece, not substitution
+  - Microreactor PPA: supply chain/bottleneck story, not substitution
+  - Transformer lead times: bottleneck story, not substitution
+  - A2 candidates (18): all rejected — listicles, guides, how-to articles, no specific design-win/qualification events with named US tickers and defensible old→new swap
+- Cascade: 0 eligible drifts (nothing >=500 composite; queue empty)
+- Track D delta: unchanged (7 drifts tracked)
+- A2 precision: 18 reviewed, 18 rejected (dominant: listicle/guide/non-substitution); 3rd gated slot unused (no A2 met nano/sub-ceiling winner + pilot+certainty + specific old→new swap)
