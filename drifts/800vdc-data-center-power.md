@@ -48,9 +48,9 @@ _Computed by drift_scoring.py v2 on 2026-11-12 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| BE | winner | 0.0% (FY2025) | 60.1 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
-| NVDA | winner | 0.0% (FY2026) | 3955.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| VRT | winner | 0.0% (FY2025) | 81.1 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
+| BE | winner | 0.0% (FY2025) | 59.7 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
+| NVDA | winner | 0.0% (FY2026) | 4005.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| VRT | winner | 0.0% (FY2025) | 80.7 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
 
 **Composite (M x T x C): 5 x 5 x 4 = **100** -> tier **EMERGING**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: D

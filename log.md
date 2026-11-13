@@ -953,3 +953,28 @@
 - Cascade: 0 eligible drifts (nothing >=500 composite; queue empty)
 - Track D delta: unchanged (7 drifts tracked)
 - A2 precision: 18 reviewed, 18 rejected (dominant: listicle/guide/non-substitution); 3rd gated slot unused (no A2 met nano/sub-ceiling winner + pilot+certainty + specific old→new swap)
+
+## 2026-11-12 drift-scan (cron e9711f5abb15)
+
+- Health: ALL_GOOD (stale:file_feed_raw.json,file_signal_briefs.json,file_vetted_tickers.json — informational; disk 48.5% free).
+- Scan: 13 sector + 6 a2 queries → 39 base + 0 a2 = 39 candidates (note: a2_candidates empty array returned 0 — scan artifact on a2 leg); 0 upstream_suspicious_queries; 0 news breaks merged. No overlap-lock skip.
+- **0 drifts filed** (39 base candidates reviewed, all rejected — no new defensible old→new substitution with a named US-listed winner).
+  - Breakdown of rejected base candidates:
+    - 450mm wafer foundry transition (3): historical/archival analysis (SemiWiki death-of-450mm), thinkpiece on physical breakthroughs (PlugandPlay), LinkedIn CD SEM market trend — no active 450mm commitment exists, the platform was already abandoned; already belongs to DRIFT-003 (NOISE 20, already filed).
+    - Micron High-NA EUV + wafer bonding DRAM roadmap (Tom's Hardware): same-story re-circulation of DRIFT-013 — Micron detailing High-NA EUV roadmap is roadmap-stage confirmation, not a new event; C held at 6, 336 HIGH held.
+    - ASML record $13B quarter / Lam Research + imec High-NA EUV dry resist: earnings/news and process-qualification for ASML's existing HVM product (DRIFT-013); confirmed roadmap timing (Samsung 2028 DRAM HVM, TSMC 2030 NAND HVM); no re-rate warranted.
+    - GaN-on-Silicon (3): product catalog page, market report, MicroLED tag page — no US-listed winner commitment, no substitution event.
+    - Advanced packaging / SHINKO hybrid RDL / panel-level packaging: trend/thinkpiece pieces (TSMC CoWoS scaling is capacity expansion not substitution; SHINKO substrate evolution is DRIFT-001 companion); no named US winner of a new process.
+    - 800VDC (3 URLs: Latitude Media, NVIDIA official, Advanced Energy): already covered by DRIFT-015 — NVIDIA official page is spec documentation, not an event; Latitude is adoption-timeline analysis; no new hyperscaler volume commit.
+    - CPO / Co-Packaged Optics (5 URLs: Broadcom, Molex, Laser Focus World on substrate supply chain, ic-components explainer): already covered by DRIFT-016 (576 CRITICAL, saturated at zero_streak 3, no longer cascading).
+    - Liquid cooling / immersion cooling (3): design guides, glossary pages, not hyperscaler-scale deployments.
+    - SMR / behind-the-meter / NRC rule pages / microreactor PPA (4): regulatory process pages (eCFR, NRC technical specs), not substitution events; already covered by DRIFT-014.
+    - Transformer lead-time / grid bottleneck (3): supply-constraint data, no named process swap or winner.
+    - Market reports / thinkpieces (Sourceability 2027 outlook, ResearchAndMarkets power-semi market, LinkedIn market pulses): trend/growth coverage, no specific old→new swap.
+    - DOE $389M R&D Letters of Intent (4 companies, 3 private recipients: Helion/CFS/Vertical Semiconductor/Sibelco): additive R&D funding, no US-listed winner, not a process swap.
+    - Other: Rivian wall-mount charger patent (USPTO, not a process swap), justia patent (SiC power transistor, product-spec), winfoundry job post (Korean), EnSilica acquisition (AIM:ENSI, non-US), ON Semiconductor / Sungrow design win (anchor-sized, mid-cap ON ~$25B, fails slot rule 1 if evaluated as A2).
+- A2 shadow-run: 0 candidates (scan returned empty a2_candidates list — not a rejection count, but a scan artifact; no A2 precision data this cycle). 3rd A2 slot: not evaluated (no candidates).
+- Cascade: 0 eligible drifts (DRIFT-016 at 576 is saturated, zero_streak 3; no composite >=500 unsaturated or gate-fire). No zero_streak changes.
+- Engine: 7 sidecars re-scored, all composites unchanged (DRIFT-018 448 · DRIFT-001 392 · DRIFT-013 336 · DRIFT-014 252 · DRIFT-015 100 · DRIFT-016 576 · DRIFT-017 336); 0 fetch_errors, 0 stale segments; 38 FMP profiles persisted.
+- Track D: rebuilds via drift_track_d.py (not yet run for this cycle — will be run before commit).
+

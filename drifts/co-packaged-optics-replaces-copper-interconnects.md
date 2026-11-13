@@ -55,12 +55,12 @@ _Computed by drift_scoring.py v2 on 2026-11-12 from FMP revenue-product-segmenta
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
 | ALAB | winner | 0.0% (FY2025) | 39.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| AVGO | winner | 57.7% (FY2025) | 1737.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
-| COHR | winner | 74.1% (FY2026) | 46.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| AVGO | winner | 57.7% (FY2025) | 1739.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| COHR | winner | 74.1% (FY2026) | 45.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
 | CRDO | winner | 0.0% (FY2026) | 26.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| LITE | winner | 0.0% (FY2026) | 56.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| MRVL | winner | 74.4% (FY2026) | 144.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
-| TEL | loser | 0.0% (FY2026) | 62.9 | 0.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| LITE | winner | 0.0% (FY2026) | 56.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| MRVL | winner | 74.4% (FY2026) | 144.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+| TEL | loser | 0.0% (FY2026) | 62.6 | 0.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 8 x 9 x 8 = **576** -> tier **CRITICAL**
   - Mcap at stake: $2000.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: A
