@@ -978,3 +978,6 @@
 - Engine: 7 sidecars re-scored, all composites unchanged (DRIFT-018 448 · DRIFT-001 392 · DRIFT-013 336 · DRIFT-014 252 · DRIFT-015 100 · DRIFT-016 576 · DRIFT-017 336); 0 fetch_errors, 0 stale segments; 38 FMP profiles persisted.
 - Track D: rebuilds via drift_track_d.py (not yet run for this cycle — will be run before commit).
 
+
+## 2026-11-13 — Drift Scan
+Drift Detector run: upstream_suspension on all 19 queries (SearXNG IP-banned mid-scan). 0 candidates, 0 breaks, 0 cascade. 0 drifts filed. A2: 6 queries run, 0 results — precision count tainted by suspension. Cascade: 0 eligible. No git changes.
