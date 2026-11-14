@@ -981,3 +981,6 @@
 
 ## 2026-11-13 — Drift Scan
 Drift Detector run: upstream_suspension on all 19 queries (SearXNG IP-banned mid-scan). 0 candidates, 0 breaks, 0 cascade. 0 drifts filed. A2: 6 queries run, 0 results — precision count tainted by suspension. Cascade: 0 eligible. No git changes.
+
+## 2026-11-14 — Drift Scan
+Drift Detector run: health ALL_GOOD. 13 sector queries → 39 candidates; 6 A2 queries → 18 A2 candidates; 0 cascade. 39/39 base rejected (retrospective/educational/guide/listicle content; no active substitution commitment with named US winner). A2: 18 reviewed, 18 rejected — dominant reasons: listicle/guide (8), no US winner named (6), non-US only (3), generic news (1); 3rd-slot gate unused. No drifts filed. Cascade: 0 eligible. Engine re-scored 7 existing drifts (0 fetch errors). Track D rebuilt.
