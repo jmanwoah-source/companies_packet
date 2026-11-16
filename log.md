@@ -984,3 +984,23 @@ Drift Detector run: upstream_suspension on all 19 queries (SearXNG IP-banned mid
 
 ## 2026-11-14 — Drift Scan
 Drift Detector run: health ALL_GOOD. 13 sector queries → 39 candidates; 6 A2 queries → 18 A2 candidates; 0 cascade. 39/39 base rejected (retrospective/educational/guide/listicle content; no active substitution commitment with named US winner). A2: 18 reviewed, 18 rejected — dominant reasons: listicle/guide (8), no US winner named (6), non-US only (3), generic news (1); 3rd-slot gate unused. No drifts filed. Cascade: 0 eligible. Engine re-scored 7 existing drifts (0 fetch errors). Track D rebuilt.
+
+## 2026-11-16 drift-scan cycle
+
+- **Health:** ALL_GOOD (stale: file_signal_briefs.json, file_vetted_tickers.json)
+- **Scan:** 13 sector queries → 39 base candidates; 6 A2 queries → 18 A2 candidates; 0 cascade queries → 0 cascade results
+- **Breaks:** 0 merged
+- **Filed:** 0 drifts
+- **Candidates reviewed:** 39 base + 18 A2 = 57 total
+- **Rejections (base, key reasons):**
+  - #0-2 450mm wafer/PLP: The 450mm wafer platform is *already dead* (2015 abandonment), not a substitution — it's post-mortem analysis. PLP (fan-out panel-level) is a *complementary* format to WLP per Yole and ACM Research's own positioning ("PLP is unlikely to replace WLP across every application"); no clean old→new displacement at the value-chain layer.
+  - #3-6 High-NA EUV: Micron's 2028 High-NA EUV adoption is a roadmap commitment (claimed certainty), not demonstrated/committed volume yet. This is the same story as DRIFT-013. Lam Research dry resist readiness (Oct 2026) is supporting evidence for DRIFT-013, not a new drift.
+  - #7-14 GAA/FET/GaN: Samsung GAA yield fight is an internal foundry narrative, not a technology substitution event. GaN-on-Si substrates are scaling but compete with SiC and superjunction Si in power devices — no single old→new displacement, just multi-path WBG expansion. Shinko substrate evolution and Cadence chiplet design are enablers within DRIFT-001's scope, not independent substitutions.
+  - #15-20 800VDC: The 800VDC shift is DRIFT-015 (already filed, composite 100). The candidates from Latitude Media, NVIDIA, and Vertiv are all corroborating evidence for the same already-filed drift. No *new* drift.
+  - #21-38 SMR/advanced energy: DRIFT-014 (SMR) and DRIFT-018 (ASML) already capture the relevant events. The remaining candidates (Ameresco earnings, Constellation/NRC articles, transformer shortage pieces) are market commentary, not technology substitution events.
+- **A2 candidates (18 total):**
+  - Rejected: 18 — dominant reason = listicle/analysis (not a substitution event). Navitas Q3 earnings (design wins, Claros acquisition) confirm DRIFT-017 trajectory but do not introduce a new substitution. Wolfspeed patent suit against Navitas is competitive litigation, not substitution. DOE $389M power semiconductor R&D award is funding, not a process swap. US power semiconductor R&D funding and Semtech SiGe capacity at TSMC are incremental capacity moves, not technology substitution. Molex CPO substrate piece and OCP backplane are within DRIFT-016 scope.
+  - Gated 3rd slot: NOT USED. No A2 candidate satisfied all three conditions (nano/sub-ceiling US winner, pilot+ certainty, specific old→new swap). Navitas (NVTS) is sub-ceiling but the event is an earnings update/qualification, not a substitution. Navitas→GlobalFoundries 8-inch transition is roadmap-only (claimed certainty), and Navitas is mid-cap, not nano.
+- **Cascade:** 0 eligible drifts (composite threshold ≥500 or gate-fire); no next-layer queries generated.
+- **Engine:** drift_scoring.py ran successfully; 7 drift sidecars processed, 38 FMP profiles persisted. No fetch errors or stale segments reported.
+- **Track D:** No delta (0 drifts filed).
