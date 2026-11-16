@@ -74,12 +74,12 @@ _Computed by drift_scoring.py v2 on 2026-11-16 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| AEIS | winner | 46.7% (FY2025) | 8.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Equipment |
-| AMD | winner | 58.0% (FY2025) | 875.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data Center, Embedded |
-| AMKR | winner | 0.0% (FY2025) | 8.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| INTC | winner | 0.0% (FY2025) | 317.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| NVDA | winner | 99.7% (FY2026) | 3924.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Automotive, Data Center, Gaming, Professional Visualization |
-| TSM | winner | 0.0% (FY2025) | 2068.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| AEIS | winner | 46.7% (FY2025) | 8.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Equipment |
+| AMD | winner | 58.0% (FY2025) | 839.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data Center, Embedded |
+| AMKR | winner | 0.0% (FY2025) | 8.6 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| INTC | winner | 0.0% (FY2025) | 297.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| NVDA | winner | 99.7% (FY2026) | 3842.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Automotive, Data Center, Gaming, Professional Visualization |
+| TSM | winner | 0.0% (FY2025) | 1958.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 7 x 7 x 8 = **392** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: demonstrated
