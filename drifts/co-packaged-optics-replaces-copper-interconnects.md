@@ -54,13 +54,13 @@ _Computed by drift_scoring.py v2 on 2026-11-17 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| ALAB | winner | 0.0% (FY2025) | 35.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| AVGO | winner | 57.7% (FY2025) | 1591.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
-| COHR | winner | 74.1% (FY2026) | 40.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
-| CRDO | winner | 0.0% (FY2026) | 22.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| LITE | winner | 0.0% (FY2026) | 49.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| MRVL | winner | 74.4% (FY2026) | 127.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
-| TEL | loser | 0.0% (FY2026) | 61.2 | 0.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| ALAB | winner | 0.0% (FY2025) | 37.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| AVGO | winner | 57.7% (FY2025) | 1630.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Solutions |
+| COHR | winner | 74.1% (FY2026) | 41.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Datacenter & Communications |
+| CRDO | winner | 0.0% (FY2026) | 23.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| LITE | winner | 0.0% (FY2026) | 50.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| MRVL | winner | 74.4% (FY2026) | 130.3 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data center |
+| TEL | loser | 0.0% (FY2026) | 60.6 | 0.0% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
 **Composite (M x T x C): 8 x 9 x 8 = **576** -> tier **CRITICAL**
   - Mcap at stake: $2000.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: A

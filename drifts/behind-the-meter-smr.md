@@ -48,12 +48,12 @@ _Computed by drift_scoring.py v2 on 2026-11-17 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| CEG | winner | 0.0% (FY2025) | 98.4 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| CEG | winner | 0.0% (FY2025) | 95.0 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 | NM | winner | 0.0% (FY2022) [STALE] | 0.1 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
 
-**Composite (M x T x C): 6 x 7 x 6 = **252** -> tier **HIGH**
+**Composite (M x T x C): 6 x 7 x 7 = **294** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: C
-  - timing_years: 2027-2029 | displacement_sub_class: new-capacity
+  - timing_years: 2026-2028 | displacement_sub_class: new-capacity
   - sub_downside weights: demonstrated=1.0 / pilot=0.8 / claimed=0.6 / rumored=0.3
-  - note: Google-Constellation 20-year nuclear PPA signed; NRC behind-the-meter approved; NuScale US460 sole provider.
+  - note: Google-Constellation 20-year nuclear PPA signed; NRC behind-the-meter approved; NuScale US460 sole provider. Re-rated C=7 on X-energy NRC FSER completion (Oct 2026).
 
