@@ -77,7 +77,7 @@ _Computed by drift_scoring.py v2 on 2026-11-17 from FMP revenue-product-segmenta
 | AEIS | winner | 46.7% (FY2025) | 8.5 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Semiconductor Equipment |
 | AMD | winner | 58.0% (FY2025) | 827.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Data Center, Embedded |
 | AMKR | winner | 0.0% (FY2025) | 8.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
-| INTC | winner | 0.0% (FY2025) | 294.8 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
+| INTC | winner | 0.0% (FY2025) | 294.7 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 | NVDA | winner | 99.7% (FY2026) | 3763.0 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | Automotive, Data Center, Gaming, Professional Visualization |
 | TSM | winner | 0.0% (FY2025) | 1936.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | - |
 
