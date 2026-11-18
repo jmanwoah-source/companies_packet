@@ -846,3 +846,11 @@ Drift Detector run: health ALL_GOOD. 13 sector queries → 39 candidates; 6 A2 q
 - Rejections: 3 skips (DRIFT-013, DRIFT-002, DRIFT-001, DRIFT-016, DRIFT-014 already exist); 12 base REJECT — trend/guide/procurement noise (liquid cooling overview, 800V DC Chinese deployer, transformer supply bottleneck, design-win keyword noise); 21 base REJECT — regulatory/fundraising/listicle (NRC licensing, microreactor PPA fundraising, SiC patent noise); 18 A2 REJECT — procurement signal noise (design-win/sole-source queries returned process descriptions, not substitution events)
 - Upstream suspension: 1 query flagged (upstream_suspicious_queries=1) — candidate quality this cycle tainted
 - Cascade: 0 eligible drifts (nothing ≥500 composite or gate-fire)
+
+## 2026-11-18 07:18 UTC — Drift Scan Cycle
+
+- **0 drifts filed** (0 fresh candidates — 19 queries flagged `upstream_suspension`; scan was a SUSPENSION artifact, not zero results by design)
+- **A2 candidates reviewed:** 6; **A2 rejected:** 0 (tainted — suspension); 3rd-slot unused (0 A2 candidates)
+- **Cascade:** 0 eligible drifts (composite threshold not met)
+- **Engine:** re-scored 9 existing drifts (composites: 100–576); no fetch_errors or [STALE] segments reported
+- **Track D:** rebuilt INDEX.md, substitution_short_list.md; no cascade gate firings this cycle

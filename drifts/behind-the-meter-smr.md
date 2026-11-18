@@ -48,7 +48,7 @@ _Computed by drift_scoring.py v2 on 2026-11-18 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| CEG | winner | 0.0% (FY2025) | 95.0 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
+| CEG | winner | 0.0% (FY2025) | 94.2 | - (upside) | Utilities -> manufacturing (operators/DC power) | - |
 | NM | winner | 0.0% (FY2022) [STALE] | 0.1 | - (upside) | Industrials -> downstream (industrial elec) / substrate | - |
 
 **Composite (M x T x C): 6 x 7 x 7 = **294** -> tier **HIGH**

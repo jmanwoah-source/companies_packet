@@ -46,8 +46,8 @@ _Computed by drift_scoring.py v2 on 2026-11-18 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| ASML | winner | 32.0% (FY2025) | 533.1 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | NXE |
-| LRCX | loser | 64.1% (FY2026) | 263.2 | 38.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | System |
+| ASML | winner | 32.0% (FY2025) | 534.4 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | NXE |
+| LRCX | loser | 64.1% (FY2026) | 261.9 | 38.4% | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | System |
 
 **Composite (M x T x C): 7 x 8 x 6 = **336** -> tier **HIGH**
   - Mcap at stake: $150.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: B

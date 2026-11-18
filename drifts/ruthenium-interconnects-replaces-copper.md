@@ -46,7 +46,7 @@ _Computed by drift_scoring.py v2 on 2026-11-18 from FMP revenue-product-segmenta
 
 | Ticker | Role | Revenue exposure % | Mcap ($B) | sub_downside | FMP sector (layer) | Matched segments |
 |--------|------|--------------------|-----------|--------------|--------------------|------------------|
-| LRCX | winner | 64.1% (FY2026) | 263.2 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | System |
+| LRCX | winner | 64.1% (FY2026) | 261.9 | - (upside) | Technology -> tools (fab/litho) / manufacturing — see drift layer fields | System |
 
 **Composite (M x T x C): 7 x 8 x 6 = **336** -> tier **HIGH**
   - Mcap at stake: $0.0B (engine sum of loser exposure x mcap unless curated) | certainty_grade: B
