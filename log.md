@@ -838,3 +838,11 @@ Drift Detector run: health ALL_GOOD. 13 sector queries → 39 candidates; 6 A2 q
 - **CASCADE:** 0 eligible drifts (DRIFT-002 saturated; DRIFT-016 saturated; nothing >=500 unsaturated, no gate-fires). 0 new tickers surfaced. No zero_streak changes needed.
 - **Engine:** drift_scoring.py 13 sidecars re-scored (DRIFT-001=392, DRIFT-002=512, DRIFT-013=336, DRIFT-014=294, DRIFT-015=100, DRIFT-016=576, DRIFT-017=336, DRIFT-018=448, DRIFT-019=336 NEW, plus 4 existing). All composites stable. 0 fetch_errors. 38 FMP profiles persisted.
 - **Track D:** drift_track_d.py rebuilt — 24 dossiers touched (incl. LRCX backlink for DRIFT-019). INDEX regenerated (14 drifts). Cascade gate post-run: 0 eligible.
+
+## 2026-11-18 — Drift scan run
+- 13 sector queries → 36 base candidates; 6 A2 queries → 18 A2 candidates
+- 0 breaks merged
+- 0 drifts filed (36 base reviewed, 18 A2 shadow-run reviewed)
+- Rejections: 3 skips (DRIFT-013, DRIFT-002, DRIFT-001, DRIFT-016, DRIFT-014 already exist); 12 base REJECT — trend/guide/procurement noise (liquid cooling overview, 800V DC Chinese deployer, transformer supply bottleneck, design-win keyword noise); 21 base REJECT — regulatory/fundraising/listicle (NRC licensing, microreactor PPA fundraising, SiC patent noise); 18 A2 REJECT — procurement signal noise (design-win/sole-source queries returned process descriptions, not substitution events)
+- Upstream suspension: 1 query flagged (upstream_suspicious_queries=1) — candidate quality this cycle tainted
+- Cascade: 0 eligible drifts (nothing ≥500 composite or gate-fire)

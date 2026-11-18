@@ -1,6 +1,7 @@
 # IONQ
 
-## Catalyst Log- [2026-11-09] IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance | quantum (positive high) [`B546CAD6`]
+## Catalyst Log
+- [2026-11-09] IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance | quantum (positive high) [`B546CAD6`]
 
 - [2026-11-06] IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance to 505-515 Million as Backlog Grows to 1.2 Billion | quantum (positive high) [`50528FE4`]
 
@@ -11,7 +12,4 @@
 - 2026-11-14 IonQ Q3 2026 Earnings Tomorrow | positive | Q3 2026 earnings announcement imminent — concrete financial reporting milestone | https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjF3U21kaHJSTkdveTNQcjlKTEp2YVlOU1JMQ29HMHZhSkJXQUdNWURQVU4ya0R0Z20xX2lwa0pKX3lfZTZncF93OTg0SFU0cWdrbm96WWpkY25DSXY3NGc2RzVBTXBXQmdHOGVIRG5CRHZ6eG5BdGptcklBZW1NNncwUXZUM3R4R2NwTG5wN09xalhPUUxUTEJkRQ?oc=5
 - 2026-11-13 IonQ Stocks Surge 10.93% After 336% Revenue Jump and Higher Full-Year Guide | positive | 336% revenue jump with higher full-year guidance — primary company results | https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUpQT0I5YktBRHI2bmhRZmEtWVFxT2pNVGFxcHlBTE5pblFRbnJJUHcwRlFMajZNS0JIakRUeTBOZ3BKQTcxV245V3h3QXp5OUoyOTZvMVotS0xXOThKNUlUQ01QQnNmTG53X3lMYUlod0N3bUJEeG5OeDNORG5vTkI4Vi0tQ0FLd1F0QWlOanMwdw?oc=5
 - 2026-11-13 IonQ Shares Slide After Firm Announces $1.3B All-Stock Deal To Acquire Cybersecurity Firm Elisity | negative | $1.3B all-stock acquisition of Elisity (cybersecurity) — dilution event via share issuance; shares slid 6.4% | https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTXFpNlZORWJIUm5vQkYwMjdWaFpXLTRVSnFxZTNUZG80ZDdSeG9yMUtDMGVvNGpyc1JWYzhYSUR2eFFDMFlvSWhtOExoeENlYk9JR0RnQWFweU1rODZiX0xPMGNNM2dGc1dFRWtfQVkwb2RwREViRHZ1UU9QdGtuaktKbVpNcVhVYmNBcGRJMm8yZjI4U3ZybGFFNEJDWVZBVmN4R1dFejhVdkRkcnJSNl94UHJ2ZGZWUDBodERaT3RCU1pBeDQ0S2lTOXlucDhsTW0taDdrZFdqVklCdk80?oc=5
-
-## Catalyst Log
-- [2026-11-09] IonQ (IONQ) Q3 2026 Earnings Call Transcript | quantum (positive medium) [`1A48BC54`]
-- 2026-11-13 IonQ Stocks Surge 10.93% After 336% Revenue Jump and Higher Full-Year Guide | positive | 336% revenue jump with higher full-year guidance — primary company results | https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUpQT0I5YktBRHI2bmhRZmEtWVFxT2pNVGFxcHlBTE5pblFRbnJJUHcwRlFMajZNS0JIakRUeTBOZ3BKQTcxV245V3h3QXp5OUoyOTZvMVotS0xXOThKNUlUQ01QQnNmTG53X3lMYUlod0N3bUJEeG5OeDNORG5vTkI4Vi0tQ0FLd1F0QWlOanMwdw?oc=5
+- 2026-11-18 IONQ up 24.8% on Q1 2026 profit surge and new InSAR satellite launch | positive | Q1 2026 profit surge + new InSAR satellite launch — commercialization milestone validating quantum platform; 24.8% price move already partially priced | https://finance.yahoo.com/quote/ionq
