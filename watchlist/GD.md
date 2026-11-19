@@ -43,6 +43,8 @@ generated_by: build_clean_packet.py
 
 ### Catalyst Log
 - [2026-11-09T11:06:17.425249+00:00] US Military Awards $20B Unified Counter-Drone Enterprise Contract | defense [macro_government]
+- [2026-11-19T19:06:14Z] General Dynamics loses fight over $10.5 billion Special Operations contract awarded to Lockheed Martin - Yahoo Finance | edge_robotics [gnews_wire]
+- [2026-11-19T19:06:14Z] General Dynamics Is Fixing the Army’s Fleet of Stryker Vehicles—for $332 Million - The National Interest | edge_robotics [gnews_wire]
 
 ## Related Companies
 _No related companies linked yet._
