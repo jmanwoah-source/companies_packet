@@ -3,9 +3,9 @@ title: RTX
 ticker: RTX
 sector: defense-gov
 industry: unknown
-market_cap: 267189120000.0
+market_cap: 267013692800.0
 mcap_band: mega
-mcap_str: "$267,189,120,000"
+mcap_str: "$267,013,692,800"
 pillar: defense-gov
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** RTX
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $267,189,120,000 (mega)
+- **Market Cap:** $267,013,692,800 (mega)
 - **Pillar:** defense-gov
 
 ## Scores

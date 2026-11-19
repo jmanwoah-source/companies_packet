@@ -3,9 +3,9 @@ title: LMT
 ticker: LMT
 sector: defense-gov
 industry: unknown
-market_cap: 136371279178.0
+market_cap: 132587423174.0
 mcap_band: large
-mcap_str: "$136,371,279,178"
+mcap_str: "$132,587,423,174"
 pillar: defense-gov
 max_score: 65
 score_tier: strong
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** LMT
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $136,371,279,178 (large)
+- **Market Cap:** $132,587,423,174 (large)
 - **Pillar:** defense-gov
 
 ## Scores

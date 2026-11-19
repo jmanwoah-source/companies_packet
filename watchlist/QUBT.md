@@ -3,9 +3,9 @@ title: QUBT
 ticker: QUBT
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 1164159919.0
+market_cap: 1164999566.0
 mcap_band: small
-mcap_str: "$1,164,159,919"
+mcap_str: "$1,164,999,566"
 pillar: physical-ai-robotics
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** QUBT
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $1,164,159,919 (small)
+- **Market Cap:** $1,164,999,566 (small)
 - **Pillar:** physical-ai-robotics
 
 ## Scores

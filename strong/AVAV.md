@@ -3,9 +3,9 @@ title: AVAV
 ticker: AVAV
 sector: defense-gov
 industry: unknown
-market_cap: 5306697494.0
+market_cap: 5154743601.0
 mcap_band: mid
-mcap_str: "$5,306,697,494"
+mcap_str: "$5,154,743,601"
 pillar: defense-gov
 max_score: 60
 score_tier: strong
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** AVAV
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $5,306,697,494 (mid)
+- **Market Cap:** $5,154,743,601 (mid)
 - **Pillar:** defense-gov
 
 ## Scores

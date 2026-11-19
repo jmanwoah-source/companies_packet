@@ -3,9 +3,9 @@ title: KTOS
 ticker: KTOS
 sector: defense-gov
 industry: unknown
-market_cap: 5847775158.0
+market_cap: 5781879431.0
 mcap_band: mid
-mcap_str: "$5,847,775,158"
+mcap_str: "$5,781,879,431"
 pillar: defense-gov
 max_score: 70
 score_tier: strong
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** KTOS
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $5,847,775,158 (mid)
+- **Market Cap:** $5,781,879,431 (mid)
 - **Pillar:** defense-gov
 
 ## Scores

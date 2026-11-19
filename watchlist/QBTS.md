@@ -3,9 +3,9 @@ title: QBTS
 ticker: QBTS
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 3041720299.0
+market_cap: 2933566061.0
 mcap_band: mid
-mcap_str: "$3,041,720,299"
+mcap_str: "$2,933,566,061"
 pillar: physical-ai-robotics
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** QBTS
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $3,041,720,299 (mid)
+- **Market Cap:** $2,933,566,061 (mid)
 - **Pillar:** physical-ai-robotics
 
 ## Scores

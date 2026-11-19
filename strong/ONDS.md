@@ -3,9 +3,9 @@ title: ONDS
 ticker: ONDS
 sector: defense-gov
 industry: unknown
-market_cap: 2556308660.0
+market_cap: 2608715997.0
 mcap_band: mid
-mcap_str: "$2,556,308,660"
+mcap_str: "$2,608,715,997"
 pillar: defense-gov
 max_score: 60
 score_tier: strong
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** ONDS
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $2,556,308,660 (mid)
+- **Market Cap:** $2,608,715,997 (mid)
 - **Pillar:** defense-gov
 
 ## Scores

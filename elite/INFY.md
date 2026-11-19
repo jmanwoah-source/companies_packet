@@ -7,6 +7,7 @@ price: 11.78
 market_cap: 47806656200
 mcap_band: large
 mcap_str: "$47,806,656,200"
+pillar: semi-subsystems
 score_a: 76
 score_b: 53
 score_c: 85
@@ -23,6 +24,7 @@ is_mirage: false
 latest_catalyst_date: "2026-11-09T04:51:47.372541+00:00"
 tags: - "#sector/technology"
 - "#industry/information-technology-services"
+- "#pillar/semi-subsystems"
 - "#mcap/large"
 - "#tier/moderate"
 - "#score-band/elite"
@@ -42,6 +44,7 @@ generated_by: build_clean_packet.py
 - **Sector:** Technology
 - **Industry:** Information Technology Services
 - **Market Cap:** $47,806,656,200 (large)
+- **Pillar:** semi-subsystems
 - **Price:** $11.78
 - **Tier:** MODERATE
 - **Watchlist Status:** DORMANT

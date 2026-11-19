@@ -3,9 +3,9 @@ title: FET
 ticker: FET
 sector: unknown
 industry: unknown
-market_cap: 800456492.0
+market_cap: 842508436.0
 mcap_band: small
-mcap_str: "$800,456,492"
+mcap_str: "$842,508,436"
 max_score: 65
 score_tier: strong
 score_source: vetted
@@ -28,7 +28,7 @@ generated_by: build_clean_packet.py
 - **Company:** FET
 - **Sector:** unknown
 - **Industry:** unknown
-- **Market Cap:** $800,456,492 (small)
+- **Market Cap:** $842,508,436 (small)
 
 ## Scores
 - **Best Track Score:** None/100
