@@ -1,8 +1,26 @@
+---
+title: "Quantum Computing, Inc."
+ticker: QUBT
+sector: physical-ai-robotics
+industry: physical-ai-robotics
+market_cap: 1164159919.0
+mcap_band: small
+pillar: physical-ai-robotics
+commercialization: pre-revenue
+entity_check: ok
+is_mirage: false
+latest_catalyst_date: "2026-11-09T09:12:56.831973+00:00"
+tags: - "#sector/physical-ai-robotics"
+- "#industry/physical-ai-robotics"
+- "#pillar/physical-ai-robotics"
+- "#mcap/small"
+- "#commercialization/pre-revenue"
+- "#entity-check/ok"
+created: 2026-11-19
+generated_by: build_obsidian_packet.py
+---
 # QUBT
 
-## Catalyst Log- [2026-11-09] Quantum Sensing and Enabling Tech ANTX — Contract Opportunity | quantum (positive medium) [`EF9DA7EC`]
-
-- [2026-11-09] Canada's Quantum Sector Sets Sights on Commercialization | quantum (neutral low) [`ED45328F`]
-
-## Catalyst Log
-- [2026-11-16] FAU's CA-AI Receives $3M to Build Florida's Quantum-Ready Infrastructure | quantum (positive low) [`F22556AF`]
+## Entity
+- **Ticker:** QUBT
+- **Company:** Quantum Computing, Inc.

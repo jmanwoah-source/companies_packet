@@ -1,7 +1,26 @@
+---
+title: IREN Limited
+ticker: IREN
+sector: ai-infra-thermal
+industry: ai-infra-thermal
+market_cap: 6706968359.0
+mcap_band: mid
+pillar: ai-infra-thermal
+commercialization: pre-revenue
+entity_check: ok
+is_mirage: false
+latest_catalyst_date: "2026-11-07T05:03:52Z"
+tags: - "#sector/ai-infra-thermal"
+- "#industry/ai-infra-thermal"
+- "#pillar/ai-infra-thermal"
+- "#mcap/mid"
+- "#commercialization/pre-revenue"
+- "#entity-check/ok"
+created: 2026-11-19
+generated_by: build_obsidian_packet.py
+---
 # IREN
 
-## After-Hours Research
-- 2026-11-13 IREN Stock Drops After Report Says It's Behind Microsoft's AI Spending Delay | negative | Report links IREN to Microsoft AI spending delay — negative business impact | https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXZxNDFGcEV5RGlOdkFvbVRRYmZELVMtODBNR1NXaXdkQVFDZ1dPb0RGSk5YMzFmQWpDdGpQZ1ZjQW52R1JPQ1FpQk9FOWgtWnhwN2kwek1xemxTUlJCemN5MEcyOHFCSy1zbkJ2RHdES2RMcGtzaVNmRVIybHAyS3FWMEV0M2JwclAzckNmVFRlTDhGX3p6Zg?oc=5
-- 2026-11-13 IREN Stock Jumps After Earnings -- AI Cloud Revenue Is Taking Off | positive | Earnings beat with AI cloud revenue accelerating; ARR growth trajectory intact | https://news.google.com/rss/articles/CBMimAFBVV95cUxQamtzZlZPX0hIT1VKVENQLTFGODVqQXZuSkV0TjFxaTFnZmZzNGhPeHp5VG1UZHR6VUhhVFNRcHVzMVo1QjlrbmF0UmtVQW5lLXBpZE50VXVaZGxQWE9KQjVMRjFLckswZVA0TGNiNmZ4TUVRb21panZPWEpwM285cE9zQW1JSmEtMzZpZ1Q4SHdRRnM5b1VNQQ?oc=5
-|- 2026-11-13 $639M Mining Rig Writedown Overshadows AI Cloud Growth | negative | $639M Bitcoin mining rig writedown drives 6% decline; AI cloud pivot continues but revenue 82% BTC-dependent | https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3E0OENlcnZ3UGpJd0I0Q2NIbnphT0tuN1JUM3lqdjJlYzF2N2h2TjNNdGQ1Q19iUnRobUVlSUtWU05GVl9vd1JRNmlrTkxwUTZQVTZzejJvZWZhdlFPVG9yeWtUaklqck9YQzdvWklqYWtfaDJtUUdkV0tHWW40eFY1U014T3RWWE56NF9tSlNBb2JZX2pLNlhMY2hWNk9EMFp1ZTVkWmJEaWdBWEtwZW9sSXY3SUExRHFLUDVESlVPUFc0ZXlhN0JR
-|- 2026-11-18 IREN signs $2.8B contracts and raises 2026 ARR target | positive | $2.8B contract signing with raised ARR guidance — massive infrastructure deal for AI compute/energy; material revenue inflection point | https://seekingalpha.com/article/iren
+## Entity
+- **Ticker:** IREN
+- **Company:** IREN Limited

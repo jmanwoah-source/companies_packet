@@ -1,6 +1,26 @@
+---
+title: NuScale Power Corporation
+ticker: SMR
+sector: semi-subsystems
+industry: semi-subsystems
+market_cap: 1219547766.0
+mcap_band: small
+pillar: semi-subsystems
+commercialization: pre-revenue
+entity_check: ok
+is_mirage: false
+latest_catalyst_date: "2026-11-19T03:44:51.056633+00:00"
+tags: - "#sector/semi-subsystems"
+- "#industry/semi-subsystems"
+- "#pillar/semi-subsystems"
+- "#mcap/small"
+- "#commercialization/pre-revenue"
+- "#entity-check/ok"
+created: 2026-11-19
+generated_by: build_obsidian_packet.py
+---
 # SMR
 
-## After-Hours Research
-|- 2026-11-13 UBS downgrades SMR citing build timeline risk and lack of firm customer commitments | negative | UBS downgrade cites build timeline risk and lack of firm customer commitments — notable bearish thesis from major investment bank | https://news.google.com/rss/articles/CBMihwJBVV95cUxPR0dDcnVYSWpZbDBkaTZHU0gxaEd5bGswTzlBbHo4d0pfQUMzR3l0dHZ4OUc0UkxOZ3lzRVJzY1E1SkZxS1MxVlVoMjN5YmtHWDVoMkZJQVFWbkhRYTVyWlJFcU44dTVlN2FFOUQ1U1llcko3eVRYV2JBRVg0WlcxQmFDYXFpVTd0QWxCZVZhelAzOG5XOGtmS09DSjZMdkpoTnlXRl94YVF1VDVmc3VPX1d2bTQ2cXhZTXlQNmJNamg2am1sVmo3WUk3WEl4VEdPNGJnYzBaMC1RZnRsNnVYM3hwQ1VjZXd2cEx2YV9DRXhvWm5TMmlwY0dIUjF1WjRFSjRELURJcw?oc=5
-|- 2026-11-18 Barrington upgrades CPRT and downgrades ACVA after $1.9B M&A deal — SMR as acquisition target | positive | $1.9B acquisition deal creates structural value inflection for SMR as target — Barrington upgrade signals long-term growth catalyst via acquisition premium | https://www.stocktwits.com/symbol/smr
-|- 2026-11-18 Seeking Alpha upgrade: "NuScale: A Washed Out Bottom After A Massive Capitulation" | positive | Seeking Alpha analyst upgrade — signals capitulation selling has ended, shares undervalued post-drop; upgrade is material catalyst for institutional flow | <url>
+## Entity
+- **Ticker:** SMR
+- **Company:** NuScale Power Corporation

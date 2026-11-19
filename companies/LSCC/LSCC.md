@@ -1,4 +1,26 @@
+---
+title: Lattice Semiconductor Corporation
+ticker: LSCC
+sector: semi-subsystems
+industry: semi-subsystems
+market_cap: 15616380872.0
+mcap_band: large
+pillar: semi-subsystems
+commercialization: pre-revenue
+entity_check: ok
+is_mirage: false
+latest_catalyst_date: "2026-11-09T09:12:56.831893+00:00"
+tags: - "#sector/semi-subsystems"
+- "#industry/semi-subsystems"
+- "#pillar/semi-subsystems"
+- "#mcap/large"
+- "#commercialization/pre-revenue"
+- "#entity-check/ok"
+created: 2026-11-19
+generated_by: build_obsidian_packet.py
+---
 # LSCC
 
-## After-Hours Research
-- 2026-11-10 Lattice Semiconductor (LSCC) and NXP launch joint Lattice NXP PCIe Companion solution pairing NXP i.MX 95 with Lattice Nexus FPGAs for industrial edge, automation, robotics | positive | Lattice-NXP joint solution addresses real-time connectivity, deterministic I/O, and security in industrial automation and edge computing | https://www.businesswire.com/news/home/20261110513832/en/Lattice-and-NXP-Deliver-Flexible-Secure-Computing-Solution-for-the-Industrial-Edge/
+## Entity
+- **Ticker:** LSCC
+- **Company:** Lattice Semiconductor Corporation

@@ -1,42 +1,34 @@
-# Index — Knowledge Base Catalog
+# Wiki Index
 
-Last updated: 2026-10-22 (Karpathy layout migration)
+**Auto-generated** by wiki_compiler.py on 2026-11-18 20:08
 
-## Top-Level
+## Ticker Registry
 
-| Path | Role |
-|------|------|
-| `AGENTS.md` | Operational rules for agents (pending — protected write) |
-| `SCHEMA.md` | Formatting conventions, schemas, taxonomy |
-| `log.md` | Append-only ledger of agent operations |
-| `golden_tier_list.md` | Track A curation output |
-| `emerging_edge_list.md` | Track B curation output |
-| `mirage_short_list.md` | Track C curation output |
-| `watchlist_changelog.md` | Dated Deep-Dive curation blocks |
-| `research_interest.md` | Human-curated interest overrides |
+| Ticker | Name | Pillar | Status |
+|--------|------|--------|--------|
+| ADEA | ADEA | semiconductor | active |
+| AMKR | AMKR | semiconductor | active |
+| AVAV | AVAV | edge_robotics | active |
+| AXON | AXON | edge_robotics | active |
+| BHE | BHE | unknown | active |
+| CC | CC | ai_infrastructure | active |
+| DRS | DRS | unknown | active |
+| FET | FET | unknown | active |
+| GFS | GFS | semiconductor | active |
+| INFQ | INFQ | quantum | active |
+| IONQ | IONQ | quantum | active |
+| IREN | IREN | energy | active |
+| KTOS | KTOS | edge_robotics | active |
+| LSCC | LSCC | semiconductor | active |
+| ON | ON | semiconductor | active |
+| ONDS | ONDS | edge_robotics | active |
+| QBTS | QBTS | quantum | active |
+| QMCO | QMCO | quantum | active |
+| QUBT | QUBT | quantum | active |
+| SMCI | SMCI | unknown | active |
+| SMR | SMR | unknown | active |
+| SMTC | SMTC | semiconductor | active |
+| VRT | VRT | ai_infrastructure | active |
 
-## raw/ — Immutable source ingestion (READ-ONLY)
 
-- `raw/articles/` — ingested article text (2 files)
-- `raw/transcripts/` — transcripts (empty)
-- `raw/metrics/` — metric snapshots (empty)
-
-## wiki/ — Mutable agent knowledge base
-
-- `wiki/companies/` — atomic company/ticker dossiers (869 entries)
-- `wiki/sectors/` — sector & value-chain breakdowns (empty — to be backfilled)
-- `wiki/concepts/` — paradigms, moats, tech gaps (7 entries: CASCADE, counter_uas, sic_gan_power, smr_datacenter, INDEX, SCHEMA, endpoint-mapping)
-- `wiki/comparisons/` — head-to-head competitive analyses (empty — to be backfilled)
-- `wiki/research/` — research workpapers
-- `wiki/signal_briefs/` — signal brief artifacts
-- `wiki/comparisons_corpus/` — 17 corpus files (SMR, TALO research)
-- `wiki/archived/` — demoted/exit dossiers
-- `wiki/archived_archive/` — pre-migration archive
-
-## Ingest Pipeline
-
-1. Source material → `raw/` (URL, title, date, source)
-2. Company dossier updated → `wiki/companies/<T>/`
-3. Sector/concept pages from sources → `wiki/sectors/` or `wiki/concepts/`
-4. Competitive head-to-head → `wiki/comparisons/`
-5. Queries filed from answered questions → `wiki/research/`
+**Total tickers:** 23

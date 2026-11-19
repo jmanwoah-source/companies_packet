@@ -1,7 +1,26 @@
+---
+title: "Leonardo DRS, Inc."
+ticker: DRS
+sector: defense-gov
+industry: defense-gov
+market_cap: 8987796775.0
+mcap_band: mid
+pillar: defense-gov
+commercialization: pre-revenue
+entity_check: ok
+is_mirage: false
+latest_catalyst_date: "2026-11-09T09:12:56.831822+00:00"
+tags: - "#sector/defense-gov"
+- "#industry/defense-gov"
+- "#pillar/defense-gov"
+- "#mcap/mid"
+- "#commercialization/pre-revenue"
+- "#entity-check/ok"
+created: 2026-11-19
+generated_by: build_obsidian_packet.py
+---
 # DRS
 
-## After-Hours Research
-- 2026-11-10 Leonardo DRS awarded three-year NAVAIR contract for DAIRCM Aircraft Survivability System | positive | NAVAIR contract for lightweight aircraft survivability system for military crews in contested environments | https://www.globenewswire.com/news-release/2026/11/10/3399512/0/en/leonardo-drs-awarded-navair-contract-to-produce-daircm-aircraft-survivability-system.html
-
-## Catalyst Log
-- [2026-11-16] Leonardo DRS Awarded JIATF-401 IDIQ Contract for Tactical Expeditionary Sensing | defense (positive low) [`6FB8D183`]
+## Entity
+- **Ticker:** DRS
+- **Company:** Leonardo DRS, Inc.
