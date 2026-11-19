@@ -1,8 +1,8 @@
 ---
 generated: 2026-11-19
-total: 9
+total: 5
 golden_tier: 3
-mirage_short: 6
+mirage_short: 2
 ---
 
 ---
@@ -118,97 +118,5 @@ short_interest_float: 22.783
 days_to_cover: 5.68
 latest_catalyst: 2026-11-07T01:10:18.477924+00:00
 path: QBTS
----
-
----
-ticker: ADIL
-title: Adial Pharmaceuticals, Inc.
-sector: Healthcare
-industry: Biotechnology
-mcap: 13260745
-mcap_band: nano
-pillar: semi-subsystems
-score_a: 0
-score_b: 0
-score_c: 30
-best_track_score: 0
-tier: BELOW_55
-brief_count: 1
-watchlist_status: WATCH
-entity_check: ok
-is_mirage: true
-short_interest_float: 1.683
-days_to_cover: 4.69
-latest_catalyst: 2026-11-09T13:04:52Z
-path: ADIL
----
-
----
-ticker: HODO
-title: House of Doge Inc.
-sector: Technology
-industry: Software - Application
-mcap: 3575035
-mcap_band: nano
-pillar: null
-score_a: 0
-score_b: 0
-score_c: 30
-best_track_score: 0
-tier: BELOW_55
-brief_count: 0
-watchlist_status: WATCH
-entity_check: ok
-is_mirage: true
-short_interest_float: null
-days_to_cover: null
-latest_catalyst: 2026-11-07T01:04:28Z
-path: HODO
----
-
----
-ticker: PBK
-title: PowerBank Corporation Common Stock
-sector: Utilities
-industry: Renewable Utilities
-mcap: 7654361
-mcap_band: nano
-pillar: null
-score_a: 0
-score_b: 0
-score_c: 30
-best_track_score: 0
-tier: BELOW_55
-brief_count: 0
-watchlist_status: WATCH
-entity_check: ok
-is_mirage: true
-short_interest_float: null
-days_to_cover: null
-latest_catalyst: 2026-11-07T10:10:29Z
-path: PBK
----
-
----
-ticker: QUCY
-title: Quantum Cyber N.V.
-sector: Healthcare
-industry: Medical - Diagnostics & Research
-mcap: 13296076
-mcap_band: nano
-pillar: quantum
-score_a: 0
-score_b: 0
-score_c: 10
-best_track_score: 0
-tier: HIGH
-brief_count: 2
-watchlist_status: WATCH
-entity_check: ok
-is_mirage: true
-short_interest_float: 3.24
-days_to_cover: 1.56
-latest_catalyst: null
-path: QUCY
 ---
 
