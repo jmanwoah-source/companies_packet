@@ -1,6 +1,6 @@
 ---
 generated: 2026-11-19
-total: 16
+total: 17
 filter_score_floor: 55
 filter_mcap_floor: 500000000
 ---
@@ -354,6 +354,33 @@ short_interest_float: null
 days_to_cover: null
 latest_catalyst: 2026-11-06T20:27:25Z
 path: LRCX
+---
+
+---
+ticker: QBTS
+title: QBTS
+sector: physical-ai-robotics
+industry: unknown
+mcap: 3041720299.0
+mcap_band: mid
+pillar: physical-ai-robotics
+score_a: null
+score_b: null
+score_c: null
+best_track_score: null
+max_score: 55
+score_tier: watchlist
+score_source: vetted
+conviction_score: 55
+tier: null
+brief_count: 3
+watchlist_status: null
+entity_check: ok
+is_mirage: false
+short_interest_float: null
+days_to_cover: null
+latest_catalyst: 2026-11-07T01:10:18.477924+00:00
+path: QBTS
 ---
 
 ---
