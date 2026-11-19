@@ -11,10 +11,12 @@ score_a: 76
 score_b: 53
 score_c: 85
 best_track_score: 76
+max_score: 85
+score_tier: elite
+score_source: tier_list_state
 tier: MODERATE
 brief_count: 1
 brief_count_nonzero: 1
-total_briefs: 1
 watchlist_status: DORMANT
 entity_check: ok
 is_mirage: false
@@ -23,12 +25,12 @@ tags: - "#sector/technology"
 - "#industry/information-technology-services"
 - "#mcap/large"
 - "#tier/moderate"
+- "#score-band/elite"
 - "#watchlist/dormant"
 - "#entity-check/ok"
 - "#score-a/elite"
 - "#score-b/strong"
 - "#score-c/elite"
-created: 2026-11-19
 generated_by: build_clean_packet.py
 ---
 
@@ -49,6 +51,7 @@ generated_by: build_clean_packet.py
 - **Track B (Technical):** 53/100
 - **Track C (Valuation):** 85/100
 - **Best Track Score:** 76/100
+- **Max Score:** 85/100
 
 ## Signal Briefs (1 total)
 

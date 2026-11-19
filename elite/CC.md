@@ -11,10 +11,12 @@ score_a: 76
 score_b: 53
 score_c: 65
 best_track_score: 76
+max_score: 76
+score_tier: elite
+score_source: tier_list_state
 tier: BELOW_55
 brief_count: 6
 brief_count_nonzero: 6
-total_briefs: 6
 watchlist_status: WATCH
 entity_check: ok
 is_mirage: false
@@ -22,18 +24,17 @@ short_interest_float: 9.721
 short_interest_pct_outstanding: 9.661
 days_to_cover: 6.62
 short_interest_delta_pct: -5.54
-short_interest_retrieved: "2026-11-18T23:14:22+00:00"
 latest_catalyst_date: "2026-11-06T20:41:03.688004+00:00"
 tags: - "#sector/basic-materials"
 - "#industry/chemicals---specialty"
 - "#mcap/small"
 - "#tier/below-55"
+- "#score-band/elite"
 - "#watchlist/watch"
 - "#entity-check/ok"
 - "#score-a/elite"
 - "#score-b/strong"
 - "#score-c/strong"
-created: 2026-11-19
 generated_by: build_clean_packet.py
 ---
 
@@ -54,6 +55,7 @@ generated_by: build_clean_packet.py
 - **Track B (Technical):** 53/100
 - **Track C (Valuation):** 65/100
 - **Best Track Score:** 76/100
+- **Max Score:** 76/100
 
 ## Short Interest
 - **Short % Float:** 9.7%

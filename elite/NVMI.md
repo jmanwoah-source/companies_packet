@@ -11,9 +11,11 @@ score_a: 76
 score_b: 43
 score_c: 85
 best_track_score: 76
+max_score: 85
+score_tier: elite
+score_source: tier_list_state
 tier: BELOW_55
 brief_count: 0
-total_briefs: 0
 watchlist_status: WATCH
 entity_check: ok
 is_mirage: false
@@ -22,12 +24,12 @@ tags: - "#sector/technology"
 - "#industry/semiconductors"
 - "#mcap/mid"
 - "#tier/below-55"
+- "#score-band/elite"
 - "#watchlist/watch"
 - "#entity-check/ok"
 - "#score-a/elite"
 - "#score-b/below-threshold"
 - "#score-c/elite"
-created: 2026-11-19
 generated_by: build_clean_packet.py
 ---
 
@@ -48,6 +50,7 @@ generated_by: build_clean_packet.py
 - **Track B (Technical):** 43/100
 - **Track C (Valuation):** 85/100
 - **Best Track Score:** 76/100
+- **Max Score:** 85/100
 
 ### Catalyst Log
 - [2026-11-09T13:10:16.630978+00:00] NVMI Q3 2026 deep dive: memory and packaging momentum propel record results | semiconductors [negative_intelligence]
