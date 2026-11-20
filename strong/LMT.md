@@ -44,6 +44,7 @@ generated_by: build_clean_packet.py
 ### Catalyst Log
 - [2026-11-07T10:40:20Z] Lockheed Martin's (NYSE: LMT) Record $292 Billion Backlog And Valuation Discount Make A Compelling Investment Case - Foreign Policy Journal | semiconductors [gnews_wire]
 - [2026-11-09T11:06:17.425249+00:00] US Military Awards $20B Unified Counter-Drone Enterprise Contract | defense [macro_government]
+- [2026-11-20T11:02:38Z] What Does a Record Missile-Defense Award Mean for Lockheed (NYSE:LMT)? - Kalkine Media | semiconductors [gnews_wire]
 
 ## Related Companies
 _No related companies linked yet._

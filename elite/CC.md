@@ -76,6 +76,7 @@ generated_by: build_clean_packet.py
 - [2026-11-09T09:12:56.831874+00:00] Citi: Rate Cuts Possible in Second Half of 2027 if Semiconductor Export Slowdown Persists | semiconductors [negative_intelligence]
 - [2026-11-09T09:12:56.831893+00:00] Chip Stocks Semiconductor Industry News | Investor's Business Daily | semiconductors [negative_intelligence]
 - [2026-11-19T05:04:58Z] EDGAR 8-K: The Chemours Company (CC) — Item 5.02, 9.01 | semiconductors [fmp_8k]
+- [2026-11-20T07:02:48Z] EDGAR 8-K: Accelevation Holdings Corp. (ACCV) — Item 5.02, 9.01 | semiconductors [fmp_8k]
 
 ## Related Companies
 _No related companies linked yet._
