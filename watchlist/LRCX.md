@@ -3,9 +3,9 @@ title: LRCX
 ticker: LRCX
 sector: semi-subsystems
 industry: unknown
-market_cap: 272056952090.0
+market_cap: 228935569170.0
 mcap_band: mega
-mcap_str: "$272,056,952,090"
+mcap_str: "$228,935,569,170"
 pillar: semi-subsystems
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** LRCX
 - **Sector:** semi-subsystems
 - **Industry:** unknown
-- **Market Cap:** $272,056,952,090 (mega)
+- **Market Cap:** $228,935,569,170 (mega)
 - **Pillar:** semi-subsystems
 
 ## Scores

@@ -3,9 +3,9 @@ title: IONQ
 ticker: IONQ
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 10515337845.0
-mcap_band: large
-mcap_str: "$10,515,337,845"
+market_cap: 8960633360.0
+mcap_band: mid
+mcap_str: "$8,960,633,360"
 pillar: physical-ai-robotics
 max_score: 70
 score_tier: strong
@@ -18,7 +18,7 @@ is_mirage: false
 latest_catalyst_date: "2026-11-06T20:41:03.688114+00:00"
 tags: - "#sector/physical-ai-robotics"
 - "#pillar/physical-ai-robotics"
-- "#mcap/large"
+- "#mcap/mid"
 - "#score-band/strong"
 - "#entity-check/ok"
 generated_by: build_clean_packet.py
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** IONQ
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $10,515,337,845 (large)
+- **Market Cap:** $8,960,633,360 (mid)
 - **Pillar:** physical-ai-robotics
 
 ## Scores

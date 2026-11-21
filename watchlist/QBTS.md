@@ -3,9 +3,9 @@ title: QBTS
 ticker: QBTS
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 2933566061.0
+market_cap: 2457302568.0
 mcap_band: mid
-mcap_str: "$2,933,566,061"
+mcap_str: "$2,457,302,568"
 pillar: physical-ai-robotics
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** QBTS
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $2,933,566,061 (mid)
+- **Market Cap:** $2,457,302,568 (mid)
 - **Pillar:** physical-ai-robotics
 
 ## Scores
@@ -47,6 +47,8 @@ generated_by: build_clean_packet.py
 - [2026-11-09T04:51:47.372615+00:00] Quantum Sensing and Enabling Tech ANTX — Contract Opportunity | quantum [quantum_research]
 - [2026-11-09T09:12:56.831959+00:00] 7 Best Vendors for Quantum Error Correction - TMCnet | quantum [quantum_research]
 - [2026-11-09T09:12:56.831973+00:00] What are the top quantum startups by revenue today? | quantum [quantum_research]
+- [2026-11-21T07:04:31.642841+00:00] How Quantum Error Correction Protects Fragile Information | quantum [quantum_research]
+- [2026-11-21T07:04:31.642848+00:00] Quantum Sensing Market Report 2026 | quantum [quantum_research]
 
 ## Related Companies
 _No related companies linked yet._

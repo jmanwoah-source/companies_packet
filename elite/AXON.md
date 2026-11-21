@@ -3,9 +3,9 @@ title: AXON
 ticker: AXON
 sector: defense-gov
 industry: unknown
-market_cap: 26025076593.0
+market_cap: 23708316278.0
 mcap_band: large
-mcap_str: "$26,025,076,593"
+mcap_str: "$23,708,316,278"
 pillar: defense-gov
 max_score: 80
 score_tier: elite
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** AXON
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $26,025,076,593 (large)
+- **Market Cap:** $23,708,316,278 (large)
 - **Pillar:** defense-gov
 
 ## Scores

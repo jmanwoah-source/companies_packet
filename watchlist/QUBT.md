@@ -3,9 +3,9 @@ title: QUBT
 ticker: QUBT
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 1164999566.0
+market_cap: 998499735.0
 mcap_band: small
-mcap_str: "$1,164,999,566"
+mcap_str: "$998,499,735"
 pillar: physical-ai-robotics
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** QUBT
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $1,164,999,566 (small)
+- **Market Cap:** $998,499,735 (small)
 - **Pillar:** physical-ai-robotics
 
 ## Scores
@@ -46,6 +46,9 @@ generated_by: build_clean_packet.py
 - [2026-11-09T04:51:47.372615+00:00] Quantum Sensing and Enabling Tech ANTX — Contract Opportunity | quantum [quantum_research]
 - [2026-11-09T09:12:56.831959+00:00] 7 Best Vendors for Quantum Error Correction - TMCnet | quantum [quantum_research]
 - [2026-11-09T09:12:56.831973+00:00] What are the top quantum startups by revenue today? | quantum [quantum_research]
+- [2026-11-21T07:04:31.642841+00:00] How Quantum Error Correction Protects Fragile Information | quantum [quantum_research]
+- [2026-11-21T07:04:31.642848+00:00] Quantum Sensing Market Report 2026 | quantum [quantum_research]
+- [2026-11-21T07:04:31.642858+00:00] FAU Wins $3M Grant for Quantum Sensing and AI | quantum [quantum_research]
 
 ## Related Companies
 _No related companies linked yet._

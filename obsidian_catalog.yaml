@@ -91,7 +91,7 @@ ticker: AXON
 title: AXON
 sector: defense-gov
 industry: unknown
-mcap: 26025076593.0
+mcap: 23708316278.0
 mcap_band: large
 pillar: defense-gov
 score_a: null
@@ -118,7 +118,7 @@ ticker: INFQ
 title: INFQ
 sector: physical-ai-robotics
 industry: unknown
-mcap: 1745390298.0
+mcap: 1429880604.0
 mcap_band: small
 pillar: physical-ai-robotics
 score_a: null
@@ -145,8 +145,8 @@ ticker: IONQ
 title: IONQ
 sector: physical-ai-robotics
 industry: unknown
-mcap: 10515337845.0
-mcap_band: large
+mcap: 8960633360.0
+mcap_band: mid
 pillar: physical-ai-robotics
 score_a: null
 score_b: null
@@ -172,7 +172,7 @@ ticker: KTOS
 title: KTOS
 sector: defense-gov
 industry: unknown
-mcap: 5781879431.0
+mcap: 5062674630.0
 mcap_band: mid
 pillar: defense-gov
 score_a: null
@@ -199,7 +199,7 @@ ticker: FET
 title: FET
 sector: unknown
 industry: unknown
-mcap: 842508436.0
+mcap: 780334863.0
 mcap_band: small
 pillar: null
 score_a: null
@@ -226,7 +226,7 @@ ticker: LMT
 title: LMT
 sector: defense-gov
 industry: unknown
-mcap: 132587423174.0
+mcap: 130633123920.0
 mcap_band: large
 pillar: defense-gov
 score_a: null
@@ -253,7 +253,7 @@ ticker: AVAV
 title: AVAV
 sector: defense-gov
 industry: unknown
-mcap: 5154743601.0
+mcap: 4410728553.0
 mcap_band: mid
 pillar: defense-gov
 score_a: null
@@ -280,7 +280,7 @@ ticker: ONDS
 title: ONDS
 sector: defense-gov
 industry: unknown
-mcap: 2608715997.0
+mcap: 2223821920.0
 mcap_band: mid
 pillar: defense-gov
 score_a: null
@@ -307,7 +307,7 @@ ticker: GD
 title: GD
 sector: defense-gov
 industry: unknown
-mcap: 94367652302.0
+mcap: 92281496000.0
 mcap_band: large
 pillar: defense-gov
 score_a: null
@@ -334,7 +334,7 @@ ticker: LRCX
 title: LRCX
 sector: semi-subsystems
 industry: unknown
-mcap: 272056952090.0
+mcap: 228935569170.0
 mcap_band: mega
 pillar: semi-subsystems
 score_a: null
@@ -361,7 +361,7 @@ ticker: QBTS
 title: QBTS
 sector: physical-ai-robotics
 industry: unknown
-mcap: 2933566061.0
+mcap: 2457302568.0
 mcap_band: mid
 pillar: physical-ai-robotics
 score_a: null
@@ -388,7 +388,7 @@ ticker: QUBT
 title: QUBT
 sector: physical-ai-robotics
 industry: unknown
-mcap: 1164999566.0
+mcap: 998499735.0
 mcap_band: small
 pillar: physical-ai-robotics
 score_a: null
@@ -415,7 +415,7 @@ ticker: RTX
 title: RTX
 sector: defense-gov
 industry: unknown
-mcap: 267013692800.0
+mcap: 256623004800.0
 mcap_band: mega
 pillar: defense-gov
 score_a: null

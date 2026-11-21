@@ -3,9 +3,9 @@ title: GD
 ticker: GD
 sector: defense-gov
 industry: unknown
-market_cap: 94367652302.0
+market_cap: 92281496000.0
 mcap_band: large
-mcap_str: "$94,367,652,302"
+mcap_str: "$92,281,496,000"
 pillar: defense-gov
 max_score: 55
 score_tier: watchlist
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** GD
 - **Sector:** defense-gov
 - **Industry:** unknown
-- **Market Cap:** $94,367,652,302 (large)
+- **Market Cap:** $92,281,496,000 (large)
 - **Pillar:** defense-gov
 
 ## Scores

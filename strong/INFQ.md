@@ -3,9 +3,9 @@ title: INFQ
 ticker: INFQ
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 1745390298.0
+market_cap: 1429880604.0
 mcap_band: small
-mcap_str: "$1,745,390,298"
+mcap_str: "$1,429,880,604"
 pillar: physical-ai-robotics
 max_score: 70
 score_tier: strong
@@ -31,7 +31,7 @@ generated_by: build_clean_packet.py
 - **Company:** INFQ
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $1,745,390,298 (small)
+- **Market Cap:** $1,429,880,604 (small)
 - **Pillar:** physical-ai-robotics
 
 ## Scores
