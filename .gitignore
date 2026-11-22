@@ -1,19 +1,40 @@
-# State and logs
+# === Database and State ===
 *.json
 *.db
+*.sqlite
 *.lock
+*.state.json
+*.state.yaml
+*.status.json
+
+# === Logs and Temp ===
 *.log
 *.pid
-
-# Cache
-__pycache__/
-*.pyc
-
-# Temp files
 *.tmp
 *.swp
 *~
 
-# System files
+# === Python Cache ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === Obsidian Internal ===
+.obsidian/
+.temp/
+
+# === Deprecated Noise Structures ===
+drifts/
+companies/
+log.md
+substitution_short_list.md
+INDEX.md
+obsidian_vault/
+
+# === Build/Engine Artifacts ===
+*.engine.json
+*.cache
+
+# === System Files ===
 .DS_Store
 Thumbs.db
