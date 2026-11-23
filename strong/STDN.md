@@ -42,6 +42,7 @@ generated_by: build_clean_packet.py
 - [2026-11-09T09:12:56.831858+00:00] News - Gateway for Accelerated Innovation in Nuclear | energy [macro_government]
 - [2026-11-19T03:44:51.056693+00:00] DOE selects companies for $94M in light water SMR deployment awards | energy [macro_government]
 - [2026-11-21T19:03:09.167818+00:00] Direct-to-chip water cooling is becoming the standard for AI data centers in the Gulf's heat | ai_infrastructure [conference_deep_dive]
+- [2026-11-23T17:02:45Z] EDGAR 8-K: Standard Nuclear Inc. (STDN) — Item 8.01, 9.01 | semiconductors [fmp_8k]
 
 ## Related Companies
 _No related companies linked yet._
