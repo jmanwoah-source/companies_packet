@@ -44,6 +44,7 @@ generated_by: build_clean_packet.py
 ### Catalyst Log
 - [2026-11-09T04:51:47.372596+00:00] Marvell Technology Group Ltd — Advanced Packaging and AI Networking IP Strategy | semiconductors [patent_supply_chain]
 - [2026-11-21T07:04:31.642752+00:00] Humanoid Robotics Technology - Market coverage | edge_robotics [edge_robotics]
+- [2026-11-23T19:05:56.605331+00:00] Marvell Technology (MRVL) Falls -50% in 30 Days After Lumentum Acquisition News | semiconductors [negative_intelligence]
 
 ## Related Companies
 _No related companies linked yet._
