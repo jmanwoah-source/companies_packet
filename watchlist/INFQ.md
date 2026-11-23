@@ -3,23 +3,23 @@ title: INFQ
 ticker: INFQ
 sector: physical-ai-robotics
 industry: unknown
-market_cap: 1429880604.0
+market_cap: 1429880692.0
 mcap_band: small
-mcap_str: "$1,429,880,604"
+mcap_str: "$1,429,880,692"
 pillar: physical-ai-robotics
-max_score: 70
-score_tier: strong
+max_score: 55
+score_tier: watchlist
 score_source: vetted
-conviction_score: 70
-brief_count: 4
-brief_count_nonzero: 4
+conviction_score: 55
+brief_count: 1
+brief_count_nonzero: 1
 entity_check: ok
 is_mirage: false
 latest_catalyst_date: "2026-11-06T20:41:03.688128+00:00"
 tags: - "#sector/physical-ai-robotics"
 - "#pillar/physical-ai-robotics"
 - "#mcap/small"
-- "#score-band/strong"
+- "#score-band/watchlist"
 - "#entity-check/ok"
 generated_by: build_clean_packet.py
 ---
@@ -31,15 +31,15 @@ generated_by: build_clean_packet.py
 - **Company:** INFQ
 - **Sector:** physical-ai-robotics
 - **Industry:** unknown
-- **Market Cap:** $1,429,880,604 (small)
+- **Market Cap:** $1,429,880,692 (small)
 - **Pillar:** physical-ai-robotics
 
 ## Scores
 - **Best Track Score:** None/100
-- **Max Score:** 70/100
-- **Conviction Score:** 70/100
+- **Max Score:** 55/100
+- **Conviction Score:** 55/100
 
-## Signal Briefs (4 total)
+## Signal Briefs (1 total)
 
 ### Catalyst Log
 - [2026-11-06T20:41:03.688128+00:00] Infleqtion 30 Logical Qubits Rely on Error Detection | quantum [quantum_research]

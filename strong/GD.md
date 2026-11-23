@@ -7,10 +7,10 @@ market_cap: 92281496000.0
 mcap_band: large
 mcap_str: "$92,281,496,000"
 pillar: defense-gov
-max_score: 55
-score_tier: watchlist
+max_score: 65
+score_tier: strong
 score_source: vetted
-conviction_score: 55
+conviction_score: 65
 brief_count: 1
 brief_count_nonzero: 1
 entity_check: ok
@@ -19,7 +19,7 @@ latest_catalyst_date: "2026-11-09T11:06:17.425249+00:00"
 tags: - "#sector/defense-gov"
 - "#pillar/defense-gov"
 - "#mcap/large"
-- "#score-band/watchlist"
+- "#score-band/strong"
 - "#entity-check/ok"
 generated_by: build_clean_packet.py
 ---
@@ -36,8 +36,8 @@ generated_by: build_clean_packet.py
 
 ## Scores
 - **Best Track Score:** None/100
-- **Max Score:** 55/100
-- **Conviction Score:** 55/100
+- **Max Score:** 65/100
+- **Conviction Score:** 65/100
 
 ## Signal Briefs (1 total)
 

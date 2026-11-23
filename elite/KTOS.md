@@ -7,19 +7,19 @@ market_cap: 5062674630.0
 mcap_band: mid
 mcap_str: "$5,062,674,630"
 pillar: defense-gov
-max_score: 70
-score_tier: strong
+max_score: 85
+score_tier: elite
 score_source: vetted
-conviction_score: 70
-brief_count: 2
-brief_count_nonzero: 2
+conviction_score: 85
+brief_count: 4
+brief_count_nonzero: 4
 entity_check: ok
 is_mirage: false
 latest_catalyst_date: "2026-11-09T07:06:30.005376+00:00"
 tags: - "#sector/defense-gov"
 - "#pillar/defense-gov"
 - "#mcap/mid"
-- "#score-band/strong"
+- "#score-band/elite"
 - "#entity-check/ok"
 generated_by: build_clean_packet.py
 ---
@@ -36,10 +36,10 @@ generated_by: build_clean_packet.py
 
 ## Scores
 - **Best Track Score:** None/100
-- **Max Score:** 70/100
-- **Conviction Score:** 70/100
+- **Max Score:** 85/100
+- **Conviction Score:** 85/100
 
-## Signal Briefs (2 total)
+## Signal Briefs (4 total)
 
 ### Catalyst Log
 - [2026-11-09T07:06:30.005376+00:00] GE Aerospace and Kratos' GEK800 Engine Receives U.S. Military Type Designation | defense [edge_robotics]

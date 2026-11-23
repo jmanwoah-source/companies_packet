@@ -7,19 +7,19 @@ market_cap: 2457302568.0
 mcap_band: mid
 mcap_str: "$2,457,302,568"
 pillar: physical-ai-robotics
-max_score: 55
-score_tier: watchlist
+max_score: 60
+score_tier: strong
 score_source: vetted
-conviction_score: 55
-brief_count: 3
-brief_count_nonzero: 3
+conviction_score: 60
+brief_count: 4
+brief_count_nonzero: 4
 entity_check: ok
 is_mirage: false
 latest_catalyst_date: "2026-11-07T01:10:18.477924+00:00"
 tags: - "#sector/physical-ai-robotics"
 - "#pillar/physical-ai-robotics"
 - "#mcap/mid"
-- "#score-band/watchlist"
+- "#score-band/strong"
 - "#entity-check/ok"
 generated_by: build_clean_packet.py
 ---
@@ -36,10 +36,10 @@ generated_by: build_clean_packet.py
 
 ## Scores
 - **Best Track Score:** None/100
-- **Max Score:** 55/100
-- **Conviction Score:** 55/100
+- **Max Score:** 60/100
+- **Conviction Score:** 60/100
 
-## Signal Briefs (3 total)
+## Signal Briefs (4 total)
 
 ### Catalyst Log
 - [2026-11-07T01:10:18.477924+00:00] BQP Wins First Federal Contract to Advance Quantum-Assisted AI for Space Domain Awareness | quantum [quantum_research]

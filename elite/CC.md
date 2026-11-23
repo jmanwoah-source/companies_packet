@@ -1,69 +1,41 @@
 ---
-title: The Chemours Company
+title: CC
 ticker: CC
-sector: Basic Materials
-industry: Chemicals - Specialty
-price: 12.09
-market_cap: 1819784394
+sector: unknown
+industry: unknown
+market_cap: 1637655435.0
 mcap_band: small
-mcap_str: "$1,819,784,394"
-score_a: 76
-score_b: 53
-score_c: 65
-best_track_score: 76
-max_score: 76
+mcap_str: "$1,637,655,435"
+max_score: 75
 score_tier: elite
-score_source: tier_list_state
-tier: BELOW_55
-brief_count: 6
-brief_count_nonzero: 6
-watchlist_status: WATCH
+score_source: vetted
+conviction_score: 75
+brief_count: 2
+brief_count_nonzero: 2
 entity_check: ok
 is_mirage: false
-short_interest_float: 9.721
-short_interest_pct_outstanding: 9.661
-days_to_cover: 6.62
-short_interest_delta_pct: -5.54
 latest_catalyst_date: "2026-11-06T20:41:03.688004+00:00"
-tags: - "#sector/basic-materials"
-- "#industry/chemicals---specialty"
-- "#mcap/small"
-- "#tier/below-55"
+tags: - "#mcap/small"
 - "#score-band/elite"
-- "#watchlist/watch"
 - "#entity-check/ok"
-- "#score-a/elite"
-- "#score-b/strong"
-- "#score-c/strong"
 generated_by: build_clean_packet.py
 ---
 
-# CC — The Chemours Company
+# CC — CC
 
 ## Entity
 - **Ticker:** CC
-- **Company:** The Chemours Company
-- **Sector:** Basic Materials
-- **Industry:** Chemicals - Specialty
-- **Market Cap:** $1,819,784,394 (small)
-- **Price:** $12.09
-- **Tier:** BELOW_55
-- **Watchlist Status:** WATCH
+- **Company:** CC
+- **Sector:** unknown
+- **Industry:** unknown
+- **Market Cap:** $1,637,655,435 (small)
 
 ## Scores
-- **Track A (Fundamentals + Catalyst):** 76/100
-- **Track B (Technical):** 53/100
-- **Track C (Valuation):** 65/100
-- **Best Track Score:** 76/100
-- **Max Score:** 76/100
+- **Best Track Score:** None/100
+- **Max Score:** 75/100
+- **Conviction Score:** 75/100
 
-## Short Interest
-- **Short % Float:** 9.7%
-- **Short % Outstanding:** 9.7%
-- **Days to Cover:** 6.6
-- **Short Interest Delta:** -5.5%
-
-## Signal Briefs (6 total)
+## Signal Briefs (2 total)
 
 ### Catalyst Log
 - [2026-11-06T20:41:03.688004+00:00] Chemours launches AI cooling; GPU up to 19°C cooler in tests | ai_infrastructure [conference_deep_dive]
@@ -77,6 +49,7 @@ generated_by: build_clean_packet.py
 - [2026-11-09T09:12:56.831893+00:00] Chip Stocks Semiconductor Industry News | Investor's Business Daily | semiconductors [negative_intelligence]
 - [2026-11-19T05:04:58Z] EDGAR 8-K: The Chemours Company (CC) — Item 5.02, 9.01 | semiconductors [fmp_8k]
 - [2026-11-20T07:02:48Z] EDGAR 8-K: Accelevation Holdings Corp. (ACCV) — Item 5.02, 9.01 | semiconductors [fmp_8k]
+- [2026-11-22T11:05:51.873951+00:00] Taiwan semiconductor firms expand work on compound materials | materials_science [patent_supply_chain]
 
 ## Related Companies
 _No related companies linked yet._

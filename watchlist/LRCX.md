@@ -44,6 +44,7 @@ generated_by: build_clean_packet.py
 ### Catalyst Log
 - [2026-11-06T20:27:25Z] US Open: Nasdaq rebounds after the largest decline since 19-month 🔼 Lam Research surges 12% - XTB.com | semiconductors [gnews_wire]
 - [2026-11-09T11:06:17.425257+00:00] Samsung investigates alleged chipmaking recipe leak to Lam Research Korea | semiconductors [negative_intelligence]
+- [2026-11-22T13:05:52.573167+00:00] Lam Research in Active Discussions with Tata Group for Upcoming Fab Supply | semiconductors [negative_intelligence]
 
 ## Related Companies
 _No related companies linked yet._
