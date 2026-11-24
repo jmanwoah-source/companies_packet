@@ -1,0 +1,30 @@
+{
+  "drift_id": "DRIFT-020",
+  "slug": "liquid-cooling-default-ai-rack",
+  "m": 9,
+  "t": 8,
+  "c": 8,
+  "certainty_grade": "demonstrated",
+  "timing_years": "2026-2027",
+  "displacement_sub_class": "thermal",
+  "mcap_at_stake_b": 150,
+  "note": "Liquid cooling becomes mandatory for AI racks with 1000W+ GPUs. Nvidia Vera Rubin already requires liquid cooling.",
+  "tickers": {
+    "VRT": {
+      "role": "winner",
+      "keywords": ["data center thermal management", "liquid cooling", "data center"]
+    },
+    "NVT": {
+      "role": "winner",
+      "keywords": ["thermal management", "cooling", "thermal protection"]
+    },
+    "SE": {
+      "role": "winner",
+      "keywords": ["data center", "power", "HVAC", "building automation"]
+    },
+    "ETN": {
+      "role": "winner",
+      "keywords": ["electrical equipment", "power management", "power and control"]
+    }
+  }
+}
