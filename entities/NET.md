@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 3f38d07a02da5d486b94f09d226bc227f9fd683885148fe4d7063ce5149b195d
+wiki_state_hash: a191bebf529f092bbaaf224f19820dcd4a143a9a6f85689d431aa22815ef191e
 ---
 
 # Cloudflare, Inc. (NET)
@@ -54,3 +54,13 @@ wiki_state_hash: 3f38d07a02da5d486b94f09d226bc227f9fd683885148fe4d7063ce5149b195
 
 - Earnings: None scheduled in window
 - Constituent ETFs: QTUM (1.95%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | CAUTION / 45% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | Fortress balance sheet (AltmanZ 10.59) provides downside cushion against distress thesis. Weak fundamentals (PiotroskiF 3) and persistent losses limit bearish conviction. |
+| Tribunal Summary | Cloudflare has a fortress balance sheet (AltmanZ 10.59) and strong market position, creating a floor against distress-driven declines. However, weak fundamentals (PiotroskiF 3) and significant net losses ($102M) support the PUT thesis. The high cash balance reduces the urgency of a short squeeze, but the lack of profitability makes it vulnerable to multiple compression if growth slows further. |

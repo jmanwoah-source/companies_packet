@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: b5f148f6dae8d68b27432a064bf2fffd1ddef297d8d0fdbae1bc13544a8be644
+wiki_state_hash: 6edc4fd2ab3042555d9a63aebaa458a3a5f1896165a25e0180071a86fd4b9507
 ---
 
 # Amentum Holdings, Inc. (AMTM)
@@ -55,3 +55,14 @@ wiki_state_hash: b5f148f6dae8d68b27432a064bf2fffd1ddef297d8d0fdbae1bc13544a8be64
 
 - Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: SHLD (0.82%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | CAUTION / 45% / -5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Customer Concentration | 80.0% |
+| Primary Risk | 80% revenue concentration in US Gov with terminable-at-convenience clauses and fixed-price margin risk creates structural fragility. |
+| Tribunal Summary | High thesis risk due to 80% US Gov revenue concentration and terminable-at-convenience clauses. AltmanZ 2.08 is Grey Zone, not Fortress. Fixed-price contracts expose margins to inflation/cost overruns. MFI 71 suggests overbought entry risk. |

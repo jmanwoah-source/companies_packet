@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: e2bc98c616932c7571a85f409746c38b943ccce64e0d6b566287d383657508b2
+wiki_state_hash: 2570e28af5d3fc28d1f59d2d7b0d9d79310c0fa38d900f99118073219befef64
 ---
 
 # Super Micro Computer, Inc. (SMCI)
@@ -55,3 +55,13 @@ wiki_state_hash: e2bc98c616932c7571a85f409746c38b943ccce64e0d6b566287d383657508b
 
 - Earnings: None scheduled in window
 - Constituent ETFs: DTCR (2.14%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | CAUTION / 35% / -2.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | Fortress balance sheet (AltmanZ 3.45) provides downside cushion. High customer concentration creates binary risk; loss of key client could hurt, but strong cash protects against immediate distress. |
+| Tribunal Summary | Strong balance sheet (AltmanZ 3.45) contradicts distress thesis. While fundamentals are mixed (Piotroski 4), the lack of liquidity risk and fortress cash position creates a floor, making a short squeeze or rebound more plausible than a collapse. |

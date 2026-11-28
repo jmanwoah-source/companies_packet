@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: dd967627d48691a4842e48e07f8fcd1b79df70e85845553f157c33f03e7f7765
+wiki_state_hash: cd4350fdacf9789e38a16ab2377be2279a83f93893d84a7bbb481cbf96db1ff7
 ---
 
 # Forgent Power Solutions, Inc. (FPS)
@@ -55,3 +55,13 @@ wiki_state_hash: dd967627d48691a4842e48e07f8fcd1b79df70e85845553f157c33f03e7f776
 
 - Earnings: 2026-11-12 (days: -14, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.53%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-04T01:29Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 75% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | The combination of 31.88% YoY share count dilution and a -100% QoQ deferred revenue delta signals a severe liquidity or accounting anomaly that undermines the sustainability of the reported 89% revenue growth. |
+| Tribunal Summary | The long thesis relies on a narrative of AI-driven demand, but the financial signals reveal a company in distress. A 31.88% year-over-year increase in share count is a massive dilution event that erodes equity value, while the -100% quarter-over-quarter change in deferred revenue suggests a complete collapse in future revenue visibility or a significant accounting restatement. Although backlog grew 256%, the lack of evidence for inventory management combined with the extreme dilution and revenue recognition red flags creates a high probability of structural failure. The 'fortress' financial me |

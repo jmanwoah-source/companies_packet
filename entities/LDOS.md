@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 03467852e8a82898ffb43fe5d972dec6bb4ede5df406519a98885f6d5cc082d3
+wiki_state_hash: 4808616ba26117dc5f68ef9c543eb5427ea4171ee8c9e02859adf296764fbb6f
 ---
 
 # Leidos Holdings, Inc. (LDOS)
@@ -56,3 +56,14 @@ wiki_state_hash: 03467852e8a82898ffb43fe5d972dec6bb4ede5df406519a98885f6d5cc082d
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SHLD (2.68%), JEDI (1.34%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-03T05:47Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 45% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 49.0% |
+| Primary Risk | Structural dependence on a single customer (U.S. DoW/IC) representing ~49% of revenue creates acute exposure to budgetary volatility and the immediate operational disruption caused by the DHS shutdown. |
+| Tribunal Summary | Leidos is a high-beta proxy for U.S. defense discretionary spending, with nearly half of its revenue tied to the DoW and Intelligence Community. The 10-K explicitly flags the February 2026 DHS shutdown as a current operational headwind, signaling that political gridlock is already impacting cash flow and contract execution. While the company is shrinking its share count (negative dilution) and margins are stable, the 'fortress' status is compromised by the binary risk of federal budget cuts or continued appropriations delays. The shift toward multiple-award contracts and IDIQ vehicles is erodi |

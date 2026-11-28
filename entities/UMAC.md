@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 0646d173aaa8ca73450ff80af421ac24206c57fc0e72bd6da5fd8a9c54c7b9fc
+wiki_state_hash: 6662d35bbccd861e959b1ee1bc434ae4973ce19ca6cceb077f75937e832932e1
 ---
 
 # Unusual Machines, Inc. (UMAC)
@@ -54,3 +54,14 @@ wiki_state_hash: 0646d173aaa8ca73450ff80af421ac24206c57fc0e72bd6da5fd8a9c54c7b9f
 
 - Earnings: None scheduled in window
 - Constituent ETFs: JEDI (4.01%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | CAUTION / 65% / -5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| WIP Inventory Stall | Yes — 10-K Item 1A Risk Factors: 'We have substantial inventory and the lack of sufficient purchase orders may have a material adverse effect...' |
+| Primary Risk | 10-K Item 1A explicitly flags 'substantial inventory' risk and reliance on 'significant customers', creating direct bull-trap risks for a CALL setup. |
+| Tribunal Summary | CALL setup faces thesis-breaking risk due to explicit 10-K warnings regarding substantial inventory exposure and high customer concentration. Weak Piotroski score (1/9) further undermines the bullish thesis despite strong balance sheet. |

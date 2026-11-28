@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 02ccd31c8ab23537f48f7483f0a121cccc647742574ebd8cf9dd1be6db56f82b
+wiki_state_hash: 309b32140efa605c5e387d58dc47e53ecd8ee77b377ea578a8309e23aa6baba4
 ---
 
 # Adeia Inc. (ADEA)
@@ -66,3 +66,13 @@ wiki_state_hash: 02ccd31c8ab23537f48f7483f0a121cccc647742574ebd8cf9dd1be6db56f82
 | Other Asia | geographic_exposure/region | 0.40 | $1.9M | revenue-geographic-segments |
 | Media Platform | revenue_segment/product_line | 0.30 | $417.6M | revenue-product-segmentation |
 | Semiconductor | revenue_segment/product_line | 0.30 | $25.7M | revenue-product-segmentation |
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-03T20:41Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 65% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | The 18% revenue growth is entirely driven by non-recurring fees (up 166%) while recurring revenue grew only 3%, and the 29.5% QoQ collapse in deferred revenue signals a severe deterioration in future visibility and cash flow quality. |
+| Tribunal Summary | Adeia's top-line growth is a mirage created by one-time licensing deals, as evidenced by the 166% surge in non-recurring revenue masking a mere 3% increase in the core recurring base. The 29.5% quarter-over-quarter drop in deferred revenue is a critical red flag, indicating that the company is failing to secure future performance obligations and is burning through its backlog. With operating cash flow down 26% and a gross margin contraction of over 1,500 bps, the company is trading quality for volume. The reliance on a single new long-term agreement with Disney to drive growth highlights extre |

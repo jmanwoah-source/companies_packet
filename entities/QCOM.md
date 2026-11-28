@@ -23,7 +23,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 307200cf7582c24808e1fd83cd1246da95b66540749e6f72cdd79475b9be56dd
+wiki_state_hash: 4e103fcc4437c3fc60da2e5cb98d82ad1b8577f9893dea4a930e11ca0fba5793
 ---
 
 # QUALCOMM Incorporated (QCOM)
@@ -56,3 +56,13 @@ wiki_state_hash: 307200cf7582c24808e1fd83cd1246da95b66540749e6f72cdd79475b9be56d
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SMH (4.91%), ROBO (1.57%), QTUM (1.33%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | FAIL / 65% / -8.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | AltmanZ 5.40 and $11.1B OCF confirm fortress balance sheet. High cash/FCF creates strong floor against downside, acting as a bear trap for PUTs. |
+| Tribunal Summary | QCOM is a cash-generating monopoly with AltmanZ 5.40. The PUT thesis relies on distress, but the 10-K shows fortress liquidity ($7.7B cash) and massive operating cash flow ($11.1B). This is a classic bear trap: strong fundamentals prevent the collapse needed for the PUT to profit. |

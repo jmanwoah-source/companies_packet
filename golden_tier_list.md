@@ -1,6 +1,6 @@
 ---
 list_type: golden
-generated: "2026-11-28 01:14 EST"
+generated: "2026-11-28 02:20 EST"
 count: 6
 tags:
   - hub/tier_list
@@ -9,7 +9,7 @@ tags:
 
 # Golden Tier List — Top Call Dislocations
 
-**Generated:** 2026-11-28 01:14 EST · **Tickers:** 6
+**Generated:** 2026-11-28 02:20 EST · **Tickers:** 6
 
 | # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
 |---:|---|---|---:|---:|---|---|---|---|---|---|

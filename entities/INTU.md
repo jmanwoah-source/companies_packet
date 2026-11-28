@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 9963b3d0d20e4efa0429ae7e1ca43108c4f9cc77cbe7d323833d96903157ee25
+wiki_state_hash: 620c03d64ee63614fe5608cc5fec158ff10edeeaeca7182e213e6aba3403c489
 ---
 
 # Intuit Inc. (INTU)
@@ -55,3 +55,13 @@ wiki_state_hash: 9963b3d0d20e4efa0429ae7e1ca43108c4f9cc77cbe7d323833d96903157ee2
 
 - Earnings: 2026-11-19 (days: -7, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (2.86%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 9373 chars / No |
+| Primary Risk | No material flaws found. Strong balance sheet (Z=4.65), strong fundamentals (F=7), and oversold technicals support CALL thesis. |
+| Tribunal Summary | Seasonality risk (Nov-Apr) is priced in via 45D structure. No dilution or churn risks evident. Fortress balance sheet mitigates downside. |

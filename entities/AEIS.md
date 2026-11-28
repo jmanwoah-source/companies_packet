@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 97b9f642499907a7f72ebeaded9ba4574fb7b72146cb2a349b48b3a6e662c120
+wiki_state_hash: b64a939e6e7f54814077e73bac540fce5f63127339d540910d42e5c1165a0ebc
 ---
 
 # Advanced Energy Industries, Inc. (AEIS)
@@ -56,3 +56,14 @@ wiki_state_hash: 97b9f642499907a7f72ebeaded9ba4574fb7b72146cb2a349b48b3a6e662c12
 
 - Earnings: None scheduled in window
 - Constituent ETFs: GRID (0.04%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-07T02:09Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 35% / N/A |
+| 10-K Corpus / Degraded | 415 chars / No |
+| Customer Concentration | 10.0% |
+| Primary Risk | The primary structural risk is the absence of explicit customer concentration or backlog data in the provided corpus, which prevents verification of the 'qualification ramp' de-risking rule (Rule b), leaving the thesis exposed to unverified customer dependency despite strong financial fortress metri |
+| Tribunal Summary | The bear case relies on the opacity of the customer base, as the sliced 10-K contains no Item 8 notes on major customers or concentration, forcing a default assumption of low concentration that may mask hidden dependencies. While the engine signals show a robust financial fortress with an Altman Z of 4.88 and positive gross margin momentum (+38.83 bps QoQ), the lack of backlog or deferred revenue growth evidence (only +6.43% QoQ) in the text prevents confirming the S-curve ramp narrative. The 4.76% YoY share count growth is manageable and not flagged as a dilution kill, but without visible RPO |

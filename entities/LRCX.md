@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: cfea3f7d61051e2ce78300a1f9d15bac0846eff634618aabc2b9fba4ad5c5310
+wiki_state_hash: ae3eefc88a5d8d2fe05316dd3087b0672f46fdafeeb83afb0dbec7a40c4192f3
 ---
 
 # Lam Research Corporation (LRCX)
@@ -55,3 +55,13 @@ wiki_state_hash: cfea3f7d61051e2ce78300a1f9d15bac0846eff634618aabc2b9fba4ad5c531
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SMH (3.59%), QTUM (0.87%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-06T22:37Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 15% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | The primary structural risk is geographic concentration in China (34% of revenue) exposed to trade restrictions and tariffs, but this is mitigated by strong foundry demand, expanding gross margins (+180 bps), and a fortress balance sheet (Altman Z 15.45), making a 4-8 quarter thesis failure unlikely |
+| Tribunal Summary | The bear case centers on the 34% revenue exposure to China, where trade restrictions and tariffs are explicitly cited as negative impacts on revenue and operating margin. While gross margins expanded 180 bps to 50.5%, this was partially offset by tariff-related spend, suggesting that the margin expansion may not be sustainable if geopolitical tensions escalate further. The company is executing a massive capital return program ($3.85B in buybacks), which reduces cash reserves from $6.41B to $5.60B, potentially limiting flexibility if a sudden demand shock occurs. However, the negative dilution  |

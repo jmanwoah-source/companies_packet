@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 0eb74ba7578d5fbc09735a6e7465b30bfecb636de7325b87dcb7ad232d4f3df2
+wiki_state_hash: fdd9831fe7d21f2aa7ea1e0a9418f4e0889ab19303b781e17294670c92fb4673
 ---
 
 # Intuitive Surgical, Inc. (ISRG)
@@ -54,3 +54,13 @@ wiki_state_hash: 0eb74ba7578d5fbc09735a6e7465b30bfecb636de7325b87dcb7ad232d4f3df
 
 - Earnings: None scheduled in window
 - Constituent ETFs: ROBO (2.51%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | CAUTION / 15% / +0.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | No material thesis-breaking flaws found. Balance sheet is strong, fundamentals are robust, and no dilution or churn risks identified in the provided 10-K text. |
+| Tribunal Summary | Call setup supported by strong financials and oversold metrics. Risks are minimal; no dilution, churn, or margin compression evident in the 10-K. Seasonality and capital cycle risks are standard for the sector. |

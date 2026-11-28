@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 68920451f9084d2d56728044ec5af99341adc1cfff6c12d574248a7cdf221de3
+wiki_state_hash: 8f32f99fbac15761b6ad07974a66a9a658c3c00d3f6d983a8a4ad1d27d1c0978
 ---
 
 # IonQ, Inc. (IONQ)
@@ -55,3 +55,13 @@ wiki_state_hash: 68920451f9084d2d56728044ec5af99341adc1cfff6c12d574248a7cdf221de
 
 - Earnings: None scheduled in window
 - Constituent ETFs: QTUM (0.63%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-07T13:34Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 65% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | Severe gross margin erosion (-303 bps QoQ) and widening operating losses ($510M net loss) threaten the viability of the growth thesis, despite the psfv_carveout de-risking the dilution vector. |
+| Tribunal Summary | IonQ is burning cash at an accelerating rate, with net losses tripling from $157M in 2023 to $510M in 2025, while gross margins collapsed by over 300 basis points quarter-over-quarter. Although the 31.94% share count growth is technically accretive to fundamental velocity (PSFV 2.20) and backed by a 50% jump in deferred revenue, the underlying unit economics are deteriorating rapidly. The company admits to 'significant barriers' in producing scalable quantum computers and faces a 'high degree of risk' regarding the obsolescence of its technology. With an Altman Z-score of 2.64 (below the 4.5 s |

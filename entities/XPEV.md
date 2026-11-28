@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: d2c022ae50a78c655cca0fdad2f89e14756a7941a443d733292d0b4624a5fbab
+wiki_state_hash: 45fca192de5fc5f7043f0f7e39b4db298c13e2d7d7b6d33ce9436d1930837ffe
 ---
 
 # XPeng Inc. (XPEV)
@@ -55,3 +55,13 @@ wiki_state_hash: d2c022ae50a78c655cca0fdad2f89e14756a7941a443d733292d0b4624a5fba
 
 - Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.52%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Primary Risk | No fortress balance sheet or rebound evidence found. Metrics confirm fragility supporting PUT thesis. |
+| Tribunal Summary | AltmanZ 0.51 and PiotroskiF 2 confirm high distress risk. No 10-K corpus to suggest a bear trap. Clean PUT setup. |

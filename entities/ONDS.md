@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 6f6c33d8862295685655059da7550f55af6a969c26d26a4b010186de186ced5b
+wiki_state_hash: ffabba32d00cb600779966877dd3853b5a1922dbb5a3db09815e1de91cd0a644
 ---
 
 # Ondas Holdings Inc. (ONDS)
@@ -56,3 +56,13 @@ wiki_state_hash: 6f6c33d8862295685655059da7550f55af6a969c26d26a4b010186de186ced5
 
 - Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: JEDI (7.50%), ROBO (0.95%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-04T01:29Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 95% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | The company is executing a dilution spiral with 232.36% YoY share count growth to fund an accumulated deficit of $368.4M, while gross margins are eroding (QoQ -606 bps) and operating expenses (G&A +159%) are outpacing revenue growth, creating a structural inability to achieve sustainable profitabili |
+| Tribunal Summary | Ondas is a classic dilution trap where the equity base has exploded by over 230% YoY to fund a business that remains deeply unprofitable with a $368M accumulated deficit. While revenue grew 605% due to acquisitions, the quality of this growth is poor: gross margins are declining quarter-over-quarter, and G&A expenses have surged 159% to $44.5M, indicating severe operational inefficiency and integration costs. The company is burning cash (negative FCF yield) and relying on continuous equity issuance to survive, which guarantees permanent shareholder dilution. With no evidence of a path to posit |

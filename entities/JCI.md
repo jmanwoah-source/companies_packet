@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 2c3a2714206513a65e533735a29b31f16932dd7ee36ef5279d8977d00dfade46
+wiki_state_hash: 690f13a4253852dcbc97a9cf1fc3fac49e9c9a6f3051ee31ef9ac60bb8924d69
 ---
 
 # Johnson Controls International plc (JCI)
@@ -54,3 +54,14 @@ wiki_state_hash: 2c3a2714206513a65e533735a29b31f16932dd7ee36ef5279d8977d00dfade4
 
 - Earnings: None scheduled in window
 - Constituent ETFs: GRID (9.09%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-07T13:34Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 25% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 10.0% |
+| Primary Risk | No structural kill vector identified; negative share count growth (-3.46%) and positive gross margin expansion (62 bps QoQ) indicate fortress characteristics rather than dilution or margin erosion. |
+| Tribunal Summary | The corpus provides no evidence of customer concentration, WIP inventory stalls, or dilution spirals. The engine signals confirm negative share count growth and improving gross margins, which de-risk the thesis against typical structural failure modes. While the Altman Z-score (3.765) is below the 4.5 waiver threshold, the absence of negative FCF or backlog deterioration in the provided slice prevents a fortress erosion argument. The long thesis survives on reported facts of margin expansion and share count contraction. |

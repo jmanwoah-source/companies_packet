@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2cdc17969689d6723033e2b11de484db7a67d058805d974d288c7b52988a614e
+wiki_state_hash: 5d355868028abce5338b9ba17b0117e64beb99513a433a53861f190b49857eae
 ---
 
 # ON Semiconductor Corporation (ON)
@@ -56,3 +56,15 @@ wiki_state_hash: 2cdc17969689d6723033e2b11de484db7a67d058805d974d288c7b52988a614
 
 - Earnings: None scheduled in window
 - Constituent ETFs: QTUM (0.86%), SMH (0.56%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-09 / N/A |
+| Triage / Kill Risk / Score Adj | N/A / 5000% / N/A |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Customer Concentration | unknown% |
+| WIP Inventory Stall | Yes — low |
+| Primary Risk | none |
+| Tribunal Summary | A=65 B=52 C=95 fin=50 mc=24645600999 kill=50% HIGH_RISK |

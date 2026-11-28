@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: fb87616dd0f14c687b3649bb86dc15de5e0e18eac987abcc0b6723c720ebeb68
+wiki_state_hash: a4a7d17558266a05fefb18709e93775fd96bfdc10af41503f57b6ab3ca63f88c
 ---
 
 # Lattice Semiconductor Corporation (LSCC)
@@ -55,3 +55,15 @@ wiki_state_hash: fb87616dd0f14c687b3649bb86dc15de5e0e18eac987abcc0b6723c720ebeb6
 
 - Earnings: None scheduled in window
 - Constituent ETFs: QTUM (1.12%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-09 / N/A |
+| Triage / Kill Risk / Score Adj | N/A / 2000% / N/A |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Customer Concentration | unknown% |
+| WIP Inventory Stall | Yes — low |
+| Primary Risk | none |
+| Tribunal Summary | A=65 B=58 C=55 fin=60 mc=14915990600 kill=20% MODERATE_BULL |

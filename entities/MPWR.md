@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: daf9158ce8acb86294d03942a319d8ff6d79cc9e05931da8be02a69a8cfabdc0
+wiki_state_hash: fb8bbe63c9b5a753e698d70cd9857c5fa253d6049eaf21073448b8b8607c4f6b
 ---
 
 # Monolithic Power Systems, Inc. (MPWR)
@@ -56,3 +56,13 @@ wiki_state_hash: daf9158ce8acb86294d03942a319d8ff6d79cc9e05931da8be02a69a8cfabdc
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SMH (1.52%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-07T13:34Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 65% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Primary Risk | The restatement of FY2024 and Q1-Q3 2025 financial statements due to a material weakness in internal controls over deferred tax accounting creates a structural governance and regulatory risk that undermines the reliability of the long thesis, independent of the strong Altman Z score (11.83). |
+| Tribunal Summary | While the balance sheet is fortress-like with an Altman Z of 11.83 and minimal debt, the company has admitted to a material weakness in internal controls, necessitating a restatement of the prior year and three quarters of the current year. This restatement, driven by an error in accounting for foreign tax incentives, introduces significant legal, regulatory, and reputational risk that could depress valuation multiples. The risk factors highlight heavy dependence on Asia and China, exposing the company to geopolitical and supply chain shocks that are outside its control. Although margins are i |

@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: da9f1cade5f35a19cfe0ab9fb000b011430b1e79aae2860ba58e82fb438cf2ab
+wiki_state_hash: 1c29f6dc3f2b1dc2b880020c5507a2670e96588ad7fc9f30a371cf7cca1e34de
 ---
 
 # CoreWeave, Inc. Class A Common Stock (CRWV)
@@ -55,3 +55,13 @@ wiki_state_hash: da9f1cade5f35a19cfe0ab9fb000b011430b1e79aae2860ba58e82fb438cf2a
 
 - Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.67%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | No bear traps. AltmanZ 0.02 confirms severe distress. High debt and losses support PUT thesis. No cash fortress or rebound floor. |
+| Tribunal Summary | CoreWeave exhibits extreme financial fragility (AltmanZ 0.02, $1.2B net loss, high debt). The thesis is supported by weak fundamentals and significant liquidity risk. No evidence of a fortress balance sheet or short-squeeze catalyst. The PUT thesis is reinforced by the company's precarious financial position. |

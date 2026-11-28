@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: f1e6e8ec1c45867a28b659f5cca0a7f46b85029e2e3c27c2c6f79e0852fcdc4b
+wiki_state_hash: 91271d86a8505d7de917c6ae8628efb9e74eba5817a619c6e3bac3af53d59393
 ---
 
 # BWX Technologies, Inc. (BWXT)
@@ -55,3 +55,14 @@ wiki_state_hash: f1e6e8ec1c45867a28b659f5cca0a7f46b85029e2e3c27c2c6f79e0852fcdc4
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SHLD (1.71%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-06T22:37Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 35% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 68.0% |
+| Primary Risk | The primary structural risk is the 68% reliance on U.S. Government contracts subject to annual Congressional appropriations and potential termination for convenience, which creates a binary funding risk that cannot be fully de-risked by backlog due to the political nature of the funding source. |
+| Tribunal Summary | BWXT's long thesis is structurally tethered to the U.S. federal budget, with 68% of revenue derived from government contracts that are subject to annual appropriation and termination for convenience. While the company reports a strong Altman Z-score (6.74) and positive gross margin momentum (+139 bps QoQ), the lack of a PSFV carveout (0.0976) indicates that the current growth is not sufficiently decoupled from share count growth to justify a 'fortress' rating against dilution risks. The 0.18% YoY share count increase is minimal, but the absence of a documented backlog-to-revenue ratio in the p |

@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 5937e6715d9c884880ee3d029cac81b3266d8b381e4e75e3a02c0df71960939a
+wiki_state_hash: 70bd2e05b21be14a00dd0401e64c04848829a36900abec8216ff4bc394b80c92
 ---
 
 # CACI International Inc (CACI)
@@ -55,3 +55,14 @@ wiki_state_hash: 5937e6715d9c884880ee3d029cac81b3266d8b381e4e75e3a02c0df71960939
 
 - Earnings: 2027-01-20 (days: 55, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.32%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-04T13:02Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 65% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 95.6% |
+| Primary Risk | Extreme structural dependency on a single sovereign customer (95.6% federal) with 53.6% concentrated in the Department of War, creating a binary kill vector if budgetary reallocation or debarment occurs, which cannot be de-risked by backlog due to the lack of commercial diversification. |
+| Tribunal Summary | CACI is not a diversified tech firm but a leveraged bet on the U.S. federal defense budget, with 95.6% of revenue derived from the government and over half tied to the Department of War. The 10-K explicitly flags that changes in budgetary priorities, continuing resolutions, or debarment would materially and adversely affect the business, creating a single-point-of-failure risk that no amount of backlog can mitigate if the sovereign customer shifts spending. While the GFY27 PBR proposes increased defense spending, the reliance on annual appropriations and reconciliation bills introduces signifi |

@@ -23,7 +23,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: a8026c287a54949f18f022d3acca021418dc5a516a988d5e0ee0c7b3c1bb89d7
+wiki_state_hash: 69d98d357f071fb037bc6b6e09dd4bf8864c46504aa5f0ae5a16520f4e181a65
 ---
 
 # Texas Instruments Incorporated (TXN)
@@ -56,3 +56,14 @@ wiki_state_hash: a8026c287a54949f18f022d3acca021418dc5a516a988d5e0ee0c7b3c1bb89d
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SMH (6.34%), QTUM (1.45%), GRID (1.26%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-03T00:51Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 15% / N/A |
+| 10-K Corpus / Degraded | 261 chars / No |
+| Customer Concentration | 10.0% |
+| Primary Risk | The primary structural risk is not immediate insolvency but the potential for margin compression if the cyclical semiconductor upturn reverses, given the company's exposure to industrial and automotive end-markets which are sensitive to macroeconomic slowdowns. |
+| Tribunal Summary | Texas Instruments presents a fortress balance sheet with a high Altman Z-score and negligible dilution, making a fundamental collapse unlikely in the near term. However, the long thesis is vulnerable to the cyclical nature of the industrial semiconductor market, where any macroeconomic contraction could lead to sharp inventory destocking by customers. The lack of specific customer concentration data in the provided slice prevents identifying a single point of failure, but the broad exposure to industrial end-markets means the company is a beta play on global manufacturing health. The bear case |

@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 01848feabec5dd0546f4211b9ad6a7d1fe8a1aeb0bf2d826565e67fa780d7de6
+wiki_state_hash: e1b1fff07b1510a763b62116b23f9edac626c36b1522920038b26a6bc7e0f471
 ---
 
 # Infleqtion Inc (INFQ)
@@ -54,3 +54,15 @@ wiki_state_hash: 01848feabec5dd0546f4211b9ad6a7d1fe8a1aeb0bf2d826565e67fa780d7de
 
 - Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.72%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-22 / N/A |
+| Triage / Kill Risk / Score Adj | N/A / 2500% / N/A |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Customer Concentration | unknown% |
+| WIP Inventory Stall | Yes — low |
+| Primary Risk | none |
+| Tribunal Summary | A=68 B=53 C=45 fin={'total': 46, 'adjusted': 41, 'data_coverage': 0.8, 'sub_scores': {'revenue_growth_20': 10, 'margin_profile_20': 8, 'balance_sheet_20': 20, 'cash_liquidity_20': 8, 'profitability_20': 0}, 'gap_bands': ['operating_margin']} mc=1714967166 kill=25% MODERATE_BULL |

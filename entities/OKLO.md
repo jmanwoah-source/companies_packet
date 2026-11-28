@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 5e109923cfbdfb3c503d3a952d9d5a9462404882e0f1c76bf6d9ee567330ed52
+wiki_state_hash: 5794cc3f87abb967cdee9aa0b87b28081215cbf9022880b7a6980176fa4ec49b
 ---
 
 # Oklo Inc. (OKLO)
@@ -55,3 +55,13 @@ wiki_state_hash: 5e109923cfbdfb3c503d3a952d9d5a9462404882e0f1c76bf6d9ee567330ed5
 
 - Earnings: 2026-11-06 (days: -20, tag: CLEAN_WINDOW)
 - Constituent ETFs: URA (4.39%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | CAUTION / 65% / -8.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | 10-K explicitly states no binding PPAs and reliance on non-binding LOIs which may be rescinded, creating high execution risk for CALL thesis. |
+| Tribunal Summary | CALL setup faces severe thesis risk: 10-K confirms no binding revenue contracts, only non-binding LOIs (Meta, Eielson) that can be rescinded. HALEU supply chain is immature. Thin options liquidity (IV 0.87) amplifies downside if catalysts delay. Fundamental loss profile (Piotroski 3/9) further weakens conviction. |

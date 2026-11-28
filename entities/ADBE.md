@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 82e6ee20e93f5ff21949c0ffc7dd03f44dc0291cb2030813d21bcdbe3b1c7e86
+wiki_state_hash: 89aad3173a2d692e44b8264c6481e1cd3bb4e340b72eb55db2f1ad090f69ece6
 ---
 
 # Adobe Inc. (ADBE)
@@ -54,3 +54,15 @@ wiki_state_hash: 82e6ee20e93f5ff21949c0ffc7dd03f44dc0291cb2030813d21bcdbe3b1c7e8
 
 - Earnings: 2026-12-09 (days: 13, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: IGV (3.56%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-09 / N/A |
+| Triage / Kill Risk / Score Adj | N/A / 3500% / N/A |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Customer Concentration | unknown% |
+| WIP Inventory Stall | Yes — low |
+| Primary Risk | none |
+| Tribunal Summary | A=65 B=30 C=65 fin=68 mc=93135560000 kill=35% MODERATE_BULL |

@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: be243c09fe9f8106464eaa4b3b762796ffeeacbc4e917acfd8ffc16d55f23c1a
+wiki_state_hash: deed331ffb103cb79ad50e66e1e7a58c97dc8a69f32562ddc92ac01423fc929b
 ---
 
 # Applied Digital Corp. (APLD)
@@ -55,3 +55,13 @@ wiki_state_hash: be243c09fe9f8106464eaa4b3b762796ffeeacbc4e917acfd8ffc16d55f23c1
 
 - Earnings: 2027-01-06 (days: 41, tag: CLEAN_WINDOW)
 - Constituent ETFs: DTCR (2.35%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | No fortress balance sheet. Explicit 10-K risk factors cite inability to access capital or refinance debt, confirming severe financial distress and lack of rebound floor. |
+| Tribunal Summary | CoreWeave is a major counterparty, but the 10-K explicitly warns of capital access and refinancing risks. The distress metrics (AltmanZ 0.42) and explicit risk factors override any customer concentration as a bear-trap signal. |

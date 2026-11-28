@@ -24,7 +24,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: a54adf50f8e299bceebb04ec3f0bc14a4a3d96e995faac9d7054bbfb3b13581b
+wiki_state_hash: 6e5109b5734342cb909d5ec172f3f7c4a8e9200d9e8fc3371d8b32382a8e0f15
 ---
 
 # NXP Semiconductors N.V. (NXPI)
@@ -57,3 +57,13 @@ wiki_state_hash: a54adf50f8e299bceebb04ec3f0bc14a4a3d96e995faac9d7054bbfb3b13581
 
 - Earnings: None scheduled in window
 - Constituent ETFs: SMH (1.49%), QTUM (1.28%), GRID (0.30%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | FAIL / 65% / -10.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | Fortress balance sheet (AltmanZ 3.64) and strong fundamentals (Piotroski 8) contradict PUT thesis. Acquisitions suggest expansion, not distress. |
+| Tribunal Summary | NXPI is a high-quality semi firm with strong balance sheet (AltmanZ 3.64) and fundamentals (Piotroski 8). Recent acquisitions (TTTech, Kinara) indicate strategic expansion into SDV/AI, not distress. PUT thesis faces severe bear-trap risk from fortress metrics. |

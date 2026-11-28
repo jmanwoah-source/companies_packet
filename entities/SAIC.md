@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 8cb262cd95dfcbd941018f9c629d58b7cb57efb382203d9547cbc5cbf3d2d180
+wiki_state_hash: 93b0f5c40d2faf4e8f9bd38b4c60db6b1fde676597532de25dd8584f88dc5db8
 ---
 
 # Science Applications International Corporation (SAIC)
@@ -55,3 +55,14 @@ wiki_state_hash: 8cb262cd95dfcbd941018f9c629d58b7cb57efb382203d9547cbc5cbf3d2d18
 
 - Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: JEDI (1.57%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-05T00:36Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 65% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 98.0% |
+| Primary Risk | Extreme customer concentration (98% U.S. government) creates a single-point-of-failure structural risk where any budgetary impasse, CR delay, or DoW acquisition strategy shift directly halts revenue generation, a vector not de-risked by backlog evidence in the provided slice. |
+| Tribunal Summary | SAIC is a pure-play proxy for U.S. federal defense and intelligence spending, with 98% of revenue tied to a single customer entity that is currently navigating a complex appropriations landscape including recent shutdowns and CR extensions. The 10-K explicitly flags that the DoW's new Acquisition Transformation Strategy may restructure contract requirements and shift priorities, posing a direct threat to SAIC's legacy service model. While the July 2025 reconciliation package provides near-term funding visibility, the structural dependence on government budget cycles means that any future impas |

@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: bf2578546c9b7079493758c89c3b5159dab37297fa36303b65f66bd210629e25
+wiki_state_hash: 638ed86ddd78262b623274503dbb058d02b6140b0e9376fcaec0f90f51591992
 ---
 
 # Astera Labs, Inc. Common Stock (ALAB)
@@ -56,3 +56,15 @@ wiki_state_hash: bf2578546c9b7079493758c89c3b5159dab37297fa36303b65f66bd210629e2
 
 - Earnings: None scheduled in window
 - Constituent ETFs: QTUM (0.87%), SMH (0.87%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-09 / N/A |
+| Triage / Kill Risk / Score Adj | N/A / 2500% / N/A |
+| 10-K Corpus / Degraded | 0 chars / No |
+| Customer Concentration | unknown% |
+| WIP Inventory Stall | Yes — low |
+| Primary Risk | none |
+| Tribunal Summary | A=65 B=58 C=55 fin=78 mc=33085343421 kill=25% MODERATE_BULL |

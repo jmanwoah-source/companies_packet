@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 7111d5eb576050f1026f7a7ace7707f95ab8f0c08e4344a41bba05ca74d8a3b3
+wiki_state_hash: d6c8b3074e2d4396721bd13d9d1aba9a09e096bd534c382ef458b354dc6c879f
 ---
 
 # Onto Innovation Inc. (ONTO)
@@ -56,3 +56,14 @@ wiki_state_hash: 7111d5eb576050f1026f7a7ace7707f95ab8f0c08e4344a41bba05ca74d8a3b
 
 - Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.96%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-07T02:09Z / NONE |
+| Triage / Kill Risk / Score Adj | N/A / 45% / N/A |
+| 10-K Corpus / Degraded | 14000 chars / No |
+| Customer Concentration | 25.0% |
+| Primary Risk | Structural margin erosion (gross margin down 250bps to 49.7%) driven by inventory write-downs and restructuring, combined with China export control headwinds, threatens the high-margin profile despite low dilution (Rule a not applicable as psfv_carveout is false). |
+| Tribunal Summary | Onto Innovation is experiencing a clear margin compression event, with gross margins falling from 52.2% to 49.7% due to excess inventory write-downs and restructuring costs, signaling operational inefficiency or demand softness in key segments. While revenue grew slightly (2%), the quality of earnings is deteriorating, with net income dropping significantly from $201M to $136M. The company faces structural headwinds from U.S. export controls reducing China sales, a key market for semiconductor equipment. Although dilution is minimal (1% YoY), the combination of margin erosion, China exposure,  |

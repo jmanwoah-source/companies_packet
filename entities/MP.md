@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: b9a7cf94f9ae12c437276b0ad37ca2c91de7ebaf8d20f13b80c73d0d8c74c35e
+wiki_state_hash: f1ea4f66111c9fa3072316bf0cf49926e9c3cf2746e2ad070793f1ad07f12541
 ---
 
 # MP Materials Corp. (MP)
@@ -55,3 +55,13 @@ wiki_state_hash: b9a7cf94f9ae12c437276b0ad37ca2c91de7ebaf8d20f13b80c73d0d8c74c35
 
 - Earnings: None scheduled in window
 - Constituent ETFs: REMX (7.30%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | CAUTION / 65% / -8.0 |
+| 10-K Corpus / Degraded | 6151 chars / No |
+| Primary Risk | Fortress balance sheet ($1.8B cash), major strategic floor (DoW/Apple), and high AltmanZ (3.13) strongly contradict bearish thesis. |
+| Tribunal Summary | MP Materials is a strategic national asset with fortress liquidity ($1.8B) and secured demand (DoW/Apple). The PUT thesis is severely undermined by the lack of financial distress and presence of government-backed revenue floors, creating a high risk of a squeeze or fundamental rebound. |

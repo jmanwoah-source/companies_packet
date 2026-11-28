@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: d84906f22d457095705db20fac8444479d7edc454b1f326c454add9df9e8a315
+wiki_state_hash: 79d5e0343aad4862566a7e0e5975470d7f073733c52af86946daf01084ea6cf7
 ---
 
 # Zoom Communications, Inc. (ZM)
@@ -55,3 +55,13 @@ wiki_state_hash: d84906f22d457095705db20fac8444479d7edc454b1f326c454add9df9e8a31
 
 - Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (0.90%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | CAUTION / 35% / -2.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | PiotroskiF=5 indicates mixed fundamentals; 10-K explicitly warns of revenue growth fluctuation and renewal risks due to macro/competition, capping bull case conviction. |
+| Tribunal Summary | Call setup faces headwinds from mixed fundamentals (Piotroski 5/9) and explicit 10-K warnings on renewal risk and macro sensitivity. Thin options liquidity adds execution risk. No dilution or balance sheet distress, but growth sustainability is the primary thesis threat. |

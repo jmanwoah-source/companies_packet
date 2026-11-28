@@ -1,6 +1,6 @@
 ---
 list_type: mirage_short
-generated: "2026-11-28 01:14 EST"
+generated: "2026-11-28 02:20 EST"
 count: 12
 tags:
   - hub/tier_list
@@ -9,7 +9,7 @@ tags:
 
 # Mirage Short List — Top Put Breakdowns
 
-**Generated:** 2026-11-28 01:14 EST · **Tickers:** 12
+**Generated:** 2026-11-28 02:20 EST · **Tickers:** 12
 
 | # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
 |---:|---|---|---:|---:|---|---|---|---|---|---|

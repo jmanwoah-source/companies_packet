@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 135ba70fcc93f9427f8161bc56e81dd73d8c19807079ccba21d11c56a1d3b054
+wiki_state_hash: 77586f6e7339b9d3a0ca7c77402511e2fe1f19f48ff6accaa63db511b6f74c4d
 ---
 
 # Intuitive Machines, Inc. (LUNR)
@@ -54,3 +54,13 @@ wiki_state_hash: 135ba70fcc93f9427f8161bc56e81dd73d8c19807079ccba21d11c56a1d3b05
 
 - Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: JEDI (5.62%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | No bear-trap evidence. High distress (Z=1.39), weak fundamentals (F=2), and explicit integration risks confirm PUT thesis fragility. |
+| Tribunal Summary | LUNR exhibits severe financial fragility (AltmanZ 1.39, PiotroskiF 2). The 10-K highlights integration risks from recent acquisitions (KinetX, Lanteris) and reliance on key personnel. No evidence of a valuation floor or cash fortress to support a short squeeze. |

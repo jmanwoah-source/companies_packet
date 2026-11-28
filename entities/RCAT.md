@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 3550004f1ef515ae60755a9f7e1b34fad1d58ae3620e118bb590add5ad4a604b
+wiki_state_hash: 5ae2e956a5e5be8d20fe2f0a60065abcb69937f18b7b33e242eb5b13b6a63a22
 ---
 
 # Red Cat Holdings, Inc. (RCAT)
@@ -55,3 +55,13 @@ wiki_state_hash: 3550004f1ef515ae60755a9f7e1b34fad1d58ae3620e118bb590add5ad4a604
 
 - Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.77%), SHLD (0.04%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 5339 chars / No |
+| Primary Risk | No bear-trap indicators found. Distress signals (losses, cash burn, gov contract risk) strongly support PUT thesis. |
+| Tribunal Summary | PUT thesis is clean. RCAT exhibits classic distress: net losses, weak Piotroski score, reliance on uncertain government funding, and high dilution risk. No fortress cash or backlog inflection to trap shorts. |

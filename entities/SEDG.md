@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: db459c71c66ab9f51d0d9d6dc1555157f893cf1e249be3f75f21c33e308a7dc4
+wiki_state_hash: d7140317bf19a99421d87bc6bb79579631cf7b900ea270a27c39a47fb71b3476
 ---
 
 # SolarEdge Technologies, Inc. (SEDG)
@@ -54,3 +54,14 @@ wiki_state_hash: db459c71c66ab9f51d0d9d6dc1555157f893cf1e249be3f75f21c33e308a7dc
 
 - Earnings: None scheduled in window
 - Constituent ETFs: GRID (0.16%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Customer Concentration | 18.6% |
+| Primary Risk | No bear traps. AltmanZ 0.33 confirms severe distress. No fortress cash, no major catalyst floor, weak fundamentals support PUT. |
+| Tribunal Summary | SEDG shows classic distress: AltmanZ 0.33, net losses, and demand slowdown. No evidence of turnaround, fortress balance sheet, or short-squeeze catalyst. PUT thesis is supported by fundamental fragility. |
