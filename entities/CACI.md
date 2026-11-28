@@ -3,8 +3,8 @@ ticker: CACI
 name: "CACI International Inc"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 20.44
-quant_composite_score: 60.22
+net_score: 23.59
+quant_composite_score: 61.8
 market_cap: 13752213852.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 08e5456af4470e83157b60b59214b64c9bf964584e8538994ca5083d0247deb0
+wiki_state_hash: 5937e6715d9c884880ee3d029cac81b3266d8b381e4e75e3a02c0df71960939a
 ---
 
 # CACI International Inc (CACI)
@@ -32,7 +32,7 @@ wiki_state_hash: 08e5456af4470e83157b60b59214b64c9bf964584e8538994ca5083d0247deb
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 20.44 / 60.22 |
+| Net Score / Quant Composite | 23.59 / 61.80 |
 | Market Cap | $13.75B (Sweet Spot $2B-$80B: Yes) |
 | Price | 619.14 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

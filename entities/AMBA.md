@@ -3,8 +3,8 @@ ticker: AMBA
 name: "Ambarella, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -2.87
-quant_composite_score: 48.57
+net_score: -3.37
+quant_composite_score: 48.31
 market_cap: 1574949845.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 02285862b5b96f50ae1d3f5623363259f948b205f16ccb1fb8b8a4140f0505d6
+wiki_state_hash: ae9da68fd2f3522db290108f3fbfb3f7edf3a73318ccc082a3b87a46d03624d2
 ---
 
 # Ambarella, Inc. (AMBA)
@@ -32,7 +32,7 @@ wiki_state_hash: 02285862b5b96f50ae1d3f5623363259f948b205f16ccb1fb8b8a4140f0505d
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -2.87 / 48.57 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
 | Market Cap | $1.57B (Sweet Spot $2B-$80B: No) |
 | Price | 35.68 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |

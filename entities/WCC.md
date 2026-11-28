@@ -3,8 +3,8 @@ ticker: WCC
 name: "WESCO International, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -20.53
-quant_composite_score: 39.73
+net_score: -23.7
+quant_composite_score: 38.15
 market_cap: 14227650527.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 8ba6ca27fabc35521cc28b277f0bf66eed9024a17f67a7e726cd5c967f7f9949
+wiki_state_hash: 015d5a9271d47205baf9362a2de3e9101d8587938e5c962ce8c8bd20007283ee
 ---
 
 # WESCO International, Inc. (WCC)
@@ -32,7 +32,7 @@ wiki_state_hash: 8ba6ca27fabc35521cc28b277f0bf66eed9024a17f67a7e726cd5c967f7f994
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -20.53 / 39.73 |
+| Net Score / Quant Composite | -23.70 / 38.15 |
 | Market Cap | $14.23B (Sweet Spot $2B-$80B: Yes) |
 | Price | 292.33 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

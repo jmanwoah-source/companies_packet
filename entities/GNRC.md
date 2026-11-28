@@ -3,8 +3,8 @@ ticker: GNRC
 name: "Generac Holdings Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -36.52
-quant_composite_score: 31.74
+net_score: -40.5
+quant_composite_score: 29.75
 market_cap: 12033166110.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 45061d65934474f229da99606b7ced6c61cac6f39aee9d7e4a2a83c29cbf3731
+wiki_state_hash: 3d1ee541ceb2103d013a950c01b3fe1facbd170c816d9ec21348e3a764f668f5
 ---
 
 # Generac Holdings Inc. (GNRC)
@@ -33,7 +33,7 @@ wiki_state_hash: 45061d65934474f229da99606b7ced6c61cac6f39aee9d7e4a2a83c29cbf373
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -36.52 / 31.74 |
+| Net Score / Quant Composite | -40.50 / 29.75 |
 | Market Cap | $12.03B (Sweet Spot $2B-$80B: Yes) |
 | Price | 203.99 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

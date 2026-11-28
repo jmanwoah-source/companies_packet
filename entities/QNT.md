@@ -3,8 +3,8 @@ ticker: QNT
 name: "Quantinuum Inc. Class A Common Stock"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -6.64
-quant_composite_score: 46.68
+net_score: -7.8
+quant_composite_score: 46.1
 market_cap: 8554881111.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 9c8f0de0bbe64a72ec8b2c2f036f812dd9baf128408d6e5823db9c74f7ca3fea
+wiki_state_hash: 6d81a343ef25945fb17b190d29c3f183612bb7f65b2e268755925f54fcc992b3
 ---
 
 # Quantinuum Inc. Class A Common Stock (QNT)
@@ -32,7 +32,7 @@ wiki_state_hash: 9c8f0de0bbe64a72ec8b2c2f036f812dd9baf128408d6e5823db9c74f7ca3fe
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -6.64 / 46.68 |
+| Net Score / Quant Composite | -7.80 / 46.10 |
 | Market Cap | $8.55B (Sweet Spot $2B-$80B: Yes) |
 | Price | 32.49 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

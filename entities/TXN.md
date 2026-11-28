@@ -3,8 +3,8 @@ ticker: TXN
 name: "Texas Instruments Incorporated"
 pillar: SEMI_SUBSYSTEMS
 tier: WATCHLIST
-net_score: -92.9
-quant_composite_score: 3.55
+net_score: -79.8
+quant_composite_score: 10.1
 market_cap: 246891516300.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 9bb065043d0966495b8f430186e638632336e7822112b0889cb5c6ba64ec2cf5
+wiki_state_hash: a8026c287a54949f18f022d3acca021418dc5a516a988d5e0ee0c7b3c1bb89d7
 ---
 
 # Texas Instruments Incorporated (TXN)
@@ -34,7 +34,7 @@ wiki_state_hash: 9bb065043d0966495b8f430186e638632336e7822112b0889cb5c6ba64ec2cf
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -92.90 / 3.55 |
+| Net Score / Quant Composite | -79.80 / 10.10 |
 | Market Cap | $246.89B (Sweet Spot $2B-$80B: No) |
 | Price | 270.19 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

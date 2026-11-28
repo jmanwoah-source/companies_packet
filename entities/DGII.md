@@ -3,8 +3,8 @@ ticker: DGII
 name: "Digi International Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 21.54
-quant_composite_score: 60.77
+net_score: 24.82
+quant_composite_score: 62.41
 market_cap: 2022633730.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 5ae96bb880b5b25d47033c80066547e2ac63186198526838617011d8d0275119
+wiki_state_hash: 6991e0f26f90441db6944bf78061efd8ecad956f762ef2bf4124db24975af353
 ---
 
 # Digi International Inc. (DGII)
@@ -32,7 +32,7 @@ wiki_state_hash: 5ae96bb880b5b25d47033c80066547e2ac63186198526838617011d8d027511
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 21.54 / 60.77 |
+| Net Score / Quant Composite | 24.82 / 62.41 |
 | Market Cap | $2.02B (Sweet Spot $2B-$80B: Yes) |
 | Price | 53.30 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

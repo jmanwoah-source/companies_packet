@@ -3,8 +3,8 @@ ticker: MCHP
 name: "Microchip Technology Incorporated"
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -20.88
-quant_composite_score: 39.56
+net_score: -24.08
+quant_composite_score: 37.96
 market_cap: 31377213215.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -24,7 +24,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 390e9a5045043d2ac185e700224fe08ff856868b1af1b9ada153b59fdc72a62b
+wiki_state_hash: e5937c6fe45538027cffc788075473a44c3481f8b3ca61588d1b9a66e38029cf
 ---
 
 # Microchip Technology Incorporated (MCHP)
@@ -35,7 +35,7 @@ wiki_state_hash: 390e9a5045043d2ac185e700224fe08ff856868b1af1b9ada153b59fdc72a62
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -20.88 / 39.56 |
+| Net Score / Quant Composite | -24.08 / 37.96 |
 | Market Cap | $31.38B (Sweet Spot $2B-$80B: Yes) |
 | Price | 57.66 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: MP
 name: "MP Materials Corp."
 pillar: ENERGY_MATERIALS
 tier: MIRAGE_SHORT
-net_score: -76.6
-quant_composite_score: 11.7
+net_score: -71.69
+quant_composite_score: 14.16
 market_cap: 6292859553.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: dfdd27bbf383e5b9d548d2c957552639dd83beb4b81caf54fbeb1c6c0970bfac
+wiki_state_hash: b9a7cf94f9ae12c437276b0ad37ca2c91de7ebaf8d20f13b80c73d0d8c74c35e
 ---
 
 # MP Materials Corp. (MP)
@@ -33,7 +33,7 @@ wiki_state_hash: dfdd27bbf383e5b9d548d2c957552639dd83beb4b81caf54fbeb1c6c0970bfa
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -76.60 / 11.70 |
+| Net Score / Quant Composite | -71.69 / 14.16 |
 | Market Cap | $6.29B (Sweet Spot $2B-$80B: Yes) |
 | Price | 35.30 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

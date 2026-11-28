@@ -3,8 +3,8 @@ ticker: WDAY
 name: "Workday, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -12.13
-quant_composite_score: 43.94
+net_score: -14.17
+quant_composite_score: 42.91
 market_cap: 43486039098.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 00ad3781658877f82e8b0f65fbf5e85db08ee9c160a0a81cba540610e311d056
+wiki_state_hash: 56f7d29aa45001dada9a7295c5722dd883cb5d672ebdec82ca00e924e2a76d2a
 ---
 
 # Workday, Inc. (WDAY)
@@ -33,7 +33,7 @@ wiki_state_hash: 00ad3781658877f82e8b0f65fbf5e85db08ee9c160a0a81cba540610e311d05
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -12.13 / 43.94 |
+| Net Score / Quant Composite | -14.17 / 42.91 |
 | Market Cap | $43.49B (Sweet Spot $2B-$80B: Yes) |
 | Price | 180.44 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

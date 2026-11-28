@@ -3,8 +3,8 @@ ticker: AES
 name: "The AES Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -27.08
-quant_composite_score: 36.46
+net_score: -30.82
+quant_composite_score: 34.59
 market_cap: 10717741163.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 51fc120658743e239613830fa97718718bf23f3a0c38a9f8c334b2b43f8d03c4
+wiki_state_hash: aa8ede25fd7c2130a35369db83d4f766d745d41639a6611061c5107f179c6a9a
 ---
 
 # The AES Corporation (AES)
@@ -32,7 +32,7 @@ wiki_state_hash: 51fc120658743e239613830fa97718718bf23f3a0c38a9f8c334b2b43f8d03c
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -27.08 / 36.46 |
+| Net Score / Quant Composite | -30.82 / 34.59 |
 | Market Cap | $10.72B (Sweet Spot $2B-$80B: Yes) |
 | Price | 15.02 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

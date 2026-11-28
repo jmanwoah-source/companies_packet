@@ -3,8 +3,8 @@ ticker: QTWO
 name: "Q2 Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 8.45
-quant_composite_score: 54.23
+net_score: 9.91
+quant_composite_score: 54.96
 market_cap: 4302466585.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: d598ef7e543eb457c3bce3888406aaa6c7b197144ed18bb5508c6d528b9fa028
+wiki_state_hash: de59fd5cdecb1c1f77c0c2eb2201ee3d32d2d6f318e0b4fc808aa0a393316751
 ---
 
 # Q2 Holdings, Inc. (QTWO)
@@ -32,7 +32,7 @@ wiki_state_hash: d598ef7e543eb457c3bce3888406aaa6c7b197144ed18bb5508c6d528b9fa02
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 8.45 / 54.23 |
+| Net Score / Quant Composite | 9.91 / 54.96 |
 | Market Cap | $4.30B (Sweet Spot $2B-$80B: Yes) |
 | Price | 69.64 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: NOVT
 name: "Novanta Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -16.43
-quant_composite_score: 41.79
+net_score: -19.09
+quant_composite_score: 40.45
 market_cap: 4142628216.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: faa69eafad5ada5f76c3f591aca906811eaba7971143a4fb86cc049ca00b16d2
+wiki_state_hash: 1a577fa9483d059f2fced8daff571bfcf407e4978b3e9242f04bd610ab05f15e
 ---
 
 # Novanta Inc. (NOVT)
@@ -32,7 +32,7 @@ wiki_state_hash: faa69eafad5ada5f76c3f591aca906811eaba7971143a4fb86cc049ca00b16d
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -16.43 / 41.79 |
+| Net Score / Quant Composite | -19.09 / 40.45 |
 | Market Cap | $4.14B (Sweet Spot $2B-$80B: Yes) |
 | Price | 109.53 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: QUBT
 name: "Quantum Computing, Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 14.9
-quant_composite_score: 57.45
+net_score: 17.35
+quant_composite_score: 58.67
 market_cap: 1041616769.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: b0463098c3533894b4c0326d6d4d84b9de6555daa95f41efb69c3f51ef5f71c7
+wiki_state_hash: 991a63c3da1e4d51309d181e693a0e22ff4b9a24a39a4c51d8bf4405d08b552b
 ---
 
 # Quantum Computing, Inc. (QUBT)
@@ -31,7 +31,7 @@ wiki_state_hash: b0463098c3533894b4c0326d6d4d84b9de6555daa95f41efb69c3f51ef5f71c
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.90 / 57.45 |
+| Net Score / Quant Composite | 17.35 / 58.67 |
 | Market Cap | $1.04B (Sweet Spot $2B-$80B: No) |
 | Price | 4.59 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

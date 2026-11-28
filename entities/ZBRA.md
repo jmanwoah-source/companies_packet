@@ -3,8 +3,8 @@ ticker: ZBRA
 name: "Zebra Technologies Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -13.04
-quant_composite_score: 43.48
+net_score: -15.22
+quant_composite_score: 42.39
 market_cap: 14991247375.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c168a710c7902294c85f5b1e8c87a388bb2b5cccc37e8d218df8cd79852cd55f
+wiki_state_hash: 7809356693f9d27d4ee54a82385ab455efa4e09ddfe7d16de318c82e82bf0518
 ---
 
 # Zebra Technologies Corporation (ZBRA)
@@ -32,7 +32,7 @@ wiki_state_hash: c168a710c7902294c85f5b1e8c87a388bb2b5cccc37e8d218df8cd79852cd55
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -13.04 / 43.48 |
+| Net Score / Quant Composite | -15.22 / 42.39 |
 | Market Cap | $14.99B (Sweet Spot $2B-$80B: Yes) |
 | Price | 318.37 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

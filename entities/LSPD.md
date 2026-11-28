@@ -3,8 +3,8 @@ ticker: LSPD
 name: "Lightspeed Commerce Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 2.46
-quant_composite_score: 51.23
+net_score: 2.89
+quant_composite_score: 51.44
 market_cap: 1285865880.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 68c4e66f21bce7a06280cf0370785dd4a3cb5e7c9f2d3662a74d4336d22c5f7f
+wiki_state_hash: 5a92c5eda0d5b93c0666901643c31129b3bc56dce5e33ad5c04de1f09fe621eb
 ---
 
 # Lightspeed Commerce Inc. (LSPD)
@@ -31,7 +31,7 @@ wiki_state_hash: 68c4e66f21bce7a06280cf0370785dd4a3cb5e7c9f2d3662a74d4336d22c5f7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 2.46 / 51.23 |
+| Net Score / Quant Composite | 2.89 / 51.44 |
 | Market Cap | $1.29B (Sweet Spot $2B-$80B: No) |
 | Price | 9.96 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

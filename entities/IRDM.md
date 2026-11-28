@@ -3,8 +3,8 @@ ticker: IRDM
 name: "Iridium Communications Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -2.87
-quant_composite_score: 48.57
+net_score: -3.37
+quant_composite_score: 48.31
 market_cap: 4552967474.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: fc8617b930be8ff3d6f2554212e842bcd1e09452174cdfb9eca8d7366abde26a
+wiki_state_hash: a84d7cdd196cb1da8e251d3c0355231b6975b84dd4e5d35537ccc7f09723717f
 ---
 
 # Iridium Communications Inc. (IRDM)
@@ -32,7 +32,7 @@ wiki_state_hash: fc8617b930be8ff3d6f2554212e842bcd1e09452174cdfb9eca8d7366abde26
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -2.87 / 48.57 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
 | Market Cap | $4.55B (Sweet Spot $2B-$80B: Yes) |
 | Price | 42.96 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

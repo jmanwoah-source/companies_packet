@@ -3,8 +3,8 @@ ticker: ZS
 name: "Zscaler, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -56.64
-quant_composite_score: 21.68
+net_score: -58.25
+quant_composite_score: 20.87
 market_cap: 37890590080.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 729a72295b07e55a2a2fd22071bb5ed20455c1a64c60a27addb4856f57a0664b
+wiki_state_hash: cfb81b67d511a3989e56425a5584b988e63d81305d8b769daa164febfee327b5
 ---
 
 # Zscaler, Inc. (ZS)
@@ -33,7 +33,7 @@ wiki_state_hash: 729a72295b07e55a2a2fd22071bb5ed20455c1a64c60a27addb4856f57a0664
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -56.64 / 21.68 |
+| Net Score / Quant Composite | -58.25 / 20.87 |
 | Market Cap | $37.89B (Sweet Spot $2B-$80B: Yes) |
 | Price | 230.86 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

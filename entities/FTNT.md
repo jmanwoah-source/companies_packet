@@ -3,8 +3,8 @@ ticker: FTNT
 name: "Fortinet, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 3.95
-quant_composite_score: 51.97
+net_score: 4.64
+quant_composite_score: 52.32
 market_cap: 99156426645.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: cf4c16a29ba569e1a8033ba52449e840dddbc23d73b90c4230fc5fa5df5ec9a3
+wiki_state_hash: 75c0eaf85e2171873652bebba1b21f3a502432b249a7eb3d6e0b495edb29c0e8
 ---
 
 # Fortinet, Inc. (FTNT)
@@ -32,7 +32,7 @@ wiki_state_hash: cf4c16a29ba569e1a8033ba52449e840dddbc23d73b90c4230fc5fa5df5ec9a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 3.95 / 51.97 |
+| Net Score / Quant Composite | 4.64 / 52.32 |
 | Market Cap | $99.16B (Sweet Spot $2B-$80B: No) |
 | Price | 134.96 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

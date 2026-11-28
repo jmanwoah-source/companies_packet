@@ -3,8 +3,8 @@ ticker: IDCC
 name: "InterDigital, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 21.77
-quant_composite_score: 60.89
+net_score: 25.07
+quant_composite_score: 62.54
 market_cap: 6553556258.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e14fd6a41fedb7bce00fc02f9fbca7a61b159c1df9af1a0c7e60a9155258b8da
+wiki_state_hash: 801fa924b49766609367df955b773613f2634f2a6abb69ea41c11c296afed61d
 ---
 
 # InterDigital, Inc. (IDCC)
@@ -32,7 +32,7 @@ wiki_state_hash: e14fd6a41fedb7bce00fc02f9fbca7a61b159c1df9af1a0c7e60a9155258b8d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 21.77 / 60.89 |
+| Net Score / Quant Composite | 25.07 / 62.54 |
 | Market Cap | $6.55B (Sweet Spot $2B-$80B: Yes) |
 | Price | 254.47 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

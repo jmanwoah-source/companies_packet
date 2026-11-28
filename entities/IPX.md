@@ -3,8 +3,8 @@ ticker: IPX
 name: "IperionX Limited"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 23.95
-quant_composite_score: 61.98
+net_score: 27.46
+quant_composite_score: 63.73
 market_cap: 372180400.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: d22560378ebb0178a68147bd52001a20cbfe4fdd6d410a8e8aa51c6987c7f3e8
+wiki_state_hash: f6e15ac90ca64a8f4ddb45a5d3a0082dd9ec9a1e1632eec33726fa77868e90b9
 ---
 
 # IperionX Limited (IPX)
@@ -31,7 +31,7 @@ wiki_state_hash: d22560378ebb0178a68147bd52001a20cbfe4fdd6d410a8e8aa51c6987c7f3e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 23.95 / 61.98 |
+| Net Score / Quant Composite | 27.46 / 63.73 |
 | Market Cap | $372.2M (Sweet Spot $2B-$80B: No) |
 | Price | 11.09 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

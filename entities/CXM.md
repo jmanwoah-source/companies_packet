@@ -3,8 +3,8 @@ ticker: CXM
 name: "Sprinklr, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 29.85
-quant_composite_score: 64.93
+net_score: 33.75
+quant_composite_score: 66.87
 market_cap: 1595017181.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 0e4366e7b14d05b9c470070be2bd17e2cd08864b52ad477a899a6c8ebdb29462
+wiki_state_hash: d7e3d5f9b96880210e4a91b66cf63ec3464f6ee7d483770cd88f38ca7bada96d
 ---
 
 # Sprinklr, Inc. (CXM)
@@ -31,7 +31,7 @@ wiki_state_hash: 0e4366e7b14d05b9c470070be2bd17e2cd08864b52ad477a899a6c8ebdb2946
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 29.85 / 64.93 |
+| Net Score / Quant Composite | 33.75 / 66.87 |
 | Market Cap | $1.60B (Sweet Spot $2B-$80B: No) |
 | Price | 6.87 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

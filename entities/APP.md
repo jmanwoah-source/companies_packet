@@ -3,8 +3,8 @@ ticker: APP
 name: "AppLovin Corporation"
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 61.01
-quant_composite_score: 80.51
+net_score: 61.56
+quant_composite_score: 80.78
 market_cap: 114161719100.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: c557bc34ae6034579de72e1b5270d7c627eee362c3aa1765e403372b5ca86ee6
+wiki_state_hash: 8d8444752e2b243b2557125e17abdafedf6522f3e84280b016366e5d90650890
 ---
 
 # AppLovin Corporation (APP)
@@ -32,7 +32,7 @@ wiki_state_hash: c557bc34ae6034579de72e1b5270d7c627eee362c3aa1765e403372b5ca86ee
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 61.01 / 80.51 |
+| Net Score / Quant Composite | 61.56 / 80.78 |
 | Market Cap | $114.16B (Sweet Spot $2B-$80B: No) |
 | Price | 378.95 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

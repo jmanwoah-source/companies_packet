@@ -3,8 +3,8 @@ ticker: GD
 name: "General Dynamics Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 29.76
-quant_composite_score: 64.88
+net_score: 33.65
+quant_composite_score: 66.83
 market_cap: 97353600480.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3e8d0b3388a4b6e25a485ccb8ec9547b5d21f2612406ecc595c962d6142de6a6
+wiki_state_hash: 73cc65690acbaabd669f3fbdb9def7b63fa207c806c1a51177e57884bbe9b1c6
 ---
 
 # General Dynamics Corporation (GD)
@@ -32,7 +32,7 @@ wiki_state_hash: 3e8d0b3388a4b6e25a485ccb8ec9547b5d21f2612406ecc595c962d6142de6a
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 29.76 / 64.88 |
+| Net Score / Quant Composite | 33.65 / 66.83 |
 | Market Cap | $97.35B (Sweet Spot $2B-$80B: No) |
 | Price | 360.27 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

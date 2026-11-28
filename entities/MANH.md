@@ -3,8 +3,8 @@ ticker: MANH
 name: "Manhattan Associates, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 17.78
-quant_composite_score: 58.89
+net_score: 20.61
+quant_composite_score: 60.31
 market_cap: 14629856943.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0b30c877907856a4397414e8dbbe642ac299b1dc8c8eeb70b8b8d302d583d540
+wiki_state_hash: d61a0ec74aa1692e378bce2eaeb1a9612d09d76a345b0720ef778b8609303e33
 ---
 
 # Manhattan Associates, Inc. (MANH)
@@ -32,7 +32,7 @@ wiki_state_hash: 0b30c877907856a4397414e8dbbe642ac299b1dc8c8eeb70b8b8d302d583d54
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 17.78 / 58.89 |
+| Net Score / Quant Composite | 20.61 / 60.31 |
 | Market Cap | $14.63B (Sweet Spot $2B-$80B: Yes) |
 | Price | 251.97 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

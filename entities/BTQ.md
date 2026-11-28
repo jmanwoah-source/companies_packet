@@ -3,8 +3,8 @@ ticker: BTQ
 name: "BTQ Technologies Corp."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 26.87
-quant_composite_score: 63.43
+net_score: 30.6
+quant_composite_score: 65.3
 market_cap: 167245788.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 11dbf93f636e0ffdfa8818c310e7d7e0e5a9424aaae1e5af7303487ae18d3e0d
+wiki_state_hash: 7270c71b729bb36a64b2025ad0e8c6dbc0ac44eef004c99b5730dc8919f52a20
 ---
 
 # BTQ Technologies Corp. (BTQ)
@@ -31,7 +31,7 @@ wiki_state_hash: 11dbf93f636e0ffdfa8818c310e7d7e0e5a9424aaae1e5af7303487ae18d3e0
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 26.87 / 63.43 |
+| Net Score / Quant Composite | 30.60 / 65.30 |
 | Market Cap | $167.2M (Sweet Spot $2B-$80B: No) |
 | Price | 1.11 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

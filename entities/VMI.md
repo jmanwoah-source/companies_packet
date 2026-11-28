@@ -3,8 +3,8 @@ ticker: VMI
 name: "Valmont Industries, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 12.18
-quant_composite_score: 56.09
+net_score: 14.24
+quant_composite_score: 57.12
 market_cap: 7957996353.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e45f26a6857df350b42d1543d250dc05cd70d88453fef1299e8692361c828faa
+wiki_state_hash: 2d5998aa0778eb1281cbd7f15ec8f0772125a8327c53fd6341eb27b9eb675fc7
 ---
 
 # Valmont Industries, Inc. (VMI)
@@ -32,7 +32,7 @@ wiki_state_hash: e45f26a6857df350b42d1543d250dc05cd70d88453fef1299e8692361c828fa
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.18 / 56.09 |
+| Net Score / Quant Composite | 14.24 / 57.12 |
 | Market Cap | $7.96B (Sweet Spot $2B-$80B: Yes) |
 | Price | 415.78 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

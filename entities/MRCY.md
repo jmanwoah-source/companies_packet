@@ -3,8 +3,8 @@ ticker: MRCY
 name: "Mercury Systems, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -5.2
-quant_composite_score: 47.4
+net_score: -6.11
+quant_composite_score: 46.95
 market_cap: 4451585154.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3400f5bfda8915d6d750f0945b8a9daa43aa8f4375c1597b81c59b6827dd7613
+wiki_state_hash: 1748e81cfbb42468b6fe561587b1f7481f53b9f5d4df90832259d8a2537ffff9
 ---
 
 # Mercury Systems, Inc. (MRCY)
@@ -33,7 +33,7 @@ wiki_state_hash: 3400f5bfda8915d6d750f0945b8a9daa43aa8f4375c1597b81c59b6827dd761
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -5.20 / 47.40 |
+| Net Score / Quant Composite | -6.11 / 46.95 |
 | Market Cap | $4.45B (Sweet Spot $2B-$80B: Yes) |
 | Price | 73.07 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

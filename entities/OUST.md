@@ -3,8 +3,8 @@ ticker: OUST
 name: "Ouster, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -85.4
+quant_composite_score: 7.3
 market_cap: 1881137045.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: a72c1246cb24e8ad874d9a2b36ae3b32c647ff1449bb0c3253bf84092c2a459c
+wiki_state_hash: b08adbf0dc44a24936db3324b48e22ddbe288913f298155b44c366cdcbe2649b
 ---
 
 # Ouster, Inc. (OUST)
@@ -32,7 +32,7 @@ wiki_state_hash: a72c1246cb24e8ad874d9a2b36ae3b32c647ff1449bb0c3253bf84092c2a459
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -85.40 / 7.30 |
 | Market Cap | $1.88B (Sweet Spot $2B-$80B: No) |
 | Price | 25.77 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

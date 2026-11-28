@@ -3,8 +3,8 @@ ticker: DLR
 name: "Digital Realty Trust, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -26.18
-quant_composite_score: 36.91
+net_score: -29.86
+quant_composite_score: 35.07
 market_cap: 62964776874.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: f94ace91a6fbe0b0a46cf5c3cd6016f340c27ab74c93281f45d25c270e610117
+wiki_state_hash: 27eaf45d3460408e18b0d9d7f39a09bcf1d6e1a9aad97580850f02b27903332b
 ---
 
 # Digital Realty Trust, Inc. (DLR)
@@ -33,7 +33,7 @@ wiki_state_hash: f94ace91a6fbe0b0a46cf5c3cd6016f340c27ab74c93281f45d25c270e61011
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.18 / 36.91 |
+| Net Score / Quant Composite | -29.86 / 35.07 |
 | Market Cap | $62.96B (Sweet Spot $2B-$80B: Yes) |
 | Price | 166.43 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

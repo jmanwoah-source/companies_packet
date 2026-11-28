@@ -3,8 +3,8 @@ ticker: SYM
 name: "Symbotic Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: EMERGING_EDGE
-net_score: 42.35
-quant_composite_score: 71.18
+net_score: 46.07
+quant_composite_score: 73.04
 market_cap: 23178404975.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 4cd9f091ed2899b0b6efd34ff689cb096052037e3c8e331a5018eaf46e5db4b5
+wiki_state_hash: c0ae1f0f5e444c1615a3b40a4bc9cf88b28c7ca6ce0aefa620106e59cc76101d
 ---
 
 # Symbotic Inc. (SYM)
@@ -33,7 +33,7 @@ wiki_state_hash: 4cd9f091ed2899b0b6efd34ff689cb096052037e3c8e331a5018eaf46e5db4b
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 42.35 / 71.18 |
+| Net Score / Quant Composite | 46.07 / 73.04 |
 | Market Cap | $23.18B (Sweet Spot $2B-$80B: Yes) |
 | Price | 38.02 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

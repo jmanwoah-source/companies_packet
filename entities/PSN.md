@@ -3,8 +3,8 @@ ticker: PSN
 name: "Parsons Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 8.78
-quant_composite_score: 54.39
+net_score: 10.29
+quant_composite_score: 55.15
 market_cap: 5621007140.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2b94ba2852a948e6cc8b2b0855b716913e082f1257c869587e73b704509e06f9
+wiki_state_hash: 80d65e35907cc68f2ab874cf784e52aaea4a4b6d4b2e267796c4c03e35759c6a
 ---
 
 # Parsons Corporation (PSN)
@@ -33,7 +33,7 @@ wiki_state_hash: 2b94ba2852a948e6cc8b2b0855b716913e082f1257c869587e73b704509e06f
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 8.78 / 54.39 |
+| Net Score / Quant Composite | 10.29 / 55.15 |
 | Market Cap | $5.62B (Sweet Spot $2B-$80B: Yes) |
 | Price | 53.26 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

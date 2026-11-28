@@ -3,8 +3,8 @@ ticker: WK
 name: "Workiva Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 13.78
-quant_composite_score: 56.89
+net_score: 16.07
+quant_composite_score: 58.04
 market_cap: 3560299938.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 1248052b6b9f0172d0cc28815fd743f02c857203385f028f7d9b51ef3fce27f4
+wiki_state_hash: f16f7417bc3465a4ffe1246c22f4474f589049a48bb48d97eb948ad18ab05b82
 ---
 
 # Workiva Inc. (WK)
@@ -32,7 +32,7 @@ wiki_state_hash: 1248052b6b9f0172d0cc28815fd743f02c857203385f028f7d9b51ef3fce27f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 13.78 / 56.89 |
+| Net Score / Quant Composite | 16.07 / 58.04 |
 | Market Cap | $3.56B (Sweet Spot $2B-$80B: Yes) |
 | Price | 70.02 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

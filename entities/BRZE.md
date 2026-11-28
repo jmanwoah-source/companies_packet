@@ -3,8 +3,8 @@ ticker: BRZE
 name: "Braze, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -18.76
-quant_composite_score: 40.62
+net_score: -21.72
+quant_composite_score: 39.14
 market_cap: 5271453396.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 896a189e179d618d9d9a897bd598012dd97ad1279ae3732a47c74c13ec38db79
+wiki_state_hash: 3c72d3bafb43b630d58687a328d0900260bfd52a1196c8ca7c1b0f12cb1e3e51
 ---
 
 # Braze, Inc. (BRZE)
@@ -32,7 +32,7 @@ wiki_state_hash: 896a189e179d618d9d9a897bd598012dd97ad1279ae3732a47c74c13ec38db7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.76 / 40.62 |
+| Net Score / Quant Composite | -21.72 / 39.14 |
 | Market Cap | $5.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 46.41 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

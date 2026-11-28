@@ -3,8 +3,8 @@ ticker: GMED
 name: "Globus Medical, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: EMERGING_EDGE
-net_score: 34.42
-quant_composite_score: 67.21
+net_score: 38.42
+quant_composite_score: 69.21
 market_cap: 9561806584.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 9f8a3fe6d02b007d25ab936283f45907bb49df62ddb01239ce21e4aff1dbf9d6
+wiki_state_hash: 9dbbfbcab0870c1ec524ebf0bd00023900eb9dfc66e3bca6dc498c5964190188
 ---
 
 # Globus Medical, Inc. (GMED)
@@ -32,7 +32,7 @@ wiki_state_hash: 9f8a3fe6d02b007d25ab936283f45907bb49df62ddb01239ce21e4aff1dbf9d
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 34.42 / 67.21 |
+| Net Score / Quant Composite | 38.42 / 69.21 |
 | Market Cap | $9.56B (Sweet Spot $2B-$80B: Yes) |
 | Price | 72.18 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: COHR
 name: "Coherent, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: WATCHLIST
-net_score: -87.23
-quant_composite_score: 6.38
+net_score: -77.24
+quant_composite_score: 11.38
 market_cap: 38641321271.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 6e1b374d2da0ce274c70d6dc7794f5561f4067ea963d143c10cda752896e6874
+wiki_state_hash: 01285966b35c23bd266881037420b4f0faf2d2ccae5724325e7331e4f591150d
 ---
 
 # Coherent, Inc. (COHR)
@@ -34,7 +34,7 @@ wiki_state_hash: 6e1b374d2da0ce274c70d6dc7794f5561f4067ea963d143c10cda752896e687
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -87.23 / 6.38 |
+| Net Score / Quant Composite | -77.24 / 11.38 |
 | Market Cap | $38.64B (Sweet Spot $2B-$80B: Yes) |
 | Price | 196.19 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

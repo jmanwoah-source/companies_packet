@@ -3,8 +3,8 @@ ticker: JCI
 name: "Johnson Controls International plc"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -44.55
-quant_composite_score: 27.73
+net_score: -48.09
+quant_composite_score: 25.96
 market_cap: 81927300000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: ab9a06bcaddfcadf00e268ab4758a1ae0b1fb8595f88514a9bbfc1302ae76b5d
+wiki_state_hash: 2c3a2714206513a65e533735a29b31f16932dd7ee36ef5279d8977d00dfade46
 ---
 
 # Johnson Controls International plc (JCI)
@@ -32,7 +32,7 @@ wiki_state_hash: ab9a06bcaddfcadf00e268ab4758a1ae0b1fb8595f88514a9bbfc1302ae76b5
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -44.55 / 27.73 |
+| Net Score / Quant Composite | -48.09 / 25.96 |
 | Market Cap | $81.93B (Sweet Spot $2B-$80B: No) |
 | Price | 136.50 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

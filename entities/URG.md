@@ -3,8 +3,8 @@ ticker: URG
 name: "Ur-Energy Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -38.86
-quant_composite_score: 30.57
+net_score: -42.78
+quant_composite_score: 28.61
 market_cap: 187488103.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 8c1498e67d416dbeb1aa4d8356391beef3c321069aaea18f3176dcbe744a144c
+wiki_state_hash: a9d6d79e2e594a83c829f66fd179899e45039749a9ea5393ee1822b56a652117
 ---
 
 # Ur-Energy Inc. (URG)
@@ -31,7 +31,7 @@ wiki_state_hash: 8c1498e67d416dbeb1aa4d8356391beef3c321069aaea18f3176dcbe744a144
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -38.86 / 30.57 |
+| Net Score / Quant Composite | -42.78 / 28.61 |
 | Market Cap | $187.5M (Sweet Spot $2B-$80B: No) |
 | Price | 0.47 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

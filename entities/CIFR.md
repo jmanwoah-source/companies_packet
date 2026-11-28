@@ -3,8 +3,8 @@ ticker: CIFR
 name: "Cipher Mining Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -39.5
-quant_composite_score: 30.25
+net_score: -43.39
+quant_composite_score: 28.31
 market_cap: 2514571150.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7da54dec22a7b0be26b12559d76d4cac7a62dee848eb3d1dd073472d99cd7a99
+wiki_state_hash: b519d293b98490230c45c7eea50f889bd79183392b1d9baed758e17e1faefb90
 ---
 
 # Cipher Mining Inc. (CIFR)
@@ -32,7 +32,7 @@ wiki_state_hash: 7da54dec22a7b0be26b12559d76d4cac7a62dee848eb3d1dd073472d99cd7a9
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -39.50 / 30.25 |
+| Net Score / Quant Composite | -43.39 / 28.31 |
 | Market Cap | $2.51B (Sweet Spot $2B-$80B: Yes) |
 | Price | 5.51 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: LAR
 name: "Lithium Argentina AG"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -23.15
-quant_composite_score: 38.43
+net_score: -26.58
+quant_composite_score: 36.71
 market_cap: 546786000.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 2d5a43d1f0a654669a6959528fca07e40008ddf914eb670ffe52697ac2ea732a
+wiki_state_hash: 902a6ec432e388f24330e554063ad2cdf26d3792afddf42949c848fe9c68f6fc
 ---
 
 # Lithium Argentina AG (LAR)
@@ -31,7 +31,7 @@ wiki_state_hash: 2d5a43d1f0a654669a6959528fca07e40008ddf914eb670ffe52697ac2ea732
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.15 / 38.43 |
+| Net Score / Quant Composite | -26.58 / 36.71 |
 | Market Cap | $546.8M (Sweet Spot $2B-$80B: No) |
 | Price | 3.33 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

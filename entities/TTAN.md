@@ -3,8 +3,8 @@ ticker: TTAN
 name: "ServiceTitan, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 67.93
-quant_composite_score: 83.96
+net_score: 66.36
+quant_composite_score: 83.18
 market_cap: 7407770271.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 5fa6d801b9d6c7f2e67b6b01e6c46ab8f52a961569272dc68a51915406bee95d
+wiki_state_hash: a2bf948578a0f04c23d8c53ab46de2c26b061da6cd9a8be0d15cdc3dd30e3363
 ---
 
 # ServiceTitan, Inc. (TTAN)
@@ -33,7 +33,7 @@ wiki_state_hash: 5fa6d801b9d6c7f2e67b6b01e6c46ab8f52a961569272dc68a51915406bee95
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 67.93 / 83.96 |
+| Net Score / Quant Composite | 66.36 / 83.18 |
 | Market Cap | $7.41B (Sweet Spot $2B-$80B: Yes) |
 | Price | 76.79 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

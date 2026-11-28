@@ -3,8 +3,8 @@ ticker: NXPI
 name: "NXP Semiconductors N.V."
 pillar: SEMI_SUBSYSTEMS
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -84.32
+quant_composite_score: 7.84
 market_cap: 61238796880.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -24,7 +24,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: e34b8982ce234bbe56204080b4556567ad4bb095d0900a433733998d9be3e357
+wiki_state_hash: a54adf50f8e299bceebb04ec3f0bc14a4a3d96e995faac9d7054bbfb3b13581b
 ---
 
 # NXP Semiconductors N.V. (NXPI)
@@ -35,7 +35,7 @@ wiki_state_hash: e34b8982ce234bbe56204080b4556567ad4bb095d0900a433733998d9be3e35
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -84.32 / 7.84 |
 | Market Cap | $61.24B (Sweet Spot $2B-$80B: Yes) |
 | Price | 242.96 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

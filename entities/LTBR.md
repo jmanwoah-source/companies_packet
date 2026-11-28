@@ -2,9 +2,9 @@
 ticker: LTBR
 name: "Lightbridge Corporation"
 pillar: ENERGY_MATERIALS
-tier: NEUTRAL
-net_score: 33.12
-quant_composite_score: 66.56
+tier: EMERGING_EDGE
+net_score: 37.11
+quant_composite_score: 68.55
 market_cap: 122495188.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -18,9 +18,9 @@ tags:
   - pillar/energy_materials
   - etf/ura
   - mcap/small
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: 9921ed10b1c6c6e25db0b86eaf500d852dc7b2eba0e3c81fa2c6a2642ac68e47
+wiki_state_hash: 66749a639ef1c2f71845f901e0afacd4e7b833b04e81a8d2133250ad568dbf0d
 ---
 
 # Lightbridge Corporation (LTBR)
@@ -30,8 +30,8 @@ wiki_state_hash: 9921ed10b1c6c6e25db0b86eaf500d852dc7b2eba0e3c81fa2c6a2642ac68e4
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 33.12 / 66.56 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 37.11 / 68.55 |
 | Market Cap | $122.5M (Sweet Spot $2B-$80B: No) |
 | Price | 3.16 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

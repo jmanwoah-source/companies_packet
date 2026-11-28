@@ -3,8 +3,8 @@ ticker: FPS
 name: "Forgent Power Solutions, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -16.42
-quant_composite_score: 41.79
+net_score: -19.08
+quant_composite_score: 40.46
 market_cap: 5166600022.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 69fb6f3abb05c77ed89a20bca2b2549e7c2e14091265045957910630b204f3a1
+wiki_state_hash: dd967627d48691a4842e48e07f8fcd1b79df70e85845553f157c33f03e7f7765
 ---
 
 # Forgent Power Solutions, Inc. (FPS)
@@ -33,7 +33,7 @@ wiki_state_hash: 69fb6f3abb05c77ed89a20bca2b2549e7c2e14091265045957910630b204f3a
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -16.42 / 41.79 |
+| Net Score / Quant Composite | -19.08 / 40.46 |
 | Market Cap | $5.17B (Sweet Spot $2B-$80B: Yes) |
 | Price | 18.82 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

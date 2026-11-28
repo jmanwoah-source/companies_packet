@@ -3,8 +3,8 @@ ticker: ALKT
 name: "Alkami Technology, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 26.44
-quant_composite_score: 63.22
+net_score: 30.14
+quant_composite_score: 65.07
 market_cap: 1463264140.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2e906c7dfc8272c29307e7925ad24dbdd57270b69a63865305bbc3f22c2a7c76
+wiki_state_hash: 5a9e167e16323526b00953edee940192e3172e91b4c5bfea741046e784d8f537
 ---
 
 # Alkami Technology, Inc. (ALKT)
@@ -31,7 +31,7 @@ wiki_state_hash: 2e906c7dfc8272c29307e7925ad24dbdd57270b69a63865305bbc3f22c2a7c7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 26.44 / 63.22 |
+| Net Score / Quant Composite | 30.14 / 65.07 |
 | Market Cap | $1.46B (Sweet Spot $2B-$80B: No) |
 | Price | 13.67 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

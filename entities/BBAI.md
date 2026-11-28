@@ -3,8 +3,8 @@ ticker: BBAI
 name: "BigBear.ai Holdings, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -12.19
-quant_composite_score: 43.9
+net_score: -14.25
+quant_composite_score: 42.88
 market_cap: 760597712.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 35ac73d217df86d584cc4e7a4e5a3102194b72bce9a26e17788d489826b5a21b
+wiki_state_hash: edaece08c2b77cb04d13b3659600a13c579bc5244cbb735acdcc080d9fa4f1a4
 ---
 
 # BigBear.ai Holdings, Inc. (BBAI)
@@ -31,7 +31,7 @@ wiki_state_hash: 35ac73d217df86d584cc4e7a4e5a3102194b72bce9a26e17788d489826b5a21
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -12.19 / 43.90 |
+| Net Score / Quant Composite | -14.25 / 42.88 |
 | Market Cap | $760.6M (Sweet Spot $2B-$80B: No) |
 | Price | 1.58 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

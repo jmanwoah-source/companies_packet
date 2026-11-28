@@ -3,8 +3,8 @@ ticker: PWR
 name: "Quanta Services, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -40.52
-quant_composite_score: 29.74
+net_score: -44.36
+quant_composite_score: 27.82
 market_cap: 85203323190.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 5497512caac09edad1f84c7f1aa340608d3e9faa64464d34e7f54e14ef72ce0a
+wiki_state_hash: e488174367c5a68d19580506f86f166f8f40f4cf782cb60ed7885a42704bd955
 ---
 
 # Quanta Services, Inc. (PWR)
@@ -32,7 +32,7 @@ wiki_state_hash: 5497512caac09edad1f84c7f1aa340608d3e9faa64464d34e7f54e14ef72ce0
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -40.52 / 29.74 |
+| Net Score / Quant Composite | -44.36 / 27.82 |
 | Market Cap | $85.20B (Sweet Spot $2B-$80B: No) |
 | Price | 565.47 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

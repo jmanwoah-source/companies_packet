@@ -3,8 +3,8 @@ ticker: ESLT
 name: "Elbit Systems Ltd."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -7.53
-quant_composite_score: 46.23
+net_score: -8.84
+quant_composite_score: 45.58
 market_cap: 31036562227.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 0227963b6feea3bbc96cb754229083abcce4cfa8d4e550f3f957f9b09f73dd3a
+wiki_state_hash: ff52dbd764251e74a6fc248dfb3883a89292c9a60af806d63df57c2986384c51
 ---
 
 # Elbit Systems Ltd. (ESLT)
@@ -33,7 +33,7 @@ wiki_state_hash: 0227963b6feea3bbc96cb754229083abcce4cfa8d4e550f3f957f9b09f73dd3
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -7.53 / 46.23 |
+| Net Score / Quant Composite | -8.84 / 45.58 |
 | Market Cap | $31.04B (Sweet Spot $2B-$80B: Yes) |
 | Price | 662.03 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

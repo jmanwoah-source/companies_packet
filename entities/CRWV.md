@@ -3,8 +3,8 @@ ticker: CRWV
 name: "CoreWeave, Inc. Class A Common Stock"
 pillar: NEXTGEN_COMPUTE
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -89.03
+quant_composite_score: 5.48
 market_cap: 23674271517.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 690f8a432f7232fcdbe43e96bbd7d5157304aa88905bf3d65d4fc84e50c4d228
+wiki_state_hash: da9f1cade5f35a19cfe0ab9fb000b011430b1e79aae2860ba58e82fb438cf2ab
 ---
 
 # CoreWeave, Inc. Class A Common Stock (CRWV)
@@ -33,7 +33,7 @@ wiki_state_hash: 690f8a432f7232fcdbe43e96bbd7d5157304aa88905bf3d65d4fc84e50c4d22
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -89.03 / 5.48 |
 | Market Cap | $23.67B (Sweet Spot $2B-$80B: Yes) |
 | Price | 42.57 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

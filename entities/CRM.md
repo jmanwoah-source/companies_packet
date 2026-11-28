@@ -3,8 +3,8 @@ ticker: CRM
 name: "Salesforce, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -5.53
-quant_composite_score: 47.24
+net_score: -6.49
+quant_composite_score: 46.75
 market_cap: 162303830000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 46f813b2e07cb11968f70a988b913ddba6849968c1cf0bdad6c7aeea5665fcf5
+wiki_state_hash: 3486d557dd494705c6dfaf23f6e075d6a97f6b873396af9ea9c4ea6cc87589d1
 ---
 
 # Salesforce, Inc. (CRM)
@@ -32,7 +32,7 @@ wiki_state_hash: 46f813b2e07cb11968f70a988b913ddba6849968c1cf0bdad6c7aeea5665fcf
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -5.53 / 47.24 |
+| Net Score / Quant Composite | -6.49 / 46.75 |
 | Market Cap | $162.30B (Sweet Spot $2B-$80B: No) |
 | Price | 197.21 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

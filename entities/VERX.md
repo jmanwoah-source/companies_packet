@@ -3,8 +3,8 @@ ticker: VERX
 name: "Vertex, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -17.52
-quant_composite_score: 41.24
+net_score: -20.32
+quant_composite_score: 39.84
 market_cap: 3074974260.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c5c5ad8229f6d631d87d6508f3d8896903bdad64b3769181868b26801e0227ac
+wiki_state_hash: 15228fc2dada54ffbc57bd685f89345c77575dfe6b562e68c4d5dfd3307822ec
 ---
 
 # Vertex, Inc. (VERX)
@@ -32,7 +32,7 @@ wiki_state_hash: c5c5ad8229f6d631d87d6508f3d8896903bdad64b3769181868b26801e0227a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -17.52 / 41.24 |
+| Net Score / Quant Composite | -20.32 / 39.84 |
 | Market Cap | $3.07B (Sweet Spot $2B-$80B: Yes) |
 | Price | 18.95 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

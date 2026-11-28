@@ -3,8 +3,8 @@ ticker: STM
 name: "STMicroelectronics N.V."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 9.14
-quant_composite_score: 54.57
+net_score: 10.71
+quant_composite_score: 55.36
 market_cap: 35475747556.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -24,7 +24,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: cca31c3f52fefb0a3f1bf58a5ca6ccc125dc5da0b394adfa4edc717e56c03754
+wiki_state_hash: fb48e3f0f51bc289b7b605fcb03c242cb30b470510892a35ce20bd7d8a86e59b
 ---
 
 # STMicroelectronics N.V. (STM)
@@ -35,7 +35,7 @@ wiki_state_hash: cca31c3f52fefb0a3f1bf58a5ca6ccc125dc5da0b394adfa4edc717e56c0375
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.14 / 54.57 |
+| Net Score / Quant Composite | 10.71 / 55.36 |
 | Market Cap | $35.48B (Sweet Spot $2B-$80B: Yes) |
 | Price | 39.73 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

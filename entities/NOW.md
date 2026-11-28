@@ -3,8 +3,8 @@ ticker: NOW
 name: "ServiceNow, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 12.11
-quant_composite_score: 56.06
+net_score: 14.15
+quant_composite_score: 57.08
 market_cap: 95654430720.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: e6bc03ab87a43745713529ebed06c922ed40a8269e45aef64b148bd91151bbf1
+wiki_state_hash: 5fc12a8cdb30fb5e1ae0c4e9b3e4ff0a28c15ec94ae66cd470e346f98d2e305c
 ---
 
 # ServiceNow, Inc. (NOW)
@@ -32,7 +32,7 @@ wiki_state_hash: e6bc03ab87a43745713529ebed06c922ed40a8269e45aef64b148bd91151bbf
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.11 / 56.06 |
+| Net Score / Quant Composite | 14.15 / 57.08 |
 | Market Cap | $95.65B (Sweet Spot $2B-$80B: No) |
 | Price | 92.16 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

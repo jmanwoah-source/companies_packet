@@ -3,8 +3,8 @@ ticker: HUBS
 name: "HubSpot, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 1.13
-quant_composite_score: 50.56
+net_score: 1.33
+quant_composite_score: 50.66
 market_cap: 10265920665.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 80a464ebfaa2b6169941fb7a613814242ff458d56dee469fdd5596ebbceabc95
+wiki_state_hash: dd15d9d75f8c72660f3a1411b3c19143414bed1b57154f550ff6d9cbbe087bb3
 ---
 
 # HubSpot, Inc. (HUBS)
@@ -32,7 +32,7 @@ wiki_state_hash: 80a464ebfaa2b6169941fb7a613814242ff458d56dee469fdd5596ebbceabc9
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.13 / 50.56 |
+| Net Score / Quant Composite | 1.33 / 50.66 |
 | Market Cap | $10.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 210.21 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

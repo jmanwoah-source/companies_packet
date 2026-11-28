@@ -3,8 +3,8 @@ ticker: XNDU
 name: "Xanadu Quantum Technologies Limited"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 24.47
-quant_composite_score: 62.24
+net_score: 28.02
+quant_composite_score: 64.01
 market_cap: 114093527.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 969ebb70f5d55fd0475adafb09ff2df5d8a048abaefe8903740d7605b748b9a7
+wiki_state_hash: b267b638c6f55f008892911fbcfe3776d211765bb5da4d502275f9c5daaf61a9
 ---
 
 # Xanadu Quantum Technologies Limited (XNDU)
@@ -31,7 +31,7 @@ wiki_state_hash: 969ebb70f5d55fd0475adafb09ff2df5d8a048abaefe8903740d7605b748b9a
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 24.47 / 62.24 |
+| Net Score / Quant Composite | 28.02 / 64.01 |
 | Market Cap | $114.1M (Sweet Spot $2B-$80B: No) |
 | Price | 2.05 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

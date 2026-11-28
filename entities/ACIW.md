@@ -3,8 +3,8 @@ ticker: ACIW
 name: "ACI Worldwide, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -0.87
-quant_composite_score: 49.57
+net_score: -1.02
+quant_composite_score: 49.49
 market_cap: 5131987900.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0dc4e018e1498891a16af2748ae409b2b474dee6eb445123038704a9650843b1
+wiki_state_hash: f918bc8bf992ef82db7276da7e60f34ce993827404de60517eace22a50df9a79
 ---
 
 # ACI Worldwide, Inc. (ACIW)
@@ -32,7 +32,7 @@ wiki_state_hash: 0dc4e018e1498891a16af2748ae409b2b474dee6eb445123038704a9650843b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -0.87 / 49.57 |
+| Net Score / Quant Composite | -1.02 / 49.49 |
 | Market Cap | $5.13B (Sweet Spot $2B-$80B: Yes) |
 | Price | 51.22 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: RNG
 name: "RingCentral, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 17.11
-quant_composite_score: 58.56
+net_score: 19.87
+quant_composite_score: 59.93
 market_cap: 5313467904.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 73d45f7901be3fb35b629d944168df1362b839df25da79954ce972cc7647125d
+wiki_state_hash: 6735112468b3cab258cebcc52039b901a9ffcd7e3f88c6b39e7547bda04de4d7
 ---
 
 # RingCentral, Inc. (RNG)
@@ -32,7 +32,7 @@ wiki_state_hash: 73d45f7901be3fb35b629d944168df1362b839df25da79954ce972cc7647125
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 17.11 / 58.56 |
+| Net Score / Quant Composite | 19.87 / 59.93 |
 | Market Cap | $5.31B (Sweet Spot $2B-$80B: Yes) |
 | Price | 71.13 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

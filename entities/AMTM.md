@@ -3,8 +3,8 @@ ticker: AMTM
 name: "Amentum Holdings, Inc."
 pillar: DEFENSE
 tier: GOLDEN
-net_score: 73.94
-quant_composite_score: 86.97
+net_score: 70.13
+quant_composite_score: 85.07
 market_cap: 6078953128.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 79b14d9d3e499bb3e3da449c3a813875d1c6f5ea7bcdcfef6c0a71a92a05e2c5
+wiki_state_hash: b5f148f6dae8d68b27432a064bf2fffd1ddef297d8d0fdbae1bc13544a8be644
 ---
 
 # Amentum Holdings, Inc. (AMTM)
@@ -33,7 +33,7 @@ wiki_state_hash: 79b14d9d3e499bb3e3da449c3a813875d1c6f5ea7bcdcfef6c0a71a92a05e2c
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 73.94 / 86.97 |
+| Net Score / Quant Composite | 70.13 / 85.07 |
 | Market Cap | $6.08B (Sweet Spot $2B-$80B: Yes) |
 | Price | 24.86 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

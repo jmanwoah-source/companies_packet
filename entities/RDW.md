@@ -3,8 +3,8 @@ ticker: RDW
 name: "Redwire Corp"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -23.84
-quant_composite_score: 38.08
+net_score: -27.34
+quant_composite_score: 36.33
 market_cap: 1473789910.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e6386668ce1832c879c4de1d0db81910d11b6fe680b9a9571d1c14b1b5c53978
+wiki_state_hash: 6b4282423cd292d1154f07c1908a72f140c8bc11a43e0a78eebad2d2c3ef3092
 ---
 
 # Redwire Corp (RDW)
@@ -31,7 +31,7 @@ wiki_state_hash: e6386668ce1832c879c4de1d0db81910d11b6fe680b9a9571d1c14b1b5c5397
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.84 / 38.08 |
+| Net Score / Quant Composite | -27.34 / 36.33 |
 | Market Cap | $1.47B (Sweet Spot $2B-$80B: No) |
 | Price | 5.89 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

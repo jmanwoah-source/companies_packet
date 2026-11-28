@@ -3,8 +3,8 @@ ticker: SAIC
 name: "Science Applications International Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 27.86
-quant_composite_score: 63.93
+net_score: 31.65
+quant_composite_score: 65.82
 market_cap: 6217609034.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: af7de5644cbd2af495299a5673e559b470574741eca83365ab023214c4d02dd3
+wiki_state_hash: 8cb262cd95dfcbd941018f9c629d58b7cb57efb382203d9547cbc5cbf3d2d180
 ---
 
 # Science Applications International Corporation (SAIC)
@@ -32,7 +32,7 @@ wiki_state_hash: af7de5644cbd2af495299a5673e559b470574741eca83365ab023214c4d02dd
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.86 / 63.93 |
+| Net Score / Quant Composite | 31.65 / 65.82 |
 | Market Cap | $6.22B (Sweet Spot $2B-$80B: Yes) |
 | Price | 148.40 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

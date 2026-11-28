@@ -3,8 +3,8 @@ ticker: TTWO
 name: "Take-Two Interactive Software, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -67.66
-quant_composite_score: 16.17
+net_score: -66.18
+quant_composite_score: 16.91
 market_cap: 42561003420.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: a6dfbaba0766314b9fda507dc057d9a21d93d4ed844c0a4a40401feb5d6a379e
+wiki_state_hash: c869d187c83b66c3cf470132d28caa3d44994d85e130c35d098aa918aaa5dfb7
 ---
 
 # Take-Two Interactive Software, Inc. (TTWO)
@@ -33,7 +33,7 @@ wiki_state_hash: a6dfbaba0766314b9fda507dc057d9a21d93d4ed844c0a4a40401feb5d6a379
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -67.66 / 16.17 |
+| Net Score / Quant Composite | -66.18 / 16.91 |
 | Market Cap | $42.56B (Sweet Spot $2B-$80B: Yes) |
 | Price | 227.34 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

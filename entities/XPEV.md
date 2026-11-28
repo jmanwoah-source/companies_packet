@@ -3,8 +3,8 @@ ticker: XPEV
 name: "XPeng Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -86.12
+quant_composite_score: 6.94
 market_cap: 8540566418.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 0e7adb1c11bafba3fcc1effddefdf4c65d52bd759c81cabc4e9cb56871a5ffed
+wiki_state_hash: d2c022ae50a78c655cca0fdad2f89e14756a7941a443d733292d0b4624a5fbab
 ---
 
 # XPeng Inc. (XPEV)
@@ -33,7 +33,7 @@ wiki_state_hash: 0e7adb1c11bafba3fcc1effddefdf4c65d52bd759c81cabc4e9cb56871a5ffe
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -86.12 / 6.94 |
 | Market Cap | $8.54B (Sweet Spot $2B-$80B: Yes) |
 | Price | 8.99 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

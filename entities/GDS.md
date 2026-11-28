@@ -3,8 +3,8 @@ ticker: GDS
 name: "GDS Holdings Limited"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -30.03
-quant_composite_score: 34.98
+net_score: -33.93
+quant_composite_score: 33.03
 market_cap: 2690016750.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c8701369ae88e81977e466186013ee7a988b42ce99afe9be527afe302db219e0
+wiki_state_hash: 71cbe81cccf234f24325523da5a535fba99f13d892750d2cb17adb92927f015d
 ---
 
 # GDS Holdings Limited (GDS)
@@ -32,7 +32,7 @@ wiki_state_hash: c8701369ae88e81977e466186013ee7a988b42ce99afe9be527afe302db219e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -30.03 / 34.98 |
+| Net Score / Quant Composite | -33.93 / 33.03 |
 | Market Cap | $2.69B (Sweet Spot $2B-$80B: Yes) |
 | Price | 13.80 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

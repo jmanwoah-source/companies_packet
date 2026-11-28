@@ -3,8 +3,8 @@ ticker: AMAT
 name: "Applied Materials, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: EMERGING_EDGE
-net_score: 52.33
-quant_composite_score: 76.16
+net_score: 54.81
+quant_composite_score: 77.4
 market_cap: 246951652313.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: a13f735d34fbbbbc3a2bd7ec5f7efb43a963da1f946d54fd55b9cf341475e2f7
+wiki_state_hash: e39913bebd2cde42ee3c4751d77a7d387c32cd3b8cd1baff345470af357d3fe6
 ---
 
 # Applied Materials, Inc. (AMAT)
@@ -33,7 +33,7 @@ wiki_state_hash: a13f735d34fbbbbc3a2bd7ec5f7efb43a963da1f946d54fd55b9cf341475e2f
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 52.33 / 76.16 |
+| Net Score / Quant Composite | 54.81 / 77.40 |
 | Market Cap | $246.95B (Sweet Spot $2B-$80B: No) |
 | Price | 311.18 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

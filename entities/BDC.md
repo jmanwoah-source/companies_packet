@@ -3,8 +3,8 @@ ticker: BDC
 name: "Belden Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -7.45
-quant_composite_score: 46.28
+net_score: -8.74
+quant_composite_score: 45.63
 market_cap: 3879111000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 75abfee5e607d09df1dbbaa928a239e526f4b89be4cc7a657df7c82cd84618e8
+wiki_state_hash: 49ff0116b6738d2b201884d545985f5abd1d17f4cf1c2711c40e7d719411c0f6
 ---
 
 # Belden Inc. (BDC)
@@ -32,7 +32,7 @@ wiki_state_hash: 75abfee5e607d09df1dbbaa928a239e526f4b89be4cc7a657df7c82cd84618e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -7.45 / 46.28 |
+| Net Score / Quant Composite | -8.74 / 45.63 |
 | Market Cap | $3.88B (Sweet Spot $2B-$80B: Yes) |
 | Price | 99.21 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

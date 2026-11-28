@@ -3,8 +3,8 @@ ticker: NN
 name: "NextNav Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 67.36
-quant_composite_score: 83.68
+net_score: 65.98
+quant_composite_score: 82.99
 market_cap: 1128333486.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 7a7fc1e62f5020323bbe9d5811262a889dc0831c3f8fdba9835c972bffe90438
+wiki_state_hash: 7482ed3167f43b3678b91e97bddf563ad02014bf27e9d4193438a5642ef51d46
 ---
 
 # NextNav Inc. (NN)
@@ -32,7 +32,7 @@ wiki_state_hash: 7a7fc1e62f5020323bbe9d5811262a889dc0831c3f8fdba9835c972bffe9043
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 67.36 / 83.68 |
+| Net Score / Quant Composite | 65.98 / 82.99 |
 | Market Cap | $1.13B (Sweet Spot $2B-$80B: No) |
 | Price | 8.27 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: INFQ
 name: "Infleqtion Inc"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -9.04
-quant_composite_score: 45.48
+net_score: -10.6
+quant_composite_score: 44.7
 market_cap: 1468342673.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2328e9427ecf2338302d0e1158dab95bf99ac8f250ae7b323cced075cfc35d3d
+wiki_state_hash: 01848feabec5dd0546f4211b9ad6a7d1fe8a1aeb0bf2d826565e67fa780d7de6
 ---
 
 # Infleqtion Inc (INFQ)
@@ -31,7 +31,7 @@ wiki_state_hash: 2328e9427ecf2338302d0e1158dab95bf99ac8f250ae7b323cced075cfc35d3
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -9.04 / 45.48 |
+| Net Score / Quant Composite | -10.60 / 44.70 |
 | Market Cap | $1.47B (Sweet Spot $2B-$80B: No) |
 | Price | 6.49 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

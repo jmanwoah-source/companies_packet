@@ -3,8 +3,8 @@ ticker: BL
 name: "BlackLine, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 21.1
-quant_composite_score: 60.55
+net_score: 24.33
+quant_composite_score: 62.16
 market_cap: 1623034938.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 71f4e5c211684a8afef0472655b817c19e6c2e5f5523aaade0e87ed216380041
+wiki_state_hash: d1a19a4bf70d548a76666e81aa1b629d7a9136eca71756919d41455a97e7ea2e
 ---
 
 # BlackLine, Inc. (BL)
@@ -31,7 +31,7 @@ wiki_state_hash: 71f4e5c211684a8afef0472655b817c19e6c2e5f5523aaade0e87ed21638004
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 21.10 / 60.55 |
+| Net Score / Quant Composite | 24.33 / 62.16 |
 | Market Cap | $1.62B (Sweet Spot $2B-$80B: No) |
 | Price | 28.42 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

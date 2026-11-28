@@ -3,8 +3,8 @@ ticker: U
 name: "Unity Software Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -24.84
-quant_composite_score: 37.58
+net_score: -28.42
+quant_composite_score: 35.79
 market_cap: 21410296922.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 02cbfa7f77f0703d939e8ec12aead4dbbc39847321843710ef9c205056f33a5c
+wiki_state_hash: 1671694e6d9e24686a16a953fab113862beebf93feac8b12f07c8870d6b94b21
 ---
 
 # Unity Software Inc. (U)
@@ -32,7 +32,7 @@ wiki_state_hash: 02cbfa7f77f0703d939e8ec12aead4dbbc39847321843710ef9c205056f33a5
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -24.84 / 37.58 |
+| Net Score / Quant Composite | -28.42 / 35.79 |
 | Market Cap | $21.41B (Sweet Spot $2B-$80B: Yes) |
 | Price | 48.24 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

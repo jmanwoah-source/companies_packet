@@ -3,8 +3,8 @@ ticker: AMT
 name: "American Tower Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -45.07
-quant_composite_score: 27.46
+net_score: -48.56
+quant_composite_score: 25.72
 market_cap: 85606196760.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 4cbec3ea20b0a9c029946ca3796f3ffe5499dbc0322544bcf4b3778d91f50ee0
+wiki_state_hash: 81a11dc933857e58f3313eba9214a388373e00b5b08b851dca3b32a61a9396dc
 ---
 
 # American Tower Corporation (AMT)
@@ -32,7 +32,7 @@ wiki_state_hash: 4cbec3ea20b0a9c029946ca3796f3ffe5499dbc0322544bcf4b3778d91f50ee
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -45.07 / 27.46 |
+| Net Score / Quant Composite | -48.56 / 25.72 |
 | Market Cap | $85.61B (Sweet Spot $2B-$80B: No) |
 | Price | 184.59 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

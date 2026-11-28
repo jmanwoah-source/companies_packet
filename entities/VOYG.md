@@ -3,8 +3,8 @@ ticker: VOYG
 name: "Voyager Technologies, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -30.84
-quant_composite_score: 34.58
+net_score: -34.77
+quant_composite_score: 32.62
 market_cap: 1031018688.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 5a43a3ba2390f310c9300588deef5f0119ea519567e9e61cea05fbcb54915d38
+wiki_state_hash: f76a9eae4a90fdf5888fe051bbbfdc28303c7550f696c7c5513aa8cd44daa5cf
 ---
 
 # Voyager Technologies, Inc. (VOYG)
@@ -31,7 +31,7 @@ wiki_state_hash: 5a43a3ba2390f310c9300588deef5f0119ea519567e9e61cea05fbcb54915d3
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -30.84 / 34.58 |
+| Net Score / Quant Composite | -34.77 / 32.62 |
 | Market Cap | $1.03B (Sweet Spot $2B-$80B: No) |
 | Price | 18.30 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

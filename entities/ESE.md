@@ -3,8 +3,8 @@ ticker: ESE
 name: "ESCO Technologies Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 22.86
-quant_composite_score: 61.43
+net_score: 26.26
+quant_composite_score: 63.13
 market_cap: 5520643452.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 81d417ea3601ad9134d1f555ac0962996ee3821775207487a6352da5d9146ae1
+wiki_state_hash: 8e2357bd55db0dfc695cc2397206761e8497d0df8d40294021182f5aaba1cb99
 ---
 
 # ESCO Technologies Inc. (ESE)
@@ -32,7 +32,7 @@ wiki_state_hash: 81d417ea3601ad9134d1f555ac0962996ee3821775207487a6352da5d9146ae
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.86 / 61.43 |
+| Net Score / Quant Composite | 26.26 / 63.13 |
 | Market Cap | $5.52B (Sweet Spot $2B-$80B: Yes) |
 | Price | 213.09 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

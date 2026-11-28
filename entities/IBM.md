@@ -3,8 +3,8 @@ ticker: IBM
 name: "International Business Machines Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -22.89
-quant_composite_score: 38.56
+net_score: -26.29
+quant_composite_score: 36.85
 market_cap: 230108562393.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 2dc80bd4ae832cb56c558d549b2d0eb10054246398d878f5ab6a6b6b5358072e
+wiki_state_hash: ea9103dee47a8f59d2b3e718579367d79b93fc81cfca2d24d27359eb3f687752
 ---
 
 # International Business Machines Corporation (IBM)
@@ -33,7 +33,7 @@ wiki_state_hash: 2dc80bd4ae832cb56c558d549b2d0eb10054246398d878f5ab6a6b6b5358072
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -22.89 / 38.56 |
+| Net Score / Quant Composite | -26.29 / 36.85 |
 | Market Cap | $230.11B (Sweet Spot $2B-$80B: No) |
 | Price | 243.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

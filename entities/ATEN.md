@@ -3,8 +3,8 @@ ticker: ATEN
 name: "A10 Networks, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -18.85
-quant_composite_score: 40.57
+net_score: -21.82
+quant_composite_score: 39.09
 market_cap: 2240802739.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 288348a619996958d805d23ef1086a2868d14917922184d4bdb0db7ec02c6500
+wiki_state_hash: dcc63cbca5741c0af7154dd9c851eb29da7adc37a35f560daa8e2e1a41c537b2
 ---
 
 # A10 Networks, Inc. (ATEN)
@@ -32,7 +32,7 @@ wiki_state_hash: 288348a619996958d805d23ef1086a2868d14917922184d4bdb0db7ec02c650
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.85 / 40.57 |
+| Net Score / Quant Composite | -21.82 / 39.09 |
 | Market Cap | $2.24B (Sweet Spot $2B-$80B: Yes) |
 | Price | 31.10 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

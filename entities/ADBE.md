@@ -3,8 +3,8 @@ ticker: ADBE
 name: "Adobe Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 45.73
-quant_composite_score: 72.86
+net_score: 49.14
+quant_composite_score: 74.57
 market_cap: 90617436000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: ac41b423df0d46f2d3a96e06bf4eb47b26a19d00455f96dfbf5b98940f60e928
+wiki_state_hash: 82e6ee20e93f5ff21949c0ffc7dd03f44dc0291cb2030813d21bcdbe3b1c7e86
 ---
 
 # Adobe Inc. (ADBE)
@@ -32,7 +32,7 @@ wiki_state_hash: ac41b423df0d46f2d3a96e06bf4eb47b26a19d00455f96dfbf5b98940f60e92
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 45.73 / 72.86 |
+| Net Score / Quant Composite | 49.14 / 74.57 |
 | Market Cap | $90.62B (Sweet Spot $2B-$80B: No) |
 | Price | 232.83 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: DDOG
 name: "Datadog, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 50.91
-quant_composite_score: 75.45
+net_score: 53.63
+quant_composite_score: 76.81
 market_cap: 57134987652.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 10069011a8a6c11f5599eb46d9e59bbcc48187cc74afdf8b9a3b4cb4073b9645
+wiki_state_hash: 60782945de3f5a4463dc619853125a0ed753c68bc87e8c1e6dee0c22daf28c70
 ---
 
 # Datadog, Inc. (DDOG)
@@ -33,7 +33,7 @@ wiki_state_hash: 10069011a8a6c11f5599eb46d9e59bbcc48187cc74afdf8b9a3b4cb4073b964
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 50.91 / 75.45 |
+| Net Score / Quant Composite | 53.63 / 76.81 |
 | Market Cap | $57.13B (Sweet Spot $2B-$80B: Yes) |
 | Price | 158.25 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

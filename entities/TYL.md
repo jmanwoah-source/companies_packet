@@ -3,8 +3,8 @@ ticker: TYL
 name: "Tyler Technologies, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 7.12
-quant_composite_score: 53.56
+net_score: 8.36
+quant_composite_score: 54.18
 market_cap: 16710132747.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0d732b3ab262304fa5327985adbd00756efbe0669e0ebee5566ef49abb97e0e2
+wiki_state_hash: bafbc4afe9d72e7d75aeccf09d33685fc67120069ac23ec230203e2b2c3da780
 ---
 
 # Tyler Technologies, Inc. (TYL)
@@ -32,7 +32,7 @@ wiki_state_hash: 0d732b3ab262304fa5327985adbd00756efbe0669e0ebee5566ef49abb97e0e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 7.12 / 53.56 |
+| Net Score / Quant Composite | 8.36 / 54.18 |
 | Market Cap | $16.71B (Sweet Spot $2B-$80B: Yes) |
 | Price | 420.28 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

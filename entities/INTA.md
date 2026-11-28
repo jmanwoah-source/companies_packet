@@ -3,8 +3,8 @@ ticker: INTA
 name: "Intapp, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -3.53
-quant_composite_score: 48.23
+net_score: -4.15
+quant_composite_score: 47.92
 market_cap: 3511400634.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ef3a3010998d3827af4cf468d00360625add3e2f418ca1bed6fcb9a69bd78e4b
+wiki_state_hash: 29fdd39dcaaeb723e2351e26c4caa93c536d8ad9a81a1b763fd977fc10243bed
 ---
 
 # Intapp, Inc. (INTA)
@@ -32,7 +32,7 @@ wiki_state_hash: ef3a3010998d3827af4cf468d00360625add3e2f418ca1bed6fcb9a69bd78e4
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -3.53 / 48.23 |
+| Net Score / Quant Composite | -4.15 / 47.92 |
 | Market Cap | $3.51B (Sweet Spot $2B-$80B: Yes) |
 | Price | 45.81 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

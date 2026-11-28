@@ -3,8 +3,8 @@ ticker: LAC
 name: "Lithium Americas Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -36.05
-quant_composite_score: 31.97
+net_score: -40.04
+quant_composite_score: 29.98
 market_cap: 288029433.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 10ba7c9becc0809293d2e0bc4fe4261b10647fdad69b1afa546470d27528a858
+wiki_state_hash: 759ca66606f25f3205cc89bbd59da2b7b6abe74448302ecd3c53154f4e7f3fcc
 ---
 
 # Lithium Americas Corp. (LAC)
@@ -32,7 +32,7 @@ wiki_state_hash: 10ba7c9becc0809293d2e0bc4fe4261b10647fdad69b1afa546470d27528a85
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -36.05 / 31.97 |
+| Net Score / Quant Composite | -40.04 / 29.98 |
 | Market Cap | $288.0M (Sweet Spot $2B-$80B: No) |
 | Price | 1.29 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

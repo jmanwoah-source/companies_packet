@@ -3,8 +3,8 @@ ticker: CVLT
 name: "Commvault Systems, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -10.19
-quant_composite_score: 44.9
+net_score: -11.93
+quant_composite_score: 44.03
 market_cap: 6429005964.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0bc910117d7f687073d5253206848ed1d327cf66dfebd8680c7eb46a08208d55
+wiki_state_hash: f96119372aa6b8e9f2ef11eb5db019975dc7ed50906b6a46c666ec8c38755850
 ---
 
 # Commvault Systems, Inc. (CVLT)
@@ -32,7 +32,7 @@ wiki_state_hash: 0bc910117d7f687073d5253206848ed1d327cf66dfebd8680c7eb46a08208d5
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -10.19 / 44.90 |
+| Net Score / Quant Composite | -11.93 / 44.03 |
 | Market Cap | $6.43B (Sweet Spot $2B-$80B: Yes) |
 | Price | 157.14 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

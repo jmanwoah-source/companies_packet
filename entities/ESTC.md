@@ -3,8 +3,8 @@ ticker: ESTC
 name: "Elastic N.V."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -14.11
-quant_composite_score: 42.94
+net_score: -16.45
+quant_composite_score: 41.77
 market_cap: 8789431059.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 87afef0cdc73a3778d4a961fa5dd69c4f51df9e922d778aafcbaeef9eb1ef631
+wiki_state_hash: 647ac9cf1afab8168107136addb52e15aaf0574e2d188fd8acfe46aa6a2f0b4e
 ---
 
 # Elastic N.V. (ESTC)
@@ -34,7 +34,7 @@ wiki_state_hash: 87afef0cdc73a3778d4a961fa5dd69c4f51df9e922d778aafcbaeef9eb1ef63
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.11 / 42.94 |
+| Net Score / Quant Composite | -16.45 / 41.77 |
 | Market Cap | $8.79B (Sweet Spot $2B-$80B: Yes) |
 | Price | 82.94 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

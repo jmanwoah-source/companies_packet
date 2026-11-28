@@ -3,8 +3,8 @@ ticker: JBTM
 name: "JBT Marel Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 27.64
-quant_composite_score: 63.82
+net_score: 31.42
+quant_composite_score: 65.71
 market_cap: 6267258330.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 78c5f9de4954b5bb73097e991df237a70234550a3c65096161ff65236e446a32
+wiki_state_hash: d9ae882e268d1e10a48767d0cca9d925ffa21eec30e804f9b19428ef85f09393
 ---
 
 # JBT Marel Corporation (JBTM)
@@ -32,7 +32,7 @@ wiki_state_hash: 78c5f9de4954b5bb73097e991df237a70234550a3c65096161ff65236e446a3
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.64 / 63.82 |
+| Net Score / Quant Composite | 31.42 / 65.71 |
 | Market Cap | $6.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 122.70 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

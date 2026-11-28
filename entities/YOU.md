@@ -3,8 +3,8 @@ ticker: YOU
 name: "Clear Secure, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 5.12
-quant_composite_score: 52.56
+net_score: 6.02
+quant_composite_score: 53.01
 market_cap: 5417233094.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 8b9c71189124bee3d866407f592665d19388e395b373485ea7bd6c8a8768b763
+wiki_state_hash: 59b8e6bdd7b8eb33fe34e8c39311584f4e715ee1bdc998b83e88a83515220732
 ---
 
 # Clear Secure, Inc. (YOU)
@@ -32,7 +32,7 @@ wiki_state_hash: 8b9c71189124bee3d866407f592665d19388e395b373485ea7bd6c8a8768b76
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 5.12 / 52.56 |
+| Net Score / Quant Composite | 6.02 / 53.01 |
 | Market Cap | $5.42B (Sweet Spot $2B-$80B: Yes) |
 | Price | 54.38 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

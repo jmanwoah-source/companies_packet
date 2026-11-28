@@ -3,8 +3,8 @@ ticker: TER
 name: "Teradyne, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 29.26
-quant_composite_score: 64.63
+net_score: 33.13
+quant_composite_score: 66.56
 market_cap: 33121918750.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -23,7 +23,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 94f2e4e37b984cb683d788bb1ade07b829757b2208d54957a4bd32a40fc9d349
+wiki_state_hash: 19f5d3f7abb8993459c58c3bc16fbfd7d77f8b897f40793f15f814f7b60788f5
 ---
 
 # Teradyne, Inc. (TER)
@@ -34,7 +34,7 @@ wiki_state_hash: 94f2e4e37b984cb683d788bb1ade07b829757b2208d54957a4bd32a40fc9d34
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 29.26 / 64.63 |
+| Net Score / Quant Composite | 33.13 / 66.56 |
 | Market Cap | $33.12B (Sweet Spot $2B-$80B: Yes) |
 | Price | 212.15 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

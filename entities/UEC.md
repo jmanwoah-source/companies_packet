@@ -3,8 +3,8 @@ ticker: UEC
 name: "Uranium Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 12.32
-quant_composite_score: 56.16
+net_score: 14.39
+quant_composite_score: 57.2
 market_cap: 2819876744.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 228d8455e2730e732a208bd100b8690d51a82bb3d8e39f4da95a286e57563c75
+wiki_state_hash: 74bfb78c7480cacf0def06942090c650a90a48486ae6cfa391a05653a8e6a558
 ---
 
 # Uranium Energy Corp. (UEC)
@@ -32,7 +32,7 @@ wiki_state_hash: 228d8455e2730e732a208bd100b8690d51a82bb3d8e39f4da95a286e57563c7
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.32 / 56.16 |
+| Net Score / Quant Composite | 14.39 / 57.20 |
 | Market Cap | $2.82B (Sweet Spot $2B-$80B: Yes) |
 | Price | 5.69 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

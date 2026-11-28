@@ -3,8 +3,8 @@ ticker: MYRG
 name: "MYR Group Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 14.79
-quant_composite_score: 57.4
+net_score: 17.23
+quant_composite_score: 58.62
 market_cap: 4065482700.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: fcaf77fb9271820c122972edf9437c1fc99380ec957afe03520a7c2ca3a435f0
+wiki_state_hash: 60525ad434b86f96ae79ca1c947bf405c0315c5ccb2d21284602876ccdc5bdf3
 ---
 
 # MYR Group Inc. (MYRG)
@@ -32,7 +32,7 @@ wiki_state_hash: fcaf77fb9271820c122972edf9437c1fc99380ec957afe03520a7c2ca3a435f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.79 / 57.40 |
+| Net Score / Quant Composite | 17.23 / 58.62 |
 | Market Cap | $4.07B (Sweet Spot $2B-$80B: Yes) |
 | Price | 261.11 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

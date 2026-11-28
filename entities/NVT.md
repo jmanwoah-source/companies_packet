@@ -3,8 +3,8 @@ ticker: NVT
 name: "nVent Electric plc"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 27.69
-quant_composite_score: 63.85
+net_score: 31.47
+quant_composite_score: 65.74
 market_cap: 16759334803.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 8cacc3ba7b55c16d45ed4be4237429db81ccdae59fedf81b661f30550aee383c
+wiki_state_hash: d64ca151a70fcdd92f800d41519ac77f73c2c78b26c1bbf0aa8b88b9af5a1c6b
 ---
 
 # nVent Electric plc (NVT)
@@ -33,7 +33,7 @@ wiki_state_hash: 8cacc3ba7b55c16d45ed4be4237429db81ccdae59fedf81b661f30550aee383
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.69 / 63.85 |
+| Net Score / Quant Composite | 31.47 / 65.74 |
 | Market Cap | $16.76B (Sweet Spot $2B-$80B: Yes) |
 | Price | 103.71 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

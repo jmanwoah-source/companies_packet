@@ -3,8 +3,8 @@ ticker: NRGV
 name: "Energy Vault Holdings, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -36.24
-quant_composite_score: 31.88
+net_score: -40.23
+quant_composite_score: 29.89
 market_cap: 564357498.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0d8eb318b674aaa56367fff1e9514fb062796ed94cf9a3e43f37d2428b71f48e
+wiki_state_hash: ef77503ca07a9607b38bbaf39af5b68d9a807ecaf7ae4b8dbec4a6dcea774a01
 ---
 
 # Energy Vault Holdings, Inc. (NRGV)
@@ -31,7 +31,7 @@ wiki_state_hash: 0d8eb318b674aaa56367fff1e9514fb062796ed94cf9a3e43f37d2428b71f48
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -36.24 / 31.88 |
+| Net Score / Quant Composite | -40.23 / 29.89 |
 | Market Cap | $564.4M (Sweet Spot $2B-$80B: No) |
 | Price | 3.06 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

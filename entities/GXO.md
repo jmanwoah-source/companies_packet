@@ -3,8 +3,8 @@ ticker: GXO
 name: "GXO Logistics, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -6.26
-quant_composite_score: 46.87
+net_score: -7.35
+quant_composite_score: 46.32
 market_cap: 6221125682.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 40564c86744ed3ae9655fe1ecb523cf95738ef9f600536fe3ed19f01c180652c
+wiki_state_hash: f0fe7e8b7e93b9ce3b541fa157b66cddc865161d40779bfc9a817376575b4f18
 ---
 
 # GXO Logistics, Inc. (GXO)
@@ -32,7 +32,7 @@ wiki_state_hash: 40564c86744ed3ae9655fe1ecb523cf95738ef9f600536fe3ed19f01c180652
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -6.26 / 46.87 |
+| Net Score / Quant Composite | -7.35 / 46.32 |
 | Market Cap | $6.22B (Sweet Spot $2B-$80B: Yes) |
 | Price | 55.04 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

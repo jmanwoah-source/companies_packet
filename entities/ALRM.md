@@ -3,8 +3,8 @@ ticker: ALRM
 name: "Alarm.com Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 22.44
-quant_composite_score: 61.22
+net_score: 25.8
+quant_composite_score: 62.9
 market_cap: 3240676151.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: d0e6ae5e8b1bd6fb996a489150d5de602cb311a7f7f093b7246ff53e5fa2bc11
+wiki_state_hash: 4e97b04af3d30f7bcb4cd6de2de468993ef3de47174c606f56786c63b05d34f5
 ---
 
 # Alarm.com Holdings, Inc. (ALRM)
@@ -32,7 +32,7 @@ wiki_state_hash: d0e6ae5e8b1bd6fb996a489150d5de602cb311a7f7f093b7246ff53e5fa2bc1
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.44 / 61.22 |
+| Net Score / Quant Composite | 25.80 / 62.90 |
 | Market Cap | $3.24B (Sweet Spot $2B-$80B: Yes) |
 | Price | 66.07 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

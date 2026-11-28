@@ -3,8 +3,8 @@ ticker: NUCL
 name: "Eagle Nuclear Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 13.49
-quant_composite_score: 56.74
+net_score: 15.74
+quant_composite_score: 57.87
 market_cap: 71241518.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 688c979b4d648322a91c3434afdf752e143bc8779b8591b4f105aa8008b810f5
+wiki_state_hash: 7d5ac080a3e48c998b28d98c532653ba987816210492cfc4dc1003b954a92b94
 ---
 
 # Eagle Nuclear Energy Corp. (NUCL)
@@ -31,7 +31,7 @@ wiki_state_hash: 688c979b4d648322a91c3434afdf752e143bc8779b8591b4f105aa8008b810f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 13.49 / 56.74 |
+| Net Score / Quant Composite | 15.74 / 57.87 |
 | Market Cap | $71.2M (Sweet Spot $2B-$80B: No) |
 | Price | 2.40 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

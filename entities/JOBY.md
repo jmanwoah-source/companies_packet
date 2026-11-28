@@ -3,8 +3,8 @@ ticker: JOBY
 name: "Joby Aviation, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -23.21
-quant_composite_score: 38.4
+net_score: -26.65
+quant_composite_score: 36.68
 market_cap: 3964896000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 9aa26b5da1b2c536ce912b9824c1768f9ca8c84f2f9e62c8ec66c617f2fe787c
+wiki_state_hash: dcfd6214799e8d3c29bd15274d806309d7233a0179744d91fcf4d220c173205d
 ---
 
 # Joby Aviation, Inc. (JOBY)
@@ -33,7 +33,7 @@ wiki_state_hash: 9aa26b5da1b2c536ce912b9824c1768f9ca8c84f2f9e62c8ec66c617f2fe787
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.21 / 38.40 |
+| Net Score / Quant Composite | -26.65 / 36.68 |
 | Market Cap | $3.96B (Sweet Spot $2B-$80B: Yes) |
 | Price | 3.90 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

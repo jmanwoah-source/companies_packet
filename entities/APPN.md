@@ -3,8 +3,8 @@ ticker: APPN
 name: "Appian Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -16.19
-quant_composite_score: 41.9
+net_score: -18.82
+quant_composite_score: 40.59
 market_cap: 3931797011.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 4ebd8aa1628ea10c3671c003902a94090b9a448355c9275884b815d6c9c35535
+wiki_state_hash: 5cc59ca537ea1f99a98208f35b14b7f289bc7d7433d5ae3d9691905e8f39a3e0
 ---
 
 # Appian Corporation (APPN)
@@ -32,7 +32,7 @@ wiki_state_hash: 4ebd8aa1628ea10c3671c003902a94090b9a448355c9275884b815d6c9c3553
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -16.19 / 41.90 |
+| Net Score / Quant Composite | -18.82 / 40.59 |
 | Market Cap | $3.93B (Sweet Spot $2B-$80B: Yes) |
 | Price | 55.08 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

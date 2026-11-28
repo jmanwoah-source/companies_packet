@@ -3,8 +3,8 @@ ticker: EMR
 name: "Emerson Electric Co."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -12.43
-quant_composite_score: 43.78
+net_score: -14.52
+quant_composite_score: 42.74
 market_cap: 86223460995.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 8abf82b64f0617fdf3510aff2baab1b9c8d5249a99d73231903b02f37ec029b5
+wiki_state_hash: 966beb2176f3c1b19d2e7d7768216aa0801a24495ea178462286cdad35d49cf2
 ---
 
 # Emerson Electric Co. (EMR)
@@ -33,7 +33,7 @@ wiki_state_hash: 8abf82b64f0617fdf3510aff2baab1b9c8d5249a99d73231903b02f37ec029b
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -12.43 / 43.78 |
+| Net Score / Quant Composite | -14.52 / 42.74 |
 | Market Cap | $86.22B (Sweet Spot $2B-$80B: No) |
 | Price | 157.17 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

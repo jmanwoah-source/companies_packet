@@ -3,8 +3,8 @@ ticker: AZZ
 name: "AZZ Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 22.65
-quant_composite_score: 61.32
+net_score: 26.03
+quant_composite_score: 63.02
 market_cap: 3767280520.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: fcf857c942ffba0e6f479449443866d34386176968a4404044363b53901e25f1
+wiki_state_hash: f8ab600f4e8006dc1a108b01eb3e9e39bce9354b9919ba06daad2af4acfe8b2b
 ---
 
 # AZZ Inc. (AZZ)
@@ -32,7 +32,7 @@ wiki_state_hash: fcf857c942ffba0e6f479449443866d34386176968a4404044363b53901e25f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.65 / 61.32 |
+| Net Score / Quant Composite | 26.03 / 63.02 |
 | Market Cap | $3.77B (Sweet Spot $2B-$80B: Yes) |
 | Price | 125.90 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

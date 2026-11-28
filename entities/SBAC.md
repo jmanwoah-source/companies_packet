@@ -3,8 +3,8 @@ ticker: SBAC
 name: "SBA Communications Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -10.86
-quant_composite_score: 44.57
+net_score: -12.7
+quant_composite_score: 43.65
 market_cap: 18246704440.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7b0d8c55e53e8584d9da0e5e96779fd55d5b24791e795af7a711afa0fd158939
+wiki_state_hash: 116444b7c7f194c8d4c1b7216c757ce777e40e9148b1ed06cfc14e95b6cb30d7
 ---
 
 # SBA Communications Corporation (SBAC)
@@ -32,7 +32,7 @@ wiki_state_hash: 7b0d8c55e53e8584d9da0e5e96779fd55d5b24791e795af7a711afa0fd15893
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -10.86 / 44.57 |
+| Net Score / Quant Composite | -12.70 / 43.65 |
 | Market Cap | $18.25B (Sweet Spot $2B-$80B: Yes) |
 | Price | 174.73 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

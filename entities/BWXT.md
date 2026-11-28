@@ -3,8 +3,8 @@ ticker: BWXT
 name: "BWX Technologies, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 1.79
-quant_composite_score: 50.9
+net_score: 2.11
+quant_composite_score: 51.05
 market_cap: 10404041119.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: b5e4af1d2127e1769c4aec0ca1af0338238bd1d351c8189d88544585683e94c8
+wiki_state_hash: f1e6e8ec1c45867a28b659f5cca0a7f46b85029e2e3c27c2c6f79e0852fcdc4b
 ---
 
 # BWX Technologies, Inc. (BWXT)
@@ -32,7 +32,7 @@ wiki_state_hash: b5e4af1d2127e1769c4aec0ca1af0338238bd1d351c8189d88544585683e94c
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.79 / 50.90 |
+| Net Score / Quant Composite | 2.11 / 51.05 |
 | Market Cap | $10.40B (Sweet Spot $2B-$80B: Yes) |
 | Price | 113.55 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

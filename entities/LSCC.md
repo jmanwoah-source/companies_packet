@@ -3,8 +3,8 @@ ticker: LSCC
 name: "Lattice Semiconductor Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: WATCHLIST
-net_score: -69.69
-quant_composite_score: 15.15
+net_score: -67.5
+quant_composite_score: 16.25
 market_cap: 13970829627.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 0dca9d02a7eafeb3c1b82143c0528df211c1aae3cf42b554526447f52879fe2e
+wiki_state_hash: fb87616dd0f14c687b3649bb86dc15de5e0e18eac987abcc0b6723c720ebeb68
 ---
 
 # Lattice Semiconductor Corporation (LSCC)
@@ -33,7 +33,7 @@ wiki_state_hash: 0dca9d02a7eafeb3c1b82143c0528df211c1aae3cf42b554526447f52879fe2
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -69.69 / 15.15 |
+| Net Score / Quant Composite | -67.50 / 16.25 |
 | Market Cap | $13.97B (Sweet Spot $2B-$80B: Yes) |
 | Price | 98.23 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

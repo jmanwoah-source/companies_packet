@@ -3,8 +3,8 @@ ticker: SPIR
 name: "Spire Global, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -35.08
-quant_composite_score: 32.46
+net_score: -39.08
+quant_composite_score: 30.46
 market_cap: 285428924.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 71c4b94da69cbaeb18a08eb3e116aa3d45d3009c7d40a89621c0c60dcbc6fe3d
+wiki_state_hash: 665ba782360ae3b84c791f16a86647dc2bd6fd82b1494eea5e5c246c772531aa
 ---
 
 # Spire Global, Inc. (SPIR)
@@ -31,7 +31,7 @@ wiki_state_hash: 71c4b94da69cbaeb18a08eb3e116aa3d45d3009c7d40a89621c0c60dcbc6fe3
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -35.08 / 32.46 |
+| Net Score / Quant Composite | -39.08 / 30.46 |
 | Market Cap | $285.4M (Sweet Spot $2B-$80B: No) |
 | Price | 7.27 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

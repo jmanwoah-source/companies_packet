@@ -3,8 +3,8 @@ ticker: ARM
 name: "Arm Holdings plc American Depositary Shares"
 pillar: SEMI_SUBSYSTEMS
 tier: EMERGING_EDGE
-net_score: 44.57
-quant_composite_score: 72.29
+net_score: 48.11
+quant_composite_score: 74.05
 market_cap: 172815699192.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 12b36f4d2b80bc85f2f72a5a02f13864192b25e16aad8abcfe0901f7b2a25d16
+wiki_state_hash: 2ac027eb125121e7c4b57b6f664ac805cec486c10ec4dc860d90dfb15a0803a1
 ---
 
 # Arm Holdings plc American Depositary Shares (ARM)
@@ -33,7 +33,7 @@ wiki_state_hash: 12b36f4d2b80bc85f2f72a5a02f13864192b25e16aad8abcfe0901f7b2a25d1
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 44.57 / 72.29 |
+| Net Score / Quant Composite | 48.11 / 74.05 |
 | Market Cap | $172.82B (Sweet Spot $2B-$80B: No) |
 | Price | 161.51 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

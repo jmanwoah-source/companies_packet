@@ -3,8 +3,8 @@ ticker: WULF
 name: "TeraWulf Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -84.9
+quant_composite_score: 7.55
 market_cap: 5030261698.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 747b216a2fd761cf75d3cd706ff6b9a2bc952b34487b07ef61aaa7aab8d79b42
+wiki_state_hash: 0ffad8ac87945cf890ffb7f53dac89e8ed16dff0b50954f45e71315f9914e45a
 ---
 
 # TeraWulf Inc. (WULF)
@@ -33,7 +33,7 @@ wiki_state_hash: 747b216a2fd761cf75d3cd706ff6b9a2bc952b34487b07ef61aaa7aab8d79b4
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -84.90 / 7.55 |
 | Market Cap | $5.03B (Sweet Spot $2B-$80B: Yes) |
 | Price | 10.03 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

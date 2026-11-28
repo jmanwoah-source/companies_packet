@@ -3,8 +3,8 @@ ticker: PEGA
 name: "Pegasystems Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -2.87
-quant_composite_score: 48.57
+net_score: -3.37
+quant_composite_score: 48.31
 market_cap: 4941016160.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: e502c25307263732b7f5476c4cc6b903667c9eb9a1037be6b7b544209a372771
+wiki_state_hash: 8549b3fd0c14950fc6735297694ca4e60348c92ef71be9e6a541e4d6ab60f68b
 ---
 
 # Pegasystems Inc. (PEGA)
@@ -32,7 +32,7 @@ wiki_state_hash: e502c25307263732b7f5476c4cc6b903667c9eb9a1037be6b7b544209a37277
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -2.87 / 48.57 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
 | Market Cap | $4.94B (Sweet Spot $2B-$80B: Yes) |
 | Price | 30.19 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

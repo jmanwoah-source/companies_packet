@@ -3,8 +3,8 @@ ticker: BSY
 name: "Bentley Systems, Incorporated"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 16.44
-quant_composite_score: 58.22
+net_score: 19.11
+quant_composite_score: 59.55
 market_cap: 12584933180.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 705c5675e76fdc6260f27ded274fa144727ecd8664d22eaceae8d05e178dc5ae
+wiki_state_hash: 8ec2046925a450a6af173882eb6d11008e85af27bdb034e2b941d7d930e137e7
 ---
 
 # Bentley Systems, Incorporated (BSY)
@@ -32,7 +32,7 @@ wiki_state_hash: 705c5675e76fdc6260f27ded274fa144727ecd8664d22eaceae8d05e178dc5a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 16.44 / 58.22 |
+| Net Score / Quant Composite | 19.11 / 59.55 |
 | Market Cap | $12.58B (Sweet Spot $2B-$80B: Yes) |
 | Price | 43.31 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: VRNS
 name: "Varonis Systems, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -28.18
-quant_composite_score: 35.91
+net_score: -31.99
+quant_composite_score: 34.01
 market_cap: 5698055231.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 4b836d7524e0d1d427b0efb64cce6cacf42d4e6cde156cb2dfad977dd44a04f6
+wiki_state_hash: 376509373772f689e84af27fe9ff0b5e1c7c8210195a2adc2b7fa896a8ceb017
 ---
 
 # Varonis Systems, Inc. (VRNS)
@@ -32,7 +32,7 @@ wiki_state_hash: 4b836d7524e0d1d427b0efb64cce6cacf42d4e6cde156cb2dfad977dd44a04f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -28.18 / 35.91 |
+| Net Score / Quant Composite | -31.99 / 34.01 |
 | Market Cap | $5.70B (Sweet Spot $2B-$80B: Yes) |
 | Price | 49.42 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

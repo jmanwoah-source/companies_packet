@@ -3,8 +3,8 @@ ticker: ROP
 name: "Roper Technologies, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 14.44
-quant_composite_score: 57.22
+net_score: 16.83
+quant_composite_score: 58.42
 market_cap: 47843494476.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 6fdd4847047b9dff9575934380e1e602e66413123cd5b0becf084b813110dcc6
+wiki_state_hash: d3d28d55e4859a366647748dcc3b54393acbf7719f69be90709e7c20cbb69c0d
 ---
 
 # Roper Technologies, Inc. (ROP)
@@ -32,7 +32,7 @@ wiki_state_hash: 6fdd4847047b9dff9575934380e1e602e66413123cd5b0becf084b813110dcc
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.44 / 57.22 |
+| Net Score / Quant Composite | 16.83 / 58.42 |
 | Market Cap | $47.84B (Sweet Spot $2B-$80B: Yes) |
 | Price | 483.09 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

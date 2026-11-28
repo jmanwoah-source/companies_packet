@@ -3,8 +3,8 @@ ticker: ADEA
 name: "Adeia Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 11.12
-quant_composite_score: 55.56
+net_score: 13.0
+quant_composite_score: 56.5
 market_cap: 1549560556.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: cc77598bbf6ad2318eabc166353244987288e8ed156d551520eb2bfb4e2dd55d
+wiki_state_hash: 02ccd31c8ab23537f48f7483f0a121cccc647742574ebd8cf9dd1be6db56f82b
 ---
 
 # Adeia Inc. (ADEA)
@@ -31,7 +31,7 @@ wiki_state_hash: cc77598bbf6ad2318eabc166353244987288e8ed156d551520eb2bfb4e2dd55
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 11.12 / 55.56 |
+| Net Score / Quant Composite | 13.00 / 56.50 |
 | Market Cap | $1.55B (Sweet Spot $2B-$80B: No) |
 | Price | 14.04 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

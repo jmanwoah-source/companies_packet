@@ -3,8 +3,8 @@ ticker: SGML
 name: "Sigma Lithium Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -24.46
-quant_composite_score: 37.77
+net_score: -28.01
+quant_composite_score: 36.0
 market_cap: 448506200.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: bcf6c2db7e75bfd8ecd1374d29df321144852448a5fd085ac07749f0419154fc
+wiki_state_hash: 7d5dd04d70cbd5ef7abc944a48897247ecfbff3f4ac2be70e84a06419fa6c7e7
 ---
 
 # Sigma Lithium Corporation (SGML)
@@ -31,7 +31,7 @@ wiki_state_hash: bcf6c2db7e75bfd8ecd1374d29df321144852448a5fd085ac07749f0419154f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -24.46 / 37.77 |
+| Net Score / Quant Composite | -28.01 / 36.00 |
 | Market Cap | $448.5M (Sweet Spot $2B-$80B: No) |
 | Price | 3.98 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

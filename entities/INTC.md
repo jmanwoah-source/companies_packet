@@ -3,8 +3,8 @@ ticker: INTC
 name: "Intel Corp."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -53.44
-quant_composite_score: 23.28
+net_score: -55.71
+quant_composite_score: 22.14
 market_cap: 289508050000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 230d4547376f0b962ff2fbc1c512612bb006a994efb455fb27946b8ee0936ccd
+wiki_state_hash: fb2d423f7c75b51a4784edbc3a7c9855ca3eaa12e98327e006afb53ebb77fdce
 ---
 
 # Intel Corp. (INTC)
@@ -34,7 +34,7 @@ wiki_state_hash: 230d4547376f0b962ff2fbc1c512612bb006a994efb455fb27946b8ee0936cc
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -53.44 / 23.28 |
+| Net Score / Quant Composite | -55.71 / 22.14 |
 | Market Cap | $289.51B (Sweet Spot $2B-$80B: No) |
 | Price | 54.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

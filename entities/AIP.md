@@ -3,8 +3,8 @@ ticker: AIP
 name: "Arteris, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -26.84
-quant_composite_score: 36.58
+net_score: -30.57
+quant_composite_score: 34.72
 market_cap: 822324772.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7378120d766e316c85cadc2f53f3638c1e00abc0afaa0e9544cdb07b9f91139c
+wiki_state_hash: 25296aa5f4124dc54e6ebf14960667ff106efa2e5979f02add498712ef3f6d01
 ---
 
 # Arteris, Inc. (AIP)
@@ -31,7 +31,7 @@ wiki_state_hash: 7378120d766e316c85cadc2f53f3638c1e00abc0afaa0e9544cdb07b9f91139
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.84 / 36.58 |
+| Net Score / Quant Composite | -30.57 / 34.72 |
 | Market Cap | $822.3M (Sweet Spot $2B-$80B: No) |
 | Price | 16.56 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

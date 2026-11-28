@@ -3,8 +3,8 @@ ticker: INTU
 name: "Intuit Inc."
 pillar: AI_INFRA
 tier: GOLDEN
-net_score: 100.0
-quant_composite_score: 100.0
+net_score: 85.62
+quant_composite_score: 92.81
 market_cap: 72613365920.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 2784ae6c68cef92005b97397257046a42703615faa4029f6bbb7129888daa6f8
+wiki_state_hash: 9963b3d0d20e4efa0429ae7e1ca43108c4f9cc77cbe7d323833d96903157ee25
 ---
 
 # Intuit Inc. (INTU)
@@ -33,7 +33,7 @@ wiki_state_hash: 2784ae6c68cef92005b97397257046a42703615faa4029f6bbb7129888daa6f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 100.00 / 100.00 |
+| Net Score / Quant Composite | 85.62 / 92.81 |
 | Market Cap | $72.61B (Sweet Spot $2B-$80B: Yes) |
 | Price | 271.72 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

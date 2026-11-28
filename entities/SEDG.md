@@ -3,8 +3,8 @@ ticker: SEDG
 name: "SolarEdge Technologies, Inc."
 pillar: ENERGY_MATERIALS
 tier: MIRAGE_SHORT
-net_score: -77.45
-quant_composite_score: 11.27
+net_score: -72.17
+quant_composite_score: 13.91
 market_cap: 1219713680.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 4a8b0c15e01150141199d58439ce7be3bdc509dd58e432fd74c409c4a4a3aa37
+wiki_state_hash: db459c71c66ab9f51d0d9d6dc1555157f893cf1e249be3f75f21c33e308a7dc4
 ---
 
 # SolarEdge Technologies, Inc. (SEDG)
@@ -32,7 +32,7 @@ wiki_state_hash: 4a8b0c15e01150141199d58439ce7be3bdc509dd58e432fd74c409c4a4a3aa3
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -77.45 / 11.27 |
+| Net Score / Quant Composite | -72.17 / 13.91 |
 | Market Cap | $1.22B (Sweet Spot $2B-$80B: No) |
 | Price | 19.70 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

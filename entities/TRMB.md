@@ -3,8 +3,8 @@ ticker: TRMB
 name: "Trimble Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -20.18
-quant_composite_score: 39.91
+net_score: -23.31
+quant_composite_score: 38.35
 market_cap: 12665675805.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: f915740eebd891294386a83c698f1c2b3d853e19c84dd4648e1cf378fc1a7885
+wiki_state_hash: bb3f8f6b1e18b4493501f176913903b9ee35f676e037a6d85587a857a8535abf
 ---
 
 # Trimble Inc. (TRMB)
@@ -34,7 +34,7 @@ wiki_state_hash: f915740eebd891294386a83c698f1c2b3d853e19c84dd4648e1cf378fc1a788
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -20.18 / 39.91 |
+| Net Score / Quant Composite | -23.31 / 38.35 |
 | Market Cap | $12.67B (Sweet Spot $2B-$80B: Yes) |
 | Price | 55.25 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

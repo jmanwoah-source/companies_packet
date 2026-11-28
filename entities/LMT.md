@@ -3,8 +3,8 @@ ticker: LMT
 name: "Lockheed Martin Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 3.6
-quant_composite_score: 51.8
+net_score: 4.23
+quant_composite_score: 52.11
 market_cap: 138427220474.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: aaddb91fb8434de50b6d6c3496c7cd6638a11c83d7caeccfb9174d5953aefbfc
+wiki_state_hash: b7cc859dc783029e178795cb0b445eb3a1d48e0e40304c4bcc10ebbcb88e0524
 ---
 
 # Lockheed Martin Corporation (LMT)
@@ -33,7 +33,7 @@ wiki_state_hash: aaddb91fb8434de50b6d6c3496c7cd6638a11c83d7caeccfb9174d5953aefbf
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 3.60 / 51.80 |
+| Net Score / Quant Composite | 4.23 / 52.11 |
 | Market Cap | $138.43B (Sweet Spot $2B-$80B: No) |
 | Price | 599.24 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: RTX
 name: "RTX Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -48.68
-quant_composite_score: 25.66
+net_score: -51.73
+quant_composite_score: 24.13
 market_cap: 264746633600.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: a78b825e991d4d6643a42251a9583655c6fa450f922c625976b63cecbcaeccd6
+wiki_state_hash: de4a387872fb9cf8ab001e9ce6e05fbacd31d4742f48028771dae893fc84a1cf
 ---
 
 # RTX Corporation (RTX)
@@ -34,7 +34,7 @@ wiki_state_hash: a78b825e991d4d6643a42251a9583655c6fa450f922c625976b63cecbcaeccd
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -48.68 / 25.66 |
+| Net Score / Quant Composite | -51.73 / 24.13 |
 | Market Cap | $264.75B (Sweet Spot $2B-$80B: No) |
 | Price | 196.19 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

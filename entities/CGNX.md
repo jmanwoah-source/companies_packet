@@ -3,8 +3,8 @@ ticker: CGNX
 name: "Cognex Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 20.86
-quant_composite_score: 60.43
+net_score: 24.07
+quant_composite_score: 62.03
 market_cap: 7898611980.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 0c25f42ebb19a46a31f1ae6eeadce9649a2ae0f7d86a81106263e2fc9eef0595
+wiki_state_hash: 5e25f41adaa4387dd94c388e8bed1f8479eac825e2f58934f2444a561bdcd00e
 ---
 
 # Cognex Corporation (CGNX)
@@ -33,7 +33,7 @@ wiki_state_hash: 0c25f42ebb19a46a31f1ae6eeadce9649a2ae0f7d86a81106263e2fc9eef059
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 20.86 / 60.43 |
+| Net Score / Quant Composite | 24.07 / 62.03 |
 | Market Cap | $7.90B (Sweet Spot $2B-$80B: Yes) |
 | Price | 46.91 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

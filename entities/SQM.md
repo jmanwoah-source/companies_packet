@@ -3,8 +3,8 @@ ticker: SQM
 name: "Sociedad Química y Minera de Chile S.A."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -3.53
-quant_composite_score: 48.24
+net_score: -4.14
+quant_composite_score: 47.93
 market_cap: 13664913404.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 28bdbe7ae5ecc6b018c0a5b75d5c0817287f3d8943e72b6e406fa0aac3e58b28
+wiki_state_hash: 83f841a983f5261933117535c79dfc39565bbf30e36ba2929721a00d6397364c
 ---
 
 # Sociedad Química y Minera de Chile S.A. (SQM)
@@ -32,7 +32,7 @@ wiki_state_hash: 28bdbe7ae5ecc6b018c0a5b75d5c0817287f3d8943e72b6e406fa0aac3e58b2
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -3.53 / 48.24 |
+| Net Score / Quant Composite | -4.14 / 47.93 |
 | Market Cap | $13.66B (Sweet Spot $2B-$80B: Yes) |
 | Price | 47.84 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: GWRE
 name: "Guidewire Software, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 2.55
-quant_composite_score: 51.27
+net_score: 3.0
+quant_composite_score: 51.5
 market_cap: 12268253522.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/tight
-wiki_state_hash: 924aa63e0a18b082b42f5a917bdea8a3e6aeec6efba58df9b89dc3d129678446
+wiki_state_hash: d137051f2acf5dfad64acbab4773bcfcbc077397e8d39da08c03be7083995599
 ---
 
 # Guidewire Software, Inc. (GWRE)
@@ -33,7 +33,7 @@ wiki_state_hash: 924aa63e0a18b082b42f5a917bdea8a3e6aeec6efba58df9b89dc3d12967844
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 2.55 / 51.27 |
+| Net Score / Quant Composite | 3.00 / 51.50 |
 | Market Cap | $12.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 148.47 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

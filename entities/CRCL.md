@@ -3,8 +3,8 @@ ticker: CRCL
 name: "Circle Internet Group"
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -98.29
-quant_composite_score: 0.86
+net_score: -81.98
+quant_composite_score: 9.01
 market_cap: 12383818185.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: c99478f037ad9b83bb0b1f0ae9de91dccb0970a250fbcdcc54455b2f9641ac75
+wiki_state_hash: cf1418b0084c5c7d6b7eac7d9586ba02b930098af0c07e6940e5e8478fcde4cb
 ---
 
 # Circle Internet Group (CRCL)
@@ -33,7 +33,7 @@ wiki_state_hash: c99478f037ad9b83bb0b1f0ae9de91dccb0970a250fbcdcc54455b2f9641ac7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -98.29 / 0.86 |
+| Net Score / Quant Composite | -81.98 / 9.01 |
 | Market Cap | $12.38B (Sweet Spot $2B-$80B: Yes) |
 | Price | 48.27 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

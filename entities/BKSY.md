@@ -3,8 +3,8 @@ ticker: BKSY
 name: "BlackSky Technology Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -28.51
-quant_composite_score: 35.74
+net_score: -32.34
+quant_composite_score: 33.83
 market_cap: 656394277.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 42941fa91a7d3a63916f196f59884dc877526a1c5a78f2452262aff14f753dd1
+wiki_state_hash: a98ce49c0abd2fdc2cda089d08f94fa878573302bddab9fde6d91b4ec872df26
 ---
 
 # BlackSky Technology Inc. (BKSY)
@@ -32,7 +32,7 @@ wiki_state_hash: 42941fa91a7d3a63916f196f59884dc877526a1c5a78f2452262aff14f753dd
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -28.51 / 35.74 |
+| Net Score / Quant Composite | -32.34 / 33.83 |
 | Market Cap | $656.4M (Sweet Spot $2B-$80B: No) |
 | Price | 15.97 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

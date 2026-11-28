@@ -3,8 +3,8 @@ ticker: KLAC
 name: "KLA Corporation"
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 9.98
-quant_composite_score: 54.99
+net_score: 11.68
+quant_composite_score: 55.84
 market_cap: 174857558777.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: b3b7b83d22947308d94d3f26d0b6d44962b4c29f1d03e290f2737ba24a58d45a
+wiki_state_hash: 77e173ffecca19fa47239b74ff79a3ad9293acbfe5cec60af80d1be02e13a26f
 ---
 
 # KLA Corporation (KLAC)
@@ -32,7 +32,7 @@ wiki_state_hash: b3b7b83d22947308d94d3f26d0b6d44962b4c29f1d03e290f2737ba24a58d45
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.98 / 54.99 |
+| Net Score / Quant Composite | 11.68 / 55.84 |
 | Market Cap | $174.86B (Sweet Spot $2B-$80B: No) |
 | Price | 134.20 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

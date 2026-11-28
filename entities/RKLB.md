@@ -3,8 +3,8 @@ ticker: RKLB
 name: "Rocket Lab USA, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 0.76
-quant_composite_score: 50.38
+net_score: 0.9
+quant_composite_score: 50.45
 market_cap: 29717623423.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 3a2f231c10abef20e184d3132bb35fdd585494101424c7c5f719a5983e8c434f
+wiki_state_hash: 40891f36a4a2ee0756fd8e3dd8760096e2d83fe02940660dd251e2013c205244
 ---
 
 # Rocket Lab USA, Inc. (RKLB)
@@ -33,7 +33,7 @@ wiki_state_hash: 3a2f231c10abef20e184d3132bb35fdd585494101424c7c5f719a5983e8c434
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 0.76 / 50.38 |
+| Net Score / Quant Composite | 0.90 / 50.45 |
 | Market Cap | $29.72B (Sweet Spot $2B-$80B: Yes) |
 | Price | 47.02 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

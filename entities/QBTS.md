@@ -3,8 +3,8 @@ ticker: QBTS
 name: "D-Wave Quantum Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 50.81
-quant_composite_score: 75.41
+net_score: 53.55
+quant_composite_score: 76.77
 market_cap: 2638208279.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 3be60173d40c669ba89193e3bf145ba1e5279efb46bad0092b176e05dcef2458
+wiki_state_hash: 5a088a2b7996cfaa0a7a52ef29ac910906caa50b8e55fd763d97c63e56422a38
 ---
 
 # D-Wave Quantum Inc. (QBTS)
@@ -34,7 +34,7 @@ wiki_state_hash: 3be60173d40c669ba89193e3bf145ba1e5279efb46bad0092b176e05dcef245
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 50.81 / 75.41 |
+| Net Score / Quant Composite | 53.55 / 76.77 |
 | Market Cap | $2.64B (Sweet Spot $2B-$80B: Yes) |
 | Price | 7.00 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

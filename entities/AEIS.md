@@ -3,8 +3,8 @@ ticker: AEIS
 name: "Advanced Energy Industries, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 1.71
-quant_composite_score: 50.86
+net_score: 2.01
+quant_composite_score: 51.01
 market_cap: 7976166687.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: c3db3b544d1107d45bfd7de0dffb993ad62ac049efa156798f63c2ae60b7b71f
+wiki_state_hash: 97b9f642499907a7f72ebeaded9ba4574fb7b72146cb2a349b48b3a6e662c120
 ---
 
 # Advanced Energy Industries, Inc. (AEIS)
@@ -33,7 +33,7 @@ wiki_state_hash: c3db3b544d1107d45bfd7de0dffb993ad62ac049efa156798f63c2ae60b7b71
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.71 / 50.86 |
+| Net Score / Quant Composite | 2.01 / 51.01 |
 | Market Cap | $7.98B (Sweet Spot $2B-$80B: Yes) |
 | Price | 197.03 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |

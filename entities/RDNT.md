@@ -3,8 +3,8 @@ ticker: RDNT
 name: "RadNet, Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -32.98
-quant_composite_score: 33.51
+net_score: -36.97
+quant_composite_score: 31.52
 market_cap: 5693061083.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 2e9fe0882680b5699ccddfb05132369e29bcf9e50d5558a73e6fda9f55540e50
+wiki_state_hash: dcbba8b39d116259db229c13ddb54cdee0ba11f68138e3f7e576c35e64068f93
 ---
 
 # RadNet, Inc. (RDNT)
@@ -33,7 +33,7 @@ wiki_state_hash: 2e9fe0882680b5699ccddfb05132369e29bcf9e50d5558a73e6fda9f55540e5
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -32.98 / 33.51 |
+| Net Score / Quant Composite | -36.97 / 31.52 |
 | Market Cap | $5.69B (Sweet Spot $2B-$80B: Yes) |
 | Price | 72.27 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

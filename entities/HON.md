@@ -3,8 +3,8 @@ ticker: HON
 name: "Honeywell International Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 19.7
-quant_composite_score: 59.85
+net_score: 22.77
+quant_composite_score: 61.39
 market_cap: 71437402402.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 221fab89ec045b695881bef6f1c48e20e429fd26fa0e2adcd087ff6acc92b20b
+wiki_state_hash: 066a35b75a0afcd76ccf3ee3e058f4ee0a4d82153acfeba37ae87bfe10dd6cc5
 ---
 
 # Honeywell International Inc. (HON)
@@ -34,7 +34,7 @@ wiki_state_hash: 221fab89ec045b695881bef6f1c48e20e429fd26fa0e2adcd087ff6acc92b20
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.70 / 59.85 |
+| Net Score / Quant Composite | 22.77 / 61.39 |
 | Market Cap | $71.44B (Sweet Spot $2B-$80B: Yes) |
 | Price | 225.10 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

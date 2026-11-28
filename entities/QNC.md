@@ -3,8 +3,8 @@ ticker: QNC
 name: "Quantum eMotion Corp."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 29.26
-quant_composite_score: 64.63
+net_score: 33.13
+quant_composite_score: 66.56
 market_cap: 189139756.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 95fcacc5cdf3980d45f8bb20ff1e7f162a918afd1794be09503eb1fb55cdd6ec
+wiki_state_hash: 22894bdec2a7f221f3e1f695282d4e0981a04f72a8b1920dc225851b170d240f
 ---
 
 # Quantum eMotion Corp. (QNC)
@@ -31,7 +31,7 @@ wiki_state_hash: 95fcacc5cdf3980d45f8bb20ff1e7f162a918afd1794be09503eb1fb55cdd6e
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 29.26 / 64.63 |
+| Net Score / Quant Composite | 33.13 / 66.56 |
 | Market Cap | $189.1M (Sweet Spot $2B-$80B: No) |
 | Price | 0.86 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

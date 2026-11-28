@@ -3,8 +3,8 @@ ticker: ISRG
 name: "Intuitive Surgical, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: GOLDEN
-net_score: 76.8
-quant_composite_score: 88.4
+net_score: 71.8
+quant_composite_score: 85.9
 market_cap: 148079383920.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 8d7acd1f8d14271cc8c44430ff49be90ec5d8b5f98a85d5b432358185909b552
+wiki_state_hash: 0eb74ba7578d5fbc09735a6e7465b30bfecb636de7325b87dcb7ad232d4f3df2
 ---
 
 # Intuitive Surgical, Inc. (ISRG)
@@ -32,7 +32,7 @@ wiki_state_hash: 8d7acd1f8d14271cc8c44430ff49be90ec5d8b5f98a85d5b432358185909b55
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 76.80 / 88.40 |
+| Net Score / Quant Composite | 71.80 / 85.90 |
 | Market Cap | $148.08B (Sweet Spot $2B-$80B: No) |
 | Price | 427.18 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: OTEX
 name: "Open Text Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 20.44
-quant_composite_score: 60.22
+net_score: 23.59
+quant_composite_score: 61.8
 market_cap: 5726913400.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 01c7d8725d4e1be6ae231a8c40956079374eea5202e3cc1a27b16bafdc68108b
+wiki_state_hash: 51240a55813f774408feba4faa4c81461659c182eb33dc60b87ea01cc07e0573
 ---
 
 # Open Text Corporation (OTEX)
@@ -32,7 +32,7 @@ wiki_state_hash: 01c7d8725d4e1be6ae231a8c40956079374eea5202e3cc1a27b16bafdc68108
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 20.44 / 60.22 |
+| Net Score / Quant Composite | 23.59 / 61.80 |
 | Market Cap | $5.73B (Sweet Spot $2B-$80B: Yes) |
 | Price | 23.71 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

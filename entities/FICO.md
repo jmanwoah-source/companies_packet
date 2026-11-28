@@ -3,8 +3,8 @@ ticker: FICO
 name: "Fair Isaac Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 28.43
-quant_composite_score: 64.21
+net_score: 32.25
+quant_composite_score: 66.13
 market_cap: 14962587923.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7a22cca7626b8bf33990e16c9d40af288c83e56451cfffaa9243a7ebcddbf2c4
+wiki_state_hash: a775e2c26d3cdaee4dde4145bc150152bfd85bcd07404f760066410e5d9a2f18
 ---
 
 # Fair Isaac Corporation (FICO)
@@ -32,7 +32,7 @@ wiki_state_hash: 7a22cca7626b8bf33990e16c9d40af288c83e56451cfffaa9243a7ebcddbf2c
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 28.43 / 64.21 |
+| Net Score / Quant Composite | 32.25 / 66.13 |
 | Market Cap | $14.96B (Sweet Spot $2B-$80B: Yes) |
 | Price | 699.81 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

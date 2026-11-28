@@ -3,8 +3,8 @@ ticker: FEIM
 name: "Frequency Electronics, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 13.87
-quant_composite_score: 56.94
+net_score: 16.17
+quant_composite_score: 58.09
 market_cap: 615183272.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 84a6aca5ea013ae59a4da1bded4e7a52e4128c3d8057e9b51652e37019119553
+wiki_state_hash: aeefe4294b9aadd9a05e083db3889dcc007d903251d5fae5831aba5e024f5695
 ---
 
 # Frequency Electronics, Inc. (FEIM)
@@ -31,7 +31,7 @@ wiki_state_hash: 84a6aca5ea013ae59a4da1bded4e7a52e4128c3d8057e9b51652e3701911955
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 13.87 / 56.94 |
+| Net Score / Quant Composite | 16.17 / 58.09 |
 | Market Cap | $615.2M (Sweet Spot $2B-$80B: No) |
 | Price | 54.57 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

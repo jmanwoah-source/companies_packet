@@ -3,8 +3,8 @@ ticker: NVEC
 name: "NVE Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -25.8
-quant_composite_score: 37.1
+net_score: -29.45
+quant_composite_score: 35.27
 market_cap: 360932326.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: eb7c2a5987702b87e528af183607f2ac48081c48abeba736f23d13a61a4e7a14
+wiki_state_hash: 157b8dfa0ea3b6652f1d6d14066b6a26de9d37f7dc9589f082f438c44cf5a87a
 ---
 
 # NVE Corporation (NVEC)
@@ -31,7 +31,7 @@ wiki_state_hash: eb7c2a5987702b87e528af183607f2ac48081c48abeba736f23d13a61a4e7a1
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -25.80 / 37.10 |
+| Net Score / Quant Composite | -29.45 / 35.27 |
 | Market Cap | $360.9M (Sweet Spot $2B-$80B: No) |
 | Price | 74.51 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

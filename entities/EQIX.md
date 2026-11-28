@@ -3,8 +3,8 @@ ticker: EQIX
 name: "Equinix, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -25.51
-quant_composite_score: 37.24
+net_score: -29.15
+quant_composite_score: 35.43
 market_cap: 96832334826.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/tight
-wiki_state_hash: b666c4e0ba9ac73c87504fec9294851ce6e4d84e7a165fc9477d15c3cccae6bb
+wiki_state_hash: 0b8cae4caa038f7046ee316a824b9046af0d1b9679d04a017efd83eb7cfc2841
 ---
 
 # Equinix, Inc. (EQIX)
@@ -32,7 +32,7 @@ wiki_state_hash: b666c4e0ba9ac73c87504fec9294851ce6e4d84e7a165fc9477d15c3cccae6b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -25.51 / 37.24 |
+| Net Score / Quant Composite | -29.15 / 35.43 |
 | Market Cap | $96.83B (Sweet Spot $2B-$80B: No) |
 | Price | 978.22 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

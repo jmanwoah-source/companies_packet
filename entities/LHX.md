@@ -3,8 +3,8 @@ ticker: LHX
 name: "L3Harris Technologies, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 4.13
-quant_composite_score: 52.06
+net_score: 4.85
+quant_composite_score: 52.43
 market_cap: 48764179890.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 21ae4f867a81d7ca8c5460a68ebb302071ca0608f4614090f1b7fc5766840a53
+wiki_state_hash: 191a1991e7b9f2f8205c05b679a42e09228df71e1c99ffb5a64b82e06f797261
 ---
 
 # L3Harris Technologies, Inc. (LHX)
@@ -33,7 +33,7 @@ wiki_state_hash: 21ae4f867a81d7ca8c5460a68ebb302071ca0608f4614090f1b7fc5766840a5
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 4.13 / 52.06 |
+| Net Score / Quant Composite | 4.85 / 52.43 |
 | Market Cap | $48.76B (Sweet Spot $2B-$80B: Yes) |
 | Price | 261.89 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

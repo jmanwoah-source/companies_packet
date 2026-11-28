@@ -3,8 +3,8 @@ ticker: NBIS
 name: "Nebius Group N.V."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 7.53
-quant_composite_score: 53.76
+net_score: 8.84
+quant_composite_score: 54.42
 market_cap: 20397600000.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: cd9504a55fda7833da914da84c6383566da3917c80cf72e14f0aded91e5b36da
+wiki_state_hash: fcd5b06aeaa88d432cb7e8ec204a7281c89bcca0ebd617ee6e0704016fc7512c
 ---
 
 # Nebius Group N.V. (NBIS)
@@ -33,7 +33,7 @@ wiki_state_hash: cd9504a55fda7833da914da84c6383566da3917c80cf72e14f0aded91e5b36d
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 7.53 / 53.76 |
+| Net Score / Quant Composite | 8.84 / 54.42 |
 | Market Cap | $20.40B (Sweet Spot $2B-$80B: Yes) |
 | Price | 84.99 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

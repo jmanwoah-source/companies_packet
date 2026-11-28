@@ -3,8 +3,8 @@ ticker: PANW
 name: "Palo Alto Networks, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -13.75
-quant_composite_score: 43.13
+net_score: -16.03
+quant_composite_score: 41.98
 market_cap: 292390940000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 733a65068bd3f45d1d897e355f58feda1be6e10e143e1bbe34c3d6102c0dfc18
+wiki_state_hash: 83f52d0d87f682316c60332cd044b4bb60aaf2eb4dc5aea110ec42f56051b1f0
 ---
 
 # Palo Alto Networks, Inc. (PANW)
@@ -32,7 +32,7 @@ wiki_state_hash: 733a65068bd3f45d1d897e355f58feda1be6e10e143e1bbe34c3d6102c0dfc1
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -13.75 / 43.13 |
+| Net Score / Quant Composite | -16.03 / 41.98 |
 | Market Cap | $292.39B (Sweet Spot $2B-$80B: No) |
 | Price | 356.14 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

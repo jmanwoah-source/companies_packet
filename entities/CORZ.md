@@ -3,8 +3,8 @@ ticker: CORZ
 name: "Core Scientific, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -96.13
-quant_composite_score: 1.93
+net_score: -81.13
+quant_composite_score: 9.43
 market_cap: 3486595684.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 855af1e684fb3058013b9ff7a1e91d0d60392b940aaacc7ea8132b7073d93227
+wiki_state_hash: 05a8cf0990bf139d8e87eb355f44b9b96be45ab2aabc442347b85bbdcbc59698
 ---
 
 # Core Scientific, Inc. (CORZ)
@@ -33,7 +33,7 @@ wiki_state_hash: 855af1e684fb3058013b9ff7a1e91d0d60392b940aaacc7ea8132b7073d9322
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -96.13 / 1.93 |
+| Net Score / Quant Composite | -81.13 / 9.43 |
 | Market Cap | $3.49B (Sweet Spot $2B-$80B: Yes) |
 | Price | 10.82 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: FIVN
 name: "Five9, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 0.46
-quant_composite_score: 50.23
+net_score: 0.54
+quant_composite_score: 50.27
 market_cap: 1801584332.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 53c9a6fbb05fbe5d7d49bdbb7b66b3661fafa5dd291c9c43c4026e7b2a79104a
+wiki_state_hash: a4fe39ed40bec2341dfbd5787c65adc7936abc934369c761162feff7c22103f1
 ---
 
 # Five9, Inc. (FIVN)
@@ -31,7 +31,7 @@ wiki_state_hash: 53c9a6fbb05fbe5d7d49bdbb7b66b3661fafa5dd291c9c43c4026e7b2a79104
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 0.46 / 50.23 |
+| Net Score / Quant Composite | 0.54 / 50.27 |
 | Market Cap | $1.80B (Sweet Spot $2B-$80B: No) |
 | Price | 24.11 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

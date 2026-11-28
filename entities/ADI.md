@@ -3,8 +3,8 @@ ticker: ADI
 name: "Analog Devices, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -11.04
-quant_composite_score: 44.48
+net_score: -12.92
+quant_composite_score: 43.54
 market_cap: 161411024325.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 508316afa79b4f8502afbf2f384f47ce10c21351d5735f3e05c29b45ee39e9f0
+wiki_state_hash: 12f4b78ce0300d5600149c9864fc19e62af36627ed81fe03c526d76e8e012738
 ---
 
 # Analog Devices, Inc. (ADI)
@@ -34,7 +34,7 @@ wiki_state_hash: 508316afa79b4f8502afbf2f384f47ce10c21351d5735f3e05c29b45ee39e9f
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -11.04 / 44.48 |
+| Net Score / Quant Composite | -12.92 / 43.54 |
 | Market Cap | $161.41B (Sweet Spot $2B-$80B: No) |
 | Price | 333.11 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

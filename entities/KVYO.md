@@ -2,9 +2,9 @@
 ticker: KVYO
 name: "Klaviyo, Inc."
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: 31.76
-quant_composite_score: 65.88
+tier: EMERGING_EDGE
+net_score: 35.72
+quant_composite_score: 67.86
 market_cap: 6684394289.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -19,9 +19,9 @@ tags:
   - etf/igv
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 0d6042a2db1eb895f9d892491ba53aee3c756ae035741e4855152296d0a26291
+wiki_state_hash: 87dd064c3ad4976ad816747374d00da00a2ede7aeaf007fe61cb531994c1d9db
 ---
 
 # Klaviyo, Inc. (KVYO)
@@ -31,8 +31,8 @@ wiki_state_hash: 0d6042a2db1eb895f9d892491ba53aee3c756ae035741e4855152296d0a2629
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 31.76 / 65.88 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 35.72 / 67.86 |
 | Market Cap | $6.68B (Sweet Spot $2B-$80B: Yes) |
 | Price | 23.74 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

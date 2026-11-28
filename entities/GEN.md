@@ -3,8 +3,8 @@ ticker: GEN
 name: "Gen Digital Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 69.3
-quant_composite_score: 84.65
+net_score: 67.25
+quant_composite_score: 83.63
 market_cap: 17899139334.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: d967fe308cf62dd852db5dd247d298782680f0eb4e542ed06bb3d20f4fb87ae2
+wiki_state_hash: 09761c2e835785ed9fc8aed13c85bd109097d61100b28b30764610b30280160c
 ---
 
 # Gen Digital Inc. (GEN)
@@ -33,7 +33,7 @@ wiki_state_hash: d967fe308cf62dd852db5dd247d298782680f0eb4e542ed06bb3d20f4fb87ae
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 69.30 / 84.65 |
+| Net Score / Quant Composite | 67.25 / 83.63 |
 | Market Cap | $17.90B (Sweet Spot $2B-$80B: Yes) |
 | Price | 30.17 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

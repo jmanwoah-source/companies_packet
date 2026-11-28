@@ -3,8 +3,8 @@ ticker: LUNR
 name: "Intuitive Machines, Inc."
 pillar: DEFENSE
 tier: MIRAGE_SHORT
-net_score: -72.97
-quant_composite_score: 13.52
+net_score: -69.55
+quant_composite_score: 15.23
 market_cap: 1991144393.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 838e00dc559fb3c4b3fa343159a8a6ef4d766b34b23fada4208244923b030f8f
+wiki_state_hash: 135ba70fcc93f9427f8161bc56e81dd73d8c19807079ccba21d11c56a1d3b054
 ---
 
 # Intuitive Machines, Inc. (LUNR)
@@ -32,7 +32,7 @@ wiki_state_hash: 838e00dc559fb3c4b3fa343159a8a6ef4d766b34b23fada4208244923b030f8
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -72.97 / 13.52 |
+| Net Score / Quant Composite | -69.55 / 15.23 |
 | Market Cap | $1.99B (Sweet Spot $2B-$80B: No) |
 | Price | 9.14 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

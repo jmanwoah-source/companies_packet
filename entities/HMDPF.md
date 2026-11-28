@@ -3,8 +3,8 @@ ticker: HMDPF
 name: "Hammond Power Solutions Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -29.69
-quant_composite_score: 35.15
+net_score: -33.58
+quant_composite_score: 33.21
 market_cap: 1544687699.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 34ee3204822b1d3152301cadd707377d746a052a4f76bb7847c20fb17d276c50
+wiki_state_hash: acb04886e797e5cb5b6c1af09a8d86e97695a80881dc3edbda3b4a22cf188390
 ---
 
 # Hammond Power Solutions Inc. (HMDPF)
@@ -31,7 +31,7 @@ wiki_state_hash: 34ee3204822b1d3152301cadd707377d746a052a4f76bb7847c20fb17d276c5
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.69 / 35.15 |
+| Net Score / Quant Composite | -33.58 / 33.21 |
 | Market Cap | $1.54B (Sweet Spot $2B-$80B: No) |
 | Price | 129.75 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

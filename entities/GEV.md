@@ -3,8 +3,8 @@ ticker: GEV
 name: "GE Vernova Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -20.46
-quant_composite_score: 39.77
+net_score: -23.62
+quant_composite_score: 38.19
 market_cap: 189244102190.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: d02528d0c494a6ecc0024ab1582145f9b8cc6e6eaea258d0d3b0c3c040055ea4
+wiki_state_hash: b5906b7c07e9b7fa2bbc73da210d9e6fea7bd238cbd355489788d98431b1dba9
 ---
 
 # GE Vernova Inc. (GEV)
@@ -32,7 +32,7 @@ wiki_state_hash: d02528d0c494a6ecc0024ab1582145f9b8cc6e6eaea258d0d3b0c3c040055ea
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -20.46 / 39.77 |
+| Net Score / Quant Composite | -23.62 / 38.19 |
 | Market Cap | $189.24B (Sweet Spot $2B-$80B: No) |
 | Price | 715.00 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

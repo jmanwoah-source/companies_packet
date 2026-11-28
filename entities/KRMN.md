@@ -3,8 +3,8 @@ ticker: KRMN
 name: "Karman Holdings Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -9.87
-quant_composite_score: 45.07
+net_score: -11.55
+quant_composite_score: 44.22
 market_cap: 3879261399.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: a7edccb543f1aca6e7d9d9304ea2fb5c49f9e334950efdbdfce88f37280e03f9
+wiki_state_hash: 2a840f7328ff58c4f9abaf9dedc1c91bf277ae11b4d37136a68b0c75f1c18095
 ---
 
 # Karman Holdings Inc. (KRMN)
@@ -32,7 +32,7 @@ wiki_state_hash: a7edccb543f1aca6e7d9d9304ea2fb5c49f9e334950efdbdfce88f37280e03f
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -9.87 / 45.07 |
+| Net Score / Quant Composite | -11.55 / 44.22 |
 | Market Cap | $3.88B (Sweet Spot $2B-$80B: Yes) |
 | Price | 29.27 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

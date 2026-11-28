@@ -3,8 +3,8 @@ ticker: ALB
 name: "Albemarle Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -57.11
-quant_composite_score: 21.45
+net_score: -58.62
+quant_composite_score: 20.69
 market_cap: 9617802694.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: c2d5d5323165ac3ea86c542a853d2bdda42448564b2a2799b53de785f3e8c5c8
+wiki_state_hash: 7a673a040a6acc705f26db0bbba1677c68a7f49d25def07ee33dbd4201724869
 ---
 
 # Albemarle Corporation (ALB)
@@ -33,7 +33,7 @@ wiki_state_hash: c2d5d5323165ac3ea86c542a853d2bdda42448564b2a2799b53de785f3e8c5c
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -57.11 / 21.45 |
+| Net Score / Quant Composite | -58.62 / 20.69 |
 | Market Cap | $9.62B (Sweet Spot $2B-$80B: Yes) |
 | Price | 81.50 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

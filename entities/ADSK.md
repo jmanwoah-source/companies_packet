@@ -3,8 +3,8 @@ ticker: ADSK
 name: "Autodesk, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -10.06
-quant_composite_score: 44.97
+net_score: -11.78
+quant_composite_score: 44.11
 market_cap: 51578065000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: fe217b37bf38569da5bb85fb8e7923a6c5cabfa0f7019298222ad230ad52828b
+wiki_state_hash: 66cb08523f976933771f26bb8b13ccb5f5d52f58bd6a33264fcbd8ab42e275ea
 ---
 
 # Autodesk, Inc. (ADSK)
@@ -33,7 +33,7 @@ wiki_state_hash: fe217b37bf38569da5bb85fb8e7923a6c5cabfa0f7019298222ad230ad52828
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -10.06 / 44.97 |
+| Net Score / Quant Composite | -11.78 / 44.11 |
 | Market Cap | $51.58B (Sweet Spot $2B-$80B: Yes) |
 | Price | 246.78 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: ASAN
 name: "Asana, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -18.19
-quant_composite_score: 40.91
+net_score: -21.08
+quant_composite_score: 39.46
 market_cap: 2227879112.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 189b3bd104d1c34b6b7df6d1e89bb009020d9f5eb3bac0d1eba08193dc42dd77
+wiki_state_hash: 2b2e43d36275c092e777170d9de2276e53affbd527c04a86344d4447210a6280
 ---
 
 # Asana, Inc. (ASAN)
@@ -32,7 +32,7 @@ wiki_state_hash: 189b3bd104d1c34b6b7df6d1e89bb009020d9f5eb3bac0d1eba08193dc42dd7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.19 / 40.91 |
+| Net Score / Quant Composite | -21.08 / 39.46 |
 | Market Cap | $2.23B (Sweet Spot $2B-$80B: Yes) |
 | Price | 9.73 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: APLD
 name: "Applied Digital Corp."
 pillar: AI_INFRA
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -87.9
+quant_composite_score: 6.05
 market_cap: 3716337951.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 21a8cbf3490184b68284f0425d6f4938f20c376872079c1139a087d685f76143
+wiki_state_hash: be243c09fe9f8106464eaa4b3b762796ffeeacbc4e917acfd8ffc16d55f23c1a
 ---
 
 # Applied Digital Corp. (APLD)
@@ -33,7 +33,7 @@ wiki_state_hash: 21a8cbf3490184b68284f0425d6f4938f20c376872079c1139a087d685f7614
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -87.90 / 6.05 |
 | Market Cap | $3.72B (Sweet Spot $2B-$80B: Yes) |
 | Price | 12.29 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

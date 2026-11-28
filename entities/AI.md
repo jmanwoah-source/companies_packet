@@ -3,8 +3,8 @@ ticker: AI
 name: "C3.ai, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -32.08
-quant_composite_score: 33.96
+net_score: -36.05
+quant_composite_score: 31.98
 market_cap: 1554492770.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: b12e94998f9053a736676c271cf4cb7934a1151a1cf653e749882279ca05988a
+wiki_state_hash: 049238e9201d26f742439ff8a7a9b19d59a6444e5ec18fb84f57f9a21bc16767
 ---
 
 # C3.ai, Inc. (AI)
@@ -32,7 +32,7 @@ wiki_state_hash: b12e94998f9053a736676c271cf4cb7934a1151a1cf653e749882279ca05988
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -32.08 / 33.96 |
+| Net Score / Quant Composite | -36.05 / 31.98 |
 | Market Cap | $1.55B (Sweet Spot $2B-$80B: No) |
 | Price | 10.00 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

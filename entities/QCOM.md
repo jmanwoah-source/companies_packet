@@ -3,8 +3,8 @@ ticker: QCOM
 name: "QUALCOMM Incorporated"
 pillar: SEMI_SUBSYSTEMS
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -87.89
+quant_composite_score: 6.06
 market_cap: 180466200000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: ddebd8be381d77a08d33f31df596960a6f9c3483f7b5b4b19ab8a7590c59bbab
+wiki_state_hash: 307200cf7582c24808e1fd83cd1246da95b66540749e6f72cdd79475b9be56dd
 ---
 
 # QUALCOMM Incorporated (QCOM)
@@ -34,7 +34,7 @@ wiki_state_hash: ddebd8be381d77a08d33f31df596960a6f9c3483f7b5b4b19ab8a7590c59bba
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -87.89 / 6.06 |
 | Market Cap | $180.47B (Sweet Spot $2B-$80B: No) |
 | Price | 168.66 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

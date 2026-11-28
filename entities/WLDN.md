@@ -3,8 +3,8 @@ ticker: WLDN
 name: "Willdan Group, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 27.88
-quant_composite_score: 63.94
+net_score: 31.68
+quant_composite_score: 65.84
 market_cap: 1035584577.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 55fe7625ee14e6062f43ebb5f5aed1680479b971c8a6010ca707fa297e5a5913
+wiki_state_hash: b1dba18fb6f122cb57bcb323bdc846186b2113a3a9acc79fe1cd424bd4cad9bc
 ---
 
 # Willdan Group, Inc. (WLDN)
@@ -31,7 +31,7 @@ wiki_state_hash: 55fe7625ee14e6062f43ebb5f5aed1680479b971c8a6010ca707fa297e5a591
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.88 / 63.94 |
+| Net Score / Quant Composite | 31.68 / 65.84 |
 | Market Cap | $1.04B (Sweet Spot $2B-$80B: No) |
 | Price | 67.57 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

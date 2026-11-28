@@ -3,8 +3,8 @@ ticker: KTOS
 name: "Kratos Defense & Security Solutions, Inc."
 pillar: DEFENSE
 tier: EMERGING_EDGE
-net_score: 43.68
-quant_composite_score: 71.84
+net_score: 47.29
+quant_composite_score: 73.65
 market_cap: 5450518057.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: aa233c658a18df1e6f8304a5ade3d68a32f3f9246087788d6b701a2295bca5e4
+wiki_state_hash: 578baabcc52a97edc17482b3bd866bc6494daaf8fc54ccc9d7c0225a49994815
 ---
 
 # Kratos Defense & Security Solutions, Inc. (KTOS)
@@ -34,7 +34,7 @@ wiki_state_hash: aa233c658a18df1e6f8304a5ade3d68a32f3f9246087788d6b701a2295bca5e
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 43.68 / 71.84 |
+| Net Score / Quant Composite | 47.29 / 73.65 |
 | Market Cap | $5.45B (Sweet Spot $2B-$80B: Yes) |
 | Price | 28.95 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

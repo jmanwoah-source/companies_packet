@@ -2,9 +2,9 @@
 ticker: BABA
 name: "Alibaba Group Holding Limited"
 pillar: NEXTGEN_COMPUTE
-tier: NEUTRAL
-net_score: 33.16
-quant_composite_score: 66.58
+tier: EMERGING_EDGE
+net_score: 37.14
+quant_composite_score: 68.57
 market_cap: 212107942108.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -18,10 +18,10 @@ tags:
   - pillar/nextgen_compute
   - etf/qtum
   - mcap/mega_corridor
-  - tier/neutral
+  - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 071ced8ee090338c171476158a277c1af76c6783ed0512fbbcf23c8ec2e78fbb
+wiki_state_hash: b7fc748eb52c373ba3d890759a1ec095bd7ac714a4b20fc49a21d01fc947b530
 ---
 
 # Alibaba Group Holding Limited (BABA)
@@ -31,8 +31,8 @@ wiki_state_hash: 071ced8ee090338c171476158a277c1af76c6783ed0512fbbcf23c8ec2e78fb
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 33.16 / 66.58 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 37.14 / 68.57 |
 | Market Cap | $212.11B (Sweet Spot $2B-$80B: No) |
 | Price | 86.26 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

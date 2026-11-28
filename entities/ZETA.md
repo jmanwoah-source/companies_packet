@@ -3,8 +3,8 @@ ticker: ZETA
 name: "Zeta Global Holdings Corp."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -43.04
-quant_composite_score: 28.48
+net_score: -46.71
+quant_composite_score: 26.65
 market_cap: 8212761311.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 110d43a44fe19621d6e0b538ce65b492b173f91537dbb1efb308e79eed0497a2
+wiki_state_hash: 75d7e78e8ccbe40ed982fba06440dbd6c748cd705d754932f563228233e0a878
 ---
 
 # Zeta Global Holdings Corp. (ZETA)
@@ -33,7 +33,7 @@ wiki_state_hash: 110d43a44fe19621d6e0b538ce65b492b173f91537dbb1efb308e79eed0497a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -43.04 / 28.48 |
+| Net Score / Quant Composite | -46.71 / 26.65 |
 | Market Cap | $8.21B (Sweet Spot $2B-$80B: Yes) |
 | Price | 31.97 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: CDNS
 name: "Cadence Design Systems, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -57.49
-quant_composite_score: 21.25
+net_score: -58.92
+quant_composite_score: 20.54
 market_cap: 80911623310.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -24,7 +24,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: cd22291f112ea913eaa4c97cca374100755b85a6abe525d167685cf7bbc0db71
+wiki_state_hash: 7fa3ce2cdf1ab4de42c1f73c288898e24ee01c8741a882f4e51b1201b00d02f7
 ---
 
 # Cadence Design Systems, Inc. (CDNS)
@@ -35,7 +35,7 @@ wiki_state_hash: cd22291f112ea913eaa4c97cca374100755b85a6abe525d167685cf7bbc0db7
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -57.49 / 21.25 |
+| Net Score / Quant Composite | -58.92 / 20.54 |
 | Market Cap | $80.91B (Sweet Spot $2B-$80B: No) |
 | Price | 294.89 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: NCNO
 name: "nCino, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -1.53
-quant_composite_score: 49.23
+net_score: -1.8
+quant_composite_score: 49.1
 market_cap: 2282843997.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 5a641b97a3bd7ccd3621c0b7bc85fbe5ba09cd67d1cd996846a297ad1845112b
+wiki_state_hash: 4bf767af5287689352b38236004a3d132b08e917cf63e19316eb6111715f8870
 ---
 
 # nCino, Inc. (NCNO)
@@ -32,7 +32,7 @@ wiki_state_hash: 5a641b97a3bd7ccd3621c0b7bc85fbe5ba09cd67d1cd996846a297ad1845112
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.53 / 49.23 |
+| Net Score / Quant Composite | -1.80 / 49.10 |
 | Market Cap | $2.28B (Sweet Spot $2B-$80B: Yes) |
 | Price | 21.59 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |

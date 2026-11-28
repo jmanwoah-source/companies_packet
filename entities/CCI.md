@@ -3,8 +3,8 @@ ticker: CCI
 name: "Crown Castle Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -64.89
-quant_composite_score: 17.56
+net_score: -64.31
+quant_composite_score: 17.85
 market_cap: 35582991836.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 797b870e1e6d1972bdb65fb9f12190e3e08902fbfe38e4f284a5d2d46d929dbc
+wiki_state_hash: b810e39667b8fede080e3088feeb16dfa358bb975bbb182b3b750c015028ed80
 ---
 
 # Crown Castle Inc. (CCI)
@@ -33,7 +33,7 @@ wiki_state_hash: 797b870e1e6d1972bdb65fb9f12190e3e08902fbfe38e4f284a5d2d46d929db
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -64.89 / 17.56 |
+| Net Score / Quant Composite | -64.31 / 17.85 |
 | Market Cap | $35.58B (Sweet Spot $2B-$80B: Yes) |
 | Price | 83.63 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

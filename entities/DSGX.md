@@ -2,9 +2,9 @@
 ticker: DSGX
 name: "The Descartes Systems Group Inc."
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: 32.52
-quant_composite_score: 66.26
+tier: EMERGING_EDGE
+net_score: 36.49
+quant_composite_score: 68.25
 market_cap: 7858494396.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -19,9 +19,9 @@ tags:
   - etf/igv
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 30675291abe2447f023254b0cbc33915564e2d55bcdc6848c0aaf557ae3c22a0
+wiki_state_hash: 11e04b7bce7753b3ff20bee3defd7f9a8ac46d4ec4b7e7159583641ab5cf7c65
 ---
 
 # The Descartes Systems Group Inc. (DSGX)
@@ -31,8 +31,8 @@ wiki_state_hash: 30675291abe2447f023254b0cbc33915564e2d55bcdc6848c0aaf557ae3c22a
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 32.52 / 66.26 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 36.49 / 68.25 |
 | Market Cap | $7.86B (Sweet Spot $2B-$80B: Yes) |
 | Price | 91.86 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

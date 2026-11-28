@@ -3,8 +3,8 @@ ticker: UROY
 name: "Uranium Royalty Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -29.55
-quant_composite_score: 35.22
+net_score: -33.43
+quant_composite_score: 33.28
 market_cap: 332764991.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ddf25f312d9afef8ac66288a7be09b90d13a7bd94a7a2ee8cd5f36c3b2f9b8ef
+wiki_state_hash: 6f8a5d42f6e0317795538e65ffde3048adc1bdd5a699429811dc98c61a43d5bf
 ---
 
 # Uranium Royalty Corp. (UROY)
@@ -31,7 +31,7 @@ wiki_state_hash: ddf25f312d9afef8ac66288a7be09b90d13a7bd94a7a2ee8cd5f36c3b2f9b8e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.55 / 35.22 |
+| Net Score / Quant Composite | -33.43 / 33.28 |
 | Market Cap | $332.8M (Sweet Spot $2B-$80B: No) |
 | Price | 2.27 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

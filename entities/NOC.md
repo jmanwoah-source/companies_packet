@@ -3,8 +3,8 @@ ticker: NOC
 name: "Northrop Grumman Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -5.1
-quant_composite_score: 47.45
+net_score: -5.99
+quant_composite_score: 47.0
 market_cap: 78957750560.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 3c0390404c277a8b74f08e03c60faf54250315c9982efc6afeb19423fba22bc1
+wiki_state_hash: 8f3579f51530f071b1319c773751dfb804aa2c0d5a7788fe8392b3b21fcccb77
 ---
 
 # Northrop Grumman Corporation (NOC)
@@ -34,7 +34,7 @@ wiki_state_hash: 3c0390404c277a8b74f08e03c60faf54250315c9982efc6afeb19423fba22bc
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -5.10 / 47.45 |
+| Net Score / Quant Composite | -5.99 / 47.00 |
 | Market Cap | $78.96B (Sweet Spot $2B-$80B: Yes) |
 | Price | 555.79 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

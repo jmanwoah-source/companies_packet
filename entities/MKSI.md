@@ -3,8 +3,8 @@ ticker: MKSI
 name: "MKS Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -47.71
-quant_composite_score: 26.14
+net_score: -50.9
+quant_composite_score: 24.55
 market_cap: 12429995715.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: db65bf3b247e905ab85da997313ebd5271d6f2c4ebfe73e2574890bc7eeea4bc
+wiki_state_hash: bc3fc167288a5562f11f93c78e86fbfc748037074ed0d70e91616c682868c4ad
 ---
 
 # MKS Inc. (MKSI)
@@ -33,7 +33,7 @@ wiki_state_hash: db65bf3b247e905ab85da997313ebd5271d6f2c4ebfe73e2574890bc7eeea4b
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -47.71 / 26.14 |
+| Net Score / Quant Composite | -50.90 / 24.55 |
 | Market Cap | $12.43B (Sweet Spot $2B-$80B: Yes) |
 | Price | 183.82 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

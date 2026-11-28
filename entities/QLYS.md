@@ -3,8 +3,8 @@ ticker: QLYS
 name: "Qualys, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 9.12
-quant_composite_score: 54.56
+net_score: 10.69
+quant_composite_score: 55.34
 market_cap: 6855507972.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: bb33dd4059ca3c625c68d9f65a60f6f8a18d792025c400a9db6512f812327fae
+wiki_state_hash: 976eba52f882e90f031f04baf0b453be8003f12eda66fe2de4fd0f6b60d70619
 ---
 
 # Qualys, Inc. (QLYS)
@@ -32,7 +32,7 @@ wiki_state_hash: bb33dd4059ca3c625c68d9f65a60f6f8a18d792025c400a9db6512f812327fa
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.12 / 54.56 |
+| Net Score / Quant Composite | 10.69 / 55.34 |
 | Market Cap | $6.86B (Sweet Spot $2B-$80B: Yes) |
 | Price | 196.38 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

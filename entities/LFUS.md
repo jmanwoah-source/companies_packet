@@ -3,8 +3,8 @@ ticker: LFUS
 name: "Littelfuse, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 8.25
-quant_composite_score: 54.13
+net_score: 9.68
+quant_composite_score: 54.84
 market_cap: 9266180660.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 02bfceab7d1d0a4d021483639b005ade4b393bd0613880bf118d9333e47035c6
+wiki_state_hash: 29c1c133d8a04e168ba991fec56ae2de90a73218ef5478fed7de767866a1cb73
 ---
 
 # Littelfuse, Inc. (LFUS)
@@ -33,7 +33,7 @@ wiki_state_hash: 02bfceab7d1d0a4d021483639b005ade4b393bd0613880bf118d9333e47035c
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 8.25 / 54.13 |
+| Net Score / Quant Composite | 9.68 / 54.84 |
 | Market Cap | $9.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 364.76 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

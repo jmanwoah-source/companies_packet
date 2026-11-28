@@ -3,8 +3,8 @@ ticker: SERV
 name: "Serve Robotics Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -9.65
-quant_composite_score: 45.18
+net_score: -11.3
+quant_composite_score: 44.35
 market_cap: 200517804.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ed2ae517ff50c27a5d1ccacdadcca15e7d5ab705ba404e6ae20cd7242bde068e
+wiki_state_hash: ae00bd3f41bf75d6f4adec429a036c01780be92ec79b6bc69ac5dded4955b4b0
 ---
 
 # Serve Robotics Inc. (SERV)
@@ -31,7 +31,7 @@ wiki_state_hash: ed2ae517ff50c27a5d1ccacdadcca15e7d5ab705ba404e6ae20cd7242bde068
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -9.65 / 45.18 |
+| Net Score / Quant Composite | -11.30 / 44.35 |
 | Market Cap | $200.5M (Sweet Spot $2B-$80B: No) |
 | Price | 2.29 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

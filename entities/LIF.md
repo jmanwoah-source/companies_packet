@@ -3,8 +3,8 @@ ticker: LIF
 name: "Life360, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -30.18
-quant_composite_score: 34.91
+net_score: -34.08
+quant_composite_score: 32.96
 market_cap: 3182734374.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 610b9a72f76eef8bb0838f27ced45504d42c6db4842c97ecf373769193548af2
+wiki_state_hash: 742c5fafda474365e1fecb39c806a211439b2aca5e3ff16d1ef5f10624d071f0
 ---
 
 # Life360, Inc. (LIF)
@@ -32,7 +32,7 @@ wiki_state_hash: 610b9a72f76eef8bb0838f27ced45504d42c6db4842c97ecf373769193548af
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -30.18 / 34.91 |
+| Net Score / Quant Composite | -34.08 / 32.96 |
 | Market Cap | $3.18B (Sweet Spot $2B-$80B: Yes) |
 | Price | 38.93 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

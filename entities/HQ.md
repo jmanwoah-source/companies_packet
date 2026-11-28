@@ -3,8 +3,8 @@ ticker: HQ
 name: "Horizon Quantum Holdings Ltd. Class A Ordinary Shares"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -23.4
-quant_composite_score: 38.3
+net_score: -26.86
+quant_composite_score: 36.57
 market_cap: 475772049.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3267af3a0cf41e766cba3ba1828ed6365a744060fd892e05cb6d25ff66b38652
+wiki_state_hash: cd629da368c9eb98ff83688e6f2a9a0dab4f6b3a2687851384f66640d00837aa
 ---
 
 # Horizon Quantum Holdings Ltd. Class A Ordinary Shares (HQ)
@@ -31,7 +31,7 @@ wiki_state_hash: 3267af3a0cf41e766cba3ba1828ed6365a744060fd892e05cb6d25ff66b3865
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.40 / 38.30 |
+| Net Score / Quant Composite | -26.86 / 36.57 |
 | Market Cap | $475.8M (Sweet Spot $2B-$80B: No) |
 | Price | 8.65 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

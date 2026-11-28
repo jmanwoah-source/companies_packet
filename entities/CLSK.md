@@ -3,8 +3,8 @@ ticker: CLSK
 name: "CleanSpark, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -83.24
+quant_composite_score: 8.38
 market_cap: 1330312060.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 0d844c9bf44d9aaa8dd90f3d8cccf6036af4986840ac1526a69759cadde8b2b4
+wiki_state_hash: 824e26d06bd609981c4f3b6a676f89f0b07389792a4554f4137efc4e809835f4
 ---
 
 # CleanSpark, Inc. (CLSK)
@@ -32,7 +32,7 @@ wiki_state_hash: 0d844c9bf44d9aaa8dd90f3d8cccf6036af4986840ac1526a69759cadde8b2b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -83.24 / 8.38 |
 | Market Cap | $1.33B (Sweet Spot $2B-$80B: No) |
 | Price | 5.18 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

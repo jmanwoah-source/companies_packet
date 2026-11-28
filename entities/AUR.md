@@ -3,8 +3,8 @@ ticker: AUR
 name: "Aurora Innovation, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 15.11
-quant_composite_score: 57.56
+net_score: 17.6
+quant_composite_score: 58.8
 market_cap: 6471432057.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: aecb5cb756a066b9217c101c01bda3b101bcf2325595b02f725304ff4c07bc56
+wiki_state_hash: 0aa00133e3e3955b44ef64bc21a1060ee9623277d38ddbe35df751816949f3b9
 ---
 
 # Aurora Innovation, Inc. (AUR)
@@ -32,7 +32,7 @@ wiki_state_hash: aecb5cb756a066b9217c101c01bda3b101bcf2325595b02f725304ff4c07bc5
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 15.11 / 57.56 |
+| Net Score / Quant Composite | 17.60 / 58.80 |
 | Market Cap | $6.47B (Sweet Spot $2B-$80B: Yes) |
 | Price | 3.74 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

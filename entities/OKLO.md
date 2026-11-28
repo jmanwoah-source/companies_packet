@@ -3,8 +3,8 @@ ticker: OKLO
 name: "Oklo Inc."
 pillar: ENERGY_MATERIALS
 tier: GOLDEN
-net_score: 63.85
-quant_composite_score: 81.93
+net_score: 63.59
+quant_composite_score: 81.79
 market_cap: 3802288376.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: b9fd873e2582ac4d09c240924fef9d57c1ac00db04530c9724c657eb8267797c
+wiki_state_hash: 5e109923cfbdfb3c503d3a952d9d5a9462404882e0f1c76bf6d9ee567330ed52
 ---
 
 # Oklo Inc. (OKLO)
@@ -33,7 +33,7 @@ wiki_state_hash: b9fd873e2582ac4d09c240924fef9d57c1ac00db04530c9724c657eb8267797
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 63.85 / 81.93 |
+| Net Score / Quant Composite | 63.59 / 81.79 |
 | Market Cap | $3.80B (Sweet Spot $2B-$80B: Yes) |
 | Price | 19.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

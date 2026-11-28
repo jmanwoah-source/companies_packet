@@ -3,8 +3,8 @@ ticker: NTNX
 name: "Nutanix, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 13.91
-quant_composite_score: 56.96
+net_score: 16.22
+quant_composite_score: 58.11
 market_cap: 12627491600.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ab3777115cca9e983a8bcd26bd96a27e99e68c1e8f059ac7ce222d104d198cb8
+wiki_state_hash: 349860c555576a00562400c50c520e0603fc9ed5095f34107180c4ba10d4e283
 ---
 
 # Nutanix, Inc. (NTNX)
@@ -33,7 +33,7 @@ wiki_state_hash: ab3777115cca9e983a8bcd26bd96a27e99e68c1e8f059ac7ce222d104d198cb
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 13.91 / 56.96 |
+| Net Score / Quant Composite | 16.22 / 58.11 |
 | Market Cap | $12.63B (Sweet Spot $2B-$80B: Yes) |
 | Price | 46.30 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

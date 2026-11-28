@@ -3,8 +3,8 @@ ticker: UMAC
 name: "Unusual Machines, Inc."
 pillar: DEFENSE
 tier: GOLDEN
-net_score: 100.0
-quant_composite_score: 100.0
+net_score: 85.4
+quant_composite_score: 92.7
 market_cap: 470839119.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: ba4928c5de0407f597c4981ec4f959db244a9f49503089b411f591a960ee328d
+wiki_state_hash: 0646d173aaa8ca73450ff80af421ac24206c57fc0e72bd6da5fd8a9c54c7b9fc
 ---
 
 # Unusual Machines, Inc. (UMAC)
@@ -32,7 +32,7 @@ wiki_state_hash: ba4928c5de0407f597c4981ec4f959db244a9f49503089b411f591a960ee328
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 100.00 / 100.00 |
+| Net Score / Quant Composite | 85.40 / 92.70 |
 | Market Cap | $470.8M (Sweet Spot $2B-$80B: No) |
 | Price | 9.07 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: ARQQ
 name: "Arqit Quantum Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 19.63
-quant_composite_score: 59.82
+net_score: 22.7
+quant_composite_score: 61.35
 market_cap: 192992616.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c08aecd032207b836c316038f499958ee7a57aa14a9c6f6377abbebe4b726abf
+wiki_state_hash: c565f049e93c6ee43e2dd7440272e26033dce88ff5c2031ced7210f77df31be1
 ---
 
 # Arqit Quantum Inc. (ARQQ)
@@ -31,7 +31,7 @@ wiki_state_hash: c08aecd032207b836c316038f499958ee7a57aa14a9c6f6377abbebe4b726ab
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.63 / 59.82 |
+| Net Score / Quant Composite | 22.70 / 61.35 |
 | Market Cap | $193.0M (Sweet Spot $2B-$80B: No) |
 | Price | 11.09 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

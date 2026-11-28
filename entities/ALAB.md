@@ -3,8 +3,8 @@ ticker: ALAB
 name: "Astera Labs, Inc. Common Stock"
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 6.12
-quant_composite_score: 53.06
+net_score: 7.19
+quant_composite_score: 53.6
 market_cap: 33268019204.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 847df5decedad758b5fa4416f5836bd6413e6fede127605471b259b506127443
+wiki_state_hash: bf2578546c9b7079493758c89c3b5159dab37297fa36303b65f66bd210629e25
 ---
 
 # Astera Labs, Inc. Common Stock (ALAB)
@@ -33,7 +33,7 @@ wiki_state_hash: 847df5decedad758b5fa4416f5836bd6413e6fede127605471b259b50612744
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 6.12 / 53.06 |
+| Net Score / Quant Composite | 7.19 / 53.60 |
 | Market Cap | $33.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 190.34 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: CCC
 name: "CCC Intelligent Solutions Holdings Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 19.78
-quant_composite_score: 59.89
+net_score: 22.85
+quant_composite_score: 61.43
 market_cap: 4586479495.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 596ac07e66f0c68f97f61095d1ddf2d92266eb36a06efdd9c663884bddf8a44d
+wiki_state_hash: bee9fa6cbbed84d4a8ba8ce5a80502e55b21230b5b407865a33e41a93a91e23e
 ---
 
 # CCC Intelligent Solutions Holdings Inc. (CCC)
@@ -32,7 +32,7 @@ wiki_state_hash: 596ac07e66f0c68f97f61095d1ddf2d92266eb36a06efdd9c663884bddf8a44
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.78 / 59.89 |
+| Net Score / Quant Composite | 22.85 / 61.43 |
 | Market Cap | $4.59B (Sweet Spot $2B-$80B: Yes) |
 | Price | 7.76 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

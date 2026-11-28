@@ -3,8 +3,8 @@ ticker: HUT
 name: "Hut 8 Corp."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -94.1
-quant_composite_score: 2.95
+net_score: -80.3
+quant_composite_score: 9.85
 market_cap: 5861455540.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: fdfbf01703ac5b341f4e76fcd0350bbb4d2c65056d382bc291dfa508a63d5553
+wiki_state_hash: 8517f28bb4db7ce72032ae39a8d0c5b5782a579d4951915e4f75b3def48f3f65
 ---
 
 # Hut 8 Corp. (HUT)
@@ -33,7 +33,7 @@ wiki_state_hash: fdfbf01703ac5b341f4e76fcd0350bbb4d2c65056d382bc291dfa508a63d555
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -94.10 / 2.95 |
+| Net Score / Quant Composite | -80.30 / 9.85 |
 | Market Cap | $5.86B (Sweet Spot $2B-$80B: Yes) |
 | Price | 48.83 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: BOX
 name: "Box, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -22.32
-quant_composite_score: 38.84
+net_score: -25.67
+quant_composite_score: 37.16
 market_cap: 6362010370.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 5a545c91086f490d6fdab6a10c9309cc618bc55e6f0e2c6c033e6ed8d4a3d6a6
+wiki_state_hash: 3cd067a08eb07d37e3f2aca83e00ee428802484ccd37a2ab09f48457d3547257
 ---
 
 # Box, Inc. (BOX)
@@ -33,7 +33,7 @@ wiki_state_hash: 5a545c91086f490d6fdab6a10c9309cc618bc55e6f0e2c6c033e6ed8d4a3d6a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -22.32 / 38.84 |
+| Net Score / Quant Composite | -25.67 / 37.16 |
 | Market Cap | $6.36B (Sweet Spot $2B-$80B: Yes) |
 | Price | 46.37 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |

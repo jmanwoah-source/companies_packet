@@ -3,8 +3,8 @@ ticker: IMSR
 name: "Terrestrial Energy Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 29.19
-quant_composite_score: 64.59
+net_score: 33.05
+quant_composite_score: 66.53
 market_cap: 238473900.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: b57f18717b5785ea698ba12c5c8e0ec989b77844b92baec2536b29565b684b12
+wiki_state_hash: 88131d41fc72bb99204ccf6b23a83beef1b2f96478f6aedffa9b0c964e70bfd0
 ---
 
 # Terrestrial Energy Inc. (IMSR)
@@ -31,7 +31,7 @@ wiki_state_hash: b57f18717b5785ea698ba12c5c8e0ec989b77844b92baec2536b29565b684b1
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 29.19 / 64.59 |
+| Net Score / Quant Composite | 33.05 / 66.53 |
 | Market Cap | $238.5M (Sweet Spot $2B-$80B: No) |
 | Price | 2.25 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

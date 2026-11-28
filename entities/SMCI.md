@@ -3,8 +3,8 @@ ticker: SMCI
 name: "Super Micro Computer, Inc."
 pillar: AI_INFRA
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -85.52
+quant_composite_score: 7.24
 market_cap: 15366581370.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: d5321485c6330dd50a2c4839c2c7872e18309370b8ce434e8289bdaebf6614ce
+wiki_state_hash: e2bc98c616932c7571a85f409746c38b943ccce64e0d6b566287d383657508b2
 ---
 
 # Super Micro Computer, Inc. (SMCI)
@@ -33,7 +33,7 @@ wiki_state_hash: d5321485c6330dd50a2c4839c2c7872e18309370b8ce434e8289bdaebf6614c
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -85.52 / 7.24 |
 | Market Cap | $15.37B (Sweet Spot $2B-$80B: Yes) |
 | Price | 23.31 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

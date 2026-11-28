@@ -3,8 +3,8 @@ ticker: XE
 name: "X-Energy, Inc. Class A Common Stock"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -34.93
-quant_composite_score: 32.54
+net_score: -38.92
+quant_composite_score: 30.54
 market_cap: 180419284.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 7ec25cfbff63a1a708a35d7f505d830c28701275ccddcf0d907db10998676ad6
+wiki_state_hash: c87318db7ac1cbb8dca0b8a9837a04ec000c33cf0219f504d6da5ab638a515b4
 ---
 
 # X-Energy, Inc. Class A Common Stock (XE)
@@ -31,7 +31,7 @@ wiki_state_hash: 7ec25cfbff63a1a708a35d7f505d830c28701275ccddcf0d907db10998676ad
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -34.93 / 32.54 |
+| Net Score / Quant Composite | -38.92 / 30.54 |
 | Market Cap | $180.4M (Sweet Spot $2B-$80B: No) |
 | Price | 8.22 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: LEU
 name: "Centrus Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -48.51
-quant_composite_score: 25.74
+net_score: -51.59
+quant_composite_score: 24.21
 market_cap: 1655414448.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: e85a6750d99cb4ab44c3939350eb2db1a024cbbf08db07f2af20c7f8f1e5bb3c
+wiki_state_hash: 2a7b88db77ba4b0c8abc7de4c91538dbd26536567ed0d57d9f7ca5f28d1c41ab
 ---
 
 # Centrus Energy Corp. (LEU)
@@ -32,7 +32,7 @@ wiki_state_hash: e85a6750d99cb4ab44c3939350eb2db1a024cbbf08db07f2af20c7f8f1e5bb3
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -48.51 / 25.74 |
+| Net Score / Quant Composite | -51.59 / 24.21 |
 | Market Cap | $1.66B (Sweet Spot $2B-$80B: No) |
 | Price | 83.19 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

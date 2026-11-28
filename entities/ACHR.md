@@ -3,8 +3,8 @@ ticker: ACHR
 name: "Archer Aviation Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 18.11
-quant_composite_score: 59.05
+net_score: 20.98
+quant_composite_score: 60.49
 market_cap: 2378973280.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 19f63e37d22f14f17de3688426bdfbc933893e352e1661e11c96b32401e79c02
+wiki_state_hash: 285c3cd05a344950518bcca32a74b95396e35fc2770aa5d07f119a8de46dc337
 ---
 
 # Archer Aviation Inc. (ACHR)
@@ -32,7 +32,7 @@ wiki_state_hash: 19f63e37d22f14f17de3688426bdfbc933893e352e1661e11c96b32401e79c0
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 18.11 / 59.05 |
+| Net Score / Quant Composite | 20.98 / 60.49 |
 | Market Cap | $2.38B (Sweet Spot $2B-$80B: Yes) |
 | Price | 3.04 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

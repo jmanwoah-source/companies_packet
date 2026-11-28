@@ -3,8 +3,8 @@ ticker: HPE
 name: "Hewlett Packard Enterprise Company"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 12.81
-quant_composite_score: 56.41
+net_score: 14.96
+quant_composite_score: 57.48
 market_cap: 54200191800.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 6624dce9f9d7332889170ec4dd136bac3df3eccb6d0da2477219a54a378a6c81
+wiki_state_hash: 2f0130bc13ae5f6cff7a9cdfcbffd6f96de34e22ed6063fa473f0c83a18db906
 ---
 
 # Hewlett Packard Enterprise Company (HPE)
@@ -34,7 +34,7 @@ wiki_state_hash: 6624dce9f9d7332889170ec4dd136bac3df3eccb6d0da2477219a54a378a6c8
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.81 / 56.41 |
+| Net Score / Quant Composite | 14.96 / 57.48 |
 | Market Cap | $54.20B (Sweet Spot $2B-$80B: Yes) |
 | Price | 40.83 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

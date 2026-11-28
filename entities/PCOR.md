@@ -3,8 +3,8 @@ ticker: PCOR
 name: "Procore Technologies, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -90.02
-quant_composite_score: 4.99
+net_score: -78.53
+quant_composite_score: 10.73
 market_cap: 11154101440.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 92c7d739c4c75ed1c720a96709fa74aea42ad186c04316b5927d5ee62479c588
+wiki_state_hash: 691ead74aa2f2e693210186034ece8a9fb36dd7c481fb499bcf96a92b5e089fd
 ---
 
 # Procore Technologies, Inc. (PCOR)
@@ -33,7 +33,7 @@ wiki_state_hash: 92c7d739c4c75ed1c720a96709fa74aea42ad186c04316b5927d5ee62479c58
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -90.02 / 4.99 |
+| Net Score / Quant Composite | -78.53 / 10.73 |
 | Market Cap | $11.15B (Sweet Spot $2B-$80B: Yes) |
 | Price | 74.56 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

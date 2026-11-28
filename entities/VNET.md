@@ -3,8 +3,8 @@ ticker: VNET
 name: "VNET Group, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 1.93
-quant_composite_score: 50.96
+net_score: 2.27
+quant_composite_score: 51.13
 market_cap: 577012161.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 9524d122216521af6dfc28b1b4720ef3b7ef88c05d66a9400012634bf76009e6
+wiki_state_hash: b39709947ce01831868b8fb5d9825983568e483c76eae015ea154a9dbd33a85d
 ---
 
 # VNET Group, Inc. (VNET)
@@ -31,7 +31,7 @@ wiki_state_hash: 9524d122216521af6dfc28b1b4720ef3b7ef88c05d66a9400012634bf76009e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.93 / 50.96 |
+| Net Score / Quant Composite | 2.27 / 51.13 |
 | Market Cap | $577.0M (Sweet Spot $2B-$80B: No) |
 | Price | 2.06 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

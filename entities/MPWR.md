@@ -3,8 +3,8 @@ ticker: MPWR
 name: "Monolithic Power Systems, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -1.59
-quant_composite_score: 49.2
+net_score: -1.87
+quant_composite_score: 49.06
 market_cap: 58259715840.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: a62cc9a1fdb32eebb3ef280b45524e3d55426e5f24a40829f5bc3bead207e7e2
+wiki_state_hash: daf9158ce8acb86294d03942a319d8ff6d79cc9e05931da8be02a69a8cfabdc0
 ---
 
 # Monolithic Power Systems, Inc. (MPWR)
@@ -33,7 +33,7 @@ wiki_state_hash: a62cc9a1fdb32eebb3ef280b45524e3d55426e5f24a40829f5bc3bead207e7e
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.59 / 49.20 |
+| Net Score / Quant Composite | -1.87 / 49.06 |
 | Market Cap | $58.26B (Sweet Spot $2B-$80B: Yes) |
 | Price | 1194.63 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

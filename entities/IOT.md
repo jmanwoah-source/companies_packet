@@ -3,8 +3,8 @@ ticker: IOT
 name: "Samsara Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 26.52
-quant_composite_score: 63.26
+net_score: 30.23
+quant_composite_score: 65.11
 market_cap: 22756618849.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e3c13b9778ef22b5c4b08f2aab5f450c352d62d2029c2ea76156d967e9c76063
+wiki_state_hash: 03cdcfe77ca7318c6a0680f0c088a04cf2c1af2c0df3aac71f2bc182d3d4dbf2
 ---
 
 # Samsara Inc. (IOT)
@@ -33,7 +33,7 @@ wiki_state_hash: e3c13b9778ef22b5c4b08f2aab5f450c352d62d2029c2ea76156d967e9c7606
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 26.52 / 63.26 |
+| Net Score / Quant Composite | 30.23 / 65.11 |
 | Market Cap | $22.76B (Sweet Spot $2B-$80B: Yes) |
 | Price | 38.86 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

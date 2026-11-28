@@ -3,8 +3,8 @@ ticker: ONDS
 name: "Ondas Holdings Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: EMERGING_EDGE
-net_score: 37.79
-quant_composite_score: 68.89
+net_score: 41.74
+quant_composite_score: 70.87
 market_cap: 2306623800.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 9e32080acc699f584b7e3a2772c60d94bba569cbcf9d080f1af5ea746a782611
+wiki_state_hash: 6f6c33d8862295685655059da7550f55af6a969c26d26a4b010186de186ced5b
 ---
 
 # Ondas Holdings Inc. (ONDS)
@@ -34,7 +34,7 @@ wiki_state_hash: 9e32080acc699f584b7e3a2772c60d94bba569cbcf9d080f1af5ea746a78261
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 37.79 / 68.89 |
+| Net Score / Quant Composite | 41.74 / 70.87 |
 | Market Cap | $2.31B (Sweet Spot $2B-$80B: Yes) |
 | Price | 3.90 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

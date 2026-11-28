@@ -3,8 +3,8 @@ ticker: DOCU
 name: "DocuSign, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 10.19
-quant_composite_score: 55.09
+net_score: 11.93
+quant_composite_score: 55.96
 market_cap: 15092372999.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 49612e51af5da00d9a9d0946608bc5bebb19b3a11087a5e5f4b626df2a2b01f5
+wiki_state_hash: 5968fd1d59f1e7a31e2989e7e5bfd8406b7d06d9bc59f49ce1b2ef4b6c35b087
 ---
 
 # DocuSign, Inc. (DOCU)
@@ -33,7 +33,7 @@ wiki_state_hash: 49612e51af5da00d9a9d0946608bc5bebb19b3a11087a5e5f4b626df2a2b01f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 10.19 / 55.09 |
+| Net Score / Quant Composite | 11.93 / 55.96 |
 | Market Cap | $15.09B (Sweet Spot $2B-$80B: Yes) |
 | Price | 80.75 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

@@ -3,8 +3,8 @@ ticker: TLS
 name: "Telos Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -14.52
-quant_composite_score: 42.74
+net_score: -16.92
+quant_composite_score: 41.54
 market_cap: 583116690.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e8678f38bbda6207a3c554b95298581613e9862f6e4547c4438c49d191ae43c6
+wiki_state_hash: c445f1ca23adf2743a3e152d0dd46f4780f4f5c3e324cceea56664b912c54651
 ---
 
 # Telos Corporation (TLS)
@@ -31,7 +31,7 @@ wiki_state_hash: e8678f38bbda6207a3c554b95298581613e9862f6e4547c4438c49d191ae43c
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.52 / 42.74 |
+| Net Score / Quant Composite | -16.92 / 41.54 |
 | Market Cap | $583.1M (Sweet Spot $2B-$80B: No) |
 | Price | 7.93 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |

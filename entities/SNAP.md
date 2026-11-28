@@ -3,8 +3,8 @@ ticker: SNAP
 name: "Snap Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -24.18
-quant_composite_score: 37.91
+net_score: -27.7
+quant_composite_score: 36.15
 market_cap: 8701946749.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 4cbdcd3c7ecf8026a598fc73d55c39950daa10650309d28ffb43ac412a9a74be
+wiki_state_hash: 7fb3b1a5ec6a8ad26f762f79f51467213e211614442ac172e7d22e17c096eb33
 ---
 
 # Snap Inc. (SNAP)
@@ -32,7 +32,7 @@ wiki_state_hash: 4cbdcd3c7ecf8026a598fc73d55c39950daa10650309d28ffb43ac412a9a74b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -24.18 / 37.91 |
+| Net Score / Quant Composite | -27.70 / 36.15 |
 | Market Cap | $8.70B (Sweet Spot $2B-$80B: Yes) |
 | Price | 5.04 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

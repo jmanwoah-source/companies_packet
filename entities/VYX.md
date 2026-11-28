@@ -3,8 +3,8 @@ ticker: VYX
 name: "NCR Voyix Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -30.84
-quant_composite_score: 34.58
+net_score: -34.77
+quant_composite_score: 32.62
 market_cap: 1434684863.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 553b1ec0e6b7ec307454fc47986ab7e850f396a7db2a125f17c8c81db1b48978
+wiki_state_hash: 69cf2d8575b3c9d414d4a494b4cf920d507d8cdebf85589c1c62d3fc855636d4
 ---
 
 # NCR Voyix Corporation (VYX)
@@ -31,7 +31,7 @@ wiki_state_hash: 553b1ec0e6b7ec307454fc47986ab7e850f396a7db2a125f17c8c81db1b4897
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -30.84 / 34.58 |
+| Net Score / Quant Composite | -34.77 / 32.62 |
 | Market Cap | $1.43B (Sweet Spot $2B-$80B: No) |
 | Price | 10.56 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

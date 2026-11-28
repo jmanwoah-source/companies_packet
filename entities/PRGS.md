@@ -2,9 +2,9 @@
 ticker: PRGS
 name: "Progress Software Corporation"
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: 33.76
-quant_composite_score: 66.88
+tier: EMERGING_EDGE
+net_score: 37.75
+quant_composite_score: 68.88
 market_cap: 1753094438.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -18,9 +18,9 @@ tags:
   - pillar/ai_infra
   - etf/igv
   - mcap/small
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 21180b0c893ce4f3c5e1e3c26c5cd34e17cdba979101fd79ea3653abfa20fd8c
+wiki_state_hash: 909bcadd59cf7ecaad6b9eea6dc9b1d30c327558523f3593beb39a350d64b1f0
 ---
 
 # Progress Software Corporation (PRGS)
@@ -30,8 +30,8 @@ wiki_state_hash: 21180b0c893ce4f3c5e1e3c26c5cd34e17cdba979101fd79ea3653abfa20fd8
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 33.76 / 66.88 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 37.75 / 68.88 |
 | Market Cap | $1.75B (Sweet Spot $2B-$80B: No) |
 | Price | 42.89 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

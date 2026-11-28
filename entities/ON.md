@@ -3,8 +3,8 @@ ticker: ON
 name: "ON Semiconductor Corporation"
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -13.16
-quant_composite_score: 43.42
+net_score: -15.36
+quant_composite_score: 42.32
 market_cap: 24322494873.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ee0de9544d7ad469d23bec25afd639d4761a1b97bce456669b991241336e5291
+wiki_state_hash: 2cdc17969689d6723033e2b11de484db7a67d058805d974d288c7b52988a614e
 ---
 
 # ON Semiconductor Corporation (ON)
@@ -33,7 +33,7 @@ wiki_state_hash: ee0de9544d7ad469d23bec25afd639d4761a1b97bce456669b991241336e529
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -13.16 / 43.42 |
+| Net Score / Quant Composite | -15.36 / 42.32 |
 | Market Cap | $24.32B (Sweet Spot $2B-$80B: Yes) |
 | Price | 62.48 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

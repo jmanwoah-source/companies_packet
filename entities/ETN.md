@@ -3,8 +3,8 @@ ticker: ETN
 name: "Eaton Corporation plc"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -44.51
-quant_composite_score: 27.75
+net_score: -48.05
+quant_composite_score: 25.98
 market_cap: 123469185000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 7d2d97da0f8a0ab930e6ca095451f33cd0b45c7cd3612e51eaaf4507a6c11133
+wiki_state_hash: 76f2893d3870c3950cf0ea7926ed61052a02fd63f4f6b50b8273f5e5815e2019
 ---
 
 # Eaton Corporation plc (ETN)
@@ -32,7 +32,7 @@ wiki_state_hash: 7d2d97da0f8a0ab930e6ca095451f33cd0b45c7cd3612e51eaaf4507a6c1113
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -44.51 / 27.75 |
+| Net Score / Quant Composite | -48.05 / 25.98 |
 | Market Cap | $123.47B (Sweet Spot $2B-$80B: No) |
 | Price | 317.81 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

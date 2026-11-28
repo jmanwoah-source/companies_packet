@@ -3,8 +3,8 @@ ticker: S
 name: "SentinelOne, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -20.76
-quant_composite_score: 39.62
+net_score: -23.95
+quant_composite_score: 38.03
 market_cap: 8243212560.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: fea601602c33b83557f41a2271a02c92d96a1167da9af044425542c5b482d603
+wiki_state_hash: c1351202d08db2d124c3360a625a590fdb603e3e1337742836b6f603cbc69db5
 ---
 
 # SentinelOne, Inc. (S)
@@ -32,7 +32,7 @@ wiki_state_hash: fea601602c33b83557f41a2271a02c92d96a1167da9af044425542c5b482d60
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -20.76 / 39.62 |
+| Net Score / Quant Composite | -23.95 / 38.03 |
 | Market Cap | $8.24B (Sweet Spot $2B-$80B: Yes) |
 | Price | 24.09 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

@@ -3,8 +3,8 @@ ticker: PATH
 name: "UiPath Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 15.43
-quant_composite_score: 57.72
+net_score: 17.96
+quant_composite_score: 58.98
 market_cap: 6472750813.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 49e31a487fa1998df49261dbc19dc87607b9e2890ff04bcf2fee584bbb742311
+wiki_state_hash: 7cbd2c3c9515f581b2bed40c1c6e072352f1777b64e12962756b520ce7ddc18d
 ---
 
 # UiPath Inc. (PATH)
@@ -33,7 +33,7 @@ wiki_state_hash: 49e31a487fa1998df49261dbc19dc87607b9e2890ff04bcf2fee584bbb74231
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 15.43 / 57.72 |
+| Net Score / Quant Composite | 17.96 / 58.98 |
 | Market Cap | $6.47B (Sweet Spot $2B-$80B: Yes) |
 | Price | 12.42 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

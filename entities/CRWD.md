@@ -3,8 +3,8 @@ ticker: CRWD
 name: "CrowdStrike Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -1.58
-quant_composite_score: 49.21
+net_score: -1.86
+quant_composite_score: 49.07
 market_cap: 215703851845.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 90cb7bc9835b28a0b47dcc0362042d9c89174a3e161aaf1eb4e7fedd8fc7edc6
+wiki_state_hash: 050892f6b5796bf26f93a774e52fdc5ddab9ee468192735e30e49521ed38c39c
 ---
 
 # CrowdStrike Holdings, Inc. (CRWD)
@@ -32,7 +32,7 @@ wiki_state_hash: 90cb7bc9835b28a0b47dcc0362042d9c89174a3e161aaf1eb4e7fedd8fc7edc
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.58 / 49.21 |
+| Net Score / Quant Composite | -1.86 / 49.07 |
 | Market Cap | $215.70B (Sweet Spot $2B-$80B: No) |
 | Price | 209.30 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

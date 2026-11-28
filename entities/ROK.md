@@ -3,8 +3,8 @@ ticker: ROK
 name: "Rockwell Automation, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 3.91
-quant_composite_score: 51.96
+net_score: 4.6
+quant_composite_score: 52.3
 market_cap: 42247336690.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/normal
-wiki_state_hash: 7fe56b2f7b882045ebc536c8dcd6c9d1e672687ef6eaf6dbeda13f2328a16937
+wiki_state_hash: 799e711dc530533f79ad1f025cc2d2bd1720ed7dd260a36e53f863dfe5214496
 ---
 
 # Rockwell Automation, Inc. (ROK)
@@ -33,7 +33,7 @@ wiki_state_hash: 7fe56b2f7b882045ebc536c8dcd6c9d1e672687ef6eaf6dbeda13f2328a1693
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 3.91 / 51.96 |
+| Net Score / Quant Composite | 4.60 / 52.30 |
 | Market Cap | $42.25B (Sweet Spot $2B-$80B: Yes) |
 | Price | 384.91 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

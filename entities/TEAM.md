@@ -3,8 +3,8 @@ ticker: TEAM
 name: "Atlassian Corporation"
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 42.65
-quant_composite_score: 71.32
+net_score: 46.35
+quant_composite_score: 73.17
 market_cap: 36365051493.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: c5ddf8df359e7b613531edbb615c582cee9d3010b9ce246bb5ccd491ff8986af
+wiki_state_hash: e21c7e546e796f9b030eafa7ad5a15fe65eb2d80c7574bed5ac13156627e4b04
 ---
 
 # Atlassian Corporation (TEAM)
@@ -33,7 +33,7 @@ wiki_state_hash: c5ddf8df359e7b613531edbb615c582cee9d3010b9ce246bb5ccd491ff8986a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 42.65 / 71.32 |
+| Net Score / Quant Composite | 46.35 / 73.17 |
 | Market Cap | $36.37B (Sweet Spot $2B-$80B: Yes) |
 | Price | 144.39 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

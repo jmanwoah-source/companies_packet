@@ -3,8 +3,8 @@ ticker: SPSC
 name: "SPS Commerce, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 34.42
-quant_composite_score: 67.21
+net_score: 38.42
+quant_composite_score: 69.21
 market_cap: 2873195871.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 24fa7db97ef2c0f7c7f649634ccf7a4ceeb300d308da5c737a22a84fc11a3bb1
+wiki_state_hash: 4b105f50fd4705552c74a9b0bc2318ba262f7423c31df4aef77ca44d596e4021
 ---
 
 # SPS Commerce, Inc. (SPSC)
@@ -32,7 +32,7 @@ wiki_state_hash: 24fa7db97ef2c0f7c7f649634ccf7a4ceeb300d308da5c737a22a84fc11a3bb
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 34.42 / 67.21 |
+| Net Score / Quant Composite | 38.42 / 69.21 |
 | Market Cap | $2.87B (Sweet Spot $2B-$80B: Yes) |
 | Price | 81.07 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

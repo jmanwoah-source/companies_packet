@@ -3,8 +3,8 @@ ticker: ZM
 name: "Zoom Communications, Inc."
 pillar: AI_INFRA
 tier: GOLDEN
-net_score: 92.37
-quant_composite_score: 96.18
+net_score: 79.57
+quant_composite_score: 89.78
 market_cap: 25840367040.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 4f712562746bf7ab75d9ebd81c42aae68a4b231b839786d726aa1acaa6577a92
+wiki_state_hash: d84906f22d457095705db20fac8444479d7edc454b1f326c454add9df9e8a315
 ---
 
 # Zoom Communications, Inc. (ZM)
@@ -33,7 +33,7 @@ wiki_state_hash: 4f712562746bf7ab75d9ebd81c42aae68a4b231b839786d726aa1acaa6577a9
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 92.37 / 96.18 |
+| Net Score / Quant Composite | 79.57 / 89.78 |
 | Market Cap | $25.84B (Sweet Spot $2B-$80B: Yes) |
 | Price | 88.56 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

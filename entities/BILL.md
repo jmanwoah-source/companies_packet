@@ -3,8 +3,8 @@ ticker: BILL
 name: "Bill.com Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -4.2
-quant_composite_score: 47.9
+net_score: -4.94
+quant_composite_score: 47.53
 market_cap: 5286098650.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 78973c3d9a83d1e073bbeb83ebb8ab827d35b871c1448860f2ed6b7e510cfc2a
+wiki_state_hash: 34af8337dd208539b77d7d08a7f237313bdc5245e1ebc0ada8b2bb558a7eff9f
 ---
 
 # Bill.com Holdings, Inc. (BILL)
@@ -32,7 +32,7 @@ wiki_state_hash: 78973c3d9a83d1e073bbeb83ebb8ab827d35b871c1448860f2ed6b7e510cfc2
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -4.20 / 47.90 |
+| Net Score / Quant Composite | -4.94 / 47.53 |
 | Market Cap | $5.29B (Sweet Spot $2B-$80B: Yes) |
 | Price | 61.55 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

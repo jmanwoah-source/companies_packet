@@ -3,8 +3,8 @@ ticker: ENS
 name: "EnerSys"
 pillar: ENERGY_MATERIALS
 tier: EMERGING_EDGE
-net_score: 34.63
-quant_composite_score: 67.32
+net_score: 38.63
+quant_composite_score: 69.31
 market_cap: 4546916364.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 7c86d57647baee6c082db51233701aa401d3c5d85c91e8b82c0d9ff1670ab775
+wiki_state_hash: eeef62004cbd422be2ccf63b43b32677d4ed586331258517a822f7075fb64cad
 ---
 
 # EnerSys (ENS)
@@ -32,7 +32,7 @@ wiki_state_hash: 7c86d57647baee6c082db51233701aa401d3c5d85c91e8b82c0d9ff1670ab77
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 34.63 / 67.32 |
+| Net Score / Quant Composite | 38.63 / 69.31 |
 | Market Cap | $4.55B (Sweet Spot $2B-$80B: Yes) |
 | Price | 127.77 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

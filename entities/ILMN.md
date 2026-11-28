@@ -3,8 +3,8 @@ ticker: ILMN
 name: "Illumina, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -9.06
-quant_composite_score: 45.47
+net_score: -10.62
+quant_composite_score: 44.69
 market_cap: 30298968000.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: cf824a9f095fa8fce603897ba1c73caa58860eaa8e3cc14398bd572aa2933e8d
+wiki_state_hash: 96139970b5f200b2fdd5a4991cddac80837e570c8048f7dfc36e7b08e59892ba
 ---
 
 # Illumina, Inc. (ILMN)
@@ -33,7 +33,7 @@ wiki_state_hash: cf824a9f095fa8fce603897ba1c73caa58860eaa8e3cc14398bd572aa2933e8
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -9.06 / 45.47 |
+| Net Score / Quant Composite | -10.62 / 44.69 |
 | Market Cap | $30.30B (Sweet Spot $2B-$80B: Yes) |
 | Price | 200.39 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

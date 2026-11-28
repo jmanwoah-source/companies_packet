@@ -3,8 +3,8 @@ ticker: RCAT
 name: "Red Cat Holdings, Inc."
 pillar: DEFENSE
 tier: MIRAGE_SHORT
-net_score: -100.0
-quant_composite_score: 0.0
+net_score: -84.9
+quant_composite_score: 7.55
 market_cap: 269204236.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: f1ba983db2ef8df407900e4dd964c4ffd10edb98a52a143c84ac55fbf398ee3a
+wiki_state_hash: 3550004f1ef515ae60755a9f7e1b34fad1d58ae3620e118bb590add5ad4a604b
 ---
 
 # Red Cat Holdings, Inc. (RCAT)
@@ -33,7 +33,7 @@ wiki_state_hash: f1ba983db2ef8df407900e4dd964c4ffd10edb98a52a143c84ac55fbf398ee3
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -100.00 / 0.00 |
+| Net Score / Quant Composite | -84.90 / 7.55 |
 | Market Cap | $269.2M (Sweet Spot $2B-$80B: No) |
 | Price | 1.76 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

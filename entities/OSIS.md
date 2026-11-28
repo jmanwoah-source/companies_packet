@@ -3,8 +3,8 @@ ticker: OSIS
 name: "OSI Systems, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 15.78
-quant_composite_score: 57.89
+net_score: 18.35
+quant_composite_score: 59.18
 market_cap: 3071717460.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3e892776d46d5de0bf3137ff568bd57b1790adb13c33531ebfabb57c72651949
+wiki_state_hash: 3ad564db1e01840cad355aaf42c430849198321717420a81c575da355443da74
 ---
 
 # OSI Systems, Inc. (OSIS)
@@ -32,7 +32,7 @@ wiki_state_hash: 3e892776d46d5de0bf3137ff568bd57b1790adb13c33531ebfabb57c7265194
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 15.78 / 57.89 |
+| Net Score / Quant Composite | 18.35 / 59.18 |
 | Market Cap | $3.07B (Sweet Spot $2B-$80B: Yes) |
 | Price | 195.30 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

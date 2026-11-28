@@ -3,8 +3,8 @@ ticker: BMNR
 name: "Bitmine Immersion Technologies, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -57.43
-quant_composite_score: 21.28
+net_score: -58.87
+quant_composite_score: 20.57
 market_cap: 7655112273.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 554a98beb7b77c7e853816de2dc7a0a0724582adaa9ae9f349cf284824c0afc9
+wiki_state_hash: ddb0285a66a97877854aeddeb2b0af1ad5ccfa7ae28662a8a781846fa079f681
 ---
 
 # Bitmine Immersion Technologies, Inc. (BMNR)
@@ -33,7 +33,7 @@ wiki_state_hash: 554a98beb7b77c7e853816de2dc7a0a0724582adaa9ae9f349cf284824c0afc
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -57.43 / 21.28 |
+| Net Score / Quant Composite | -58.87 / 20.57 |
 | Market Cap | $7.66B (Sweet Spot $2B-$80B: Yes) |
 | Price | 13.44 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

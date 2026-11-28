@@ -2,9 +2,9 @@
 ticker: DLB
 name: "Dolby Laboratories, Inc."
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: 31.9
-quant_composite_score: 65.95
+tier: EMERGING_EDGE
+net_score: 35.86
+quant_composite_score: 67.93
 market_cap: 5323197677.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -19,9 +19,9 @@ tags:
   - etf/igv
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: 488c1a4121a64d428c13a07edc07456355a8acad250dd9525c277e54e2e49a4d
+wiki_state_hash: eb66a984265092e227c6867989fb27cac2c678b4df73b2042c4ac2382aa31448
 ---
 
 # Dolby Laboratories, Inc. (DLB)
@@ -31,8 +31,8 @@ wiki_state_hash: 488c1a4121a64d428c13a07edc07456355a8acad250dd9525c277e54e2e49a4
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 31.90 / 65.95 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 35.86 / 67.93 |
 | Market Cap | $5.32B (Sweet Spot $2B-$80B: Yes) |
 | Price | 56.83 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

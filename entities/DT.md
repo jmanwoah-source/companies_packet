@@ -3,8 +3,8 @@ ticker: DT
 name: "Dynatrace, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 7.79
-quant_composite_score: 53.89
+net_score: 9.14
+quant_composite_score: 54.57
 market_cap: 13592543580.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 40fe089c9a35a828cce45d1e1fb38bf99569ba0f79f257952852d13388a904d0
+wiki_state_hash: 43553621262a7e35e60714bd24354da1db724215c705f1fec14353d6f6800dfb
 ---
 
 # Dynatrace, Inc. (DT)
@@ -32,7 +32,7 @@ wiki_state_hash: 40fe089c9a35a828cce45d1e1fb38bf99569ba0f79f257952852d13388a904d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 7.79 / 53.89 |
+| Net Score / Quant Composite | 9.14 / 54.57 |
 | Market Cap | $13.59B (Sweet Spot $2B-$80B: Yes) |
 | Price | 47.37 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |

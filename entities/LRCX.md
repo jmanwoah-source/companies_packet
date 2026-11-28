@@ -3,8 +3,8 @@ ticker: LRCX
 name: "Lam Research Corporation"
 pillar: SEMI_SUBSYSTEMS
 tier: EMERGING_EDGE
-net_score: 48.78
-quant_composite_score: 74.39
+net_score: 51.82
+quant_composite_score: 75.91
 market_cap: 231109126710.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: bc80c2d46b03b3b65ca76f902750bb7e2db34dbea48809b00edf9ae5d701ff57
+wiki_state_hash: cfea3f7d61051e2ce78300a1f9d15bac0846eff634618aabc2b9fba4ad5c5310
 ---
 
 # Lam Research Corporation (LRCX)
@@ -33,7 +33,7 @@ wiki_state_hash: bc80c2d46b03b3b65ca76f902750bb7e2db34dbea48809b00edf9ae5d701ff5
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 48.78 / 74.39 |
+| Net Score / Quant Composite | 51.82 / 75.91 |
 | Market Cap | $231.11B (Sweet Spot $2B-$80B: No) |
 | Price | 185.01 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

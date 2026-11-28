@@ -3,8 +3,8 @@ ticker: TDC
 name: "Teradata Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 12.45
-quant_composite_score: 56.23
+net_score: 14.54
+quant_composite_score: 57.27
 market_cap: 3420188000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 577b473c8d8a63a687ffe8197f13e53ecd6f41a13a88ab15044624e00fbe64bb
+wiki_state_hash: 03721408e64e8aca59dcdcdd20ab4a5b6a29f4a0a85c9877aa262e98a32dbf27
 ---
 
 # Teradata Corporation (TDC)
@@ -34,7 +34,7 @@ wiki_state_hash: 577b473c8d8a63a687ffe8197f13e53ecd6f41a13a88ab15044624e00fbe64b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.45 / 56.23 |
+| Net Score / Quant Composite | 14.54 / 57.27 |
 | Market Cap | $3.42B (Sweet Spot $2B-$80B: Yes) |
 | Price | 37.42 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

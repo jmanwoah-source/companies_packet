@@ -3,8 +3,8 @@ ticker: PTC
 name: "PTC Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -13.53
-quant_composite_score: 43.24
+net_score: -15.78
+quant_composite_score: 42.11
 market_cap: 21292068000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 25c36519ff4e78d78539dbfa1a508f182658bdd510902199b41f45bfff26761e
+wiki_state_hash: 09a79a8525cb751d1ff744c94d9e92eb6475c0fc6686e6a3504f0f237caa7df8
 ---
 
 # PTC Inc. (PTC)
@@ -33,7 +33,7 @@ wiki_state_hash: 25c36519ff4e78d78539dbfa1a508f182658bdd510902199b41f45bfff26761
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -13.53 / 43.24 |
+| Net Score / Quant Composite | -15.78 / 42.11 |
 | Market Cap | $21.29B (Sweet Spot $2B-$80B: Yes) |
 | Price | 196.00 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |

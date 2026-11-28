@@ -3,8 +3,8 @@ ticker: SNOW
 name: "Snowflake Inc."
 pillar: NEXTGEN_COMPUTE
 tier: WATCHLIST
-net_score: -67.59
-quant_composite_score: 16.21
+net_score: -66.13
+quant_composite_score: 16.93
 market_cap: 94451616000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 809afc17a77cfc992d85f125af14aa305b5f0eaf5d56c9ca7f8a4bd6e5d6bd04
+wiki_state_hash: 5bdabb3cae8ef014a1817517bb2fd49b8f3a5c5f3ba4e9f693fc2e9ec1a41bdc
 ---
 
 # Snowflake Inc. (SNOW)
@@ -32,7 +32,7 @@ wiki_state_hash: 809afc17a77cfc992d85f125af14aa305b5f0eaf5d56c9ca7f8a4bd6e5d6bd0
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -67.59 / 16.21 |
+| Net Score / Quant Composite | -66.13 / 16.93 |
 | Market Cap | $94.45B (Sweet Spot $2B-$80B: No) |
 | Price | 267.72 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

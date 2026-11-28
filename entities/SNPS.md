@@ -3,8 +3,8 @@ ticker: SNPS
 name: "Synopsys, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -18.22
-quant_composite_score: 40.89
+net_score: -21.11
+quant_composite_score: 39.44
 market_cap: 77630088928.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -24,7 +24,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: ba0d0dc5a8bb3dc811ab47573dc3dc815ba655e43ffbdf1331e6c83164d72104
+wiki_state_hash: 143239c457693222011ac4060f9071ab411560d0260e0c87ae6aa1f4d2492775
 ---
 
 # Synopsys, Inc. (SNPS)
@@ -35,7 +35,7 @@ wiki_state_hash: ba0d0dc5a8bb3dc811ab47573dc3dc815ba655e43ffbdf1331e6c83164d7210
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.22 / 40.89 |
+| Net Score / Quant Composite | -21.11 / 39.44 |
 | Market Cap | $77.63B (Sweet Spot $2B-$80B: Yes) |
 | Price | 405.09 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |

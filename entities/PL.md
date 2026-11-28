@@ -3,8 +3,8 @@ ticker: PL
 name: "Planet Labs PBC"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -36.86
-quant_composite_score: 31.57
+net_score: -40.84
+quant_composite_score: 29.58
 market_cap: 3611155940.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 208cee05f5b0e638c1d383c8dd7d89c277af9459679746befbed4961634aa22a
+wiki_state_hash: a237b2b6d3ffd4d3602db397e7abc7b91552b99faf51e13ab818b5cc9ccbec97
 ---
 
 # Planet Labs PBC (PL)
@@ -34,7 +34,7 @@ wiki_state_hash: 208cee05f5b0e638c1d383c8dd7d89c277af9459679746befbed4961634aa22
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -36.86 / 31.57 |
+| Net Score / Quant Composite | -40.84 / 29.58 |
 | Market Cap | $3.61B (Sweet Spot $2B-$80B: Yes) |
 | Price | 10.61 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |

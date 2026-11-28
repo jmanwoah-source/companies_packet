@@ -3,8 +3,8 @@ ticker: TENB
 name: "Tenable Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -6.2
-quant_composite_score: 46.9
+net_score: -7.28
+quant_composite_score: 46.36
 market_cap: 4776015600.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 31215dd12b9afe06a3d9a698d028028924d593e31d844c3c84e04f0ceb91c214
+wiki_state_hash: 54e876e5ce8528c3c75335f079ac4774054e16c5584f519c7bde94e844dc2e7d
 ---
 
 # Tenable Holdings, Inc. (TENB)
@@ -32,7 +32,7 @@ wiki_state_hash: 31215dd12b9afe06a3d9a698d028028924d593e31d844c3c84e04f0ceb91c21
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -6.20 / 46.90 |
+| Net Score / Quant Composite | -7.28 / 46.36 |
 | Market Cap | $4.78B (Sweet Spot $2B-$80B: Yes) |
 | Price | 45.70 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
