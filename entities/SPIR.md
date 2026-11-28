@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 665ba782360ae3b84c791f16a86647dc2bd6fd82b1494eea5e5c246c772531aa
+wiki_state_hash: 2a93817349eb5af683df6e1658f4b709009a74bf0729d81210539713ae797875
 ---
 
 # Spire Global, Inc. (SPIR)
@@ -52,5 +52,5 @@ wiki_state_hash: 665ba782360ae3b84c791f16a86647dc2bd6fd82b1494eea5e5c246c772531a
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-16 (days: 20, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-16 (days: 18, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: JEDI (2.21%)

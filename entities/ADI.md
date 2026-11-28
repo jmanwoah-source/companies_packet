@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 12f4b78ce0300d5600149c9864fc19e62af36627ed81fe03c526d76e8e012738
+wiki_state_hash: 17bac349882388436a1750f2303ea30eafca37b626513f5fef96d39cc840277d
 ---
 
 # Analog Devices, Inc. (ADI)
@@ -54,5 +54,5 @@ wiki_state_hash: 12f4b78ce0300d5600149c9864fc19e62af36627ed81fe03c526d76e8e01273
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-24 (days: -4, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: SMH (4.90%), QTUM (1.28%), GRID (0.81%)

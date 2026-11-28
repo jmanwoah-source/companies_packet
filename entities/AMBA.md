@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: ae9da68fd2f3522db290108f3fbfb3f7edf3a73318ccc082a3b87a46d03624d2
+wiki_state_hash: 88f26a1c6e94cdf04f8a74a155ae0e829e3af035191049e3af1300a99f4a1740
 ---
 
 # Ambarella, Inc. (AMBA)
@@ -53,5 +53,5 @@ wiki_state_hash: ae9da68fd2f3522db290108f3fbfb3f7edf3a73318ccc082a3b87a46d03624d
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-24 (days: -4, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.02%)

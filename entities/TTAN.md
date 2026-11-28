@@ -2,12 +2,12 @@
 ticker: TTAN
 name: "ServiceTitan, Inc."
 pillar: AI_INFRA
-tier: EMERGING_EDGE
-net_score: 66.36
-quant_composite_score: 83.18
+tier: NEUTRAL
+net_score: 30.0
+quant_composite_score: 65.0
 market_cap: 7407770271.0
 execution_sweet_spot: true
-options_gate: "APPROVED"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: "NORMAL"
@@ -19,10 +19,10 @@ tags:
   - etf/igv
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/emerging_edge
-  - gate/approved
+  - tier/neutral
+  - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: a2bf948578a0f04c23d8c53ab46de2c26b061da6cd9a8be0d15cdc3dd30e3363
+wiki_state_hash: 85b8a3de499fab16203004b429d2ac3087c1fe93cc70c492bfb05efb508b92a9
 ---
 
 # ServiceTitan, Inc. (TTAN)
@@ -32,13 +32,13 @@ wiki_state_hash: a2bf948578a0f04c23d8c53ab46de2c26b061da6cd9a8be0d15cdc3dd30e336
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 66.36 / 83.18 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 30.00 / 65.00 |
 | Market Cap | $7.41B (Sweet Spot $2B-$80B: Yes) |
 | Price | 76.79 |
-| Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.694 / 0.015 |
+| Bull / Bear Edge | 0.644 / 0.015 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: a2bf948578a0f04c23d8c53ab46de2c26b061da6cd9a8be0d15cdc3dd30e336
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.18%)

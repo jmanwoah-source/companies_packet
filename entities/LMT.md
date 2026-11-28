@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: b7cc859dc783029e178795cb0b445eb3a1d48e0e40304c4bcc10ebbcb88e0524
+wiki_state_hash: 8a4ec0470d3812984d568cf01a1eaa0db18172783a3dd31261987776d399f574
 ---
 
 # Lockheed Martin Corporation (LMT)
@@ -53,5 +53,5 @@ wiki_state_hash: b7cc859dc783029e178795cb0b445eb3a1d48e0e40304c4bcc10ebbcb88e052
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-26 (days: 59, tag: CLEAN_WINDOW)
 - Constituent ETFs: SHLD (10.05%), QTUM (1.72%)

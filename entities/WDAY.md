@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 56f7d29aa45001dada9a7295c5722dd883cb5d672ebdec82ca00e924e2a76d2a
+wiki_state_hash: 3b757f74e5a676a0d6671a105233f6e87889aeb7b6666ba47b6c2848b7cce717
 ---
 
 # Workday, Inc. (WDAY)
@@ -53,5 +53,5 @@ wiki_state_hash: 56f7d29aa45001dada9a7295c5722dd883cb5d672ebdec82ca00e924e2a76d2
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-24 (days: -4, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (1.39%)

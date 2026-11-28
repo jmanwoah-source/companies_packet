@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 707a9a29f8e33d84df4e67c8ee69ab1dc127851bc0e11cb718507dbf93237a0b
+wiki_state_hash: c111b0a15987e0f8a875b9860f6bb4a49e30b47570b112f41b2d803c81128eae
 ---
 
 # Swarmer, Inc Common Stock (SWMR)
@@ -52,5 +52,5 @@ wiki_state_hash: 707a9a29f8e33d84df4e67c8ee69ab1dc127851bc0e11cb718507dbf93237a0
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (0.71%)

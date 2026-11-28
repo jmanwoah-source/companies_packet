@@ -3,8 +3,8 @@ ticker: ELVR
 name: "Elevra Lithium Limited"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 30.28
-quant_composite_score: 65.14
+net_score: 25.27
+quant_composite_score: 62.63
 market_cap: 395113680.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 5ab0790dfbf4203eb497969c7554389e7c885309481637cf79df7e52953b4326
+wiki_state_hash: fefc89f210f5c961a7a2c3e90d7d9dfd36637ad1fae3af1bd0df99cf209de53d
 ---
 
 # Elevra Lithium Limited (ELVR)
@@ -31,12 +31,12 @@ wiki_state_hash: 5ab0790dfbf4203eb497969c7554389e7c885309481637cf79df7e52953b432
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 30.28 / 65.14 |
+| Net Score / Quant Composite | 25.27 / 62.63 |
 | Market Cap | $395.1M (Sweet Spot $2B-$80B: No) |
 | Price | 20.47 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.684 / 0.094 |
+| Bull / Bear Edge | 0.582 / 0.094 |
 
 ## 45-DTE Options Surface
 

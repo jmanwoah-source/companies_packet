@@ -3,8 +3,8 @@ ticker: NBIS
 name: "Nebius Group N.V."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 8.84
-quant_composite_score: 54.42
+net_score: -4.1
+quant_composite_score: 47.95
 market_cap: 20397600000.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: fcd5b06aeaa88d432cb7e8ec204a7281c89bcca0ebd617ee6e0704016fc7512c
+wiki_state_hash: 6bd857952205f81a4f716973c06387c6016703ded1b766d2ef0e9a368194f4b7
 ---
 
 # Nebius Group N.V. (NBIS)
@@ -33,12 +33,12 @@ wiki_state_hash: fcd5b06aeaa88d432cb7e8ec204a7281c89bcca0ebd617ee6e0704016fc7512
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 8.84 / 54.42 |
+| Net Score / Quant Composite | -4.10 / 47.95 |
 | Market Cap | $20.40B (Sweet Spot $2B-$80B: Yes) |
 | Price | 84.99 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.617 / 0.541 |
+| Bull / Bear Edge | 0.506 / 0.541 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: fcd5b06aeaa88d432cb7e8ec204a7281c89bcca0ebd617ee6e0704016fc7512
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.61%)

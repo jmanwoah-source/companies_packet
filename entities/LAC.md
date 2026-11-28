@@ -3,8 +3,8 @@ ticker: LAC
 name: "Lithium Americas Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -40.04
-quant_composite_score: 29.98
+net_score: -53.6
+quant_composite_score: 23.2
 market_cap: 288029433.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 759ca66606f25f3205cc89bbd59da2b7b6abe74448302ecd3c53154f4e7f3fcc
+wiki_state_hash: 01fe9c397c13512830886121a3dd2d46a6fa3b9169562feed34b75778939af0f
 ---
 
 # Lithium Americas Corp. (LAC)
@@ -32,12 +32,12 @@ wiki_state_hash: 759ca66606f25f3205cc89bbd59da2b7b6abe74448302ecd3c53154f4e7f3fc
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -40.04 / 29.98 |
+| Net Score / Quant Composite | -53.60 / 23.20 |
 | Market Cap | $288.0M (Sweet Spot $2B-$80B: No) |
 | Price | 1.29 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.376 / 0.737 |
+| Bull / Bear Edge | 0.228 / 0.737 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 759ca66606f25f3205cc89bbd59da2b7b6abe74448302ecd3c53154f4e7f3fc
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (1.34%)

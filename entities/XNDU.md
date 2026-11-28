@@ -7,7 +7,7 @@ net_score: 28.02
 quant_composite_score: 64.01
 market_cap: 114093527.0
 execution_sweet_spot: false
-options_gate: "REJECTED_LIQUIDITY"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: null
@@ -19,8 +19,8 @@ tags:
   - etf/qtum
   - mcap/small
   - tier/neutral
-  - gate/rejected_liquidity
-wiki_state_hash: b267b638c6f55f008892911fbcfe3776d211765bb5da4d502275f9c5daaf61a9
+  - gate/blocked_earnings
+wiki_state_hash: d23da36075002712d0fe929d5721fbedf144961f4e0de2e530f2c41705ba2d64
 ---
 
 # Xanadu Quantum Technologies Limited (XNDU)
@@ -34,7 +34,7 @@ wiki_state_hash: b267b638c6f55f008892911fbcfe3776d211765bb5da4d502275f9c5daaf61a
 | Net Score / Quant Composite | 28.02 / 64.01 |
 | Market Cap | $114.1M (Sweet Spot $2B-$80B: No) |
 | Price | 2.05 |
-| Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.605 / 0.062 |
 
@@ -52,5 +52,5 @@ wiki_state_hash: b267b638c6f55f008892911fbcfe3776d211765bb5da4d502275f9c5daaf61a
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-11 (days: -15, tag: CLEAN_WINDOW)
+- Earnings: 2026-12-02 (days: 4, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: QTUM (0.32%)

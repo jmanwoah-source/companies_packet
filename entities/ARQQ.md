@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c565f049e93c6ee43e2dd7440272e26033dce88ff5c2031ced7210f77df31be1
+wiki_state_hash: 6766cee8c9fa8d58cb9517dcbbe1a61f603f33864d4cf72684c98085511d3fb7
 ---
 
 # Arqit Quantum Inc. (ARQQ)
@@ -52,5 +52,5 @@ wiki_state_hash: c565f049e93c6ee43e2dd7440272e26033dce88ff5c2031ced7210f77df31be
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-09 (days: 13, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-09 (days: 11, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: QTUM (1.28%)

@@ -3,8 +3,8 @@ ticker: SGML
 name: "Sigma Lithium Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -28.01
-quant_composite_score: 36.0
+net_score: -29.18
+quant_composite_score: 35.41
 market_cap: 448506200.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 7d5dd04d70cbd5ef7abc944a48897247ecfbff3f4ac2be70e84a06419fa6c7e7
+wiki_state_hash: 4300c3a68eb051689a4d1ff399fdd84c2f81f00def7a0557a5a143283d3a8864
 ---
 
 # Sigma Lithium Corporation (SGML)
@@ -31,12 +31,12 @@ wiki_state_hash: 7d5dd04d70cbd5ef7abc944a48897247ecfbff3f4ac2be70e84a06419fa6c7e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -28.01 / 36.00 |
+| Net Score / Quant Composite | -29.18 / 35.41 |
 | Market Cap | $448.5M (Sweet Spot $2B-$80B: No) |
 | Price | 3.98 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.161 / 0.705 |
+| Bull / Bear Edge | 0.137 / 0.705 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 7d5dd04d70cbd5ef7abc944a48897247ecfbff3f4ac2be70e84a06419fa6c7e
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-13 (days: -13, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-13 (days: -15, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (0.80%)

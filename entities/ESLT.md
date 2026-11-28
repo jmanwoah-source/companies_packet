@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: ff52dbd764251e74a6fc248dfb3883a89292c9a60af806d63df57c2986384c51
+wiki_state_hash: a77a1ce36886e0af544b2e22c2ed7f3728c4b8fd101b8847285af8d8d886623c
 ---
 
 # Elbit Systems Ltd. (ESLT)
@@ -54,5 +54,5 @@ wiki_state_hash: ff52dbd764251e74a6fc248dfb3883a89292c9a60af806d63df57c2986384c5
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-17 (days: -9, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-17 (days: -11, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (0.72%)

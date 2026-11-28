@@ -3,8 +3,8 @@ ticker: ESE
 name: "ESCO Technologies Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 26.26
-quant_composite_score: 63.13
+net_score: 21.04
+quant_composite_score: 60.52
 market_cap: 5520643452.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 8e2357bd55db0dfc695cc2397206761e8497d0df8d40294021182f5aaba1cb99
+wiki_state_hash: 2cc8ddf097af078d127dfb63b787cea105bdc395d474b4a433e5507bf14ab0d3
 ---
 
 # ESCO Technologies Inc. (ESE)
@@ -32,12 +32,12 @@ wiki_state_hash: 8e2357bd55db0dfc695cc2397206761e8497d0df8d40294021182f5aaba1cb9
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 26.26 / 63.13 |
+| Net Score / Quant Composite | 21.04 / 60.52 |
 | Market Cap | $5.52B (Sweet Spot $2B-$80B: Yes) |
 | Price | 213.09 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.696 / 0.188 |
+| Bull / Bear Edge | 0.591 / 0.188 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 8e2357bd55db0dfc695cc2397206761e8497d0df8d40294021182f5aaba1cb9
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-19 (days: -7, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-19 (days: -9, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: GRID (0.03%)

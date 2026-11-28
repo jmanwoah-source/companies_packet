@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 5a088a2b7996cfaa0a7a52ef29ac910906caa50b8e55fd763d97c63e56422a38
+wiki_state_hash: 5820fc7a2474b8825244094416f6bee95ee8b2d22b3076ace4035bc2726db307
 ---
 
 # D-Wave Quantum Inc. (QBTS)
@@ -54,5 +54,5 @@ wiki_state_hash: 5a088a2b7996cfaa0a7a52ef29ac910906caa50b8e55fd763d97c63e56422a3
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.45%), IGV (0.10%)

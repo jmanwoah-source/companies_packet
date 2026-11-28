@@ -3,8 +3,8 @@ ticker: UROY
 name: "Uranium Royalty Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -33.43
-quant_composite_score: 33.28
+net_score: -34.43
+quant_composite_score: 32.79
 market_cap: 332764991.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 6f8a5d42f6e0317795538e65ffde3048adc1bdd5a699429811dc98c61a43d5bf
+wiki_state_hash: d6d8be1a6564dcf4e0d37b98e0adcf11316f22620306e6709d4a27586d68a49c
 ---
 
 # Uranium Royalty Corp. (UROY)
@@ -31,12 +31,12 @@ wiki_state_hash: 6f8a5d42f6e0317795538e65ffde3048adc1bdd5a699429811dc98c61a43d5b
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -33.43 / 33.28 |
+| Net Score / Quant Composite | -34.43 / 32.79 |
 | Market Cap | $332.8M (Sweet Spot $2B-$80B: No) |
 | Price | 2.27 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.142 / 0.798 |
+| Bull / Bear Edge | 0.120 / 0.798 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 6f8a5d42f6e0317795538e65ffde3048adc1bdd5a699429811dc98c61a43d5b
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-10 (days: 14, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-10 (days: 12, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: URA (0.44%)

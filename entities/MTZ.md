@@ -3,8 +3,8 @@ ticker: MTZ
 name: "MasTec, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 4.24
-quant_composite_score: 52.12
+net_score: -6.21
+quant_composite_score: 46.89
 market_cap: 12380613833.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: a31b5f89ea31693b5da74eec3960fcd663d52a261846c1332146021d557fa1ab
+wiki_state_hash: 9952f2415476f803527c477d8735b5306fad6d40d079ebb17f8d620e16ab3d89
 ---
 
 # MasTec, Inc. (MTZ)
@@ -33,12 +33,12 @@ wiki_state_hash: a31b5f89ea31693b5da74eec3960fcd663d52a261846c1332146021d557fa1a
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 4.24 / 52.12 |
+| Net Score / Quant Composite | -6.21 / 46.89 |
 | Market Cap | $12.38B (Sweet Spot $2B-$80B: Yes) |
 | Price | 154.17 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.593 / 0.557 |
+| Bull / Bear Edge | 0.504 / 0.557 |
 
 ## 45-DTE Options Surface
 

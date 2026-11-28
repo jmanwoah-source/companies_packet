@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 89aad3173a2d692e44b8264c6481e1cd3bb4e340b72eb55db2f1ad090f69ece6
+wiki_state_hash: 7b97077897fa7718631a4fbaadc7baf0c26ca357e3b8c9e0e5ab41e65bc3812b
 ---
 
 # Adobe Inc. (ADBE)
@@ -52,7 +52,7 @@ wiki_state_hash: 89aad3173a2d692e44b8264c6481e1cd3bb4e340b72eb55db2f1ad090f69ece
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-09 (days: 13, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-09 (days: 11, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: IGV (3.56%)
 
 ## Adversarial Red Team

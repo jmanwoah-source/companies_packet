@@ -3,8 +3,8 @@ ticker: AIRO
 name: "AIRO Group Holdings, Inc. Common Stock"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 12.39
-quant_composite_score: 56.19
+net_score: 7.58
+quant_composite_score: 53.79
 market_cap: 103536615.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 1cd5f457fd3e8a56fc7ae737a93da3d9c4026f1ba19136091025194a6bf7bd70
+wiki_state_hash: 82d6da6d8c10ea9f48504d6193ec187b5ec4a35275c408d7f404e101d62b81db
 ---
 
 # AIRO Group Holdings, Inc. Common Stock (AIRO)
@@ -31,12 +31,12 @@ wiki_state_hash: 1cd5f457fd3e8a56fc7ae737a93da3d9c4026f1ba19136091025194a6bf7bd7
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.39 / 56.19 |
+| Net Score / Quant Composite | 7.58 / 53.79 |
 | Market Cap | $103.5M (Sweet Spot $2B-$80B: No) |
 | Price | 3.25 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.570 / 0.335 |
+| Bull / Bear Edge | 0.478 / 0.335 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 1cd5f457fd3e8a56fc7ae737a93da3d9c4026f1ba19136091025194a6bf7bd7
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (0.86%)

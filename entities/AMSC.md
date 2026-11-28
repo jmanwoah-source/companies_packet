@@ -3,8 +3,8 @@ ticker: AMSC
 name: "American Superconductor Corporation"
 pillar: ENERGY_MATERIALS
 tier: WATCHLIST
-net_score: -64.11
-quant_composite_score: 17.94
+net_score: -66.84
+quant_composite_score: 16.58
 market_cap: 1028700860.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 76a28f259c4ac362691ce672b0eccff75e9b336f76dab4c757f4d048330a4ae9
+wiki_state_hash: 57959d22256143c9f46e0cce7cf1e1a04718f845ddcb67115a3dea3d1d5df9b0
 ---
 
 # American Superconductor Corporation (AMSC)
@@ -32,12 +32,12 @@ wiki_state_hash: 76a28f259c4ac362691ce672b0eccff75e9b336f76dab4c757f4d048330a4ae
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -64.11 / 17.94 |
+| Net Score / Quant Composite | -66.84 / 16.58 |
 | Market Cap | $1.03B (Sweet Spot $2B-$80B: No) |
 | Price | 21.23 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.271 / 0.917 |
+| Bull / Bear Edge | 0.230 / 0.917 |
 
 ## 45-DTE Options Surface
 

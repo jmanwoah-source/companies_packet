@@ -3,8 +3,8 @@ ticker: NKLR
 name: "Terra Innovatum Global N.V. Ordinary shares"
 pillar: ENERGY_MATERIALS
 tier: EMERGING_EDGE
-net_score: 42.49
-quant_composite_score: 71.24
+net_score: 36.75
+quant_composite_score: 68.38
 market_cap: 208846720.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: 0d332936a105325e7c932f3000226b739a089ed12c6059ad48ee19765767abb1
+wiki_state_hash: a720d2586265c9e8cd25ab2d7cff9685bc88ad496dfea872c81057aacd4d9892
 ---
 
 # Terra Innovatum Global N.V. Ordinary shares (NKLR)
@@ -31,12 +31,12 @@ wiki_state_hash: 0d332936a105325e7c932f3000226b739a089ed12c6059ad48ee19765767abb
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 42.49 / 71.24 |
+| Net Score / Quant Composite | 36.75 / 68.38 |
 | Market Cap | $208.8M (Sweet Spot $2B-$80B: No) |
 | Price | 1.89 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.857 / 0.000 |
+| Bull / Bear Edge | 0.728 / 0.000 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 0d332936a105325e7c932f3000226b739a089ed12c6059ad48ee19765767abb
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-16 (days: -10, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-16 (days: -12, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: URA (0.06%)

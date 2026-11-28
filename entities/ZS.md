@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: cfb81b67d511a3989e56425a5584b988e63d81305d8b769daa164febfee327b5
+wiki_state_hash: 3975a639a8ef78fdc5f54b49b4dd8645ca946cba08d933ba89b0ff615230fae3
 ---
 
 # Zscaler, Inc. (ZS)
@@ -53,5 +53,5 @@ wiki_state_hash: cfb81b67d511a3989e56425a5584b988e63d81305d8b769daa164febfee327b
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (0.93%)

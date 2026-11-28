@@ -7,7 +7,7 @@ entity_count: 22
 tags:
   - hub/pillar
   - pillar/physical_ai_robotics
-wiki_state_hash: 0c10158b950b4f52fee739ef4edb6d32bd1031749043dd1f9242aa91fca46365
+wiki_state_hash: 5ee868e7110df159b8826ea3eb5256e9bada4ca30b129553eba1f38359bd917a
 ---
 
 # Physical AI & Robotics (HUB_PHYSICAL_AI_ROBOTICS)
@@ -16,7 +16,7 @@ wiki_state_hash: 0c10158b950b4f52fee739ef4edb6d32bd1031749043dd1f9242aa91fca4636
 
 | Benchmark | Price | 20d RS (%) | 20d RV | Verdict | Regime Mult | US10Y |
 |---|---|---|---|---|---|---|
-| ROBO | 65.34 | -16.34 | 0.5348 | NEUTRAL | 0.90 | 4.91 |
+| ROBO | 67.54 | -13.29 | 0.5551 | NEUTRAL | 0.90 | 4.85 |
 
 ## GOLDEN Setups
 
@@ -46,12 +46,12 @@ wiki_state_hash: 0c10158b950b4f52fee739ef4edb6d32bd1031749043dd1f9242aa91fca4636
 - [[JOBY]] — NEUTRAL (net -26.65, REJECTED_CONVEXITY)
 - [[NDSN]] — NEUTRAL (net 19.56, REJECTED_LIQUIDITY)
 - [[NOVT]] — NEUTRAL (net -19.09, REJECTED_LIQUIDITY)
-- [[OCTV]] — EMERGING_EDGE (net 39.16, REJECTED_CONVEXITY)
-- [[ONDS]] — EMERGING_EDGE (net 41.74, APPROVED)
+- [[OCTV]] — EMERGING_EDGE (net 34.97, REJECTED_CONVEXITY)
+- [[ONDS]] — NEUTRAL (net 28.40, APPROVED)
 - [[OUST]] — MIRAGE_SHORT (net -85.40, APPROVED)
 - [[ROK]] — NEUTRAL (net 4.60, REJECTED_CONVEXITY)
 - [[SERV]] — NEUTRAL (net -11.30, REJECTED_CONVEXITY)
-- [[SSYS]] — NEUTRAL (net -29.52, REJECTED_CONVEXITY)
+- [[SSYS]] — NEUTRAL (net -33.89, REJECTED_CONVEXITY)
 - [[SYM]] — EMERGING_EDGE (net 46.07, APPROVED)
 - [[XPEV]] — MIRAGE_SHORT (net -86.12, APPROVED)
 - [[ZBRA]] — NEUTRAL (net -15.22, REJECTED_LIQUIDITY)

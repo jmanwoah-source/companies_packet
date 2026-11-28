@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: aeefe4294b9aadd9a05e083db3889dcc007d903251d5fae5831aba5e024f5695
+wiki_state_hash: 59059e234d443df8d5674f2e39947daeab5f220cff4175f0c204fff0c5685a90
 ---
 
 # Frequency Electronics, Inc. (FEIM)
@@ -52,5 +52,5 @@ wiki_state_hash: aeefe4294b9aadd9a05e083db3889dcc007d903251d5fae5831aba5e024f569
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-10 (days: 14, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-10 (days: 12, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: JEDI (3.02%)

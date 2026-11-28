@@ -3,8 +3,8 @@ ticker: HUBB
 name: "Hubbell Incorporated"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 8.15
-quant_composite_score: 54.08
+net_score: 4.33
+quant_composite_score: 52.17
 market_cap: 22652477900.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7715fd9bd63a72ac449f36b9c7d3acccf34b731f12945877f515737d751ae1e5
+wiki_state_hash: a1c80c80f3fb289d4ac0d07ebf271377cae09d0e82ae7fc0514b3dfedd0c6c18
 ---
 
 # Hubbell Incorporated (HUBB)
@@ -32,12 +32,12 @@ wiki_state_hash: 7715fd9bd63a72ac449f36b9c7d3acccf34b731f12945877f515737d751ae1e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 8.15 / 54.08 |
+| Net Score / Quant Composite | 4.33 / 52.17 |
 | Market Cap | $22.65B (Sweet Spot $2B-$80B: Yes) |
 | Price | 428.74 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.483 / 0.329 |
+| Bull / Bear Edge | 0.411 / 0.329 |
 
 ## 45-DTE Options Surface
 

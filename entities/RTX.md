@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: de4a387872fb9cf8ab001e9ce6e05fbacd31d4742f48028771dae893fc84a1cf
+wiki_state_hash: 7ef933e010f59e7344cc63f97434f4bb0de92710ab8fae4e3d4b63c8d555b6e2
 ---
 
 # RTX Corporation (RTX)
@@ -54,5 +54,5 @@ wiki_state_hash: de4a387872fb9cf8ab001e9ce6e05fbacd31d4742f48028771dae893fc84a1c
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-26 (days: 59, tag: CLEAN_WINDOW)
 - Constituent ETFs: SHLD (9.89%), QTUM (1.67%), JEDI (0.74%)

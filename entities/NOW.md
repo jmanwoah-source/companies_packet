@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 5fc12a8cdb30fb5e1ae0c4e9b3e4ff0a28c15ec94ae66cd470e346f98d2e305c
+wiki_state_hash: bb5f81d5dc85e2d1df4501cd5eddc68a37ca78e36700e42815535d4f880cada2
 ---
 
 # ServiceNow, Inc. (NOW)
@@ -52,5 +52,5 @@ wiki_state_hash: 5fc12a8cdb30fb5e1ae0c4e9b3e4ff0a28c15ec94ae66cd470e346f98d2e305
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (3.37%)

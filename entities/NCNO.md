@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 4bf767af5287689352b38236004a3d132b08e917cf63e19316eb6111715f8870
+wiki_state_hash: dd081f1a76c7d509c23d24b9c353f84cd922c97850b2f88967947d6555eaecce
 ---
 
 # nCino, Inc. (NCNO)
@@ -53,5 +53,5 @@ wiki_state_hash: 4bf767af5287689352b38236004a3d132b08e917cf63e19316eb6111715f887
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.09%)

@@ -3,8 +3,8 @@ ticker: UEC
 name: "Uranium Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 14.39
-quant_composite_score: 57.2
+net_score: 9.92
+quant_composite_score: 54.96
 market_cap: 2819876744.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 74bfb78c7480cacf0def06942090c650a90a48486ae6cfa391a05653a8e6a558
+wiki_state_hash: 440c507ea3552537c6a553458bcc3a0a4db1763d542796a2697d69e2df9193bc
 ---
 
 # Uranium Energy Corp. (UEC)
@@ -32,12 +32,12 @@ wiki_state_hash: 74bfb78c7480cacf0def06942090c650a90a48486ae6cfa391a05653a8e6a55
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.39 / 57.20 |
+| Net Score / Quant Composite | 9.92 / 54.96 |
 | Market Cap | $2.82B (Sweet Spot $2B-$80B: Yes) |
 | Price | 5.69 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.571 / 0.297 |
+| Bull / Bear Edge | 0.485 / 0.297 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 74bfb78c7480cacf0def06942090c650a90a48486ae6cfa391a05653a8e6a55
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-09 (days: 13, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-09 (days: 11, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: URA (4.09%)

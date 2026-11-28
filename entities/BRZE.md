@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 3c72d3bafb43b630d58687a328d0900260bfd52a1196c8ca7c1b0f12cb1e3e51
+wiki_state_hash: 01f254cd735735e5ff93125ac00ea05b9763b8711d37aa97ed47d5a85ce3c1ba
 ---
 
 # Braze, Inc. (BRZE)
@@ -53,5 +53,5 @@ wiki_state_hash: 3c72d3bafb43b630d58687a328d0900260bfd52a1196c8ca7c1b0f12cb1e3e5
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-08 (days: 12, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-08 (days: 10, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: IGV (0.17%)

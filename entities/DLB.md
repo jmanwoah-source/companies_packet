@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: eb66a984265092e227c6867989fb27cac2c678b4df73b2042c4ac2382aa31448
+wiki_state_hash: bd4a1bbc5cdabf492c88e27d8be134464831100c93dfc88e9b557182590cfb71
 ---
 
 # Dolby Laboratories, Inc. (DLB)
@@ -53,5 +53,5 @@ wiki_state_hash: eb66a984265092e227c6867989fb27cac2c678b4df73b2042c4ac2382aa3144
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-17 (days: -9, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-17 (days: -11, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (0.13%)

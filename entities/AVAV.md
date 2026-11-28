@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: a77eba2e5fe7999d49ebf51a961531aa147a6bfc30d50276770adf55a74111a4
+wiki_state_hash: ce6a387deafde46a08d7435a0f6ef5e021c9ddf51b2d1ab6632a6d43a98a4023
 ---
 
 # AeroVironment, Inc. (AVAV)
@@ -54,7 +54,7 @@ wiki_state_hash: a77eba2e5fe7999d49ebf51a961531aa147a6bfc30d50276770adf55a74111a
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-08 (days: 12, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-08 (days: 10, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: JEDI (2.63%), SHLD (0.57%)
 
 ## Adversarial Red Team

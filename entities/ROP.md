@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: d3d28d55e4859a366647748dcc3b54393acbf7719f69be90709e7c20cbb69c0d
+wiki_state_hash: f1fd44299596f5e8a2a9f479763e54b3e152fc3b75a295a61b858eeb13cfe6ed
 ---
 
 # Roper Technologies, Inc. (ROP)
@@ -53,5 +53,5 @@ wiki_state_hash: d3d28d55e4859a366647748dcc3b54393acbf7719f69be90709e7c20cbb69c0
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-26 (days: 59, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (1.84%)

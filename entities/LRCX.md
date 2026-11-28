@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: ae3eefc88a5d8d2fe05316dd3087b0672f46fdafeeb83afb0dbec7a40c4192f3
+wiki_state_hash: 5a8e3f95f6f85e739b071a584f33a35fe3af3b787a26d1e22ea1f88952e64ed6
 ---
 
 # Lam Research Corporation (LRCX)
@@ -53,7 +53,7 @@ wiki_state_hash: ae3eefc88a5d8d2fe05316dd3087b0672f46fdafeeb83afb0dbec7a40c4192f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: SMH (3.59%), QTUM (0.87%)
 
 ## Adversarial Red Team

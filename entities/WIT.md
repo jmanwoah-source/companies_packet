@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: fd47ff8cf2aee223bb52e558e67412dfcfb9913e9a743fa1eecf6bee71a0ac19
+wiki_state_hash: ceb1d578ec986d96964dcb079d5f54580a742640c9c05917af90b7e68a352ddd
 ---
 
 # Wipro Limited (WIT)
@@ -53,5 +53,5 @@ wiki_state_hash: fd47ff8cf2aee223bb52e558e67412dfcfb9913e9a743fa1eecf6bee71a0ac1
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-15 (days: 50, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-15 (days: 48, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (1.56%)

@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 620c03d64ee63614fe5608cc5fec158ff10edeeaeca7182e213e6aba3403c489
+wiki_state_hash: cb660031b6b1605aee97b0214e3b4cf4a5d8b36f08d18e828b138df8512d3b51
 ---
 
 # Intuit Inc. (INTU)
@@ -53,7 +53,7 @@ wiki_state_hash: 620c03d64ee63614fe5608cc5fec158ff10edeeaeca7182e213e6aba3403c48
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-19 (days: -7, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-19 (days: -9, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (2.86%)
 
 ## Adversarial Red Team

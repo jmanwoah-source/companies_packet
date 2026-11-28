@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 66cb08523f976933771f26bb8b13ccb5f5d52f58bd6a33264fcbd8ab42e275ea
+wiki_state_hash: 2aebd5c29c093760580c8f1414d7a56377364af9c741d5ed528a73a07700d827
 ---
 
 # Autodesk, Inc. (ADSK)
@@ -54,5 +54,5 @@ wiki_state_hash: 66cb08523f976933771f26bb8b13ccb5f5d52f58bd6a33264fcbd8ab42e275e
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-24 (days: -4, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (2.00%), ROBO (1.44%)

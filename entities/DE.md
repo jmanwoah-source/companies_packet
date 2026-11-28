@@ -20,7 +20,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: acbc8257e7e7d9ff58529447174510f8a2a9838d9c8f1123e3dc6c660a4a72bc
+wiki_state_hash: 952750dc89a5c6ad1c1a82a63ef5bc3365ad7f55c30fe245aede501c3bc803fd
 ---
 
 # Deere & Company (DE)
@@ -52,5 +52,5 @@ wiki_state_hash: acbc8257e7e7d9ff58529447174510f8a2a9838d9c8f1123e3dc6c660a4a72b
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-25 (days: -1, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-25 (days: -3, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.47%)

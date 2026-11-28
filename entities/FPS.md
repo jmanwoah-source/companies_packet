@@ -3,8 +3,8 @@ ticker: FPS
 name: "Forgent Power Solutions, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -19.08
-quant_composite_score: 40.46
+net_score: -27.3
+quant_composite_score: 36.35
 market_cap: 5166600022.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: cd4350fdacf9789e38a16ab2377be2279a83f93893d84a7bbb481cbf96db1ff7
+wiki_state_hash: 75f40d24ea06d980a4d84bb9c70c2adcb79b0b6b6c7ac80d22bf078006aab5c4
 ---
 
 # Forgent Power Solutions, Inc. (FPS)
@@ -33,12 +33,12 @@ wiki_state_hash: cd4350fdacf9789e38a16ab2377be2279a83f93893d84a7bbb481cbf96db1ff
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -19.08 / 40.46 |
+| Net Score / Quant Composite | -27.30 / 36.35 |
 | Market Cap | $5.17B (Sweet Spot $2B-$80B: Yes) |
 | Price | 18.82 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.493 / 0.657 |
+| Bull / Bear Edge | 0.419 / 0.657 |
 
 ## 45-DTE Options Surface
 
@@ -53,7 +53,7 @@ wiki_state_hash: cd4350fdacf9789e38a16ab2377be2279a83f93893d84a7bbb481cbf96db1ff
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.53%)
 
 ## Adversarial Red Team

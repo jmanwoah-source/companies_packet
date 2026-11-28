@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 45fca192de5fc5f7043f0f7e39b4db298c13e2d7d7b6d33ce9436d1930837ffe
+wiki_state_hash: 11bfa7e7de438942ff9bf0e44b3a01ab4041dfead11f078be5f41f1160cc0591
 ---
 
 # XPeng Inc. (XPEV)
@@ -53,7 +53,7 @@ wiki_state_hash: 45fca192de5fc5f7043f0f7e39b4db298c13e2d7d7b6d33ce9436d1930837ff
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-16 (days: -12, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.52%)
 
 ## Adversarial Red Team

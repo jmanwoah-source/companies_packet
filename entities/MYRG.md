@@ -3,8 +3,8 @@ ticker: MYRG
 name: "MYR Group Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 17.23
-quant_composite_score: 58.62
+net_score: 12.86
+quant_composite_score: 56.43
 market_cap: 4065482700.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 60525ad434b86f96ae79ca1c947bf405c0315c5ccb2d21284602876ccdc5bdf3
+wiki_state_hash: 2bf9e4254236f3099a000fa8c7325a09d952b43dda2ecb24c0bcc45c938f0e26
 ---
 
 # MYR Group Inc. (MYRG)
@@ -32,12 +32,12 @@ wiki_state_hash: 60525ad434b86f96ae79ca1c947bf405c0315c5ccb2d21284602876ccdc5bdf
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 17.23 / 58.62 |
+| Net Score / Quant Composite | 12.86 / 56.43 |
 | Market Cap | $4.07B (Sweet Spot $2B-$80B: Yes) |
 | Price | 261.11 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.564 / 0.235 |
+| Bull / Bear Edge | 0.479 / 0.235 |
 
 ## 45-DTE Options Surface
 

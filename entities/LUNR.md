@@ -3,8 +3,8 @@ ticker: LUNR
 name: "Intuitive Machines, Inc."
 pillar: DEFENSE
 tier: MIRAGE_SHORT
-net_score: -69.55
-quant_composite_score: 15.23
+net_score: -76.61
+quant_composite_score: 11.69
 market_cap: 1991144393.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 77586f6e7339b9d3a0ca7c77402511e2fe1f19f48ff6accaa63db511b6f74c4d
+wiki_state_hash: 1b6862d05cc2c3bee4d17ca54f1d074833ca9546c22b22e973b2d53f11a25218
 ---
 
 # Intuitive Machines, Inc. (LUNR)
@@ -32,12 +32,12 @@ wiki_state_hash: 77586f6e7339b9d3a0ca7c77402511e2fe1f19f48ff6accaa63db511b6f74c4
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -69.55 / 15.23 |
+| Net Score / Quant Composite | -76.61 / 11.69 |
 | Market Cap | $1.99B (Sweet Spot $2B-$80B: No) |
 | Price | 9.14 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.300 / 1.029 |
+| Bull / Bear Edge | 0.170 / 1.029 |
 
 ## 45-DTE Options Surface
 
@@ -52,7 +52,7 @@ wiki_state_hash: 77586f6e7339b9d3a0ca7c77402511e2fe1f19f48ff6accaa63db511b6f74c4
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (5.62%)
 
 ## Adversarial Red Team

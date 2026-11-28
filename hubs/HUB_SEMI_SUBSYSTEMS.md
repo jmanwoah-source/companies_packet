@@ -7,7 +7,7 @@ entity_count: 18
 tags:
   - hub/pillar
   - pillar/semi_subsystems
-wiki_state_hash: 9d282611e6c6abebecd9814f65180cd84477c8ba62b7375aaaed8bf0c6c5528f
+wiki_state_hash: c546945ac9d2facc7711c960fe7fbc16fde4d7343b0f507da55ea7ba928f13fb
 ---
 
 # Semiconductor Subsystems (HUB_SEMI_SUBSYSTEMS)
@@ -16,7 +16,7 @@ wiki_state_hash: 9d282611e6c6abebecd9814f65180cd84477c8ba62b7375aaaed8bf0c6c5528
 
 | Benchmark | Price | 20d RS (%) | 20d RV | Verdict | Regime Mult | US10Y |
 |---|---|---|---|---|---|---|
-| SMH | 422.46 | -25.58 | 0.9318 | NEUTRAL | 0.90 | 4.91 |
+| SMH | 440.06 | -21.65 | 0.9525 | NEUTRAL | 0.90 | 4.85 |
 
 ## GOLDEN Setups
 
@@ -33,7 +33,7 @@ wiki_state_hash: 9d282611e6c6abebecd9814f65180cd84477c8ba62b7375aaaed8bf0c6c5528
 
 - [[ADI]] — NEUTRAL (net -12.92, APPROVED)
 - [[ALAB]] — NEUTRAL (net 7.19, REJECTED_LIQUIDITY)
-- [[AMAT]] — EMERGING_EDGE (net 54.81, APPROVED)
+- [[AMAT]] — EMERGING_EDGE (net 49.30, APPROVED)
 - [[ARM]] — EMERGING_EDGE (net 48.11, APPROVED)
 - [[CDNS]] — NEUTRAL (net -58.92, APPROVED)
 - [[INTC]] — NEUTRAL (net -55.71, APPROVED)

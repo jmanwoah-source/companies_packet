@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: b39709947ce01831868b8fb5d9825983568e483c76eae015ea154a9dbd33a85d
+wiki_state_hash: 25da5092b3074414aa4e3cdc4add24c44b5850166b7a8484f8de28fa6033349c
 ---
 
 # VNET Group, Inc. (VNET)
@@ -52,5 +52,5 @@ wiki_state_hash: b39709947ce01831868b8fb5d9825983568e483c76eae015ea154a9dbd33a85
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: DTCR (1.06%)

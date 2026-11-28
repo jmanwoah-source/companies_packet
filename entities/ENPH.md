@@ -3,8 +3,8 @@ ticker: ENPH
 name: "Enphase Energy, Inc."
 pillar: ENERGY_MATERIALS
 tier: EMERGING_EDGE
-net_score: 54.39
-quant_composite_score: 77.19
+net_score: 43.48
+quant_composite_score: 71.74
 market_cap: 2760070040.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: f9f26032f94b96dc3eef7b4697d632b099fa16067cb48fef809be7e3c04c73b3
+wiki_state_hash: 6f39279a7c4168be71d01871acca46f0556ff99043a0b66b3b2ec015de78bac6
 ---
 
 # Enphase Energy, Inc. (ENPH)
@@ -33,12 +33,12 @@ wiki_state_hash: f9f26032f94b96dc3eef7b4697d632b099fa16067cb48fef809be7e3c04c73b
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 54.39 / 77.19 |
+| Net Score / Quant Composite | 43.48 / 71.74 |
 | Market Cap | $2.76B (Sweet Spot $2B-$80B: Yes) |
 | Price | 20.86 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.815 / 0.297 |
+| Bull / Bear Edge | 0.693 / 0.297 |
 
 ## 45-DTE Options Surface
 

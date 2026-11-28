@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 647ac9cf1afab8168107136addb52e15aaf0574e2d188fd8acfe46aa6a2f0b4e
+wiki_state_hash: 05acbe2ce566d3a53d49cc0c1f63e04e97f36fcb31e2a3319878c9fe5bb4a761
 ---
 
 # Elastic N.V. (ESTC)
@@ -54,5 +54,5 @@ wiki_state_hash: 647ac9cf1afab8168107136addb52e15aaf0574e2d188fd8acfe46aa6a2f0b4
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-19 (days: -7, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-19 (days: -9, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: QTUM (2.06%), IGV (0.29%)

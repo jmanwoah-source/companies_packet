@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: c869d187c83b66c3cf470132d28caa3d44994d85e130c35d098aa918aaa5dfb7
+wiki_state_hash: e5c991b3674ce6aaa20702db82408891729421693de2429c6f01742e8952a2ab
 ---
 
 # Take-Two Interactive Software, Inc. (TTWO)
@@ -53,5 +53,5 @@ wiki_state_hash: c869d187c83b66c3cf470132d28caa3d44994d85e130c35d098aa918aaa5dfb
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (1.54%)

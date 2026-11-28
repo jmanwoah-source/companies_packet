@@ -23,7 +23,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 69d98d357f071fb037bc6b6e09dd4bf8864c46504aa5f0ae5a16520f4e181a65
+wiki_state_hash: 296a1c59ffaca23a0808e0355ed44c1595fad00bbd8a0614f64656bd51ea8989
 ---
 
 # Texas Instruments Incorporated (TXN)
@@ -54,7 +54,7 @@ wiki_state_hash: 69d98d357f071fb037bc6b6e09dd4bf8864c46504aa5f0ae5a16520f4e181a6
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-26 (days: 59, tag: CLEAN_WINDOW)
 - Constituent ETFs: SMH (6.34%), QTUM (1.45%), GRID (1.26%)
 
 ## Adversarial Red Team

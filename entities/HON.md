@@ -3,8 +3,8 @@ ticker: HON
 name: "Honeywell International Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 22.77
-quant_composite_score: 61.39
+net_score: 11.43
+quant_composite_score: 55.71
 market_cap: 71437402402.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 066a35b75a0afcd76ccf3ee3e058f4ee0a4d82153acfeba37ae87bfe10dd6cc5
+wiki_state_hash: 8b3e48d2c2e3f7c43c5b628dc19eb0c4628663e0d8dde2cdab249a82f804c853
 ---
 
 # Honeywell International Inc. (HON)
@@ -34,12 +34,12 @@ wiki_state_hash: 066a35b75a0afcd76ccf3ee3e058f4ee0a4d82153acfeba37ae87bfe10dd6cc
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.77 / 61.39 |
+| Net Score / Quant Composite | 11.43 / 55.71 |
 | Market Cap | $71.44B (Sweet Spot $2B-$80B: Yes) |
 | Price | 225.10 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.663 / 0.466 |
+| Bull / Bear Edge | 0.564 / 0.466 |
 
 ## 45-DTE Options Surface
 

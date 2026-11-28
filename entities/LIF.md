@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 742c5fafda474365e1fecb39c806a211439b2aca5e3ff16d1ef5f10624d071f0
+wiki_state_hash: 4042b4ca2c3fc3daf81ba6d46dcfb4fe8e8b37c744dd033aba840b324dd50d0e
 ---
 
 # Life360, Inc. (LIF)
@@ -53,5 +53,5 @@ wiki_state_hash: 742c5fafda474365e1fecb39c806a211439b2aca5e3ff16d1ef5f10624d071f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.12%)

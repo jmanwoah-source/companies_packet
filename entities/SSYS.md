@@ -3,8 +3,8 @@ ticker: SSYS
 name: "Stratasys Ltd."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -29.52
-quant_composite_score: 35.24
+net_score: -33.89
+quant_composite_score: 33.06
 market_cap: 465957483.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 358a1f156c10b9490740565531adf11ae5350dda746574186422c25361412435
+wiki_state_hash: d840a96e347b3bc9cee683cae6e909c85b890f7045bd7397e0c4f5c0cd56eb66
 ---
 
 # Stratasys Ltd. (SSYS)
@@ -31,12 +31,12 @@ wiki_state_hash: 358a1f156c10b9490740565531adf11ae5350dda746574186422c2536141243
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.52 / 35.24 |
+| Net Score / Quant Composite | -33.89 / 33.06 |
 | Market Cap | $466.0M (Sweet Spot $2B-$80B: No) |
 | Price | 5.29 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.196 / 0.771 |
+| Bull / Bear Edge | 0.104 / 0.771 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 358a1f156c10b9490740565531adf11ae5350dda746574186422c2536141243
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (0.47%)

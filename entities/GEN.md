@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 09761c2e835785ed9fc8aed13c85bd109097d61100b28b30764610b30280160c
+wiki_state_hash: 365c4411e6c89489318f24c0a6ca77a2d51d10ab9bef94234aff3336e6a726a5
 ---
 
 # Gen Digital Inc. (GEN)
@@ -55,3 +55,13 @@ wiki_state_hash: 09761c2e835785ed9fc8aed13c85bd109097d61100b28b30764610b30280160
 
 - Earnings: None scheduled in window
 - Constituent ETFs: IGV (0.62%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | PASS / 35% / -5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | AltmanZ 1.44 indicates financial distress risk despite strong Piotroski score. Thin liquidity and competitive headwinds pose moderate risk to CALL thesis. |
+| Tribunal Summary | Financial distress signal (AltmanZ 1.44) contradicts strong operational fundamentals (Piotroski 7). Thin options liquidity amplifies execution risk. No specific customer concentration or inventory stalls found, but distress risk is a primary thesis killer. |

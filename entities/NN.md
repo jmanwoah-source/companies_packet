@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 7482ed3167f43b3678b91e97bddf563ad02014bf27e9d4193438a5642ef51d46
+wiki_state_hash: aca166c97422da394e3c0cc4b2d15a70df001c6f40d98ecb8d3d26d09059f196
 ---
 
 # NextNav Inc. (NN)
@@ -52,5 +52,5 @@ wiki_state_hash: 7482ed3167f43b3678b91e97bddf563ad02014bf27e9d4193438a5642ef51d4
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.04%)

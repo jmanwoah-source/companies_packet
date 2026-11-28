@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 967851fc96d6fea3b6bc953a9a712c90ca43b5a8e025a6fec638d4bb4b4d1efb
+wiki_state_hash: 06251c9cfaa4eff404e62ebe820709a078af06fadf14c8564a52d2bb1c249318
 ---
 
 # MARA Holdings, Inc. (MARA)
@@ -53,5 +53,5 @@ wiki_state_hash: 967851fc96d6fea3b6bc953a9a712c90ca43b5a8e025a6fec638d4bb4b4d1ef
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.08%)

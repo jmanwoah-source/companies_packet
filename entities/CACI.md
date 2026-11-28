@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 70bd2e05b21be14a00dd0401e64c04848829a36900abec8216ff4bc394b80c92
+wiki_state_hash: 11867bae31328d7a132a5cb12c9f1a2468ec400c27d9f75d4c2d81b7ce11eb53
 ---
 
 # CACI International Inc (CACI)
@@ -53,7 +53,7 @@ wiki_state_hash: 70bd2e05b21be14a00dd0401e64c04848829a36900abec8216ff4bc394b80c9
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-20 (days: 55, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-20 (days: 53, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.32%)
 
 ## Adversarial Red Team

@@ -3,11 +3,11 @@ ticker: PATH
 name: "UiPath Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 17.96
-quant_composite_score: 58.98
+net_score: 12.17
+quant_composite_score: 56.08
 market_cap: 6472750813.0
 execution_sweet_spot: true
-options_gate: "APPROVED"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: "NORMAL"
@@ -20,9 +20,9 @@ tags:
   - mcap/mid
   - mcap/sweet_spot_2b_80b
   - tier/neutral
-  - gate/approved
+  - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 7cbd2c3c9515f581b2bed40c1c6e072352f1777b64e12962756b520ce7ddc18d
+wiki_state_hash: 28f3fc11a30d17b9d6534f0ba8c9e00a4dc428087ddf7500890d9d9ee7c71d55
 ---
 
 # UiPath Inc. (PATH)
@@ -33,12 +33,12 @@ wiki_state_hash: 7cbd2c3c9515f581b2bed40c1c6e072352f1777b64e12962756b520ce7ddc18
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 17.96 / 58.98 |
+| Net Score / Quant Composite | 12.17 / 56.08 |
 | Market Cap | $6.47B (Sweet Spot $2B-$80B: Yes) |
 | Price | 12.42 |
-| Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.469 / 0.315 |
+| Bull / Bear Edge | 0.419 / 0.315 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 7cbd2c3c9515f581b2bed40c1c6e072352f1777b64e12962756b520ce7ddc18
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.20%)

@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 22894bdec2a7f221f3e1f695282d4e0981a04f72a8b1920dc225851b170d240f
+wiki_state_hash: 153ffeb2a871cc3ec59826b5b3130b62154e6d7f3701456ee70fbb458fc1bfb4
 ---
 
 # Quantum eMotion Corp. (QNC)
@@ -52,5 +52,5 @@ wiki_state_hash: 22894bdec2a7f221f3e1f695282d4e0981a04f72a8b1920dc225851b170d240
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-13 (days: -13, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-13 (days: -15, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.47%)

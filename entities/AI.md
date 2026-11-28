@@ -3,11 +3,11 @@ ticker: AI
 name: "C3.ai, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -36.05
-quant_composite_score: 31.98
+net_score: -30.0
+quant_composite_score: 35.0
 market_cap: 1554492770.0
 execution_sweet_spot: false
-options_gate: "REJECTED_CONVEXITY"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
 structure_hint: "SINGLE_LEG_45D"
 liquidity_tier: null
@@ -20,8 +20,8 @@ tags:
   - etf/jedi
   - mcap/small
   - tier/neutral
-  - gate/rejected_convexity
-wiki_state_hash: 049238e9201d26f742439ff8a7a9b19d59a6444e5ec18fb84f57f9a21bc16767
+  - gate/blocked_earnings
+wiki_state_hash: dd2eb7b4f7cc17b6bcdedc5d5dfc361224d6155d758cbc6778933e6784649e26
 ---
 
 # C3.ai, Inc. (AI)
@@ -32,12 +32,12 @@ wiki_state_hash: 049238e9201d26f742439ff8a7a9b19d59a6444e5ec18fb84f57f9a21bc1676
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -36.05 / 31.98 |
+| Net Score / Quant Composite | -30.00 / 35.00 |
 | Market Cap | $1.55B (Sweet Spot $2B-$80B: No) |
 | Price | 10.00 |
-| Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.116 / 0.829 |
+| Bull / Bear Edge | 0.055 / 0.829 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 049238e9201d26f742439ff8a7a9b19d59a6444e5ec18fb84f57f9a21bc1676
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-02 (days: 6, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-02 (days: 4, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: JEDI (3.77%), IGV (0.05%)

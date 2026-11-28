@@ -3,11 +3,11 @@ ticker: SAIC
 name: "Science Applications International Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 31.65
-quant_composite_score: 65.82
+net_score: 28.7
+quant_composite_score: 64.35
 market_cap: 6217609034.0
 execution_sweet_spot: true
-options_gate: "REJECTED_LIQUIDITY"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
 structure_hint: "SINGLE_LEG_45D"
 liquidity_tier: null
@@ -20,8 +20,8 @@ tags:
   - mcap/mid
   - mcap/sweet_spot_2b_80b
   - tier/neutral
-  - gate/rejected_liquidity
-wiki_state_hash: 93b0f5c40d2faf4e8f9bd38b4c60db6b1fde676597532de25dd8584f88dc5db8
+  - gate/blocked_earnings
+wiki_state_hash: 9dbb579d4c077c3552450558880118d0f5f92cb764924becf4c3730fe43fe805
 ---
 
 # Science Applications International Corporation (SAIC)
@@ -32,12 +32,12 @@ wiki_state_hash: 93b0f5c40d2faf4e8f9bd38b4c60db6b1fde676597532de25dd8584f88dc5db
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 31.65 / 65.82 |
+| Net Score / Quant Composite | 28.70 / 64.35 |
 | Market Cap | $6.22B (Sweet Spot $2B-$80B: Yes) |
 | Price | 148.40 |
-| Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.731 / 0.112 |
+| Bull / Bear Edge | 0.669 / 0.112 |
 
 ## 45-DTE Options Surface
 
@@ -53,7 +53,7 @@ wiki_state_hash: 93b0f5c40d2faf4e8f9bd38b4c60db6b1fde676597532de25dd8584f88dc5db
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: JEDI (1.57%)
 
 ## Adversarial Red Team

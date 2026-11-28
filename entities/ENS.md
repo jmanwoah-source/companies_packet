@@ -2,9 +2,9 @@
 ticker: ENS
 name: "EnerSys"
 pillar: ENERGY_MATERIALS
-tier: EMERGING_EDGE
-net_score: 38.63
-quant_composite_score: 69.31
+tier: NEUTRAL
+net_score: 29.25
+quant_composite_score: 64.62
 market_cap: 4546916364.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -19,9 +19,9 @@ tags:
   - etf/grid
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/emerging_edge
+  - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: eeef62004cbd422be2ccf63b43b32677d4ed586331258517a822f7075fb64cad
+wiki_state_hash: 5d991813788282e9e6f618c71dc99a2fd41eadbd979cd89b29ac1347218e4af4
 ---
 
 # EnerSys (ENS)
@@ -31,13 +31,13 @@ wiki_state_hash: eeef62004cbd422be2ccf63b43b32677d4ed586331258517a822f7075fb64ca
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 38.63 / 69.31 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 29.25 / 64.62 |
 | Market Cap | $4.55B (Sweet Spot $2B-$80B: Yes) |
 | Price | 127.77 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.817 / 0.047 |
+| Bull / Bear Edge | 0.616 / 0.047 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: eeef62004cbd422be2ccf63b43b32677d4ed586331258517a822f7075fb64ca
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-11 (days: -15, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-11 (days: -17, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.02%)

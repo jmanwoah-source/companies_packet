@@ -24,7 +24,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 143239c457693222011ac4060f9071ab411560d0260e0c87ae6aa1f4d2492775
+wiki_state_hash: b1ac2740f15df8cc6f7f8621ceb96a40b4a977a6d8e31b4d8ba72be2b5ac7d3c
 ---
 
 # Synopsys, Inc. (SNPS)
@@ -55,5 +55,5 @@ wiki_state_hash: 143239c457693222011ac4060f9071ab411560d0260e0c87ae6aa1f4d249277
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-08 (days: 12, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-08 (days: 10, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: IGV (2.98%), SMH (2.39%), QTUM (1.33%)

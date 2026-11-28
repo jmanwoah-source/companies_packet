@@ -3,8 +3,8 @@ ticker: ITRI
 name: "Itron, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -16.31
-quant_composite_score: 41.84
+net_score: -18.38
+quant_composite_score: 40.81
 market_cap: 4421566924.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 51c4f4ea6688fe09c6501691ee375a0cac329b4c670f5c2cc68eb203fe992d5b
+wiki_state_hash: 70381f83c9c8ba61cf8d3430e25e2658a48e8454eaa89bb116be2322859c7964
 ---
 
 # Itron, Inc. (ITRI)
@@ -32,12 +32,12 @@ wiki_state_hash: 51c4f4ea6688fe09c6501691ee375a0cac329b4c670f5c2cc68eb203fe992d5
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -16.31 / 41.84 |
+| Net Score / Quant Composite | -18.38 / 40.81 |
 | Market Cap | $4.42B (Sweet Spot $2B-$80B: Yes) |
 | Price | 100.81 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.268 / 0.579 |
+| Bull / Bear Edge | 0.228 / 0.579 |
 
 ## 45-DTE Options Surface
 

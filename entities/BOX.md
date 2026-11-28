@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 3cd067a08eb07d37e3f2aca83e00ee428802484ccd37a2ab09f48457d3547257
+wiki_state_hash: fc44ecc327a6c60e31470255d05c0268c961e5300c56e6dc28b2f444f0470bf7
 ---
 
 # Box, Inc. (BOX)
@@ -53,5 +53,5 @@ wiki_state_hash: 3cd067a08eb07d37e3f2aca83e00ee428802484ccd37a2ab09f48457d354725
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.25%)

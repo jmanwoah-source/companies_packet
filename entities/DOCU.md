@@ -3,11 +3,11 @@ ticker: DOCU
 name: "DocuSign, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 11.93
-quant_composite_score: 55.96
+net_score: 6.05
+quant_composite_score: 53.02
 market_cap: 15092372999.0
 execution_sweet_spot: true
-options_gate: "APPROVED"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: "NORMAL"
@@ -20,9 +20,9 @@ tags:
   - mcap/large
   - mcap/sweet_spot_2b_80b
   - tier/neutral
-  - gate/approved
+  - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 5968fd1d59f1e7a31e2989e7e5bfd8406b7d06d9bc59f49ce1b2ef4b6c35b087
+wiki_state_hash: d8cd83f3b0be42bc35d981ff7ed133e67262a75101b6863bf1c23b2cfd4b9d88
 ---
 
 # DocuSign, Inc. (DOCU)
@@ -33,12 +33,12 @@ wiki_state_hash: 5968fd1d59f1e7a31e2989e7e5bfd8406b7d06d9bc59f49ce1b2ef4b6c35b08
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 11.93 / 55.96 |
+| Net Score / Quant Composite | 6.05 / 53.02 |
 | Market Cap | $15.09B (Sweet Spot $2B-$80B: Yes) |
 | Price | 80.75 |
-| Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.447 / 0.345 |
+| Bull / Bear Edge | 0.397 / 0.345 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 5968fd1d59f1e7a31e2989e7e5bfd8406b7d06d9bc59f49ce1b2ef4b6c35b08
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.59%)

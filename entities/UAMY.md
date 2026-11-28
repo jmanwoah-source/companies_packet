@@ -3,8 +3,8 @@ ticker: UAMY
 name: "United States Antimony Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -32.21
-quant_composite_score: 33.9
+net_score: -33.06
+quant_composite_score: 33.47
 market_cap: 330018049.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 520695f12ba7ece13d36cc29e02af74ad9e3c54b5644591ada5ab76fc36efffc
+wiki_state_hash: 52b931cd9e1f3679c9b6573cd47be25a1eb59b761f500aff414b1ee59dc4bf1c
 ---
 
 # United States Antimony Corporation (UAMY)
@@ -31,12 +31,12 @@ wiki_state_hash: 520695f12ba7ece13d36cc29e02af74ad9e3c54b5644591ada5ab76fc36efff
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -32.21 / 33.90 |
+| Net Score / Quant Composite | -33.06 / 33.47 |
 | Market Cap | $330.0M (Sweet Spot $2B-$80B: No) |
 | Price | 2.21 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.121 / 0.752 |
+| Bull / Bear Edge | 0.103 / 0.752 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 520695f12ba7ece13d36cc29e02af74ad9e3c54b5644591ada5ab76fc36efff
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (0.86%)

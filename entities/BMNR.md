@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: ddb0285a66a97877854aeddeb2b0af1ad5ccfa7ae28662a8a781846fa079f681
+wiki_state_hash: caaa0b620a497e69dcb4dd483c23fdbdf257730b6df104e3a409f55ad29af9e6
 ---
 
 # Bitmine Immersion Technologies, Inc. (BMNR)
@@ -53,5 +53,5 @@ wiki_state_hash: ddb0285a66a97877854aeddeb2b0af1ad5ccfa7ae28662a8a781846fa079f68
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-12 (days: 47, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-12 (days: 45, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.31%)

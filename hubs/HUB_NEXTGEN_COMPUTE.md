@@ -7,7 +7,7 @@ entity_count: 29
 tags:
   - hub/pillar
   - pillar/nextgen_compute
-wiki_state_hash: 04e722006a30bfff0f78ce7f4012103bcece56105c9da202dd5c96c87f63090e
+wiki_state_hash: 114be8adeda58d2d28a4633bffb39ecc10f0903303191dec3ed2a7a5dec23459
 ---
 
 # Next-Gen Compute & Quantum (HUB_NEXTGEN_COMPUTE)
@@ -16,7 +16,7 @@ wiki_state_hash: 04e722006a30bfff0f78ce7f4012103bcece56105c9da202dd5c96c87f63090
 
 | Benchmark | Price | 20d RS (%) | 20d RV | Verdict | Regime Mult | US10Y |
 |---|---|---|---|---|---|---|
-| QTUM | 116.03 | -19.35 | 0.6623 | NEUTRAL | 0.90 | 4.91 |
+| QTUM | 120.25 | -14.80 | 0.6815 | NEUTRAL | 0.90 | 4.85 |
 
 ## GOLDEN Setups
 
@@ -44,7 +44,7 @@ wiki_state_hash: 04e722006a30bfff0f78ce7f4012103bcece56105c9da202dd5c96c87f63090
 - [[LSCC]] — WATCHLIST (net -67.50, APPROVED)
 - [[MDB]] — NEUTRAL (net 30.00, BLOCKED_EARNINGS)
 - [[MKSI]] — NEUTRAL (net -50.90, APPROVED)
-- [[NBIS]] — NEUTRAL (net 8.84, APPROVED)
+- [[NBIS]] — NEUTRAL (net -4.10, APPROVED)
 - [[NET]] — MIRAGE_SHORT (net -82.27, APPROVED)
 - [[NOC]] — NEUTRAL (net -5.99, APPROVED)
 - [[NOK]] — NEUTRAL (net -15.01, APPROVED)
@@ -56,7 +56,7 @@ wiki_state_hash: 04e722006a30bfff0f78ce7f4012103bcece56105c9da202dd5c96c87f63090
 - [[RDNT]] — NEUTRAL (net -36.97, REJECTED_CONVEXITY)
 - [[RGTI]] — NEUTRAL (net -50.68, APPROVED)
 - [[RTX]] — NEUTRAL (net -51.73, APPROVED)
-- [[SNOW]] — WATCHLIST (net -66.13, APPROVED)
+- [[SNOW]] — NEUTRAL (net -30.00, BLOCKED_EARNINGS)
 - [[TSEM]] — NEUTRAL (net 9.06, REJECTED_LIQUIDITY)
 - [[WIT]] — NEUTRAL (net 6.26, REJECTED_CONVEXITY)
-- [[XNDU]] — NEUTRAL (net 28.02, REJECTED_LIQUIDITY)
+- [[XNDU]] — NEUTRAL (net 28.02, BLOCKED_EARNINGS)

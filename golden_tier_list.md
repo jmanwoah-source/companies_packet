@@ -1,7 +1,7 @@
 ---
 list_type: golden
-generated: "2026-11-28 02:20 EST"
-count: 6
+generated: "2026-11-28 02:38 EST"
+count: 5
 tags:
   - hub/tier_list
   - tier/golden
@@ -9,7 +9,7 @@ tags:
 
 # Golden Tier List — Top Call Dislocations
 
-**Generated:** 2026-11-28 02:20 EST · **Tickers:** 6
+**Generated:** 2026-11-28 02:38 EST · **Tickers:** 5
 
 | # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
 |---:|---|---|---:|---:|---|---|---|---|---|---|
@@ -18,4 +18,3 @@ tags:
 | 3 | [[ZM]] | [[HUB_AI_INFRA]] | 79.57 | 89.78 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $25.84B |
 | 4 | [[ISRG]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | 71.80 | 85.90 | APPROVED | SINGLE_LEG_45D | NORMAL | OK | No | $148.08B |
 | 5 | [[AMTM]] | [[HUB_DEFENSE]] | 70.13 | 85.07 | APPROVED | DEBIT_SPREAD_45D | NORMAL | THIN_SHORT_WING | Yes | $6.08B |
-| 6 | [[OKLO]] | [[HUB_ENERGY_MATERIALS]] | 63.59 | 81.79 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | Yes | $3.80B |

@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 1a577fa9483d059f2fced8daff571bfcf407e4978b3e9242f04bd610ab05f15e
+wiki_state_hash: 7f4cec297f37135620ec29d9e794c7441fced252b87c3d7f7dd9c90b0cafdd01
 ---
 
 # Novanta Inc. (NOVT)
@@ -53,5 +53,5 @@ wiki_state_hash: 1a577fa9483d059f2fced8daff571bfcf407e4978b3e9242f04bd610ab05f15
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.52%)

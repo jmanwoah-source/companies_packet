@@ -21,7 +21,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 73cc65690acbaabd669f3fbdb9def7b63fa207c806c1a51177e57884bbe9b1c6
+wiki_state_hash: ecc3fa3003b6de32c66fc4714ed2e813ab4f1998fec2055c43ba5a7d60bf82ef
 ---
 
 # General Dynamics Corporation (GD)
@@ -53,5 +53,5 @@ wiki_state_hash: 73cc65690acbaabd669f3fbdb9def7b63fa207c806c1a51177e57884bbe9b1c
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: SHLD (9.37%), JEDI (0.76%)

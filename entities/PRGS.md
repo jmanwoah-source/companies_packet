@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 909bcadd59cf7ecaad6b9eea6dc9b1d30c327558523f3593beb39a350d64b1f0
+wiki_state_hash: 523db5f06e35d4a9ed5da64047c558eab6997c9bd3fabca7d945d530b6217c62
 ---
 
 # Progress Software Corporation (PRGS)
@@ -52,5 +52,5 @@ wiki_state_hash: 909bcadd59cf7ecaad6b9eea6dc9b1d30c327558523f3593beb39a350d64b1f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-19 (days: 54, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-19 (days: 52, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.07%)

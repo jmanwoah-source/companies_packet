@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 0300a0c0ca8f016e798e2883b2cb50fc56fcc125fd9fe37cdc3521a2b014f9f7
+wiki_state_hash: bd31e548ea4b81dbb4a3025358062950800991b2ac4a9b489079d5dc904fa0e9
 ---
 
 # Uniti Group Inc. (UNIT)
@@ -52,5 +52,5 @@ wiki_state_hash: 0300a0c0ca8f016e798e2883b2cb50fc56fcc125fd9fe37cdc3521a2b014f9f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: DTCR (1.74%)

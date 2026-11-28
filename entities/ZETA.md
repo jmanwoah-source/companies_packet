@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 75d7e78e8ccbe40ed982fba06440dbd6c748cd705d754932f563228233e0a878
+wiki_state_hash: 0ddfc125862c1df49e0f5cda9b4a9d40688aa79bca705b69e51033bbea183047
 ---
 
 # Zeta Global Holdings Corp. (ZETA)
@@ -53,5 +53,5 @@ wiki_state_hash: 75d7e78e8ccbe40ed982fba06440dbd6c748cd705d754932f563228233e0a87
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.28%)

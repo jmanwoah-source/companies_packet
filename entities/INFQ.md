@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e1b1fff07b1510a763b62116b23f9edac626c36b1522920038b26a6bc7e0f471
+wiki_state_hash: 55a4fcb60106889e56e8bbd7969e7c7a648f4d515041d23e2d602058b6bfedc4
 ---
 
 # Infleqtion Inc (INFQ)
@@ -52,7 +52,7 @@ wiki_state_hash: e1b1fff07b1510a763b62116b23f9edac626c36b1522920038b26a6bc7e0f47
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-16 (days: -12, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.72%)
 
 ## Adversarial Red Team

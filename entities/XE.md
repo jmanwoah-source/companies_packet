@@ -3,8 +3,8 @@ ticker: XE
 name: "X-Energy, Inc. Class A Common Stock"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -38.92
-quant_composite_score: 30.54
+net_score: -39.28
+quant_composite_score: 30.36
 market_cap: 180419284.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: c87318db7ac1cbb8dca0b8a9837a04ec000c33cf0219f504d6da5ab638a515b4
+wiki_state_hash: 4c7118045761d8fd43b723a9e50d18935e263634f63233e48afc2390649f8dd3
 ---
 
 # X-Energy, Inc. Class A Common Stock (XE)
@@ -31,12 +31,12 @@ wiki_state_hash: c87318db7ac1cbb8dca0b8a9837a04ec000c33cf0219f504d6da5ab638a515b
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -38.92 / 30.54 |
+| Net Score / Quant Composite | -39.28 / 30.36 |
 | Market Cap | $180.4M (Sweet Spot $2B-$80B: No) |
 | Price | 8.22 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.054 / 0.830 |
+| Bull / Bear Edge | 0.046 / 0.830 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: c87318db7ac1cbb8dca0b8a9837a04ec000c33cf0219f504d6da5ab638a515b
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: URA (2.19%)

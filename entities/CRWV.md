@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 1c29f6dc3f2b1dc2b880020c5507a2670e96588ad7fc9f30a371cf7cca1e34de
+wiki_state_hash: f6eb5d41fdb37436a40ecfb89242b5a4859bbc5cd9353123c2a6427239d90a11
 ---
 
 # CoreWeave, Inc. Class A Common Stock (CRWV)
@@ -53,7 +53,7 @@ wiki_state_hash: 1c29f6dc3f2b1dc2b880020c5507a2670e96588ad7fc9f30a371cf7cca1e34d
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.67%)
 
 ## Adversarial Red Team

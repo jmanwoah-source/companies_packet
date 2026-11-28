@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 2f0130bc13ae5f6cff7a9cdfcbffd6f96de34e22ed6063fa473f0c83a18db906
+wiki_state_hash: 2c5511ca072d803fde243cfabf381b56bfd3b2a42f7bf393ba2cbf107644f645
 ---
 
 # Hewlett Packard Enterprise Company (HPE)
@@ -54,5 +54,5 @@ wiki_state_hash: 2f0130bc13ae5f6cff7a9cdfcbffd6f96de34e22ed6063fa473f0c83a18db90
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: DTCR (2.13%), QTUM (1.35%)

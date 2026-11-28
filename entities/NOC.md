@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 8f3579f51530f071b1319c773751dfb804aa2c0d5a7788fe8392b3b21fcccb77
+wiki_state_hash: 7681134f8dbf54a1292dd8ec5ae00a5d42eb7a60e325841137ae24303dc2f4a0
 ---
 
 # Northrop Grumman Corporation (NOC)
@@ -54,5 +54,5 @@ wiki_state_hash: 8f3579f51530f071b1319c773751dfb804aa2c0d5a7788fe8392b3b21fcccb7
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-26 (days: 59, tag: CLEAN_WINDOW)
 - Constituent ETFs: SHLD (8.94%), QTUM (1.55%)

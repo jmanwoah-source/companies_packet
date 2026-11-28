@@ -2,12 +2,12 @@
 ticker: SNOW
 name: "Snowflake Inc."
 pillar: NEXTGEN_COMPUTE
-tier: WATCHLIST
-net_score: -66.13
-quant_composite_score: 16.93
+tier: NEUTRAL
+net_score: -30.0
+quant_composite_score: 35.0
 market_cap: 94451616000.0
 execution_sweet_spot: false
-options_gate: "APPROVED"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: "NORMAL"
@@ -18,10 +18,10 @@ tags:
   - pillar/nextgen_compute
   - etf/qtum
   - mcap/mega_corridor
-  - tier/watchlist
-  - gate/approved
+  - tier/neutral
+  - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 5bdabb3cae8ef014a1817517bb2fd49b8f3a5c5f3ba4e9f693fc2e9ec1a41bdc
+wiki_state_hash: 4c239a3d42e7dc025e245e467a598f58787ab95dbefc7ceddae4b87d0b329e41
 ---
 
 # Snowflake Inc. (SNOW)
@@ -31,13 +31,13 @@ wiki_state_hash: 5bdabb3cae8ef014a1817517bb2fd49b8f3a5c5f3ba4e9f693fc2e9ec1a41bd
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
-| Tier | WATCHLIST |
-| Net Score / Quant Composite | -66.13 / 16.93 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | -30.00 / 35.00 |
 | Market Cap | $94.45B (Sweet Spot $2B-$80B: No) |
 | Price | 267.72 |
-| Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.193 / 0.869 |
+| Bull / Bear Edge | 0.132 / 0.869 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 5bdabb3cae8ef014a1817517bb2fd49b8f3a5c5f3ba4e9f693fc2e9ec1a41bd
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-02 (days: 6, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-02 (days: 4, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: QTUM (1.68%)

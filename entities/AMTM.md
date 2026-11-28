@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 6edc4fd2ab3042555d9a63aebaa458a3a5f1896165a25e0180071a86fd4b9507
+wiki_state_hash: e84323ffb4976dcf8accee2d61500831b7826375b69fa87bea557509656539b7
 ---
 
 # Amentum Holdings, Inc. (AMTM)
@@ -53,7 +53,7 @@ wiki_state_hash: 6edc4fd2ab3042555d9a63aebaa458a3a5f1896165a25e0180071a86fd4b950
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: SHLD (0.82%)
 
 ## Adversarial Red Team

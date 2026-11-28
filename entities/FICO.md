@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: a775e2c26d3cdaee4dde4145bc150152bfd85bcd07404f760066410e5d9a2f18
+wiki_state_hash: 57f2c4b6cd5b57c2ba9dbd946afad90fdf9b7ff415a224d403ecb50503dcd734
 ---
 
 # Fair Isaac Corporation (FICO)
@@ -53,5 +53,5 @@ wiki_state_hash: a775e2c26d3cdaee4dde4145bc150152bfd85bcd07404f760066410e5d9a2f1
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.58%)

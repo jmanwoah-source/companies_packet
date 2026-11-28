@@ -3,11 +3,11 @@ ticker: CRM
 name: "Salesforce, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -6.49
-quant_composite_score: 46.75
+net_score: -14.86
+quant_composite_score: 42.57
 market_cap: 162303830000.0
 execution_sweet_spot: false
-options_gate: "APPROVED"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
 structure_hint: "DEBIT_SPREAD_45D"
 liquidity_tier: "TIGHT"
@@ -19,9 +19,9 @@ tags:
   - etf/igv
   - mcap/mega_corridor
   - tier/neutral
-  - gate/approved
+  - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: 3486d557dd494705c6dfaf23f6e075d6a97f6b873396af9ea9c4ea6cc87589d1
+wiki_state_hash: f72ced755cfa7aa7ded723281e671cddde97744060b7170f6cf2532a1454283c
 ---
 
 # Salesforce, Inc. (CRM)
@@ -32,12 +32,12 @@ wiki_state_hash: 3486d557dd494705c6dfaf23f6e075d6a97f6b873396af9ea9c4ea6cc87589d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -6.49 / 46.75 |
+| Net Score / Quant Composite | -14.86 / 42.57 |
 | Market Cap | $162.30B (Sweet Spot $2B-$80B: No) |
 | Price | 197.21 |
-| Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.498 / 0.553 |
+| Bull / Bear Edge | 0.426 / 0.553 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 3486d557dd494705c6dfaf23f6e075d6a97f6b873396af9ea9c4ea6cc87589d
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-02 (days: 6, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-02 (days: 4, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (3.87%)

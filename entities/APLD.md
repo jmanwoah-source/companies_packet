@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: deed331ffb103cb79ad50e66e1e7a58c97dc8a69f32562ddc92ac01423fc929b
+wiki_state_hash: e4bcecaa8247898b2b99414729b32b664adf77aaf566741357665f4f31cd6efe
 ---
 
 # Applied Digital Corp. (APLD)
@@ -53,7 +53,7 @@ wiki_state_hash: deed331ffb103cb79ad50e66e1e7a58c97dc8a69f32562ddc92ac01423fc929
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-06 (days: 41, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-06 (days: 39, tag: CLEAN_WINDOW)
 - Constituent ETFs: DTCR (2.35%)
 
 ## Adversarial Red Team

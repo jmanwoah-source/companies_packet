@@ -2,9 +2,9 @@
 ticker: OKLO
 name: "Oklo Inc."
 pillar: ENERGY_MATERIALS
-tier: GOLDEN
-net_score: 63.59
-quant_composite_score: 81.79
+tier: EMERGING_EDGE
+net_score: 53.52
+quant_composite_score: 76.76
 market_cap: 3802288376.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -19,10 +19,10 @@ tags:
   - etf/ura
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/golden
+  - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 5794cc3f87abb967cdee9aa0b87b28081215cbf9022880b7a6980176fa4ec49b
+wiki_state_hash: 6b77f58c9241c3ca60577260d4164bf3373126ac92a273451595074ed92ffd8b
 ---
 
 # Oklo Inc. (OKLO)
@@ -32,13 +32,13 @@ wiki_state_hash: 5794cc3f87abb967cdee9aa0b87b28081215cbf9022880b7a6980176fa4ec49
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | GOLDEN |
-| Net Score / Quant Composite | 63.59 / 81.79 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 53.52 / 76.76 |
 | Market Cap | $3.80B (Sweet Spot $2B-$80B: Yes) |
 | Price | 19.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.872 / 0.233 |
+| Bull / Bear Edge | 0.741 / 0.233 |
 
 ## 45-DTE Options Surface
 
@@ -53,7 +53,7 @@ wiki_state_hash: 5794cc3f87abb967cdee9aa0b87b28081215cbf9022880b7a6980176fa4ec49
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-06 (days: -20, tag: CLEAN_WINDOW)
+- Earnings: None scheduled in window
 - Constituent ETFs: URA (4.39%)
 
 ## Adversarial Red Team

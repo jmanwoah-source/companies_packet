@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: de64e5944a0236abfa2bb18664c4e35384ffc4dbc0ec99fed1d938bb5e934457
+wiki_state_hash: a2de218f309a924f8a687f0332a570cab0f9c0a1f0ea874ee9abfe3c3e77f0b8
 ---
 
 # Marvell Technology, Inc. (MRVL)
@@ -54,5 +54,5 @@ wiki_state_hash: de64e5944a0236abfa2bb18664c4e35384ffc4dbc0ec99fed1d938bb5e93445
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: SMH (3.19%), DTCR (1.57%), QTUM (0.78%)

@@ -3,8 +3,8 @@ ticker: SLI
 name: "Standard Lithium Ltd."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 24.59
-quant_composite_score: 62.3
+net_score: 19.83
+quant_composite_score: 59.92
 market_cap: 254187520.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 4dd0ba8d1aa6aaa67fe5a65b09ea21e331c2b672a950cd00fb2343dcec2816d1
+wiki_state_hash: 7ab2f82eb8a8dd783f0dc35315dad83501d7bf4cdd10edaa04d4e6ecfbb11c62
 ---
 
 # Standard Lithium Ltd. (SLI)
@@ -31,12 +31,12 @@ wiki_state_hash: 4dd0ba8d1aa6aaa67fe5a65b09ea21e331c2b672a950cd00fb2343dcec2816d
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 24.59 / 62.30 |
+| Net Score / Quant Composite | 19.83 / 59.92 |
 | Market Cap | $254.2M (Sweet Spot $2B-$80B: No) |
 | Price | 1.03 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.631 / 0.157 |
+| Bull / Bear Edge | 0.536 / 0.157 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 4dd0ba8d1aa6aaa67fe5a65b09ea21e331c2b672a950cd00fb2343dcec2816d
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (0.75%)

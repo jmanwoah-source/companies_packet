@@ -3,8 +3,8 @@ ticker: SQM
 name: "Sociedad Química y Minera de Chile S.A."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -4.14
-quant_composite_score: 47.93
+net_score: -7.12
+quant_composite_score: 46.44
 market_cap: 13664913404.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 83f841a983f5261933117535c79dfc39565bbf30e36ba2929721a00d6397364c
+wiki_state_hash: 253e37b23e48dfb74efe1863563d7d35aca1ea3ab5049138ffc159457f522976
 ---
 
 # Sociedad Química y Minera de Chile S.A. (SQM)
@@ -32,12 +32,12 @@ wiki_state_hash: 83f841a983f5261933117535c79dfc39565bbf30e36ba2929721a00d6397364
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -4.14 / 47.93 |
+| Net Score / Quant Composite | -7.12 / 46.44 |
 | Market Cap | $13.66B (Sweet Spot $2B-$80B: Yes) |
 | Price | 47.84 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.376 / 0.454 |
+| Bull / Bear Edge | 0.319 / 0.454 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 83f841a983f5261933117535c79dfc39565bbf30e36ba2929721a00d6397364
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-17 (days: -9, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-17 (days: -11, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (8.76%)

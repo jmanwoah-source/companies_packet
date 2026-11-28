@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: b7fc748eb52c373ba3d890759a1ec095bd7ac714a4b20fc49a21d01fc947b530
+wiki_state_hash: d997a006b03f9a2b7a57d14cd0c60bd45d95f4fd2bafcfc4106d09eb783e0211
 ---
 
 # Alibaba Group Holding Limited (BABA)
@@ -52,5 +52,5 @@ wiki_state_hash: b7fc748eb52c373ba3d890759a1ec095bd7ac714a4b20fc49a21d01fc947b53
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-19 (days: -7, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-19 (days: -9, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (1.13%)

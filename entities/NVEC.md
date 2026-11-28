@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 157b8dfa0ea3b6652f1d6d14066b6a26de9d37f7dc9589f082f438c44cf5a87a
+wiki_state_hash: 918e3fe43aa8e57a0e3d29c7e06b00e12d7f2e676f741f3312363c4121fc3fa7
 ---
 
 # NVE Corporation (NVEC)
@@ -52,5 +52,5 @@ wiki_state_hash: 157b8dfa0ea3b6652f1d6d14066b6a26de9d37f7dc9589f082f438c44cf5a87
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-20 (days: 55, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-20 (days: 53, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (1.07%)

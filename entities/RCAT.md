@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 5ae2e956a5e5be8d20fe2f0a60065abcb69937f18b7b33e242eb5b13b6a63a22
+wiki_state_hash: 41ea5368f4f6727ee5c79612d6790dd826ec8d5faa521595bea77a1b524cb154
 ---
 
 # Red Cat Holdings, Inc. (RCAT)
@@ -53,7 +53,7 @@ wiki_state_hash: 5ae2e956a5e5be8d20fe2f0a60065abcb69937f18b7b33e242eb5b13b6a63a2
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-16 (days: -10, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-16 (days: -12, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.77%), SHLD (0.04%)
 
 ## Adversarial Red Team

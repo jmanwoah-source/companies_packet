@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 92697160b4ca2a2a25530533cb753a6a675d9505e5a127a0d1c4b82da90f8fac
+wiki_state_hash: 647842b6848c21d0b1bcf8970b64e2901ca1bcdb59ce5283c5f041e965ab1767
 ---
 
 # Palladyne AI Corp. (PDYN)
@@ -52,5 +52,5 @@ wiki_state_hash: 92697160b4ca2a2a25530533cb753a6a675d9505e5a127a0d1c4b82da90f8fa
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.63%)

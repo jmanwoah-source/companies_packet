@@ -3,11 +3,11 @@ ticker: GWRE
 name: "Guidewire Software, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 3.0
-quant_composite_score: 51.5
+net_score: -0.24
+quant_composite_score: 49.88
 market_cap: 12268253522.0
 execution_sweet_spot: true
-options_gate: "REJECTED_CONVEXITY"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
 structure_hint: "SINGLE_LEG_45D"
 liquidity_tier: "TIGHT"
@@ -20,9 +20,9 @@ tags:
   - mcap/large
   - mcap/sweet_spot_2b_80b
   - tier/neutral
-  - gate/rejected_convexity
+  - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: d137051f2acf5dfad64acbab4773bcfcbc077397e8d39da08c03be7083995599
+wiki_state_hash: 776986250ee91af7d7d38ccae98051936bc43f1c8832e4d1cf9164dd454f4e34
 ---
 
 # Guidewire Software, Inc. (GWRE)
@@ -33,12 +33,12 @@ wiki_state_hash: d137051f2acf5dfad64acbab4773bcfcbc077397e8d39da08c03be708399559
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 3.00 / 51.50 |
+| Net Score / Quant Composite | -0.24 / 49.88 |
 | Market Cap | $12.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 148.47 |
-| Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / UNKNOWN |
-| Bull / Bear Edge | 0.471 / 0.414 |
+| Bull / Bear Edge | 0.410 / 0.414 |
 
 ## 45-DTE Options Surface
 
@@ -54,5 +54,5 @@ wiki_state_hash: d137051f2acf5dfad64acbab4773bcfcbc077397e8d39da08c03be708399559
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.48%)

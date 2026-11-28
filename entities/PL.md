@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: a237b2b6d3ffd4d3602db397e7abc7b91552b99faf51e13ab818b5cc9ccbec97
+wiki_state_hash: c2234fe14ae7bcf28b526f4a39126f96bf90d9fd24bcf5907554d25b7327d176
 ---
 
 # Planet Labs PBC (PL)
@@ -54,5 +54,5 @@ wiki_state_hash: a237b2b6d3ffd4d3602db397e7abc7b91552b99faf51e13ab818b5cc9ccbec9
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-10 (days: 14, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-10 (days: 12, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: JEDI (3.01%), SHLD (0.48%)

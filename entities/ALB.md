@@ -2,9 +2,9 @@
 ticker: ALB
 name: "Albemarle Corporation"
 pillar: ENERGY_MATERIALS
-tier: NEUTRAL
-net_score: -58.62
-quant_composite_score: 20.69
+tier: WATCHLIST
+net_score: -61.12
+quant_composite_score: 19.44
 market_cap: 9617802694.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -19,10 +19,10 @@ tags:
   - etf/remx
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 7a673a040a6acc705f26db0bbba1677c68a7f49d25def07ee33dbd4201724869
+wiki_state_hash: c77582de5586db845bbfb056e8a26f4f554cb01700035b996c38cc664c3bdd36
 ---
 
 # Albemarle Corporation (ALB)
@@ -32,13 +32,13 @@ wiki_state_hash: 7a673a040a6acc705f26db0bbba1677c68a7f49d25def07ee33dbd420172486
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | -58.62 / 20.69 |
+| Tier | WATCHLIST |
+| Net Score / Quant Composite | -61.12 / 19.44 |
 | Market Cap | $9.62B (Sweet Spot $2B-$80B: Yes) |
 | Price | 81.50 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / OK |
-| Bull / Bear Edge | 0.221 / 0.792 |
+| Bull / Bear Edge | 0.188 / 0.792 |
 
 ## 45-DTE Options Surface
 

@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 1748e81cfbb42468b6fe561587b1f7481f53b9f5d4df90832259d8a2537ffff9
+wiki_state_hash: bab9c3f15b24ac75136023ed9b7e00c6105211532bd0b8172edfdeea0ed83d14
 ---
 
 # Mercury Systems, Inc. (MRCY)
@@ -54,5 +54,5 @@ wiki_state_hash: 1748e81cfbb42468b6fe561587b1f7481f53b9f5d4df90832259d8a2537ffff
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (1.60%), SHLD (0.71%)

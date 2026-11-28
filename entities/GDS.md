@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 71cbe81cccf234f24325523da5a535fba99f13d892750d2cb17adb92927f015d
+wiki_state_hash: 5cab836804c0e17e1a758c5a97dca4dae358c36e73ba9c9533b14e25058ceb5a
 ---
 
 # GDS Holdings Limited (GDS)
@@ -53,5 +53,5 @@ wiki_state_hash: 71cbe81cccf234f24325523da5a535fba99f13d892750d2cb17adb92927f015
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-25 (days: -1, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-25 (days: -3, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: DTCR (2.30%)

@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: d6c8b3074e2d4396721bd13d9d1aba9a09e096bd534c382ef458b354dc6c879f
+wiki_state_hash: 5010dd1f02d5ee5c82fd73555c0141bd049a2da84b310989461584c7141c22f9
 ---
 
 # Onto Innovation Inc. (ONTO)
@@ -54,7 +54,7 @@ wiki_state_hash: d6c8b3074e2d4396721bd13d9d1aba9a09e096bd534c382ef458b354dc6c879
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (0.96%)
 
 ## Adversarial Red Team

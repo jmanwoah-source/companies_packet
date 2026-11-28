@@ -3,8 +3,8 @@ ticker: ALM
 name: "Almonty Industries Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 9.92
-quant_composite_score: 54.96
+net_score: 1.47
+quant_composite_score: 50.73
 market_cap: 1923770760.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/normal
-wiki_state_hash: cd9822179a2f89cf61e0a96f9170839d25caa16fdb6198090ba5721c7f802aec
+wiki_state_hash: e49e381c337bf43c5068a3e6a7d3f82597b10f3f2c5bec3d5962d5dd6024dcee
 ---
 
 # Almonty Industries Inc. (ALM)
@@ -32,12 +32,12 @@ wiki_state_hash: cd9822179a2f89cf61e0a96f9170839d25caa16fdb6198090ba5721c7f802ae
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.92 / 54.96 |
+| Net Score / Quant Composite | 1.47 / 50.73 |
 | Market Cap | $1.92B (Sweet Spot $2B-$80B: No) |
 | Price | 6.78 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / UNKNOWN |
-| Bull / Bear Edge | 0.548 / 0.360 |
+| Bull / Bear Edge | 0.388 / 0.360 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: cd9822179a2f89cf61e0a96f9170839d25caa16fdb6198090ba5721c7f802ae
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-13 (days: -13, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (3.19%)

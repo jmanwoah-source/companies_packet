@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 050892f6b5796bf26f93a774e52fdc5ddab9ee468192735e30e49521ed38c39c
+wiki_state_hash: e00e1a00c12d21a9df64f8cdbbd8f20cee58fa1f6995af7ffbebb3225137643a
 ---
 
 # CrowdStrike Holdings, Inc. (CRWD)
@@ -52,5 +52,5 @@ wiki_state_hash: 050892f6b5796bf26f93a774e52fdc5ddab9ee468192735e30e49521ed38c39
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (7.78%)

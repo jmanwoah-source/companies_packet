@@ -3,8 +3,8 @@ ticker: FLNC
 name: "Fluence Energy, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -41.51
-quant_composite_score: 29.25
+net_score: -41.68
+quant_composite_score: 29.16
 market_cap: 948537506.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: c16ac0d4c6700f6a50228e897dbe1859159d52854432cd98f2fa9256932d6156
+wiki_state_hash: a2238266f018f9721407e576d2a403a1ba632a668d6113e80fbac6758f476f15
 ---
 
 # Fluence Energy, Inc. (FLNC)
@@ -31,12 +31,12 @@ wiki_state_hash: c16ac0d4c6700f6a50228e897dbe1859159d52854432cd98f2fa9256932d615
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -41.51 / 29.25 |
+| Net Score / Quant Composite | -41.68 / 29.16 |
 | Market Cap | $948.5M (Sweet Spot $2B-$80B: No) |
 | Price | 4.72 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.027 / 0.861 |
+| Bull / Bear Edge | 0.023 / 0.861 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: c16ac0d4c6700f6a50228e897dbe1859159d52854432cd98f2fa9256932d615
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-23 (days: -5, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.06%)

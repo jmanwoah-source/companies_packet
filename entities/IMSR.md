@@ -3,8 +3,8 @@ ticker: IMSR
 name: "Terrestrial Energy Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 33.05
-quant_composite_score: 66.53
+net_score: 27.93
+quant_composite_score: 63.96
 market_cap: 238473900.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 88131d41fc72bb99204ccf6b23a83beef1b2f96478f6aedffa9b0c964e70bfd0
+wiki_state_hash: d074cc60ff59e24e927596e6a8a8bc225839f536c5de6bda520bb34bdf5ed205
 ---
 
 # Terrestrial Energy Inc. (IMSR)
@@ -31,12 +31,12 @@ wiki_state_hash: 88131d41fc72bb99204ccf6b23a83beef1b2f96478f6aedffa9b0c964e70bfd
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 33.05 / 66.53 |
+| Net Score / Quant Composite | 27.93 / 63.96 |
 | Market Cap | $238.5M (Sweet Spot $2B-$80B: No) |
 | Price | 2.25 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.711 / 0.063 |
+| Bull / Bear Edge | 0.605 / 0.063 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 88131d41fc72bb99204ccf6b23a83beef1b2f96478f6aedffa9b0c964e70bfd
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: URA (0.23%)

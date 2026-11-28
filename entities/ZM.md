@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 79d5e0343aad4862566a7e0e5975470d7f073733c52af86946daf01084ea6cf7
+wiki_state_hash: 8c6b3020b0d2da2e9bf07198dc52372a3f66ad9fec8bb4494f25af92b08cab37
 ---
 
 # Zoom Communications, Inc. (ZM)
@@ -53,7 +53,7 @@ wiki_state_hash: 79d5e0343aad4862566a7e0e5975470d7f073733c52af86946daf01084ea6cf
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (0.90%)
 
 ## Adversarial Red Team

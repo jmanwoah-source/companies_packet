@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 40891f36a4a2ee0756fd8e3dd8760096e2d83fe02940660dd251e2013c205244
+wiki_state_hash: b08af63648dca75978671bd34d77ca8f3218217190f0fb15f8681e84f032fd0c
 ---
 
 # Rocket Lab USA, Inc. (RKLB)
@@ -53,5 +53,5 @@ wiki_state_hash: 40891f36a4a2ee0756fd8e3dd8760096e2d83fe02940660dd251e2013c20524
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (4.16%)

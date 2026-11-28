@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: c0ae1f0f5e444c1615a3b40a4bc9cf88b28c7ca6ce0aefa620106e59cc76101d
+wiki_state_hash: 4b02fbd16ad6e09b7256edae0e3ea7bcf0493fe2169a3ad9f2d2a31a0623ddbe
 ---
 
 # Symbotic Inc. (SYM)
@@ -53,5 +53,5 @@ wiki_state_hash: c0ae1f0f5e444c1615a3b40a4bc9cf88b28c7ca6ce0aefa620106e59cc76101
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-23 (days: -3, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-23 (days: -5, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: ROBO (1.60%)

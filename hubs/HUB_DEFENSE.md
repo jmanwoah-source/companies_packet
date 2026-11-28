@@ -7,7 +7,7 @@ entity_count: 32
 tags:
   - hub/pillar
   - pillar/defense
-wiki_state_hash: 41c21206dae805dc9b9c4e897ac27d8c0d31a9341410b3e8e23b531f46dc75f1
+wiki_state_hash: a115318db6e16090d3f1182eb5c48851bded903c7f1f42f23af7701924b87fb0
 ---
 
 # Defense & Aerospace (HUB_DEFENSE)
@@ -16,7 +16,7 @@ wiki_state_hash: 41c21206dae805dc9b9c4e897ac27d8c0d31a9341410b3e8e23b531f46dc75f
 
 | Benchmark | Price | 20d RS (%) | 20d RV | Verdict | Regime Mult | US10Y |
 |---|---|---|---|---|---|---|
-| SHLD | 58.59 | -7.43 | 0.3693 | NEUTRAL | 0.90 | 4.91 |
+| SHLD | 60.20 | -7.37 | 0.3700 | NEUTRAL | 0.90 | 4.85 |
 
 ## GOLDEN Setups
 
@@ -30,12 +30,12 @@ wiki_state_hash: 41c21206dae805dc9b9c4e897ac27d8c0d31a9341410b3e8e23b531f46dc75f
 | Ticker | Net Score | Gate | Liquidity | Sweet Spot |
 |---|---|---|---|---|
 | [[RCAT]] | -84.90 | APPROVED | TIGHT | No |
-| [[LUNR]] | -69.55 | APPROVED | THIN_RISK | No |
+| [[LUNR]] | -76.61 | APPROVED | THIN_RISK | No |
 
 ## All Entities (32)
 
 - [[ACHR]] — NEUTRAL (net 20.98, REJECTED_CONVEXITY)
-- [[AIRO]] — NEUTRAL (net 12.39, REJECTED_CONVEXITY)
+- [[AIRO]] — NEUTRAL (net 7.58, REJECTED_CONVEXITY)
 - [[AMTM]] — GOLDEN (net 70.13, APPROVED)
 - [[AVAV]] — NEUTRAL (net -56.91, APPROVED)
 - [[BBAI]] — NEUTRAL (net -14.25, REJECTED_CONVEXITY)
@@ -51,7 +51,7 @@ wiki_state_hash: 41c21206dae805dc9b9c4e897ac27d8c0d31a9341410b3e8e23b531f46dc75f
 - [[KTOS]] — EMERGING_EDGE (net 47.29, APPROVED)
 - [[LDOS]] — EMERGING_EDGE (net 36.06, REJECTED_LIQUIDITY)
 - [[LHX]] — NEUTRAL (net 4.85, REJECTED_LIQUIDITY)
-- [[LUNR]] — MIRAGE_SHORT (net -69.55, APPROVED)
+- [[LUNR]] — MIRAGE_SHORT (net -76.61, APPROVED)
 - [[MRCY]] — NEUTRAL (net -6.11, REJECTED_LIQUIDITY)
 - [[OSIS]] — NEUTRAL (net 18.35, REJECTED_LIQUIDITY)
 - [[PDYN]] — NEUTRAL (net -22.20, REJECTED_LIQUIDITY)
@@ -60,7 +60,7 @@ wiki_state_hash: 41c21206dae805dc9b9c4e897ac27d8c0d31a9341410b3e8e23b531f46dc75f
 - [[RCAT]] — MIRAGE_SHORT (net -84.90, APPROVED)
 - [[RDW]] — NEUTRAL (net -27.34, REJECTED_LIQUIDITY)
 - [[RKLB]] — NEUTRAL (net 0.90, APPROVED)
-- [[SAIC]] — NEUTRAL (net 31.65, REJECTED_LIQUIDITY)
+- [[SAIC]] — NEUTRAL (net 28.70, BLOCKED_EARNINGS)
 - [[SPIR]] — NEUTRAL (net -39.08, REJECTED_LIQUIDITY)
 - [[SWMR]] — NEUTRAL (net -37.15, REJECTED_CONVEXITY)
 - [[TLS]] — NEUTRAL (net -16.92, REJECTED_LIQUIDITY)

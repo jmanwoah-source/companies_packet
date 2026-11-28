@@ -3,8 +3,8 @@ ticker: OCTV
 name: "Octave Intelligence plc"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: EMERGING_EDGE
-net_score: 39.16
-quant_composite_score: 69.58
+net_score: 34.97
+quant_composite_score: 67.48
 market_cap: 6053272007.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: e53fb1e5b0a1ba9e368d2b0f3da2436351338d00e384377b05e5e0e8f37327e0
+wiki_state_hash: f8c0fcbadad51db2a41a45460cb9b22393e7ed6dd822b7bd738cf9e8abc3f809
 ---
 
 # Octave Intelligence plc (OCTV)
@@ -33,12 +33,12 @@ wiki_state_hash: e53fb1e5b0a1ba9e368d2b0f3da2436351338d00e384377b05e5e0e8f37327e
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 39.16 / 69.58 |
+| Net Score / Quant Composite | 34.97 / 67.48 |
 | Market Cap | $6.05B (Sweet Spot $2B-$80B: Yes) |
 | Price | 22.55 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.822 / 0.041 |
+| Bull / Bear Edge | 0.730 / 0.041 |
 
 ## 45-DTE Options Surface
 
@@ -54,5 +54,5 @@ wiki_state_hash: e53fb1e5b0a1ba9e368d2b0f3da2436351338d00e384377b05e5e0e8f37327e
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-11 (days: -15, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-11 (days: -17, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.52%)

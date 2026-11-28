@@ -3,8 +3,8 @@ ticker: AMAT
 name: "Applied Materials, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: EMERGING_EDGE
-net_score: 54.81
-quant_composite_score: 77.4
+net_score: 49.3
+quant_composite_score: 74.65
 market_cap: 246951652313.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: e39913bebd2cde42ee3c4751d77a7d387c32cd3b8cd1baff345470af357d3fe6
+wiki_state_hash: 5012b61c6b1b115455bf843dc423ce164cf1b37351b31f2ba62a95ed2bf53477
 ---
 
 # Applied Materials, Inc. (AMAT)
@@ -33,12 +33,12 @@ wiki_state_hash: e39913bebd2cde42ee3c4751d77a7d387c32cd3b8cd1baff345470af357d3fe
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 54.81 / 77.40 |
+| Net Score / Quant Composite | 49.30 / 74.65 |
 | Market Cap | $246.95B (Sweet Spot $2B-$80B: No) |
 | Price | 311.18 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.570 / 0.047 |
+| Bull / Bear Edge | 0.506 / 0.047 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: e39913bebd2cde42ee3c4751d77a7d387c32cd3b8cd1baff345470af357d3fe
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: SMH (4.07%), QTUM (0.95%)

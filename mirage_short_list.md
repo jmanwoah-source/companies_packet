@@ -1,6 +1,6 @@
 ---
 list_type: mirage_short
-generated: "2026-11-28 02:20 EST"
+generated: "2026-11-28 02:38 EST"
 count: 12
 tags:
   - hub/tier_list
@@ -9,7 +9,7 @@ tags:
 
 # Mirage Short List — Top Put Breakdowns
 
-**Generated:** 2026-11-28 02:20 EST · **Tickers:** 12
+**Generated:** 2026-11-28 02:38 EST · **Tickers:** 12
 
 | # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
 |---:|---|---|---:|---:|---|---|---|---|---|---|
@@ -22,6 +22,6 @@ tags:
 | 7 | [[RCAT]] | [[HUB_DEFENSE]] | -84.90 | 7.55 | APPROVED | DEBIT_SPREAD_45D | TIGHT | THIN_SHORT_WING | No | $269.2M |
 | 8 | [[NXPI]] | [[HUB_SEMI_SUBSYSTEMS]] | -84.32 | 7.84 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $61.24B |
 | 9 | [[NET]] | [[HUB_NEXTGEN_COMPUTE]] | -82.27 | 8.87 | APPROVED | SINGLE_LEG_45D | NORMAL | OK | No | $101.54B |
-| 10 | [[SEDG]] | [[HUB_ENERGY_MATERIALS]] | -72.17 | 13.91 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.22B |
-| 11 | [[MP]] | [[HUB_ENERGY_MATERIALS]] | -71.69 | 14.16 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $6.29B |
-| 12 | [[LUNR]] | [[HUB_DEFENSE]] | -69.55 | 15.23 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.99B |
+| 10 | [[LUNR]] | [[HUB_DEFENSE]] | -76.61 | 11.69 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.99B |
+| 11 | [[MP]] | [[HUB_ENERGY_MATERIALS]] | -73.43 | 13.29 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $6.29B |
+| 12 | [[SEDG]] | [[HUB_ENERGY_MATERIALS]] | -73.39 | 13.31 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.22B |

@@ -3,8 +3,8 @@ ticker: DGII
 name: "Digi International Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 24.82
-quant_composite_score: 62.41
+net_score: 15.66
+quant_composite_score: 57.83
 market_cap: 2022633730.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 6991e0f26f90441db6944bf78061efd8ecad956f762ef2bf4124db24975af353
+wiki_state_hash: ec3d07fb6011ca4c3ecb46ae24c7c184a328c3270cb578515249e0a1b824facc
 ---
 
 # Digi International Inc. (DGII)
@@ -32,12 +32,12 @@ wiki_state_hash: 6991e0f26f90441db6944bf78061efd8ecad956f762ef2bf4124db24975af35
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 24.82 / 62.41 |
+| Net Score / Quant Composite | 15.66 / 57.83 |
 | Market Cap | $2.02B (Sweet Spot $2B-$80B: Yes) |
 | Price | 53.30 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.682 / 0.204 |
+| Bull / Bear Edge | 0.502 / 0.204 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: 6991e0f26f90441db6944bf78061efd8ecad956f762ef2bf4124db24975af35
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-11 (days: -15, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-11 (days: -17, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.01%)

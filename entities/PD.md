@@ -3,11 +3,11 @@ ticker: PD
 name: "PagerDuty, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -14.14
-quant_composite_score: 42.93
+net_score: -17.3
+quant_composite_score: 41.35
 market_cap: 1189972987.0
 execution_sweet_spot: false
-options_gate: "REJECTED_CONVEXITY"
+options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
 structure_hint: "SINGLE_LEG_45D"
 liquidity_tier: null
@@ -19,8 +19,8 @@ tags:
   - etf/igv
   - mcap/small
   - tier/neutral
-  - gate/rejected_convexity
-wiki_state_hash: 452e117f41ebff6b47bbe3fc3d7c854dcee0e36d37c305998f31482e3f6b76fc
+  - gate/blocked_earnings
+wiki_state_hash: b18c32e5203df8a427274734597651c0000092dbd55d2f91e2f1fbc6c7601658
 ---
 
 # PagerDuty, Inc. (PD)
@@ -31,12 +31,12 @@ wiki_state_hash: 452e117f41ebff6b47bbe3fc3d7c854dcee0e36d37c305998f31482e3f6b76f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.14 / 42.93 |
+| Net Score / Quant Composite | -17.30 / 41.35 |
 | Market Cap | $1.19B (Sweet Spot $2B-$80B: No) |
 | Price | 15.13 |
-| Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
+| Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.321 / 0.590 |
+| Bull / Bear Edge | 0.260 / 0.590 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 452e117f41ebff6b47bbe3fc3d7c854dcee0e36d37c305998f31482e3f6b76f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-03 (days: 7, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-03 (days: 5, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.05%)

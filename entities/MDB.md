@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: d52b6920bd482fb512794a31d8b376a4f5d801a5dd5813e572b8b0ebbb06c324
+wiki_state_hash: 406aa83d2e4678b650dfcc285e8ab4d02ddef16950f47e9d1e68d2465ea79ce7
 ---
 
 # MongoDB, Inc. (MDB)
@@ -53,5 +53,5 @@ wiki_state_hash: d52b6920bd482fb512794a31d8b376a4f5d801a5dd5813e572b8b0ebbb06c32
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: QTUM (1.36%)

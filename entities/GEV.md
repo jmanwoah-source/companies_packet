@@ -3,8 +3,8 @@ ticker: GEV
 name: "GE Vernova Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -23.62
-quant_composite_score: 38.19
+net_score: -31.43
+quant_composite_score: 34.29
 market_cap: 189244102190.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: b5906b7c07e9b7fa2bbc73da210d9e6fea7bd238cbd355489788d98431b1dba9
+wiki_state_hash: 601ce7a5f02dbb5c02cbeaac229bb09484bc0eabd9fdb4c1ee8512b3f09da0dd
 ---
 
 # GE Vernova Inc. (GEV)
@@ -32,12 +32,12 @@ wiki_state_hash: b5906b7c07e9b7fa2bbc73da210d9e6fea7bd238cbd355489788d98431b1dba
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.62 / 38.19 |
+| Net Score / Quant Composite | -31.43 / 34.29 |
 | Market Cap | $189.24B (Sweet Spot $2B-$80B: No) |
 | Price | 715.00 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.479 / 0.684 |
+| Bull / Bear Edge | 0.407 / 0.684 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: b5906b7c07e9b7fa2bbc73da210d9e6fea7bd238cbd355489788d98431b1dba
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.91%)

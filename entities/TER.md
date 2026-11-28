@@ -23,7 +23,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 19f5d3f7abb8993459c58c3bc16fbfd7d77f8b897f40793f15f814f7b60788f5
+wiki_state_hash: 41ebfd130c455f555856632384f905bcb33a22984e7d418674493ee1a52769f9
 ---
 
 # Teradyne, Inc. (TER)
@@ -55,5 +55,5 @@ wiki_state_hash: 19f5d3f7abb8993459c58c3bc16fbfd7d77f8b897f40793f15f814f7b60788f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: ROBO (1.13%), SMH (0.96%), QTUM (0.92%)

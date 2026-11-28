@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 96bebe2e9ae0a8f34183fca310a8ab6a2645c664719e15c026d357ca5bf7ae71
+wiki_state_hash: 9b5f12f8e8f901931f474395af59e28365b2615e9f6fd443f59c76c233b1b492
 ---
 
 # GitLab Inc. (GTLB)
@@ -53,5 +53,5 @@ wiki_state_hash: 96bebe2e9ae0a8f34183fca310a8ab6a2645c664719e15c026d357ca5bf7ae7
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.26%)

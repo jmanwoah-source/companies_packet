@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 824f831d06230dfd66ecd528f08f76a973329fcad9e9e66d0e6a34e9d79d74a1
+wiki_state_hash: 74b00c34b98255ab687084826024ba361bd6cba9968ea0dddca8f26779c06fa7
 ---
 
 # Agilysys, Inc. (AGYS)
@@ -53,5 +53,5 @@ wiki_state_hash: 824f831d06230dfd66ecd528f08f76a973329fcad9e9e66d0e6a34e9d79d74a
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2027-01-25 (days: 60, tag: CLEAN_WINDOW)
+- Earnings: 2027-01-25 (days: 58, tag: CLEAN_WINDOW)
 - Constituent ETFs: IGV (0.12%)

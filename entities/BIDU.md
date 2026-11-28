@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: a543699937885f54ddba4fecd58dfa83e0fb70a242257174e79d763793b86fb4
+wiki_state_hash: 413ad171fe405f54bfc76db461f5587cd1ef5950d21eb58abeaf07d424312a43
 ---
 
 # Baidu, Inc. (BIDU)
@@ -53,5 +53,5 @@ wiki_state_hash: a543699937885f54ddba4fecd58dfa83e0fb70a242257174e79d763793b86fb
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-16 (days: -10, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-16 (days: -12, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: QTUM (0.82%)

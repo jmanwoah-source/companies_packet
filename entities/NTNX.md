@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 349860c555576a00562400c50c520e0603fc9ed5095f34107180c4ba10d4e283
+wiki_state_hash: ffa44a65dd973c2fd61c6319ba6dfa81812bab06102b8ce092efc25f770ef927
 ---
 
 # Nutanix, Inc. (NTNX)
@@ -54,5 +54,5 @@ wiki_state_hash: 349860c555576a00562400c50c520e0603fc9ed5095f34107180c4ba10d4e28
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-24 (days: -4, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: QTUM (1.41%), IGV (0.48%)

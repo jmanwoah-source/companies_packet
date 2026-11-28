@@ -3,8 +3,8 @@ ticker: LAR
 name: "Lithium Argentina AG"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -26.58
-quant_composite_score: 36.71
+net_score: -27.86
+quant_composite_score: 36.07
 market_cap: 546786000.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 902a6ec432e388f24330e554063ad2cdf26d3792afddf42949c848fe9c68f6fc
+wiki_state_hash: 3dccdf432e3307a90cd81e994d05bd5abc43dc9e8f8844f5fc492570785b6685
 ---
 
 # Lithium Argentina AG (LAR)
@@ -31,12 +31,12 @@ wiki_state_hash: 902a6ec432e388f24330e554063ad2cdf26d3792afddf42949c848fe9c68f6f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.58 / 36.71 |
+| Net Score / Quant Composite | -27.86 / 36.07 |
 | Market Cap | $546.8M (Sweet Spot $2B-$80B: No) |
 | Price | 3.33 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.174 / 0.689 |
+| Bull / Bear Edge | 0.148 / 0.689 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 902a6ec432e388f24330e554063ad2cdf26d3792afddf42949c848fe9c68f6f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: REMX (1.57%)

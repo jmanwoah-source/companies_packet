@@ -3,8 +3,8 @@ ticker: IBM
 name: "International Business Machines Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -26.29
-quant_composite_score: 36.85
+net_score: -32.4
+quant_composite_score: 33.8
 market_cap: 230108562393.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: ea9103dee47a8f59d2b3e718579367d79b93fc81cfca2d24d27359eb3f687752
+wiki_state_hash: 530284d3c26dbcbf6e671df2988fc57404d77f6760a42e19bb456d3e669616f1
 ---
 
 # International Business Machines Corporation (IBM)
@@ -33,12 +33,12 @@ wiki_state_hash: ea9103dee47a8f59d2b3e718579367d79b93fc81cfca2d24d27359eb3f68775
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.29 / 36.85 |
+| Net Score / Quant Composite | -32.40 / 33.80 |
 | Market Cap | $230.11B (Sweet Spot $2B-$80B: No) |
 | Price | 243.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.379 / 0.608 |
+| Bull / Bear Edge | 0.322 / 0.608 |
 
 ## 45-DTE Options Surface
 
@@ -53,5 +53,5 @@ wiki_state_hash: ea9103dee47a8f59d2b3e718579367d79b93fc81cfca2d24d27359eb3f68775
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (1.35%), GRID (1.17%)

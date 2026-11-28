@@ -2,9 +2,9 @@
 ticker: ONDS
 name: "Ondas Holdings Inc."
 pillar: PHYSICAL_AI_ROBOTICS
-tier: EMERGING_EDGE
-net_score: 41.74
-quant_composite_score: 70.87
+tier: NEUTRAL
+net_score: 28.4
+quant_composite_score: 64.2
 market_cap: 2306623800.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
@@ -20,10 +20,10 @@ tags:
   - etf/robo
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/emerging_edge
+  - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: ffabba32d00cb600779966877dd3853b5a1922dbb5a3db09815e1de91cd0a644
+wiki_state_hash: 297ca2115f26bd2e60749f83b08c771f627d523937a9c2e0b86b2939316a9c4f
 ---
 
 # Ondas Holdings Inc. (ONDS)
@@ -33,13 +33,13 @@ wiki_state_hash: ffabba32d00cb600779966877dd3853b5a1922dbb5a3db09815e1de91cd0a64
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 41.74 / 70.87 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 28.40 / 64.20 |
 | Market Cap | $2.31B (Sweet Spot $2B-$80B: Yes) |
 | Price | 3.90 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.817 / 0.439 |
+| Bull / Bear Edge | 0.687 / 0.439 |
 
 ## 45-DTE Options Surface
 
@@ -54,7 +54,7 @@ wiki_state_hash: ffabba32d00cb600779966877dd3853b5a1922dbb5a3db09815e1de91cd0a64
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-12 (days: -14, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-12 (days: -16, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (7.50%), ROBO (0.95%)
 
 ## Adversarial Red Team

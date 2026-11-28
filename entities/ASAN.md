@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 2b2e43d36275c092e777170d9de2276e53affbd527c04a86344d4447210a6280
+wiki_state_hash: ffab6f288b435576519a9f7b7e9284107229c908aefa6a981ef50f038779f933
 ---
 
 # Asana, Inc. (ASAN)
@@ -53,5 +53,5 @@ wiki_state_hash: 2b2e43d36275c092e777170d9de2276e53affbd527c04a86344d4447210a628
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-01 (days: 5, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-12-01 (days: 3, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.04%)

@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 8c6cb87dea708908ec612c17950d0518a3cc70084334db0da4a36f86c3de4c10
+wiki_state_hash: 3860d605fd81e5033d0ce56fb1c3348f3eca05f7cd892bbdee4af6308506ebf2
 ---
 
 # BlackBerry Limited (BB)
@@ -53,5 +53,5 @@ wiki_state_hash: 8c6cb87dea708908ec612c17950d0518a3cc70084334db0da4a36f86c3de4c1
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-17 (days: 21, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-17 (days: 19, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: IGV (0.19%)

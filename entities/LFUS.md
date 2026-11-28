@@ -3,8 +3,8 @@ ticker: LFUS
 name: "Littelfuse, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 9.68
-quant_composite_score: 54.84
+net_score: 5.76
+quant_composite_score: 52.88
 market_cap: 9266180660.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 29c1c133d8a04e168ba991fec56ae2de90a73218ef5478fed7de767866a1cb73
+wiki_state_hash: 6ae9990966b59f740a196327c5e82c9cd397e706b85c4c7f6623c81f93dfec52
 ---
 
 # Littelfuse, Inc. (LFUS)
@@ -33,12 +33,12 @@ wiki_state_hash: 29c1c133d8a04e168ba991fec56ae2de90a73218ef5478fed7de767866a1cb7
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.68 / 54.84 |
+| Net Score / Quant Composite | 5.76 / 52.88 |
 | Market Cap | $9.27B (Sweet Spot $2B-$80B: Yes) |
 | Price | 364.76 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.497 / 0.313 |
+| Bull / Bear Edge | 0.422 / 0.313 |
 
 ## 45-DTE Options Surface
 
@@ -54,5 +54,5 @@ wiki_state_hash: 29c1c133d8a04e168ba991fec56ae2de90a73218ef5478fed7de767866a1cb7
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: None scheduled in window
+- Earnings: 2027-01-27 (days: 60, tag: CLEAN_WINDOW)
 - Constituent ETFs: GRID (0.05%)

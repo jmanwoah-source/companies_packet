@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 97bf14752c3154d8468042fe5d0b220fe0b15728ecb07303c891ba936ce8a20a
+wiki_state_hash: 50028579b889f32dfd4c094abdbb6b9e6fc17fde7493faa2fb01c7ccc8fb4454
 ---
 
 # WhiteFiber, Inc. Ordinary Shares (WYFI)
@@ -52,5 +52,5 @@ wiki_state_hash: 97bf14752c3154d8468042fe5d0b220fe0b15728ecb07303c891ba936ce8a20
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: DTCR (0.12%)

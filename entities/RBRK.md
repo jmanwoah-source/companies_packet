@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 418f7452a8775308589b9c6d3b22041a1d47bde0951b00d05da12bff0fe1fce9
+wiki_state_hash: 269fabb1dba7057ca83716358b92ca1fc13fc1f9f2ade912560ac492eaf81655
 ---
 
 # Rubrik, Inc. (RBRK)
@@ -53,5 +53,5 @@ wiki_state_hash: 418f7452a8775308589b9c6d3b22041a1d47bde0951b00d05da12bff0fe1fce
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-30 (days: 4, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-11-30 (days: 2, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: IGV (0.67%)

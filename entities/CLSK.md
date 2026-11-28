@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 824e26d06bd609981c4f3b6a676f89f0b07389792a4554f4137efc4e809835f4
+wiki_state_hash: 3c871cf4b5f99f68b9bc95dd99813c18a425a3d3c5e57baf8a12c89fa8ca9fac
 ---
 
 # CleanSpark, Inc. (CLSK)
@@ -52,5 +52,5 @@ wiki_state_hash: 824e26d06bd609981c4f3b6a676f89f0b07389792a4554f4137efc4e809835f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-24 (days: -2, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-24 (days: -4, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (0.05%)

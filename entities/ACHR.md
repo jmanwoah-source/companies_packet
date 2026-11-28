@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 285c3cd05a344950518bcca32a74b95396e35fc2770aa5d07f119a8de46dc337
+wiki_state_hash: c45425e2ab20cc9d07b528328df4fbd07974a5077de79383ce4f9541fd76142b
 ---
 
 # Archer Aviation Inc. (ACHR)
@@ -53,5 +53,5 @@ wiki_state_hash: 285c3cd05a344950518bcca32a74b95396e35fc2770aa5d07f119a8de46dc33
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-09 (days: -17, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-09 (days: -19, tag: CLEAN_WINDOW)
 - Constituent ETFs: JEDI (2.88%)

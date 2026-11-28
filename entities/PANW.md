@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 83f52d0d87f682316c60332cd044b4bb60aaf2eb4dc5aea110ec42f56051b1f0
+wiki_state_hash: 4ce2dac105b6011b4dc54b0f983a31a9d11fba45ad7acaa3fa9a76d3dd6255e5
 ---
 
 # Palo Alto Networks, Inc. (PANW)
@@ -52,5 +52,5 @@ wiki_state_hash: 83f52d0d87f682316c60332cd044b4bb60aaf2eb4dc5aea110ec42f56051b1f
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-18 (days: -8, tag: POST_EARNINGS_DRIFT)
+- Earnings: 2026-11-18 (days: -10, tag: POST_EARNINGS_DRIFT)
 - Constituent ETFs: IGV (9.61%)

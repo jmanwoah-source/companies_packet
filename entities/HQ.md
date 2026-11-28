@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: cd629da368c9eb98ff83688e6f2a9a0dab4f6b3a2687851384f66640d00837aa
+wiki_state_hash: ce927327cf2944a6f44e477bea70778d87792a6231883e7770003cb2cf37719c
 ---
 
 # Horizon Quantum Holdings Ltd. Class A Ordinary Shares (HQ)
@@ -52,5 +52,5 @@ wiki_state_hash: cd629da368c9eb98ff83688e6f2a9a0dab4f6b3a2687851384f66640d00837a
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-10 (days: -16, tag: CLEAN_WINDOW)
+- Earnings: 2026-11-10 (days: -18, tag: CLEAN_WINDOW)
 - Constituent ETFs: QTUM (1.30%)

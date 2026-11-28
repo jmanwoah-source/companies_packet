@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 17ac76ba58a15ce0c31d3f2c0c450079c0b50a2f47989c4001e905fa5064cdda
+wiki_state_hash: 2a51f8d0168d19d4984bf16ba3d374e5c3e367608fe3d2d6867585f506d2158e
 ---
 
 # Nano Nuclear Energy Inc. (NNE)
@@ -36,7 +36,7 @@ wiki_state_hash: 17ac76ba58a15ce0c31d3f2c0c450079c0b50a2f47989c4001e905fa5064cdd
 | Price | 8.86 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.738 / 0.031 |
+| Bull / Bear Edge | 0.627 / 0.031 |
 
 ## 45-DTE Options Surface
 
@@ -52,5 +52,5 @@ wiki_state_hash: 17ac76ba58a15ce0c31d3f2c0c450079c0b50a2f47989c4001e905fa5064cdd
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-11-30 (days: 4, tag: EARNINGS_BINARY_AVOID)
+- Earnings: 2026-11-30 (days: 2, tag: EARNINGS_BINARY_AVOID)
 - Constituent ETFs: URA (0.59%)

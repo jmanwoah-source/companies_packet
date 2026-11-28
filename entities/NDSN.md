@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ccf664ff47dc1c2cbd125e5a15d194d55a7756e9ed88fe1e08a16809f655b637
+wiki_state_hash: c88ea4d335f769f6c4256c43146deea476cf3126facf31f73e71356fe9ff0590
 ---
 
 # Nordson Corporation (NDSN)
@@ -53,5 +53,5 @@ wiki_state_hash: ccf664ff47dc1c2cbd125e5a15d194d55a7756e9ed88fe1e08a16809f655b63
 
 ## Catalyst & Constituent ETFs
 
-- Earnings: 2026-12-15 (days: 19, tag: PRE_EARNINGS_RUNUP)
+- Earnings: 2026-12-15 (days: 17, tag: PRE_EARNINGS_RUNUP)
 - Constituent ETFs: ROBO (1.75%)
