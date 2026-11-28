@@ -3,9 +3,9 @@ ticker: CXM
 name: "Sprinklr, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 30.0
-quant_composite_score: 65.0
-market_cap: 1595017181.0
+net_score: 27.25
+quant_composite_score: 63.63
+market_cap: 1611269079.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 2b05c11f0f693754aaf2f3ab1b58ee3c33d1c0a7254bf7cc18a63c9e63f0f3d8
+wiki_state_hash: 214e7f108e26cddd45cefd1a7482121cdfe9a15493a579342e8bbebba1edcfa0
 ---
 
 # Sprinklr, Inc. (CXM)
@@ -31,12 +31,12 @@ wiki_state_hash: 2b05c11f0f693754aaf2f3ab1b58ee3c33d1c0a7254bf7cc18a63c9e63f0f3d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $1.60B (Sweet Spot $2B-$80B: No) |
-| Price | 6.87 |
+| Net Score / Quant Composite | 27.25 / 63.63 |
+| Market Cap | $1.61B (Sweet Spot $2B-$80B: No) |
+| Price | 6.94 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.690 / 0.088 |
+| Bull / Bear Edge | 0.656 / 0.128 |
 
 ## 45-DTE Options Surface
 

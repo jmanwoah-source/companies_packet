@@ -3,9 +3,9 @@ ticker: PRIM
 name: "Primoris Services Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 23.92
-quant_composite_score: 61.96
-market_cap: 2930576285.0
+net_score: 22.56
+quant_composite_score: 61.28
+market_cap: 3047715290.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: da280513b9671455785c1e72ea0d8bb920d6bec024c989864516c76bbd537dbc
+wiki_state_hash: ae5977a34acc5493dc5445af822214953c4e9370e3ed357f748b4c5fa8da8452
 ---
 
 # Primoris Services Corporation (PRIM)
@@ -32,12 +32,12 @@ wiki_state_hash: da280513b9671455785c1e72ea0d8bb920d6bec024c989864516c76bbd537db
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 23.92 / 61.96 |
-| Market Cap | $2.93B (Sweet Spot $2B-$80B: Yes) |
-| Price | 55.79 |
+| Net Score / Quant Composite | 22.56 / 61.28 |
+| Market Cap | $3.05B (Sweet Spot $2B-$80B: Yes) |
+| Price | 58.02 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.570 / 0.110 |
+| Bull / Bear Edge | 0.559 / 0.125 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: PL
 name: "Planet Labs PBC"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -40.84
-quant_composite_score: 29.58
-market_cap: 3611155940.0
+net_score: -46.64
+quant_composite_score: 26.68
+market_cap: 3811964800.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: c2234fe14ae7bcf28b526f4a39126f96bf90d9fd24bcf5907554d25b7327d176
+wiki_state_hash: dea0e261f83bea64d6fe08abb335453c8c80ef6832dc6a791935acb3d3f94d0c
 ---
 
 # Planet Labs PBC (PL)
@@ -34,12 +34,12 @@ wiki_state_hash: c2234fe14ae7bcf28b526f4a39126f96bf90d9fd24bcf5907554d25b7327d17
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -40.84 / 29.58 |
-| Market Cap | $3.61B (Sweet Spot $2B-$80B: Yes) |
-| Price | 10.61 |
+| Net Score / Quant Composite | -46.64 / 26.68 |
+| Market Cap | $3.81B (Sweet Spot $2B-$80B: Yes) |
+| Price | 11.20 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.353 / 0.722 |
+| Bull / Bear Edge | 0.325 / 0.755 |
 
 ## 45-DTE Options Surface
 

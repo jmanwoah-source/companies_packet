@@ -3,9 +3,9 @@ ticker: SNAP
 name: "Snap Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -27.7
-quant_composite_score: 36.15
-market_cap: 8701946749.0
+net_score: -22.57
+quant_composite_score: 38.72
+market_cap: 8960933390.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 7fb3b1a5ec6a8ad26f762f79f51467213e211614442ac172e7d22e17c096eb33
+wiki_state_hash: 4e12ccd563bcce2e05885f815375cb8b22ffc179366f0733245d4e90835a1498
 ---
 
 # Snap Inc. (SNAP)
@@ -32,12 +32,12 @@ wiki_state_hash: 7fb3b1a5ec6a8ad26f762f79f51467213e211614442ac172e7d22e17c096eb3
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -27.70 / 36.15 |
-| Market Cap | $8.70B (Sweet Spot $2B-$80B: Yes) |
-| Price | 5.04 |
+| Net Score / Quant Composite | -22.57 / 38.72 |
+| Market Cap | $8.96B (Sweet Spot $2B-$80B: Yes) |
+| Price | 5.19 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.164 / 0.701 |
+| Bull / Bear Edge | 0.212 / 0.645 |
 
 ## 45-DTE Options Surface
 

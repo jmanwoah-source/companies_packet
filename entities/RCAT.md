@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: MIRAGE_SHORT
 net_score: -84.9
 quant_composite_score: 7.55
-market_cap: 269204236.0
+market_cap: 287559070.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 41ea5368f4f6727ee5c79612d6790dd826ec8d5faa521595bea77a1b524cb154
+wiki_state_hash: efe3ddfc8a0b8f0a26038307511b5fa0a6529bd8e0fac1fa3cf5ef47ca246618
 ---
 
 # Red Cat Holdings, Inc. (RCAT)
@@ -34,8 +34,8 @@ wiki_state_hash: 41ea5368f4f6727ee5c79612d6790dd826ec8d5faa521595bea77a1b524cb15
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -84.90 / 7.55 |
-| Market Cap | $269.2M (Sweet Spot $2B-$80B: No) |
-| Price | 1.76 |
+| Market Cap | $287.6M (Sweet Spot $2B-$80B: No) |
+| Price | 1.88 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.068 / 1.132 |
@@ -63,5 +63,5 @@ wiki_state_hash: 41ea5368f4f6727ee5c79612d6790dd826ec8d5faa521595bea77a1b524cb15
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 5339 chars / No |
-| Primary Risk | No bear-trap indicators found. Distress signals (losses, cash burn, gov contract risk) strongly support PUT thesis. |
-| Tribunal Summary | PUT thesis is clean. RCAT exhibits classic distress: net losses, weak Piotroski score, reliance on uncertain government funding, and high dilution risk. No fortress cash or backlog inflection to trap shorts. |
+| Primary Risk | No bear trap. High distress, cash burn, and lack of long-term commitments support PUT thesis. |
+| Tribunal Summary | RCAT is a distressed defense micro-cap with weak fundamentals (Piotroski 3/9) and reliance on non-funded government contracts. No cash fortress or backlog inflection to trigger a squeeze. Thin liquidity and high dilution risk favor the PUT. |

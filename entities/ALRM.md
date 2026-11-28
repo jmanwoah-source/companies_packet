@@ -3,9 +3,9 @@ ticker: ALRM
 name: "Alarm.com Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 25.8
-quant_composite_score: 62.9
-market_cap: 3240676151.0
+net_score: 25.07
+quant_composite_score: 62.54
+market_cap: 3314249849.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 4e97b04af3d30f7bcb4cd6de2de468993ef3de47174c606f56786c63b05d34f5
+wiki_state_hash: ae40d2e2ce22b67851dffa9827c14301a7e0a351f2ff70ad991a6a415996925d
 ---
 
 # Alarm.com Holdings, Inc. (ALRM)
@@ -32,12 +32,12 @@ wiki_state_hash: 4e97b04af3d30f7bcb4cd6de2de468993ef3de47174c606f56786c63b05d34f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 25.80 / 62.90 |
-| Market Cap | $3.24B (Sweet Spot $2B-$80B: Yes) |
-| Price | 66.07 |
+| Net Score / Quant Composite | 25.07 / 62.54 |
+| Market Cap | $3.31B (Sweet Spot $2B-$80B: Yes) |
+| Price | 67.57 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.642 / 0.143 |
+| Bull / Bear Edge | 0.635 / 0.151 |
 
 ## 45-DTE Options Surface
 

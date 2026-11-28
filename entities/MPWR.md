@@ -3,9 +3,9 @@ ticker: MPWR
 name: "Monolithic Power Systems, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -1.87
-quant_composite_score: 49.06
-market_cap: 58259715840.0
+net_score: -6.4
+quant_composite_score: 46.8
+market_cap: 61692495360.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: fb8bbe63c9b5a753e698d70cd9857c5fa253d6049eaf21073448b8b8607c4f6b
+wiki_state_hash: ef1c68543c3d72163903c66a3c9b2e1ff64163fc0eeacea77fffba31a624aad0
 ---
 
 # Monolithic Power Systems, Inc. (MPWR)
@@ -33,12 +33,12 @@ wiki_state_hash: fb8bbe63c9b5a753e698d70cd9857c5fa253d6049eaf21073448b8b8607c4f6
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.87 / 49.06 |
-| Market Cap | $58.26B (Sweet Spot $2B-$80B: Yes) |
-| Price | 1194.63 |
+| Net Score / Quant Composite | -6.40 / 46.80 |
+| Market Cap | $61.69B (Sweet Spot $2B-$80B: Yes) |
+| Price | 1265.02 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.361 / 0.397 |
+| Bull / Bear Edge | 0.325 / 0.446 |
 
 ## 45-DTE Options Surface
 

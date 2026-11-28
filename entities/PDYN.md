@@ -3,9 +3,9 @@ ticker: PDYN
 name: "Palladyne AI Corp."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -22.2
-quant_composite_score: 38.9
-market_cap: 128452750.0
+net_score: -19.57
+quant_composite_score: 40.21
+market_cap: 134104671.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 647842b6848c21d0b1bcf8970b64e2901ca1bcdb59ce5283c5f041e965ab1767
+wiki_state_hash: 462c0422e06a821aa804af6cb351121836955315619a03755dde6cfb8a237765
 ---
 
 # Palladyne AI Corp. (PDYN)
@@ -31,12 +31,12 @@ wiki_state_hash: 647842b6848c21d0b1bcf8970b64e2901ca1bcdb59ce5283c5f041e965ab176
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -22.20 / 38.90 |
-| Market Cap | $128.5M (Sweet Spot $2B-$80B: No) |
-| Price | 2.50 |
+| Net Score / Quant Composite | -19.57 / 40.21 |
+| Market Cap | $134.1M (Sweet Spot $2B-$80B: No) |
+| Price | 2.61 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.215 / 0.641 |
+| Bull / Bear Edge | 0.239 / 0.614 |
 
 ## 45-DTE Options Surface
 

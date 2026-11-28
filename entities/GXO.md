@@ -3,9 +3,9 @@ ticker: GXO
 name: "GXO Logistics, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -7.35
-quant_composite_score: 46.32
-market_cap: 6221125682.0
+net_score: -3.37
+quant_composite_score: 48.31
+market_cap: 6323982229.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: f0fe7e8b7e93b9ce3b541fa157b66cddc865161d40779bfc9a817376575b4f18
+wiki_state_hash: 40cff373f6984810e420a3cae5f6d7583969c66ab9ca6a8cefd264ef556310da
 ---
 
 # GXO Logistics, Inc. (GXO)
@@ -32,12 +32,12 @@ wiki_state_hash: f0fe7e8b7e93b9ce3b541fa157b66cddc865161d40779bfc9a817376575b4f1
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -7.35 / 46.32 |
-| Market Cap | $6.22B (Sweet Spot $2B-$80B: Yes) |
-| Price | 55.04 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
+| Market Cap | $6.32B (Sweet Spot $2B-$80B: Yes) |
+| Price | 55.95 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.348 / 0.487 |
+| Bull / Bear Edge | 0.383 / 0.446 |
 
 ## 45-DTE Options Surface
 

@@ -2,10 +2,10 @@
 ticker: MP
 name: "MP Materials Corp."
 pillar: ENERGY_MATERIALS
-tier: MIRAGE_SHORT
-net_score: -73.43
-quant_composite_score: 13.29
-market_cap: 6292859553.0
+tier: WATCHLIST
+net_score: -66.76
+quant_composite_score: 16.62
+market_cap: 6383776221.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/remx
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/mirage_short
+  - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 637d20cb0edbe2fdfa774777163cc18bfaceff9a494651ea17d172b6570e2d62
+wiki_state_hash: 2692039d7f79bdd1b6150b2a5bf21d1801cb56d025ad20085113dad86e809e8f
 ---
 
 # MP Materials Corp. (MP)
@@ -32,13 +32,13 @@ wiki_state_hash: 637d20cb0edbe2fdfa774777163cc18bfaceff9a494651ea17d172b6570e2d6
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -73.43 / 13.29 |
-| Market Cap | $6.29B (Sweet Spot $2B-$80B: Yes) |
-| Price | 35.30 |
+| Tier | WATCHLIST |
+| Net Score / Quant Composite | -66.76 / 16.62 |
+| Market Cap | $6.38B (Sweet Spot $2B-$80B: Yes) |
+| Price | 35.81 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.177 / 0.975 |
+| Bull / Bear Edge | 0.226 / 0.911 |
 
 ## 45-DTE Options Surface
 

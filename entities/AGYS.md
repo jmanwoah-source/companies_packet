@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: EMERGING_EDGE
 net_score: 35.04
 quant_composite_score: 67.52
-market_cap: 3324103398.0
+market_cap: 3404236270.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 74b00c34b98255ab687084826024ba361bd6cba9968ea0dddca8f26779c06fa7
+wiki_state_hash: 9c05850c5ebc7fa1843e086fc167648d3c1908678fb502a8e007d62d33010260
 ---
 
 # Agilysys, Inc. (AGYS)
@@ -33,8 +33,8 @@ wiki_state_hash: 74b00c34b98255ab687084826024ba361bd6cba9968ea0dddca8f26779c06fa
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
 | Net Score / Quant Composite | 35.04 / 67.52 |
-| Market Cap | $3.32B (Sweet Spot $2B-$80B: Yes) |
-| Price | 117.81 |
+| Market Cap | $3.40B (Sweet Spot $2B-$80B: Yes) |
+| Price | 120.65 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.731 / 0.040 |

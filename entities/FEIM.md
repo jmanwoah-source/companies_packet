@@ -3,9 +3,9 @@ ticker: FEIM
 name: "Frequency Electronics, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 16.17
-quant_composite_score: 58.09
-market_cap: 615183272.0
+net_score: 8.08
+quant_composite_score: 54.04
+market_cap: 659825488.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 59059e234d443df8d5674f2e39947daeab5f220cff4175f0c204fff0c5685a90
+wiki_state_hash: b3d3ec467af1a4eb4729b32ec9aa40b89e3544881b5ef7f7a5b0dd92b8a06121
 ---
 
 # Frequency Electronics, Inc. (FEIM)
@@ -31,12 +31,12 @@ wiki_state_hash: 59059e234d443df8d5674f2e39947daeab5f220cff4175f0c204fff0c5685a9
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 16.17 / 58.09 |
-| Market Cap | $615.2M (Sweet Spot $2B-$80B: No) |
-| Price | 54.57 |
+| Net Score / Quant Composite | 8.08 / 54.04 |
+| Market Cap | $659.8M (Sweet Spot $2B-$80B: No) |
+| Price | 58.53 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.587 / 0.279 |
+| Bull / Bear Edge | 0.515 / 0.362 |
 
 ## 45-DTE Options Surface
 

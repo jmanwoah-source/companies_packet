@@ -3,9 +3,9 @@ ticker: NTNX
 name: "Nutanix, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 16.22
-quant_composite_score: 58.11
-market_cap: 12627491600.0
+net_score: 18.5
+quant_composite_score: 59.25
+market_cap: 12682038000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ffa44a65dd973c2fd61c6319ba6dfa81812bab06102b8ce092efc25f770ef927
+wiki_state_hash: 90f21904ecc4c22a1e09da5f7c1bdf3ff07ab636668ada32fc8abe71618dbe04
 ---
 
 # Nutanix, Inc. (NTNX)
@@ -33,12 +33,12 @@ wiki_state_hash: ffa44a65dd973c2fd61c6319ba6dfa81812bab06102b8ce092efc25f770ef92
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 16.22 / 58.11 |
-| Market Cap | $12.63B (Sweet Spot $2B-$80B: Yes) |
-| Price | 46.30 |
+| Net Score / Quant Composite | 18.50 / 59.25 |
+| Market Cap | $12.68B (Sweet Spot $2B-$80B: Yes) |
+| Price | 46.50 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.604 / 0.295 |
+| Bull / Bear Edge | 0.625 / 0.271 |
 
 ## 45-DTE Options Surface
 

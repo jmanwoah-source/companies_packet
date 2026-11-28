@@ -3,9 +3,9 @@ ticker: NN
 name: "NextNav Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 65.98
-quant_composite_score: 82.99
-market_cap: 1128333486.0
+net_score: 68.24
+quant_composite_score: 84.12
+market_cap: 1292057812.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: aca166c97422da394e3c0cc4b2d15a70df001c6f40d98ecb8d3d26d09059f196
+wiki_state_hash: 7597eda2c5b176c623193ddf57407652a4a56afc96c944edf3a112c373cbbec8
 ---
 
 # NextNav Inc. (NN)
@@ -32,12 +32,12 @@ wiki_state_hash: aca166c97422da394e3c0cc4b2d15a70df001c6f40d98ecb8d3d26d09059f19
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 65.98 / 82.99 |
-| Market Cap | $1.13B (Sweet Spot $2B-$80B: No) |
-| Price | 8.27 |
+| Net Score / Quant Composite | 68.24 / 84.12 |
+| Market Cap | $1.29B (Sweet Spot $2B-$80B: No) |
+| Price | 9.47 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.795 / 0.122 |
+| Bull / Bear Edge | 0.812 / 0.103 |
 
 ## 45-DTE Options Surface
 

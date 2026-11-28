@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: NEUTRAL
 net_score: -56.91
 quant_composite_score: 21.55
-market_cap: 4643487359.0
+market_cap: 4867606646.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: ce6a387deafde46a08d7435a0f6ef5e021c9ddf51b2d1ab6632a6d43a98a4023
+wiki_state_hash: ffb12e0282438b8a42e27eeddd5b66861503c78599f031ea31a81cb89d46a208
 ---
 
 # AeroVironment, Inc. (AVAV)
@@ -35,8 +35,8 @@ wiki_state_hash: ce6a387deafde46a08d7435a0f6ef5e021c9ddf51b2d1ab6632a6d43a98a402
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -56.91 / 21.55 |
-| Market Cap | $4.64B (Sweet Spot $2B-$80B: Yes) |
-| Price | 91.37 |
+| Market Cap | $4.87B (Sweet Spot $2B-$80B: Yes) |
+| Price | 95.78 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
 | Bull / Bear Edge | 0.356 / 0.906 |

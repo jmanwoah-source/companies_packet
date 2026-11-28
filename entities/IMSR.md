@@ -3,9 +3,9 @@ ticker: IMSR
 name: "Terrestrial Energy Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 27.93
-quant_composite_score: 63.96
-market_cap: 238473900.0
+net_score: 23.92
+quant_composite_score: 61.96
+market_cap: 248012856.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: d074cc60ff59e24e927596e6a8a8bc225839f536c5de6bda520bb34bdf5ed205
+wiki_state_hash: 4aee2240a944d53b9ddf1175df12e09bbfc00b5a6d484c2bd51674bcf2f45d46
 ---
 
 # Terrestrial Energy Inc. (IMSR)
@@ -31,12 +31,12 @@ wiki_state_hash: d074cc60ff59e24e927596e6a8a8bc225839f536c5de6bda520bb34bdf5ed20
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.93 / 63.96 |
-| Market Cap | $238.5M (Sweet Spot $2B-$80B: No) |
-| Price | 2.25 |
+| Net Score / Quant Composite | 23.92 / 61.96 |
+| Market Cap | $248.0M (Sweet Spot $2B-$80B: No) |
+| Price | 2.34 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.605 / 0.063 |
+| Bull / Bear Edge | 0.570 / 0.110 |
 
 ## 45-DTE Options Surface
 

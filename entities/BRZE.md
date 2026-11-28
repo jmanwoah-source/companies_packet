@@ -3,9 +3,9 @@ ticker: BRZE
 name: "Braze, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -21.72
-quant_composite_score: 39.14
-market_cap: 5271453396.0
+net_score: -24.68
+quant_composite_score: 37.66
+market_cap: 5283270846.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 01f254cd735735e5ff93125ac00ea05b9763b8711d37aa97ed47d5a85ce3c1ba
+wiki_state_hash: 1788075814527c8725f0ceab20461a387fdcb041d364ab4d324816316ca29dc9
 ---
 
 # Braze, Inc. (BRZE)
@@ -32,12 +32,12 @@ wiki_state_hash: 01f254cd735735e5ff93125ac00ea05b9763b8711d37aa97ed47d5a85ce3c1b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -21.72 / 39.14 |
-| Market Cap | $5.27B (Sweet Spot $2B-$80B: Yes) |
-| Price | 46.41 |
+| Net Score / Quant Composite | -24.68 / 37.66 |
+| Market Cap | $5.28B (Sweet Spot $2B-$80B: Yes) |
+| Price | 46.51 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.253 / 0.669 |
+| Bull / Bear Edge | 0.225 / 0.701 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: CRM
 name: "Salesforce, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -14.86
-quant_composite_score: 42.57
-market_cap: 162303830000.0
+net_score: -6.77
+quant_composite_score: 46.61
+market_cap: 163126830000.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: f72ced755cfa7aa7ded723281e671cddde97744060b7170f6cf2532a1454283c
+wiki_state_hash: 679b0eb647d9e547e6c6ae1522632e2f4375826f49d4ddf38aa140beac5ea98c
 ---
 
 # Salesforce, Inc. (CRM)
@@ -32,12 +32,12 @@ wiki_state_hash: f72ced755cfa7aa7ded723281e671cddde97744060b7170f6cf2532a1454283
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.86 / 42.57 |
-| Market Cap | $162.30B (Sweet Spot $2B-$80B: No) |
-| Price | 197.21 |
+| Net Score / Quant Composite | -6.77 / 46.61 |
+| Market Cap | $163.13B (Sweet Spot $2B-$80B: No) |
+| Price | 198.21 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.426 / 0.553 |
+| Bull / Bear Edge | 0.458 / 0.516 |
 
 ## 45-DTE Options Surface
 

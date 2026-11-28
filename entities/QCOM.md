@@ -5,7 +5,7 @@ pillar: SEMI_SUBSYSTEMS
 tier: MIRAGE_SHORT
 net_score: -87.89
 quant_composite_score: 6.06
-market_cap: 180466200000.0
+market_cap: 191818900000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 4e103fcc4437c3fc60da2e5cb98d82ad1b8577f9893dea4a930e11ca0fba5793
+wiki_state_hash: afdf440dc64e610bb849a40ed9d8a8fd32358ce0bad449cfa4aadd7a1242e5d6
 ---
 
 # QUALCOMM Incorporated (QCOM)
@@ -35,8 +35,8 @@ wiki_state_hash: 4e103fcc4437c3fc60da2e5cb98d82ad1b8577f9893dea4a930e11ca0fba579
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -87.89 / 6.06 |
-| Market Cap | $180.47B (Sweet Spot $2B-$80B: No) |
-| Price | 168.66 |
+| Market Cap | $191.82B (Sweet Spot $2B-$80B: No) |
+| Price | 179.27 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
 | Bull / Bear Edge | 0.024 / 1.189 |
@@ -64,5 +64,5 @@ wiki_state_hash: 4e103fcc4437c3fc60da2e5cb98d82ad1b8577f9893dea4a930e11ca0fba579
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | FAIL / 65% / -8.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | AltmanZ 5.40 and $11.1B OCF confirm fortress balance sheet. High cash/FCF creates strong floor against downside, acting as a bear trap for PUTs. |
-| Tribunal Summary | QCOM is a cash-generating monopoly with AltmanZ 5.40. The PUT thesis relies on distress, but the 10-K shows fortress liquidity ($7.7B cash) and massive operating cash flow ($11.1B). This is a classic bear trap: strong fundamentals prevent the collapse needed for the PUT to profit. |
+| Primary Risk | Fortress balance sheet (AltmanZ 5.88) and $7.7B cash create a strong floor. High customer concentration in premium handsets limits downside volatility, acting as a bear trap for PUTs. |
+| Tribunal Summary | QCOM is a high-quality tech giant with massive cash reserves and low AltmanZ distress risk. The PUT thesis relies on fundamental deterioration, but the balance sheet is a fortress. Customer concentration in premium smartphones provides a stable revenue floor. High probability of a bounce or range-bound action rather than a crash. The 'distress' metrics are absent; instead, we see a 'fortress' prof |

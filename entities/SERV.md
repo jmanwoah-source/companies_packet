@@ -3,9 +3,9 @@ ticker: SERV
 name: "Serve Robotics Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -11.3
-quant_composite_score: 44.35
-market_cap: 200517804.0
+net_score: -19.09
+quant_composite_score: 40.45
+market_cap: 214527782.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ae00bd3f41bf75d6f4adec429a036c01780be92ec79b6bc69ac5dded4955b4b0
+wiki_state_hash: cbe3c3daaacc47d0c174bdc765fb5610c9b5dc93121e86af4098ebb770bd62a3
 ---
 
 # Serve Robotics Inc. (SERV)
@@ -31,12 +31,12 @@ wiki_state_hash: ae00bd3f41bf75d6f4adec429a036c01780be92ec79b6bc69ac5dded4955b4b
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -11.30 / 44.35 |
-| Market Cap | $200.5M (Sweet Spot $2B-$80B: No) |
-| Price | 2.29 |
+| Net Score / Quant Composite | -19.09 / 40.45 |
+| Market Cap | $214.5M (Sweet Spot $2B-$80B: No) |
+| Price | 2.45 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.313 / 0.527 |
+| Bull / Bear Edge | 0.243 / 0.609 |
 
 ## 45-DTE Options Surface
 

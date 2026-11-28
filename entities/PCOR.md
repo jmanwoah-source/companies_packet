@@ -3,9 +3,9 @@ ticker: PCOR
 name: "Procore Technologies, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -78.53
-quant_composite_score: 10.73
-market_cap: 11154101440.0
+net_score: -76.61
+quant_composite_score: 11.69
+market_cap: 11291732520.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 691ead74aa2f2e693210186034ece8a9fb36dd7c481fb499bcf96a92b5e089fd
+wiki_state_hash: 8589d1123cd2a0b24289d890e5b018eefed558917315b7921f25e51d038940b4
 ---
 
 # Procore Technologies, Inc. (PCOR)
@@ -33,12 +33,12 @@ wiki_state_hash: 691ead74aa2f2e693210186034ece8a9fb36dd7c481fb499bcf96a92b5e089f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -78.53 / 10.73 |
-| Market Cap | $11.15B (Sweet Spot $2B-$80B: Yes) |
-| Price | 74.56 |
+| Net Score / Quant Composite | -76.61 / 11.69 |
+| Market Cap | $11.29B (Sweet Spot $2B-$80B: Yes) |
+| Price | 75.48 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.151 / 1.051 |
+| Bull / Bear Edge | 0.170 / 1.029 |
 
 ## 45-DTE Options Surface
 

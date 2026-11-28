@@ -3,9 +3,9 @@ ticker: IDCC
 name: "InterDigital, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 25.07
-quant_composite_score: 62.54
-market_cap: 6553556258.0
+net_score: 23.59
+quant_composite_score: 61.8
+market_cap: 6703053828.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 801fa924b49766609367df955b773613f2634f2a6abb69ea41c11c296afed61d
+wiki_state_hash: 502b42311d0c641caea1b4f5b45f1cfa7e123e236edb2374185764b8b948187b
 ---
 
 # InterDigital, Inc. (IDCC)
@@ -32,12 +32,12 @@ wiki_state_hash: 801fa924b49766609367df955b773613f2634f2a6abb69ea41c11c296afed61
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 25.07 / 62.54 |
-| Market Cap | $6.55B (Sweet Spot $2B-$80B: Yes) |
-| Price | 254.47 |
+| Net Score / Quant Composite | 23.59 / 61.80 |
+| Market Cap | $6.70B (Sweet Spot $2B-$80B: Yes) |
+| Price | 260.28 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.635 / 0.151 |
+| Bull / Bear Edge | 0.622 / 0.167 |
 
 ## 45-DTE Options Surface
 

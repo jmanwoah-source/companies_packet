@@ -3,9 +3,9 @@ ticker: NRGV
 name: "Energy Vault Holdings, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -40.49
-quant_composite_score: 29.75
-market_cap: 564357498.0
+net_score: -38.07
+quant_composite_score: 30.97
+market_cap: 586489159.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e0c8ce875480e7c2b931a10eb2b085b17d9f9dffea77c47b54ba154ebf5fcaf6
+wiki_state_hash: 6a4b5c84a527310dd469c3786a7ca73b756496c6d492635767ade30c1b9e6e4e
 ---
 
 # Energy Vault Holdings, Inc. (NRGV)
@@ -31,12 +31,12 @@ wiki_state_hash: e0c8ce875480e7c2b931a10eb2b085b17d9f9dffea77c47b54ba154ebf5fcaf
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -40.49 / 29.75 |
-| Market Cap | $564.4M (Sweet Spot $2B-$80B: No) |
-| Price | 3.06 |
+| Net Score / Quant Composite | -38.07 / 30.97 |
+| Market Cap | $586.5M (Sweet Spot $2B-$80B: No) |
+| Price | 3.18 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.034 / 0.846 |
+| Bull / Bear Edge | 0.057 / 0.814 |
 
 ## 45-DTE Options Surface
 

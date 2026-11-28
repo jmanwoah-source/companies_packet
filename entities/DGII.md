@@ -3,9 +3,9 @@ ticker: DGII
 name: "Digi International Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 15.66
-quant_composite_score: 57.83
-market_cap: 2022633730.0
+net_score: 18.45
+quant_composite_score: 59.22
+market_cap: 2122317983.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ec3d07fb6011ca4c3ecb46ae24c7c184a328c3270cb578515249e0a1b824facc
+wiki_state_hash: d3aed7927555bcd0cd5c12019f24576b43084be8b1193a5228252f55a90379e1
 ---
 
 # Digi International Inc. (DGII)
@@ -32,12 +32,12 @@ wiki_state_hash: ec3d07fb6011ca4c3ecb46ae24c7c184a328c3270cb578515249e0a1b824fac
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 15.66 / 57.83 |
-| Market Cap | $2.02B (Sweet Spot $2B-$80B: Yes) |
-| Price | 53.30 |
+| Net Score / Quant Composite | 18.45 / 59.22 |
+| Market Cap | $2.12B (Sweet Spot $2B-$80B: Yes) |
+| Price | 55.75 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.502 / 0.204 |
+| Bull / Bear Edge | 0.525 / 0.172 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: LSCC
 name: "Lattice Semiconductor Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: WATCHLIST
-net_score: -67.5
-quant_composite_score: 16.25
-market_cap: 13970829627.0
+net_score: -71.93
+quant_composite_score: 14.04
+market_cap: 14737426101.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: a4a7d17558266a05fefb18709e93775fd96bfdc10af41503f57b6ab3ca63f88c
+wiki_state_hash: 89d4de2f697f3389dbe4659c0cb8295f031e61f3472cec12eb4a22da724913ca
 ---
 
 # Lattice Semiconductor Corporation (LSCC)
@@ -33,12 +33,12 @@ wiki_state_hash: a4a7d17558266a05fefb18709e93775fd96bfdc10af41503f57b6ab3ca63f88
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -67.50 / 16.25 |
-| Market Cap | $13.97B (Sweet Spot $2B-$80B: Yes) |
-| Price | 98.23 |
+| Net Score / Quant Composite | -71.93 / 14.04 |
+| Market Cap | $14.74B (Sweet Spot $2B-$80B: Yes) |
+| Price | 103.62 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.226 / 0.923 |
+| Bull / Bear Edge | 0.194 / 0.964 |
 
 ## 45-DTE Options Surface
 

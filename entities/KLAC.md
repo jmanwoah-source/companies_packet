@@ -5,7 +5,7 @@ pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
 net_score: 11.68
 quant_composite_score: 55.84
-market_cap: 174857558777.0
+market_cap: 183535288594.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 77e173ffecca19fa47239b74ff79a3ad9293acbfe5cec60af80d1be02e13a26f
+wiki_state_hash: 24638b57c9cfd7c822ea8a5f30af887827aecde64856d898e64e2e1a9019c804
 ---
 
 # KLA Corporation (KLAC)
@@ -33,8 +33,8 @@ wiki_state_hash: 77e173ffecca19fa47239b74ff79a3ad9293acbfe5cec60af80d1be02e13a26
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 11.68 / 55.84 |
-| Market Cap | $174.86B (Sweet Spot $2B-$80B: No) |
-| Price | 134.20 |
+| Market Cap | $183.54B (Sweet Spot $2B-$80B: No) |
+| Price | 140.86 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.470 / 0.248 |

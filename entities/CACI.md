@@ -3,9 +3,9 @@ ticker: CACI
 name: "CACI International Inc"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 23.59
-quant_composite_score: 61.8
-market_cap: 13752213852.0
+net_score: 20.98
+quant_composite_score: 60.49
+market_cap: 14022753576.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 11867bae31328d7a132a5cb12c9f1a2468ec400c27d9f75d4c2d81b7ce11eb53
+wiki_state_hash: 0cc548ea5d49ce71c5c292aef9d406ede2e20bc20795be84b6d42a301a07e7b6
 ---
 
 # CACI International Inc (CACI)
@@ -32,12 +32,12 @@ wiki_state_hash: 11867bae31328d7a132a5cb12c9f1a2468ec400c27d9f75d4c2d81b7ce11eb5
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 23.59 / 61.80 |
-| Market Cap | $13.75B (Sweet Spot $2B-$80B: Yes) |
-| Price | 619.14 |
+| Net Score / Quant Composite | 20.98 / 60.49 |
+| Market Cap | $14.02B (Sweet Spot $2B-$80B: Yes) |
+| Price | 631.32 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.622 / 0.167 |
+| Bull / Bear Edge | 0.598 / 0.195 |
 
 ## 45-DTE Options Surface
 

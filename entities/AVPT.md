@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -13.48
 quant_composite_score: 43.26
-market_cap: 3634332100.0
+market_cap: 3724665210.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: d35e89b6e2114480fa02369fd0dadd2c6a6c86b9fa70868b478e357a40279264
+wiki_state_hash: 4acc86d5435e29ea828b19782c71439ed73123941aa65f90a1034f6eeeb9c82b
 ---
 
 # AvePoint, Inc. (AVPT)
@@ -33,8 +33,8 @@ wiki_state_hash: d35e89b6e2114480fa02369fd0dadd2c6a6c86b9fa70868b478e357a4027926
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -13.48 / 43.26 |
-| Market Cap | $3.63B (Sweet Spot $2B-$80B: Yes) |
-| Price | 17.30 |
+| Market Cap | $3.72B (Sweet Spot $2B-$80B: Yes) |
+| Price | 17.73 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.294 / 0.550 |

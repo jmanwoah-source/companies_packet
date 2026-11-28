@@ -3,9 +3,9 @@ ticker: WYFI
 name: "WhiteFiber, Inc. Ordinary Shares"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 5.24
-quant_composite_score: 52.62
-market_cap: 294370375.0
+net_score: 6.8
+quant_composite_score: 53.4
+market_cap: 297993395.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 50028579b889f32dfd4c094abdbb6b9e6fc17fde7493faa2fb01c7ccc8fb4454
+wiki_state_hash: 1f488bf6a120512e52a6e207e6e809810b55386b088f1410de24a01b0a00c392
 ---
 
 # WhiteFiber, Inc. Ordinary Shares (WYFI)
@@ -31,12 +31,12 @@ wiki_state_hash: 50028579b889f32dfd4c094abdbb6b9e6fc17fde7493faa2fb01c7ccc8fb445
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 5.24 / 52.62 |
-| Market Cap | $294.4M (Sweet Spot $2B-$80B: No) |
-| Price | 6.50 |
+| Net Score / Quant Composite | 6.80 / 53.40 |
+| Market Cap | $298.0M (Sweet Spot $2B-$80B: No) |
+| Price | 6.58 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.458 / 0.359 |
+| Bull / Bear Edge | 0.471 / 0.343 |
 
 ## 45-DTE Options Surface
 

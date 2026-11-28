@@ -5,7 +5,7 @@ pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
 net_score: 30.0
 quant_composite_score: 65.0
-market_cap: 114664097763.0
+market_cap: 123080213088.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: a2de218f309a924f8a687f0332a570cab0f9c0a1f0ea874ee9abfe3c3e77f0b8
+wiki_state_hash: 3f8e238ea733f860338dc01f4d747800ec84b6a24d3f77e6e753987cbf2c1e58
 ---
 
 # Marvell Technology, Inc. (MRVL)
@@ -35,11 +35,11 @@ wiki_state_hash: a2de218f309a924f8a687f0332a570cab0f9c0a1f0ea874ee9abfe3c3e77f0b
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $114.66B (Sweet Spot $2B-$80B: No) |
-| Price | 130.93 |
+| Market Cap | $123.08B (Sweet Spot $2B-$80B: No) |
+| Price | 140.54 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.816 / 0.134 |
+| Bull / Bear Edge | 0.765 / 0.201 |
 
 ## 45-DTE Options Surface
 

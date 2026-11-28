@@ -3,9 +3,9 @@ ticker: FTNT
 name: "Fortinet, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 4.64
-quant_composite_score: 52.32
-market_cap: 99156426645.0
+net_score: 7.03
+quant_composite_score: 53.51
+market_cap: 102477314675.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 75c0eaf85e2171873652bebba1b21f3a502432b249a7eb3d6e0b495edb29c0e8
+wiki_state_hash: bb84a8c27ce783e87bf6ea730edcbc39f535faa4cfa1c8138d0214249f79a5ee
 ---
 
 # Fortinet, Inc. (FTNT)
@@ -32,12 +32,12 @@ wiki_state_hash: 75c0eaf85e2171873652bebba1b21f3a502432b249a7eb3d6e0b495edb29c0e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 4.64 / 52.32 |
-| Market Cap | $99.16B (Sweet Spot $2B-$80B: No) |
-| Price | 134.96 |
+| Net Score / Quant Composite | 7.03 / 53.51 |
+| Market Cap | $102.48B (Sweet Spot $2B-$80B: No) |
+| Price | 139.48 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.594 / 0.555 |
+| Bull / Bear Edge | 0.604 / 0.544 |
 
 ## 45-DTE Options Surface
 

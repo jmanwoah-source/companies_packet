@@ -3,9 +3,9 @@ ticker: ASAN
 name: "Asana, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -21.08
-quant_composite_score: 39.46
-market_cap: 2227879112.0
+net_score: -16.54
+quant_composite_score: 41.73
+market_cap: 2285121688.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: ffab6f288b435576519a9f7b7e9284107229c908aefa6a981ef50f038779f933
+wiki_state_hash: 9f5fa382ebf0b8fa3d76795daefbf874d1ab288b4a39ce1d8135f39dab40064f
 ---
 
 # Asana, Inc. (ASAN)
@@ -32,12 +32,12 @@ wiki_state_hash: ffab6f288b435576519a9f7b7e9284107229c908aefa6a981ef50f038779f93
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -21.08 / 39.46 |
-| Market Cap | $2.23B (Sweet Spot $2B-$80B: Yes) |
-| Price | 9.73 |
+| Net Score / Quant Composite | -16.54 / 41.73 |
+| Market Cap | $2.29B (Sweet Spot $2B-$80B: Yes) |
+| Price | 9.98 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.225 / 0.630 |
+| Bull / Bear Edge | 0.266 / 0.582 |
 
 ## 45-DTE Options Surface
 

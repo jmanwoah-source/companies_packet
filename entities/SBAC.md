@@ -3,9 +3,9 @@ ticker: SBAC
 name: "SBA Communications Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -12.7
-quant_composite_score: 43.65
-market_cap: 18246704440.0
+net_score: -10.39
+quant_composite_score: 44.8
+market_cap: 18549545640.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 116444b7c7f194c8d4c1b7216c757ce777e40e9148b1ed06cfc14e95b6cb30d7
+wiki_state_hash: 3c751ec74415ea04a113aa4fd10f58265dd6e245b7e36b212ee778b01c29bcae
 ---
 
 # SBA Communications Corporation (SBAC)
@@ -32,12 +32,12 @@ wiki_state_hash: 116444b7c7f194c8d4c1b7216c757ce777e40e9148b1ed06cfc14e95b6cb30d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -12.70 / 43.65 |
-| Market Cap | $18.25B (Sweet Spot $2B-$80B: Yes) |
-| Price | 174.73 |
+| Net Score / Quant Composite | -10.39 / 44.80 |
+| Market Cap | $18.55B (Sweet Spot $2B-$80B: Yes) |
+| Price | 177.63 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.301 / 0.542 |
+| Bull / Bear Edge | 0.321 / 0.518 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: PLPC
 name: "Preformed Line Products Company"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -4.26
-quant_composite_score: 47.87
-market_cap: 1279668373.0
+net_score: 0.03
+quant_composite_score: 50.02
+market_cap: 1315346225.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: a30948cf0d392b6beebeec60018d92b6a4a162cd19522f49eaaa8d9aeca08d89
+wiki_state_hash: 467daa6064d1a6245e4c8c66abd395f49d708f53dce82840fa37648a81f5b6c5
 ---
 
 # Preformed Line Products Company (PLPC)
@@ -31,12 +31,12 @@ wiki_state_hash: a30948cf0d392b6beebeec60018d92b6a4a162cd19522f49eaaa8d9aeca08d8
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -4.26 / 47.87 |
-| Market Cap | $1.28B (Sweet Spot $2B-$80B: No) |
-| Price | 262.19 |
+| Net Score / Quant Composite | 0.03 / 50.02 |
+| Market Cap | $1.32B (Sweet Spot $2B-$80B: No) |
+| Price | 269.50 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.342 / 0.423 |
+| Bull / Bear Edge | 0.376 / 0.376 |
 
 ## 45-DTE Options Surface
 

@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: 12.24
 quant_composite_score: 56.12
-market_cap: 2398724737.0
+market_cap: 2437856380.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 0c1975e5cf6407f495475addbca527b7e2ac43fefab94562029ea58f720ed1f4
+wiki_state_hash: 3b5e34f64e57c12966aeb2a17a48d591866c2077c79a45854b935885074fc983
 ---
 
 # Blackbaud, Inc. (BLKB)
@@ -33,8 +33,8 @@ wiki_state_hash: 0c1975e5cf6407f495475addbca527b7e2ac43fefab94562029ea58f720ed1f
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 12.24 / 56.12 |
-| Market Cap | $2.40B (Sweet Spot $2B-$80B: Yes) |
-| Price | 53.33 |
+| Market Cap | $2.44B (Sweet Spot $2B-$80B: Yes) |
+| Price | 54.20 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.519 / 0.287 |

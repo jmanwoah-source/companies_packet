@@ -3,9 +3,9 @@ ticker: HQ
 name: "Horizon Quantum Holdings Ltd. Class A Ordinary Shares"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -26.86
-quant_composite_score: 36.57
-market_cap: 475772049.0
+net_score: -24.22
+quant_composite_score: 37.89
+market_cap: 511523706.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ce927327cf2944a6f44e477bea70778d87792a6231883e7770003cb2cf37719c
+wiki_state_hash: a268af8a07736d07ec01701a495f7f9ad52e1a0f4b594e87ac6607fbdfa381cf
 ---
 
 # Horizon Quantum Holdings Ltd. Class A Ordinary Shares (HQ)
@@ -31,12 +31,12 @@ wiki_state_hash: ce927327cf2944a6f44e477bea70778d87792a6231883e7770003cb2cf37719
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.86 / 36.57 |
-| Market Cap | $475.8M (Sweet Spot $2B-$80B: No) |
-| Price | 8.65 |
+| Net Score / Quant Composite | -24.22 / 37.89 |
+| Market Cap | $511.5M (Sweet Spot $2B-$80B: No) |
+| Price | 9.30 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.157 / 0.677 |
+| Bull / Bear Edge | 0.179 / 0.646 |
 
 ## 45-DTE Options Surface
 

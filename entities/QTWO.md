@@ -3,9 +3,9 @@ ticker: QTWO
 name: "Q2 Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 9.91
-quant_composite_score: 54.96
-market_cap: 4302466585.0
+net_score: 7.58
+quant_composite_score: 53.79
+market_cap: 4364248127.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: de59fd5cdecb1c1f77c0c2eb2201ee3d32d2d6f318e0b4fc808aa0a393316751
+wiki_state_hash: 8f1535af941fb0f1581ac4530a55ba5ded0d79203ce818f5eb76d1f72d1582c5
 ---
 
 # Q2 Holdings, Inc. (QTWO)
@@ -32,12 +32,12 @@ wiki_state_hash: de59fd5cdecb1c1f77c0c2eb2201ee3d32d2d6f318e0b4fc808aa0a39331675
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.91 / 54.96 |
-| Market Cap | $4.30B (Sweet Spot $2B-$80B: Yes) |
-| Price | 69.64 |
+| Net Score / Quant Composite | 7.58 / 53.79 |
+| Market Cap | $4.36B (Sweet Spot $2B-$80B: Yes) |
+| Price | 70.64 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.499 / 0.311 |
+| Bull / Bear Edge | 0.478 / 0.335 |
 
 ## 45-DTE Options Surface
 

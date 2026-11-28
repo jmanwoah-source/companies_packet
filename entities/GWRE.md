@@ -3,9 +3,9 @@ ticker: GWRE
 name: "Guidewire Software, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -0.24
-quant_composite_score: 49.88
-market_cap: 12268253522.0
+net_score: 0.54
+quant_composite_score: 50.27
+market_cap: 12453347398.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/tight
-wiki_state_hash: 776986250ee91af7d7d38ccae98051936bc43f1c8832e4d1cf9164dd454f4e34
+wiki_state_hash: 37d88952cfc9221c4dd81419b882afbea93a5a1de8bcd482a4f01cf5a0789883
 ---
 
 # Guidewire Software, Inc. (GWRE)
@@ -33,12 +33,12 @@ wiki_state_hash: 776986250ee91af7d7d38ccae98051936bc43f1c8832e4d1cf9164dd454f4e3
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -0.24 / 49.88 |
-| Market Cap | $12.27B (Sweet Spot $2B-$80B: Yes) |
-| Price | 148.47 |
+| Net Score / Quant Composite | 0.54 / 50.27 |
+| Market Cap | $12.45B (Sweet Spot $2B-$80B: Yes) |
+| Price | 150.71 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / UNKNOWN |
-| Bull / Bear Edge | 0.410 / 0.414 |
+| Bull / Bear Edge | 0.417 / 0.406 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: QLYS
 name: "Qualys, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 10.69
-quant_composite_score: 55.34
-market_cap: 6855507972.0
+net_score: 2.11
+quant_composite_score: 51.05
+market_cap: 7202856502.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e70ae222a325f5ee9d35beaa874cce9423560249b249436579a064f206fa5e75
+wiki_state_hash: c871aad1b75fab7149bb02977895525261fd2699407ecbffa374c54e0dff88f2
 ---
 
 # Qualys, Inc. (QLYS)
@@ -32,12 +32,12 @@ wiki_state_hash: e70ae222a325f5ee9d35beaa874cce9423560249b249436579a064f206fa5e7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 10.69 / 55.34 |
-| Market Cap | $6.86B (Sweet Spot $2B-$80B: Yes) |
-| Price | 196.38 |
+| Net Score / Quant Composite | 2.11 / 51.05 |
+| Market Cap | $7.20B (Sweet Spot $2B-$80B: Yes) |
+| Price | 206.33 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.505 / 0.303 |
+| Bull / Bear Edge | 0.430 / 0.391 |
 
 ## 45-DTE Options Surface
 

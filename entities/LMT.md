@@ -2,10 +2,10 @@
 ticker: LMT
 name: "Lockheed Martin Corporation"
 pillar: NEXTGEN_COMPUTE
-tier: NEUTRAL
-net_score: 4.23
-quant_composite_score: 52.11
-market_cap: 138427220474.0
+tier: EMERGING_EDGE
+net_score: 50.77
+quant_composite_score: 75.39
+market_cap: 139961091283.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/qtum
   - etf/shld
   - mcap/mega_corridor
-  - tier/neutral
+  - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 8a4ec0470d3812984d568cf01a1eaa0db18172783a3dd31261987776d399f574
+wiki_state_hash: fa45b540d05da557c76cdd7dcb9a18f992948139c82b1c180c2b9c6b227c4b1b
 ---
 
 # Lockheed Martin Corporation (LMT)
@@ -32,13 +32,13 @@ wiki_state_hash: 8a4ec0470d3812984d568cf01a1eaa0db18172783a3dd31261987776d399f57
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 4.23 / 52.11 |
-| Market Cap | $138.43B (Sweet Spot $2B-$80B: No) |
-| Price | 599.24 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 50.77 / 75.39 |
+| Market Cap | $139.96B (Sweet Spot $2B-$80B: No) |
+| Price | 605.88 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.542 / 0.506 |
+| Bull / Bear Edge | 0.732 / 0.257 |
 
 ## 45-DTE Options Surface
 

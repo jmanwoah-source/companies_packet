@@ -3,9 +3,9 @@ ticker: IPGP
 name: "IPG Photonics Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 20.27
-quant_composite_score: 60.13
-market_cap: 2573867877.0
+net_score: 16.42
+quant_composite_score: 58.21
+market_cap: 2707343437.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ec5e3cbb41b6d1d674e18ea2151ee74f4521cf8cf0c3c9fef5aedc57997d2ea9
+wiki_state_hash: e5c5aa6800f82af48cce69cbb775d0cda4d917efcc49958af134835d899aec41
 ---
 
 # IPG Photonics Corporation (IPGP)
@@ -32,12 +32,12 @@ wiki_state_hash: ec5e3cbb41b6d1d674e18ea2151ee74f4521cf8cf0c3c9fef5aedc57997d2ea
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 20.27 / 60.13 |
-| Market Cap | $2.57B (Sweet Spot $2B-$80B: Yes) |
-| Price | 60.55 |
+| Net Score / Quant Composite | 16.42 / 58.21 |
+| Market Cap | $2.71B (Sweet Spot $2B-$80B: Yes) |
+| Price | 63.69 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.591 / 0.203 |
+| Bull / Bear Edge | 0.556 / 0.243 |
 
 ## 45-DTE Options Surface
 

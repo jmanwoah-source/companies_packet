@@ -3,9 +3,9 @@ ticker: WIT
 name: "Wipro Limited"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 6.26
-quant_composite_score: 53.13
-market_cap: 21470045901.0
+net_score: 3.44
+quant_composite_score: 51.72
+market_cap: 21865807427.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: ceb1d578ec986d96964dcb079d5f54580a742640c9c05917af90b7e68a352ddd
+wiki_state_hash: 3b48d9ba381b3c33bbb7b66364de0e94edf9b1dfdc4bbac7a27ef76dd2646735
 ---
 
 # Wipro Limited (WIT)
@@ -32,12 +32,12 @@ wiki_state_hash: ceb1d578ec986d96964dcb079d5f54580a742640c9c05917af90b7e68a352dd
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 6.26 / 53.13 |
-| Market Cap | $21.47B (Sweet Spot $2B-$80B: Yes) |
-| Price | 2.17 |
+| Net Score / Quant Composite | 3.44 / 51.72 |
+| Market Cap | $21.87B (Sweet Spot $2B-$80B: Yes) |
+| Price | 2.21 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.426 / 0.308 |
+| Bull / Bear Edge | 0.404 / 0.339 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: SMCI
 name: "Super Micro Computer, Inc."
 pillar: AI_INFRA
 tier: MIRAGE_SHORT
-net_score: -85.52
-quant_composite_score: 7.24
-market_cap: 15366581370.0
+net_score: -86.15
+quant_composite_score: 6.92
+market_cap: 15663233520.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 2570e28af5d3fc28d1f59d2d7b0d9d79310c0fa38d900f99118073219befef64
+wiki_state_hash: 7eac81ab1a4a5c4f03336398d62ce54fb1a6577f8a9a030e64ca68f1b942c8e7
 ---
 
 # Super Micro Computer, Inc. (SMCI)
@@ -33,12 +33,12 @@ wiki_state_hash: 2570e28af5d3fc28d1f59d2d7b0d9d79310c0fa38d900f99118073219befef6
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -85.52 / 7.24 |
-| Market Cap | $15.37B (Sweet Spot $2B-$80B: Yes) |
-| Price | 23.31 |
+| Net Score / Quant Composite | -86.15 / 6.92 |
+| Market Cap | $15.66B (Sweet Spot $2B-$80B: Yes) |
+| Price | 23.76 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.064 / 1.148 |
+| Bull / Bear Edge | 0.054 / 1.159 |
 
 ## 45-DTE Options Surface
 
@@ -61,7 +61,7 @@ wiki_state_hash: 2570e28af5d3fc28d1f59d2d7b0d9d79310c0fa38d900f99118073219befef6
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / PUT |
-| Triage / Kill Risk / Score Adj | CAUTION / 35% / -2.0 |
+| Triage / Kill Risk / Score Adj | CAUTION / 35% / -3.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | Fortress balance sheet (AltmanZ 3.45) provides downside cushion. High customer concentration creates binary risk; loss of key client could hurt, but strong cash protects against immediate distress. |
-| Tribunal Summary | Strong balance sheet (AltmanZ 3.45) contradicts distress thesis. While fundamentals are mixed (Piotroski 4), the lack of liquidity risk and fortress cash position creates a floor, making a short squeeze or rebound more plausible than a collapse. |
+| Primary Risk | Fortress balance sheet (AltmanZ 3.47) and oversold MFI (29.3) create short-squeeze/bounce risk, countering the PUT thesis despite customer concentration risks. |
+| Tribunal Summary | Strong balance sheet (AltmanZ 3.47) and oversold technicals (MFI 29.3) pose significant bear-trap risk for a PUT. While customer concentration is a valid fragility, the financial fortress status and potential for a short-squeeze rebound make this a moderate-risk short setup. |

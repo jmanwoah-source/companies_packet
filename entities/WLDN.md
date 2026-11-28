@@ -3,9 +3,9 @@ ticker: WLDN
 name: "Willdan Group, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 26.61
-quant_composite_score: 63.3
-market_cap: 1035584577.0
+net_score: 29.25
+quant_composite_score: 64.62
+market_cap: 1069148736.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3a26b94e08b139019b7de9334392ed1e2ae4b22333d13a0c1849a42ad4614db2
+wiki_state_hash: 6706c94d0ce1931648fa378403e2ddf127c949e2af73b3e863726faba6c234dc
 ---
 
 # Willdan Group, Inc. (WLDN)
@@ -31,12 +31,12 @@ wiki_state_hash: 3a26b94e08b139019b7de9334392ed1e2ae4b22333d13a0c1849a42ad4614db
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 26.61 / 63.30 |
-| Market Cap | $1.04B (Sweet Spot $2B-$80B: No) |
-| Price | 67.57 |
+| Net Score / Quant Composite | 29.25 / 64.62 |
+| Market Cap | $1.07B (Sweet Spot $2B-$80B: No) |
+| Price | 69.76 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.593 / 0.078 |
+| Bull / Bear Edge | 0.616 / 0.047 |
 
 ## 45-DTE Options Surface
 

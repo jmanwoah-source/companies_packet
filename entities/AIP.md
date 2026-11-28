@@ -3,9 +3,9 @@ ticker: AIP
 name: "Arteris, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -30.57
-quant_composite_score: 34.72
-market_cap: 822324772.0
+net_score: -28.42
+quant_composite_score: 35.79
+market_cap: 890355263.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 25296aa5f4124dc54e6ebf14960667ff106efa2e5979f02add498712ef3f6d01
+wiki_state_hash: 506e3077ff1f8e25b47191ea8d97f6cc085f6c2589163296cc2140b7a4ae776c
 ---
 
 # Arteris, Inc. (AIP)
@@ -31,12 +31,12 @@ wiki_state_hash: 25296aa5f4124dc54e6ebf14960667ff106efa2e5979f02add498712ef3f6d0
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -30.57 / 34.72 |
-| Market Cap | $822.3M (Sweet Spot $2B-$80B: No) |
-| Price | 16.56 |
+| Net Score / Quant Composite | -28.42 / 35.79 |
+| Market Cap | $890.4M (Sweet Spot $2B-$80B: No) |
+| Price | 17.93 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.137 / 0.733 |
+| Bull / Bear Edge | 0.157 / 0.709 |
 
 ## 45-DTE Options Surface
 

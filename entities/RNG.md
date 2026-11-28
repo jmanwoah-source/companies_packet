@@ -3,9 +3,9 @@ ticker: RNG
 name: "RingCentral, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 19.87
-quant_composite_score: 59.93
-market_cap: 5313467904.0
+net_score: 22.11
+quant_composite_score: 61.05
+market_cap: 5330649088.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 6735112468b3cab258cebcc52039b901a9ffcd7e3f88c6b39e7547bda04de4d7
+wiki_state_hash: 52138edc106e9d2868fd91aed1e0487a120a3c0e57a230b894ed3a9271762760
 ---
 
 # RingCentral, Inc. (RNG)
@@ -32,12 +32,12 @@ wiki_state_hash: 6735112468b3cab258cebcc52039b901a9ffcd7e3f88c6b39e7547bda04de4d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.87 / 59.93 |
-| Market Cap | $5.31B (Sweet Spot $2B-$80B: Yes) |
-| Price | 71.13 |
+| Net Score / Quant Composite | 22.11 / 61.05 |
+| Market Cap | $5.33B (Sweet Spot $2B-$80B: Yes) |
+| Price | 71.36 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.587 / 0.207 |
+| Bull / Bear Edge | 0.608 / 0.183 |
 
 ## 45-DTE Options Surface
 

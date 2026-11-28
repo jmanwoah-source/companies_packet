@@ -3,9 +3,9 @@ ticker: ROP
 name: "Roper Technologies, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 16.83
-quant_composite_score: 58.42
-market_cap: 47843494476.0
+net_score: 18.35
+quant_composite_score: 59.18
+market_cap: 47978183980.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: f1fd44299596f5e8a2a9f479763e54b3e152fc3b75a295a61b858eeb13cfe6ed
+wiki_state_hash: 8ef93ea03ee7f4224251466089498579a81eb7e65483829cc83d9859ea0dc793
 ---
 
 # Roper Technologies, Inc. (ROP)
@@ -32,12 +32,12 @@ wiki_state_hash: f1fd44299596f5e8a2a9f479763e54b3e152fc3b75a295a61b858eeb13cfe6e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 16.83 / 58.42 |
-| Market Cap | $47.84B (Sweet Spot $2B-$80B: Yes) |
-| Price | 483.09 |
+| Net Score / Quant Composite | 18.35 / 59.18 |
+| Market Cap | $47.98B (Sweet Spot $2B-$80B: Yes) |
+| Price | 484.45 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.560 / 0.239 |
+| Bull / Bear Edge | 0.574 / 0.223 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: OTEX
 name: "Open Text Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 23.59
-quant_composite_score: 61.8
-market_cap: 5726913400.0
+net_score: 24.33
+quant_composite_score: 62.16
+market_cap: 5784883000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 51240a55813f774408feba4faa4c81461659c182eb33dc60b87ea01cc07e0573
+wiki_state_hash: 01905a1230c5bb0fa5fc6110c11cc17dea91b7a10aa72cebd4c34c0228453995
 ---
 
 # Open Text Corporation (OTEX)
@@ -32,12 +32,12 @@ wiki_state_hash: 51240a55813f774408feba4faa4c81461659c182eb33dc60b87ea01cc07e057
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 23.59 / 61.80 |
-| Market Cap | $5.73B (Sweet Spot $2B-$80B: Yes) |
-| Price | 23.71 |
+| Net Score / Quant Composite | 24.33 / 62.16 |
+| Market Cap | $5.78B (Sweet Spot $2B-$80B: Yes) |
+| Price | 23.95 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.622 / 0.167 |
+| Bull / Bear Edge | 0.628 / 0.159 |
 
 ## 45-DTE Options Surface
 

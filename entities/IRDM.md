@@ -3,9 +3,9 @@ ticker: IRDM
 name: "Iridium Communications Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -3.37
-quant_composite_score: 48.31
-market_cap: 4552967474.0
+net_score: -0.64
+quant_composite_score: 49.68
+market_cap: 4675906074.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: a84d7cdd196cb1da8e251d3c0355231b6975b84dd4e5d35537ccc7f09723717f
+wiki_state_hash: 7913a5603d1aa424e274e2b99bcf2398848210db591aaaff7e992b47c9f129c4
 ---
 
 # Iridium Communications Inc. (IRDM)
@@ -32,12 +32,12 @@ wiki_state_hash: a84d7cdd196cb1da8e251d3c0355231b6975b84dd4e5d35537ccc7f09723717
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -3.37 / 48.31 |
-| Market Cap | $4.55B (Sweet Spot $2B-$80B: Yes) |
-| Price | 42.96 |
+| Net Score / Quant Composite | -0.64 / 49.68 |
+| Market Cap | $4.68B (Sweet Spot $2B-$80B: Yes) |
+| Price | 44.12 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.383 / 0.446 |
+| Bull / Bear Edge | 0.406 / 0.418 |
 
 ## 45-DTE Options Surface
 

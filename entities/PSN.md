@@ -3,9 +3,9 @@ ticker: PSN
 name: "Parsons Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 10.29
-quant_composite_score: 55.15
-market_cap: 5621007140.0
+net_score: -6.11
+quant_composite_score: 46.95
+market_cap: 5684330540.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 80d65e35907cc68f2ab874cf784e52aaea4a4b6d4b2e267796c4c03e35759c6a
+wiki_state_hash: 38c3d7efeb6cbc99f9c332c431328552d02eddb6dc324a8f0713802292ac396d
 ---
 
 # Parsons Corporation (PSN)
@@ -33,12 +33,12 @@ wiki_state_hash: 80d65e35907cc68f2ab874cf784e52aaea4a4b6d4b2e267796c4c03e35759c6
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 10.29 / 55.15 |
-| Market Cap | $5.62B (Sweet Spot $2B-$80B: Yes) |
-| Price | 53.26 |
+| Net Score / Quant Composite | -6.11 / 46.95 |
+| Market Cap | $5.68B (Sweet Spot $2B-$80B: Yes) |
+| Price | 53.86 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.502 / 0.307 |
+| Bull / Bear Edge | 0.359 / 0.474 |
 
 ## 45-DTE Options Surface
 

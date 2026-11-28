@@ -3,9 +3,9 @@ ticker: TER
 name: "Teradyne, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 33.13
-quant_composite_score: 66.56
-market_cap: 33121918750.0
+net_score: 29.02
+quant_composite_score: 64.51
+market_cap: 34809630000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -23,7 +23,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 41ebfd130c455f555856632384f905bcb33a22984e7d418674493ee1a52769f9
+wiki_state_hash: 4b25e0adfe229161ecec16efbba20adc08c543aefc5d4fd3063fa516a2ef6223
 ---
 
 # Teradyne, Inc. (TER)
@@ -34,12 +34,12 @@ wiki_state_hash: 41ebfd130c455f555856632384f905bcb33a22984e7d418674493ee1a52769f
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 33.13 / 66.56 |
-| Market Cap | $33.12B (Sweet Spot $2B-$80B: Yes) |
-| Price | 212.15 |
+| Net Score / Quant Composite | 29.02 / 64.51 |
+| Market Cap | $34.81B (Sweet Spot $2B-$80B: Yes) |
+| Price | 222.96 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.650 / 0.000 |
+| Bull / Bear Edge | 0.614 / 0.050 |
 
 ## 45-DTE Options Surface
 

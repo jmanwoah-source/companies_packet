@@ -5,7 +5,7 @@ pillar: SEMI_SUBSYSTEMS
 tier: MIRAGE_SHORT
 net_score: -84.32
 quant_composite_score: 7.84
-market_cap: 61238796880.0
+market_cap: 63817299070.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -24,7 +24,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 6e5109b5734342cb909d5ec172f3f7c4a8e9200d9e8fc3371d8b32382a8e0f15
+wiki_state_hash: e8aa29669fcae8b9a347452d1726f4cc0330e55465ba6bbbdf1829f184d8b2f9
 ---
 
 # NXP Semiconductors N.V. (NXPI)
@@ -36,8 +36,8 @@ wiki_state_hash: 6e5109b5734342cb909d5ec172f3f7c4a8e9200d9e8fc3371d8b32382a8e0f1
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -84.32 / 7.84 |
-| Market Cap | $61.24B (Sweet Spot $2B-$80B: Yes) |
-| Price | 242.96 |
+| Market Cap | $63.82B (Sweet Spot $2B-$80B: Yes) |
+| Price | 253.19 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.074 / 1.122 |
@@ -63,7 +63,7 @@ wiki_state_hash: 6e5109b5734342cb909d5ec172f3f7c4a8e9200d9e8fc3371d8b32382a8e0f1
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / PUT |
-| Triage / Kill Risk / Score Adj | FAIL / 65% / -10.0 |
+| Triage / Kill Risk / Score Adj | FAIL / 55% / -8.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | Fortress balance sheet (AltmanZ 3.64) and strong fundamentals (Piotroski 8) contradict PUT thesis. Acquisitions suggest expansion, not distress. |
-| Tribunal Summary | NXPI is a high-quality semi firm with strong balance sheet (AltmanZ 3.64) and fundamentals (Piotroski 8). Recent acquisitions (TTTech, Kinara) indicate strategic expansion into SDV/AI, not distress. PUT thesis faces severe bear-trap risk from fortress metrics. |
+| Primary Risk | Fortress balance sheet (AltmanZ 3.78) and strong fundamentals (PiotroskiF 8) provide a valuation floor and liquidity cushion, contradicting the distress thesis required for a high-conviction PUT. |
+| Tribunal Summary | The PUT thesis relies on distress, but NXPI exhibits a fortress balance sheet (AltmanZ 3.78) and strong operational fundamentals (PiotroskiF 8). While revenue declined, the company is actively acquiring (TTTech, Kinara) to drive growth in automotive/IoT. The strong financial position acts as a floor against the severe downside required for the PUT to profit, creating a significant bear-trap risk. |

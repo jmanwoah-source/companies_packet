@@ -3,9 +3,9 @@ ticker: DLR
 name: "Digital Realty Trust, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -29.86
-quant_composite_score: 35.07
-market_cap: 62964776874.0
+net_score: -33.38
+quant_composite_score: 33.31
+market_cap: 63240954769.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 27eaf45d3460408e18b0d9d7f39a09bcf1d6e1a9aad97580850f02b27903332b
+wiki_state_hash: bd7d85136ba26b4351ac09816cbee9eaa6bcbe9f7f7b4889df33a6cdc6fdd772
 ---
 
 # Digital Realty Trust, Inc. (DLR)
@@ -33,12 +33,12 @@ wiki_state_hash: 27eaf45d3460408e18b0d9d7f39a09bcf1d6e1a9aad97580850f02b27903332
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.86 / 35.07 |
-| Market Cap | $62.96B (Sweet Spot $2B-$80B: Yes) |
-| Price | 166.43 |
+| Net Score / Quant Composite | -33.38 / 33.31 |
+| Market Cap | $63.24B (Sweet Spot $2B-$80B: Yes) |
+| Price | 167.16 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.143 / 0.725 |
+| Bull / Bear Edge | 0.109 / 0.765 |
 
 ## 45-DTE Options Surface
 

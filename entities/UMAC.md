@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: GOLDEN
 net_score: 85.4
 quant_composite_score: 92.7
-market_cap: 470839119.0
+market_cap: 496794969.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 6662d35bbccd861e959b1ee1bc434ae4973ce19ca6cceb077f75937e832932e1
+wiki_state_hash: 7c5a7bbcbb880b0fc3ff1833ad833792256a672f58aa68a72c28f61cba0bdc92
 ---
 
 # Unusual Machines, Inc. (UMAC)
@@ -33,8 +33,8 @@ wiki_state_hash: 6662d35bbccd861e959b1ee1bc434ae4973ce19ca6cceb077f75937e832932e
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | GOLDEN |
 | Net Score / Quant Composite | 85.40 / 92.70 |
-| Market Cap | $470.8M (Sweet Spot $2B-$80B: No) |
-| Price | 9.07 |
+| Market Cap | $496.8M (Sweet Spot $2B-$80B: No) |
+| Price | 9.57 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 1.080 / 0.000 |
@@ -60,8 +60,7 @@ wiki_state_hash: 6662d35bbccd861e959b1ee1bc434ae4973ce19ca6cceb077f75937e832932e
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / CALL |
-| Triage / Kill Risk / Score Adj | CAUTION / 65% / -5.0 |
+| Triage / Kill Risk / Score Adj | PASS / 65% / -5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| WIP Inventory Stall | Yes — 10-K Item 1A Risk Factors: 'We have substantial inventory and the lack of sufficient purchase orders may have a material adverse effect...' |
-| Primary Risk | 10-K Item 1A explicitly flags 'substantial inventory' risk and reliance on 'significant customers', creating direct bull-trap risks for a CALL setup. |
-| Tribunal Summary | CALL setup faces thesis-breaking risk due to explicit 10-K warnings regarding substantial inventory exposure and high customer concentration. Weak Piotroski score (1/9) further undermines the bullish thesis despite strong balance sheet. |
+| Primary Risk | Explicit 10-K admission of reliance on significant customers and lack of long-term binding supplier contracts creates high concentration and supply chain fragility risk. |
+| Tribunal Summary | Strong balance sheet (AltmanZ 23.5) is undermined by weak fundamentals (Piotroski 2/9) and explicit 10-K warnings about customer concentration and lack of binding supplier contracts. Thin liquidity (THIN_RISK) exacerbates this fragility. |

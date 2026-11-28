@@ -3,9 +3,9 @@ ticker: ARQQ
 name: "Arqit Quantum Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 22.7
-quant_composite_score: 61.35
-market_cap: 192992616.0
+net_score: 8.99
+quant_composite_score: 54.5
+market_cap: 239544036.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 6766cee8c9fa8d58cb9517dcbbe1a61f603f33864d4cf72684c98085511d3fb7
+wiki_state_hash: 78d5557363b250979d0941e47767f31ab07b670d50d01bc708b9168f44446c2a
 ---
 
 # Arqit Quantum Inc. (ARQQ)
@@ -31,12 +31,12 @@ wiki_state_hash: 6766cee8c9fa8d58cb9517dcbbe1a61f603f33864d4cf72684c98085511d3fb
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.70 / 61.35 |
-| Market Cap | $193.0M (Sweet Spot $2B-$80B: No) |
-| Price | 11.09 |
+| Net Score / Quant Composite | 8.99 / 54.50 |
+| Market Cap | $239.5M (Sweet Spot $2B-$80B: No) |
+| Price | 13.77 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.590 / 0.154 |
+| Bull / Bear Edge | 0.478 / 0.308 |
 
 ## 45-DTE Options Surface
 

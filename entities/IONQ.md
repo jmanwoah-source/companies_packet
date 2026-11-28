@@ -5,7 +5,7 @@ pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
 net_score: -39.37
 quant_composite_score: 30.32
-market_cap: 10180179020.0
+market_cap: 10798601110.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 8f32f99fbac15761b6ad07974a66a9a658c3c00d3f6d983a8a4ad1d27d1c0978
+wiki_state_hash: 6afebca064d888ad62fabd39317032542e0e0ca0fbe285eafadb689ceaa86e93
 ---
 
 # IonQ, Inc. (IONQ)
@@ -33,8 +33,8 @@ wiki_state_hash: 8f32f99fbac15761b6ad07974a66a9a658c3c00d3f6d983a8a4ad1d27d1c097
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -39.37 / 30.32 |
-| Market Cap | $10.18B (Sweet Spot $2B-$80B: Yes) |
-| Price | 23.54 |
+| Market Cap | $10.80B (Sweet Spot $2B-$80B: Yes) |
+| Price | 24.97 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.045 / 0.831 |

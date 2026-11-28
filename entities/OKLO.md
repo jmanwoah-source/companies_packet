@@ -3,9 +3,9 @@ ticker: OKLO
 name: "Oklo Inc."
 pillar: ENERGY_MATERIALS
 tier: EMERGING_EDGE
-net_score: 53.52
-quant_composite_score: 76.76
-market_cap: 3802288376.0
+net_score: 50.32
+quant_composite_score: 75.16
+market_cap: 4071788014.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 6b77f58c9241c3ca60577260d4164bf3373126ac92a273451595074ed92ffd8b
+wiki_state_hash: 473fd47f4f5f1d6899e73ceb092540442035815eff67e5dfcc39b01c1db865cd
 ---
 
 # Oklo Inc. (OKLO)
@@ -33,12 +33,12 @@ wiki_state_hash: 6b77f58c9241c3ca60577260d4164bf3373126ac92a273451595074ed92ffd8
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 53.52 / 76.76 |
-| Market Cap | $3.80B (Sweet Spot $2B-$80B: Yes) |
-| Price | 19.47 |
+| Net Score / Quant Composite | 50.32 / 75.16 |
+| Market Cap | $4.07B (Sweet Spot $2B-$80B: Yes) |
+| Price | 20.85 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.741 / 0.233 |
+| Bull / Bear Edge | 0.725 / 0.254 |
 
 ## 45-DTE Options Surface
 

@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: GOLDEN
 net_score: 79.57
 quant_composite_score: 89.78
-market_cap: 25840367040.0
+market_cap: 25900697593.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 8c6b3020b0d2da2e9bf07198dc52372a3f66ad9fec8bb4494f25af92b08cab37
+wiki_state_hash: 3f9560ce05204d9e2ea27b85c008098d01eb30fb7538ff158b0684848155c5ab
 ---
 
 # Zoom Communications, Inc. (ZM)
@@ -34,8 +34,8 @@ wiki_state_hash: 8c6b3020b0d2da2e9bf07198dc52372a3f66ad9fec8bb4494f25af92b08cab3
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | GOLDEN |
 | Net Score / Quant Composite | 79.57 / 89.78 |
-| Market Cap | $25.84B (Sweet Spot $2B-$80B: Yes) |
-| Price | 88.56 |
+| Market Cap | $25.90B (Sweet Spot $2B-$80B: Yes) |
+| Price | 89.44 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 1.075 / 0.151 |
@@ -61,7 +61,7 @@ wiki_state_hash: 8c6b3020b0d2da2e9bf07198dc52372a3f66ad9fec8bb4494f25af92b08cab3
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / CALL |
-| Triage / Kill Risk / Score Adj | CAUTION / 35% / -2.0 |
+| Triage / Kill Risk / Score Adj | PASS / 35% / -2.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | PiotroskiF=5 indicates mixed fundamentals; 10-K explicitly warns of revenue growth fluctuation and renewal risks due to macro/competition, capping bull case conviction. |
-| Tribunal Summary | Call setup faces headwinds from mixed fundamentals (Piotroski 5/9) and explicit 10-K warnings on renewal risk and macro sensitivity. Thin options liquidity adds execution risk. No dilution or balance sheet distress, but growth sustainability is the primary thesis threat. |
+| Primary Risk | PiotroskiF 5/9 indicates mixed fundamentals. Risk factors explicitly warn of churn, budget consolidation, and growth decline. No customer data to verify concentration. |
+| Tribunal Summary | Fortress balance sheet (AltmanZ 9.72) supports CALL, but PiotroskiF 5/9 and explicit risk warnings regarding customer churn, IT budget cuts, and growth deceleration create moderate thesis risk. Thin short wing adds gamma risk. |

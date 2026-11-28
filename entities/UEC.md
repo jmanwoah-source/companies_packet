@@ -3,9 +3,9 @@ ticker: UEC
 name: "Uranium Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 9.92
-quant_composite_score: 54.96
-market_cap: 2819876744.0
+net_score: -7.23
+quant_composite_score: 46.38
+market_cap: 2963596297.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 440c507ea3552537c6a553458bcc3a0a4db1763d542796a2697d69e2df9193bc
+wiki_state_hash: 1190958254ca0a9debf08ff9adde7b1759f635145ac25b229c9fcd8a7230458f
 ---
 
 # Uranium Energy Corp. (UEC)
@@ -32,12 +32,12 @@ wiki_state_hash: 440c507ea3552537c6a553458bcc3a0a4db1763d542796a2697d69e2df9193b
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 9.92 / 54.96 |
-| Market Cap | $2.82B (Sweet Spot $2B-$80B: Yes) |
-| Price | 5.69 |
+| Net Score / Quant Composite | -7.23 / 46.38 |
+| Market Cap | $2.96B (Sweet Spot $2B-$80B: Yes) |
+| Price | 5.98 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.485 / 0.297 |
+| Bull / Bear Edge | 0.349 / 0.485 |
 
 ## 45-DTE Options Surface
 

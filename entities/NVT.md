@@ -3,9 +3,9 @@ ticker: NVT
 name: "nVent Electric plc"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 19.84
-quant_composite_score: 59.92
-market_cap: 16759334803.0
+net_score: 24.03
+quant_composite_score: 62.02
+market_cap: 17366943508.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 6c913310b67bceba9da810fa65762e138b67511899a5571a14ad7023d80b5f06
+wiki_state_hash: 2189bc4b61f4464f97029eab05e23eba403fef41934e9e42eaa87e63763e02bd
 ---
 
 # nVent Electric plc (NVT)
@@ -33,12 +33,12 @@ wiki_state_hash: 6c913310b67bceba9da810fa65762e138b67511899a5571a14ad7023d80b5f0
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.84 / 59.92 |
-| Market Cap | $16.76B (Sweet Spot $2B-$80B: Yes) |
-| Price | 103.71 |
+| Net Score / Quant Composite | 24.03 / 62.02 |
+| Market Cap | $17.37B (Sweet Spot $2B-$80B: Yes) |
+| Price | 107.47 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.601 / 0.430 |
+| Bull / Bear Edge | 0.617 / 0.408 |
 
 ## 45-DTE Options Surface
 

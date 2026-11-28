@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: NEUTRAL
 net_score: -37.15
 quant_composite_score: 31.42
-market_cap: 71659586.0
+market_cap: 77088342.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: c111b0a15987e0f8a875b9860f6bb4a49e30b47570b112f41b2d803c81128eae
+wiki_state_hash: de9150731080e2132f47812bb88dd43b5cfbce3e7966e1f87277d8e437eae903
 ---
 
 # Swarmer, Inc Common Stock (SWMR)
@@ -32,8 +32,8 @@ wiki_state_hash: c111b0a15987e0f8a875b9860f6bb4a49e30b47570b112f41b2d803c81128ea
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -37.15 / 31.42 |
-| Market Cap | $71.7M (Sweet Spot $2B-$80B: No) |
-| Price | 6.60 |
+| Market Cap | $77.1M (Sweet Spot $2B-$80B: No) |
+| Price | 7.10 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.072 / 0.809 |

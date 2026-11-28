@@ -3,9 +3,9 @@ ticker: INFQ
 name: "Infleqtion Inc"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -10.6
-quant_composite_score: 44.7
-market_cap: 1468342673.0
+net_score: -18.86
+quant_composite_score: 40.57
+market_cap: 1595040962.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 55a4fcb60106889e56e8bbd7969e7c7a648f4d515041d23e2d602058b6bfedc4
+wiki_state_hash: 43926668143e964e66f89d1785bf2aee7070ab30133adc4ffbd236dfa2e2ce87
 ---
 
 # Infleqtion Inc (INFQ)
@@ -31,12 +31,12 @@ wiki_state_hash: 55a4fcb60106889e56e8bbd7969e7c7a648f4d515041d23e2d602058b6bfedc
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -10.60 / 44.70 |
-| Market Cap | $1.47B (Sweet Spot $2B-$80B: No) |
-| Price | 6.49 |
+| Net Score / Quant Composite | -18.86 / 40.57 |
+| Market Cap | $1.60B (Sweet Spot $2B-$80B: No) |
+| Price | 7.05 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.291 / 0.492 |
+| Bull / Bear Edge | 0.224 / 0.585 |
 
 ## 45-DTE Options Surface
 

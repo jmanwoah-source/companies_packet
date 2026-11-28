@@ -3,9 +3,9 @@ ticker: DLB
 name: "Dolby Laboratories, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 35.86
-quant_composite_score: 67.93
-market_cap: 5323197677.0
+net_score: 34.49
+quant_composite_score: 67.24
+market_cap: 5443093445.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: bd4a1bbc5cdabf492c88e27d8be134464831100c93dfc88e9b557182590cfb71
+wiki_state_hash: 3e6ec1835404eb37031568f3786c749d56e13e7396f80c039bdabfa40a2b764a
 ---
 
 # Dolby Laboratories, Inc. (DLB)
@@ -32,12 +32,12 @@ wiki_state_hash: bd4a1bbc5cdabf492c88e27d8be134464831100c93dfc88e9b557182590cfb7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 35.86 / 67.93 |
-| Market Cap | $5.32B (Sweet Spot $2B-$80B: Yes) |
-| Price | 56.83 |
+| Net Score / Quant Composite | 34.49 / 67.24 |
+| Market Cap | $5.44B (Sweet Spot $2B-$80B: Yes) |
+| Price | 58.11 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.788 / 0.080 |
+| Bull / Bear Edge | 0.775 / 0.096 |
 
 ## 45-DTE Options Surface
 

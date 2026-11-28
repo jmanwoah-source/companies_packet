@@ -3,9 +3,9 @@ ticker: SOUN
 name: "SoundHound AI, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -81.84
-quant_composite_score: 9.08
-market_cap: 1205744410.0
+net_score: -81.15
+quant_composite_score: 9.42
+market_cap: 1267285240.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: d1822dab2747114db1b6148ce0b3469f339d153a7af6bd347fb18a4a598255b4
+wiki_state_hash: de204f513e20040d562f9a96cf4fc4f93289c2a809e1cbeb61b5d01663e862ae
 ---
 
 # SoundHound AI, Inc. (SOUN)
@@ -32,12 +32,12 @@ wiki_state_hash: d1822dab2747114db1b6148ce0b3469f339d153a7af6bd347fb18a4a598255b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -81.84 / 9.08 |
-| Market Cap | $1.21B (Sweet Spot $2B-$80B: No) |
-| Price | 2.65 |
+| Net Score / Quant Composite | -81.15 / 9.42 |
+| Market Cap | $1.27B (Sweet Spot $2B-$80B: No) |
+| Price | 2.78 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / OK |
-| Bull / Bear Edge | 0.052 / 1.031 |
+| Bull / Bear Edge | 0.060 / 1.022 |
 
 ## 45-DTE Options Surface
 

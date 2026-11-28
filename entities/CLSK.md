@@ -3,9 +3,9 @@ ticker: CLSK
 name: "CleanSpark, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -83.24
-quant_composite_score: 8.38
-market_cap: 1330312060.0
+net_score: -83.96
+quant_composite_score: 8.02
+market_cap: 1341625089.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 3c871cf4b5f99f68b9bc95dd99813c18a425a3d3c5e57baf8a12c89fa8ca9fac
+wiki_state_hash: b28f3791a5e201f1ab1cb74074f5087c801e677ded39660fc72d8cb85852175a
 ---
 
 # CleanSpark, Inc. (CLSK)
@@ -32,12 +32,12 @@ wiki_state_hash: 3c871cf4b5f99f68b9bc95dd99813c18a425a3d3c5e57baf8a12c89fa8ca9fa
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -83.24 / 8.38 |
-| Market Cap | $1.33B (Sweet Spot $2B-$80B: No) |
-| Price | 5.18 |
+| Net Score / Quant Composite | -83.96 / 8.02 |
+| Market Cap | $1.34B (Sweet Spot $2B-$80B: No) |
+| Price | 5.15 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.159 / 1.175 |
+| Bull / Bear Edge | 0.149 / 1.186 |
 
 ## 45-DTE Options Surface
 

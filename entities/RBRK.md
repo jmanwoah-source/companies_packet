@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -30.0
 quant_composite_score: 35.0
-market_cap: 22223309407.0
+market_cap: 23235987380.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 269fabb1dba7057ca83716358b92ca1fc13fc1f9f2ade912560ac492eaf81655
+wiki_state_hash: c35abc92b17ed8983bb4a85250fdf8d6042ba498f46eeba5d25a5d50e914c420
 ---
 
 # Rubrik, Inc. (RBRK)
@@ -34,8 +34,8 @@ wiki_state_hash: 269fabb1dba7057ca83716358b92ca1fc13fc1f9f2ade912560ac492eaf8165
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -30.00 / 35.00 |
-| Market Cap | $22.22B (Sweet Spot $2B-$80B: Yes) |
-| Price | 107.97 |
+| Market Cap | $23.24B (Sweet Spot $2B-$80B: Yes) |
+| Price | 112.89 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.104 / 0.928 |

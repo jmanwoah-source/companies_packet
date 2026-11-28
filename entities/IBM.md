@@ -3,9 +3,9 @@ ticker: IBM
 name: "International Business Machines Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -32.4
-quant_composite_score: 33.8
-market_cap: 230108562393.0
+net_score: -22.01
+quant_composite_score: 38.99
+market_cap: 234465569304.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 530284d3c26dbcbf6e671df2988fc57404d77f6760a42e19bb456d3e669616f1
+wiki_state_hash: d366e0a5a72731ce1c0972aa9e270f99d6851ed90db8e8937a5e5e11f6e6d551
 ---
 
 # International Business Machines Corporation (IBM)
@@ -33,12 +33,12 @@ wiki_state_hash: 530284d3c26dbcbf6e671df2988fc57404d77f6760a42e19bb456d3e669616f
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -32.40 / 33.80 |
-| Market Cap | $230.11B (Sweet Spot $2B-$80B: No) |
-| Price | 243.47 |
+| Net Score / Quant Composite | -22.01 / 38.99 |
+| Market Cap | $234.47B (Sweet Spot $2B-$80B: No) |
+| Price | 248.08 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.322 / 0.608 |
+| Bull / Bear Edge | 0.362 / 0.553 |
 
 ## 45-DTE Options Surface
 

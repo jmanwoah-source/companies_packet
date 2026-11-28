@@ -5,8 +5,8 @@ pillar: PHYSICAL_AI_ROBOTICS
 tier: MIRAGE_SHORT
 net_score: -85.4
 quant_composite_score: 7.3
-market_cap: 1881137045.0
-execution_sweet_spot: false
+market_cap: 2060710081.0
+execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
 structure_hint: "DEBIT_SPREAD_45D"
@@ -17,11 +17,12 @@ related_links: []
 tags:
   - pillar/physical_ai_robotics
   - etf/robo
-  - mcap/small
+  - mcap/mid
+  - mcap/sweet_spot_2b_80b
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 1a1a72e34c2b2351609c79a64dcbf0094dd1dd2d353f8b1234d60d5a42063ec0
+wiki_state_hash: f6500991a2ac2fa6cd196e8049ba0399927b30fcceaee6143eed3935c61e83aa
 ---
 
 # Ouster, Inc. (OUST)
@@ -33,8 +34,8 @@ wiki_state_hash: 1a1a72e34c2b2351609c79a64dcbf0094dd1dd2d353f8b1234d60d5a42063ec
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -85.40 / 7.30 |
-| Market Cap | $1.88B (Sweet Spot $2B-$80B: No) |
-| Price | 25.77 |
+| Market Cap | $2.06B (Sweet Spot $2B-$80B: Yes) |
+| Price | 28.23 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.066 / 1.146 |
@@ -60,7 +61,7 @@ wiki_state_hash: 1a1a72e34c2b2351609c79a64dcbf0094dd1dd2d353f8b1234d60d5a42063ec
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / PUT |
-| Triage / Kill Risk / Score Adj | CAUTION / 35% / -5.0 |
+| Triage / Kill Risk / Score Adj | CAUTION / 55% / -5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | Fortress balance sheet (AltmanZ 10.59) provides runway to survive, creating short-squeeze risk despite operational losses. |
-| Tribunal Summary | While fundamentals are terrible (losses, deficit), the massive cash reserve (implied by high AltmanZ) acts as a put option for management, allowing them to burn cash for growth without immediate bankruptcy risk, supporting short-term price floors. |
+| Primary Risk | AltmanZ=12.13 indicates a fortress balance sheet, contradicting the distress thesis. High cash reserves provide a fundamental floor, increasing the risk of a short squeeze or valuation rebound despite ongoing losses. |
+| Tribunal Summary | The PUT thesis relies on financial distress, but Ouster's AltmanZ of 12.13 signals extreme financial safety. This fortress balance sheet negates the distress catalyst, creating a significant bear-trap risk where the stock may hold firm or rebound due to lack of bankruptcy risk. |

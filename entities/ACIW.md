@@ -3,9 +3,9 @@ ticker: ACIW
 name: "ACI Worldwide, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -1.02
-quant_composite_score: 49.49
-market_cap: 5131987900.0
+net_score: -14.25
+quant_composite_score: 42.88
+market_cap: 5234186800.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: f918bc8bf992ef82db7276da7e60f34ce993827404de60517eace22a50df9a79
+wiki_state_hash: 28af42b67d794adea39b49886f4cc9c0f2466a7d300e986d9da70a11f7a3ff3a
 ---
 
 # ACI Worldwide, Inc. (ACIW)
@@ -32,12 +32,12 @@ wiki_state_hash: f918bc8bf992ef82db7276da7e60f34ce993827404de60517eace22a50df9a7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.02 / 49.49 |
-| Market Cap | $5.13B (Sweet Spot $2B-$80B: Yes) |
-| Price | 51.22 |
+| Net Score / Quant Composite | -14.25 / 42.88 |
+| Market Cap | $5.23B (Sweet Spot $2B-$80B: Yes) |
+| Price | 52.24 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.403 / 0.422 |
+| Bull / Bear Edge | 0.287 / 0.558 |
 
 ## 45-DTE Options Surface
 

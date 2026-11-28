@@ -2,10 +2,10 @@
 ticker: CDNS
 name: "Cadence Design Systems, Inc."
 pillar: SEMI_SUBSYSTEMS
-tier: NEUTRAL
-net_score: -58.92
-quant_composite_score: 20.54
-market_cap: 80911623310.0
+tier: WATCHLIST
+net_score: -67.24
+quant_composite_score: 16.38
+market_cap: 83386521890.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,10 +21,10 @@ tags:
   - etf/robo
   - etf/smh
   - mcap/mega_corridor
-  - tier/neutral
+  - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 7fa3ce2cdf1ab4de42c1f73c288898e24ee01c8741a882f4e51b1201b00d02f7
+wiki_state_hash: 4bb5c4fccde2d1f17d60848263d6dbb6bce6ab70eced3f9b1cc67794845edb47
 ---
 
 # Cadence Design Systems, Inc. (CDNS)
@@ -34,13 +34,13 @@ wiki_state_hash: 7fa3ce2cdf1ab4de42c1f73c288898e24ee01c8741a882f4e51b1201b00d02f
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | -58.92 / 20.54 |
-| Market Cap | $80.91B (Sweet Spot $2B-$80B: No) |
-| Price | 294.89 |
+| Tier | WATCHLIST |
+| Net Score / Quant Composite | -67.24 / 16.38 |
+| Market Cap | $83.39B (Sweet Spot $2B-$80B: No) |
+| Price | 303.91 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.278 / 0.853 |
+| Bull / Bear Edge | 0.228 / 0.920 |
 
 ## 45-DTE Options Surface
 

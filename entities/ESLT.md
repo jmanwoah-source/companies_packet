@@ -3,9 +3,9 @@ ticker: ESLT
 name: "Elbit Systems Ltd."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -8.84
-quant_composite_score: 45.58
-market_cap: 31036562227.0
+net_score: -11.55
+quant_composite_score: 44.22
+market_cap: 32132194905.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: a77a1ce36886e0af544b2e22c2ed7f3728c4b8fd101b8847285af8d8d886623c
+wiki_state_hash: b51e8f41a8ee1bed47c9e48348e0c7e87713e6d43fb588d485c233f72e12f19f
 ---
 
 # Elbit Systems Ltd. (ESLT)
@@ -33,12 +33,12 @@ wiki_state_hash: a77a1ce36886e0af544b2e22c2ed7f3728c4b8fd101b8847285af8d8d886623
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -8.84 / 45.58 |
-| Market Cap | $31.04B (Sweet Spot $2B-$80B: Yes) |
-| Price | 662.03 |
+| Net Score / Quant Composite | -11.55 / 44.22 |
+| Market Cap | $32.13B (Sweet Spot $2B-$80B: Yes) |
+| Price | 685.40 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.335 / 0.502 |
+| Bull / Bear Edge | 0.311 / 0.530 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: SEDG
 name: "SolarEdge Technologies, Inc."
 pillar: ENERGY_MATERIALS
 tier: MIRAGE_SHORT
-net_score: -73.39
-quant_composite_score: 13.31
-market_cap: 1219713680.0
+net_score: -71.61
+quant_composite_score: 14.2
+market_cap: 1300202400.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 15f037cc095c8239fe54fd571c0294c6a9bcbe85e5a1ce7a8745da053dcf379f
+wiki_state_hash: 4e6297d2fd1424f177f5281ec1e3d3d592b1750511c626869e616846debbfbb6
 ---
 
 # SolarEdge Technologies, Inc. (SEDG)
@@ -32,12 +32,12 @@ wiki_state_hash: 15f037cc095c8239fe54fd571c0294c6a9bcbe85e5a1ce7a8745da053dcf379
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -73.39 / 13.31 |
-| Market Cap | $1.22B (Sweet Spot $2B-$80B: No) |
-| Price | 19.70 |
+| Net Score / Quant Composite | -71.61 / 14.20 |
+| Market Cap | $1.30B (Sweet Spot $2B-$80B: No) |
+| Price | 21.00 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.124 / 0.921 |
+| Bull / Bear Edge | 0.138 / 0.903 |
 
 ## 45-DTE Options Surface
 
@@ -62,6 +62,6 @@ wiki_state_hash: 15f037cc095c8239fe54fd571c0294c6a9bcbe85e5a1ce7a8745da053dcf379
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Customer Concentration | 18.6% |
-| Primary Risk | No bear traps. AltmanZ 0.33 confirms severe distress. No fortress cash, no major catalyst floor, weak fundamentals support PUT. |
-| Tribunal Summary | SEDG shows classic distress: AltmanZ 0.33, net losses, and demand slowdown. No evidence of turnaround, fortress balance sheet, or short-squeeze catalyst. PUT thesis is supported by fundamental fragility. |
+| Customer Concentration | 35.8% |
+| Primary Risk | No bear traps. Deep distress (AltmanZ 0.39), massive loss reduction but still negative, gross profit turnaround insufficient to offset net loss. Demand slowdown confirms fragility. |
+| Tribunal Summary | PUT thesis strongly supported by AltmanZ 0.39 distress and net losses. While gross profit improved to 16.6%, the company remains unprofitable with a $405M net loss. Demand slowdown is explicitly cited. No fortress balance sheet or short-squeeze catalysts detected. |

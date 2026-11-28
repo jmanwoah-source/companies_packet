@@ -3,9 +3,9 @@ ticker: SAIC
 name: "Science Applications International Corporation"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 28.7
-quant_composite_score: 64.35
-market_cap: 6217609034.0
+net_score: 26.17
+quant_composite_score: 63.09
+market_cap: 6335760365.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 9dbb579d4c077c3552450558880118d0f5f92cb764924becf4c3730fe43fe805
+wiki_state_hash: e5187d66fbf5a3dcbf14a9971c81c7a412335bb9857796af5dedb4cbd8b67753
 ---
 
 # Science Applications International Corporation (SAIC)
@@ -32,12 +32,12 @@ wiki_state_hash: 9dbb579d4c077c3552450558880118d0f5f92cb764924becf4c3730fe43fe80
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 28.70 / 64.35 |
-| Market Cap | $6.22B (Sweet Spot $2B-$80B: Yes) |
-| Price | 148.40 |
+| Net Score / Quant Composite | 26.17 / 63.09 |
+| Market Cap | $6.34B (Sweet Spot $2B-$80B: Yes) |
+| Price | 151.22 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.669 / 0.112 |
+| Bull / Bear Edge | 0.645 / 0.139 |
 
 ## 45-DTE Options Surface
 

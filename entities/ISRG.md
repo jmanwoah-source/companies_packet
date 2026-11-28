@@ -3,9 +3,9 @@ ticker: ISRG
 name: "Intuitive Surgical, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: GOLDEN
-net_score: 71.8
-quant_composite_score: 85.9
-market_cap: 148079383920.0
+net_score: 65.35
+quant_composite_score: 82.67
+market_cap: 149119315920.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: fdd9831fe7d21f2aa7ea1e0a9418f4e0889ab19303b781e17294670c92fb4673
+wiki_state_hash: 715a6058362bb496c81c4ffbea06d935695611ddecc6692b05066ea3d1183148
 ---
 
 # Intuitive Surgical, Inc. (ISRG)
@@ -32,12 +32,12 @@ wiki_state_hash: fdd9831fe7d21f2aa7ea1e0a9418f4e0889ab19303b781e17294670c92fb467
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 71.80 / 85.90 |
-| Market Cap | $148.08B (Sweet Spot $2B-$80B: No) |
-| Price | 427.18 |
+| Net Score / Quant Composite | 65.35 / 82.67 |
+| Market Cap | $149.12B (Sweet Spot $2B-$80B: No) |
+| Price | 430.18 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.933 / 0.165 |
+| Bull / Bear Edge | 0.884 / 0.220 |
 
 ## 45-DTE Options Surface
 
@@ -60,7 +60,7 @@ wiki_state_hash: fdd9831fe7d21f2aa7ea1e0a9418f4e0889ab19303b781e17294670c92fb467
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / CALL |
-| Triage / Kill Risk / Score Adj | CAUTION / 15% / +0.0 |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | No material thesis-breaking flaws found. Balance sheet is strong, fundamentals are robust, and no dilution or churn risks identified in the provided 10-K text. |
-| Tribunal Summary | Call setup supported by strong financials and oversold metrics. Risks are minimal; no dilution, churn, or margin compression evident in the 10-K. Seasonality and capital cycle risks are standard for the sector. |
+| Primary Risk | No bull traps detected. Strong balance sheet, diversified customer base, no WIP stall, and no dilution risks found. |
+| Tribunal Summary | CALL thesis is robust. Intuitive Surgical exhibits fortress-like financials with an AltmanZ of 29.58 and strong Piotroski score. The business model relies on recurring instrument sales rather than one-off capital equipment, creating sticky revenue. No evidence of customer concentration, inventory bloat, or dilution. The primary risk is macroeconomic pressure on hospital capital spending, but the s |

@@ -2,10 +2,10 @@
 ticker: AMSC
 name: "American Superconductor Corporation"
 pillar: ENERGY_MATERIALS
-tier: WATCHLIST
-net_score: -66.84
-quant_composite_score: 16.58
-market_cap: 1028700860.0
+tier: MIRAGE_SHORT
+net_score: -73.5
+quant_composite_score: 13.25
+market_cap: 1113497210.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -18,10 +18,10 @@ tags:
   - pillar/energy_materials
   - etf/grid
   - mcap/small
-  - tier/watchlist
+  - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 57959d22256143c9f46e0cce7cf1e1a04718f845ddcb67115a3dea3d1d5df9b0
+wiki_state_hash: 0c9114d8500e0ef83d3f07ae5b67b3f0e54b3afaf9da063de39334921f1f4d01
 ---
 
 # American Superconductor Corporation (AMSC)
@@ -31,13 +31,13 @@ wiki_state_hash: 57959d22256143c9f46e0cce7cf1e1a04718f845ddcb67115a3dea3d1d5df9b
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
-| Tier | WATCHLIST |
-| Net Score / Quant Composite | -66.84 / 16.58 |
-| Market Cap | $1.03B (Sweet Spot $2B-$80B: No) |
-| Price | 21.23 |
+| Tier | MIRAGE_SHORT |
+| Net Score / Quant Composite | -73.50 / 13.25 |
+| Market Cap | $1.11B (Sweet Spot $2B-$80B: No) |
+| Price | 22.98 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.230 / 0.917 |
+| Bull / Bear Edge | 0.182 / 0.980 |
 
 ## 45-DTE Options Surface
 
@@ -54,3 +54,13 @@ wiki_state_hash: 57959d22256143c9f46e0cce7cf1e1a04718f845ddcb67115a3dea3d1d5df9b
 
 - Earnings: None scheduled in window
 - Constituent ETFs: GRID (0.14%)
+
+## Adversarial Red Team
+
+| Field | Value |
+|---|---|
+| As-Of / Direction | 2026-11-28 / PUT |
+| Triage / Kill Risk / Score Adj | PASS / 35% / -2.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | Moderate risk: Recent M&A (Comtrafo/Megatran) may provide hidden revenue floor or operational synergy, offsetting weak fundamentals. |
+| Tribunal Summary | Weak fundamentals (Piotroski 3/9) support PUT, but recent acquisitions and government contract exposure create potential support levels. Backlog is not guaranteed revenue. |

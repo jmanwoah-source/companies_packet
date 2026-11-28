@@ -3,9 +3,9 @@ ticker: AZZ
 name: "AZZ Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 21.2
-quant_composite_score: 60.6
-market_cap: 3767280520.0
+net_score: 25.27
+quant_composite_score: 62.63
+market_cap: 3825629980.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e12f6d1e1053df5f46effeec7058ffcfde11df81eb5f4183325563f873a943aa
+wiki_state_hash: 2d4c5039c5bdd1166006bfadd57a185a00cb9c57128e1a0945e5f5e3c1a17bd9
 ---
 
 # AZZ Inc. (AZZ)
@@ -32,12 +32,12 @@ wiki_state_hash: e12f6d1e1053df5f46effeec7058ffcfde11df81eb5f4183325563f873a943a
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 21.20 / 60.60 |
-| Market Cap | $3.77B (Sweet Spot $2B-$80B: Yes) |
-| Price | 125.90 |
+| Net Score / Quant Composite | 25.27 / 62.63 |
+| Market Cap | $3.83B (Sweet Spot $2B-$80B: Yes) |
+| Price | 127.85 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.548 / 0.141 |
+| Bull / Bear Edge | 0.582 / 0.094 |
 
 ## 45-DTE Options Surface
 

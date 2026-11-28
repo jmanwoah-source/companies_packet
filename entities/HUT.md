@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: WATCHLIST
 net_score: -80.3
 quant_composite_score: 9.85
-market_cap: 5861455540.0
+market_cap: 6297193480.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 8517f28bb4db7ce72032ae39a8d0c5b5782a579d4951915e4f75b3def48f3f65
+wiki_state_hash: c36816e8786cb12e6aea56f35901f9330193b4ba78abf69115532c6b16e57d43
 ---
 
 # Hut 8 Corp. (HUT)
@@ -34,8 +34,8 @@ wiki_state_hash: 8517f28bb4db7ce72032ae39a8d0c5b5782a579d4951915e4f75b3def48f3f6
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
 | Net Score / Quant Composite | -80.30 / 9.85 |
-| Market Cap | $5.86B (Sweet Spot $2B-$80B: Yes) |
-| Price | 48.83 |
+| Market Cap | $6.30B (Sweet Spot $2B-$80B: Yes) |
+| Price | 52.46 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.132 / 1.073 |

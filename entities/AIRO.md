@@ -3,9 +3,9 @@ ticker: AIRO
 name: "AIRO Group Holdings, Inc. Common Stock"
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 7.58
-quant_composite_score: 53.79
-market_cap: 103536615.0
+net_score: 18.35
+quant_composite_score: 59.18
+market_cap: 102580892.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 82d6da6d8c10ea9f48504d6193ec187b5ec4a35275c408d7f404e101d62b81db
+wiki_state_hash: 45606f868eef495c79ed929725f5735fdfbcffb868cd1dfd521dbedfceb8e6d4
 ---
 
 # AIRO Group Holdings, Inc. Common Stock (AIRO)
@@ -31,12 +31,12 @@ wiki_state_hash: 82d6da6d8c10ea9f48504d6193ec187b5ec4a35275c408d7f404e101d62b81d
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 7.58 / 53.79 |
-| Market Cap | $103.5M (Sweet Spot $2B-$80B: No) |
-| Price | 3.25 |
+| Net Score / Quant Composite | 18.35 / 59.18 |
+| Market Cap | $102.6M (Sweet Spot $2B-$80B: No) |
+| Price | 3.22 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.478 / 0.335 |
+| Bull / Bear Edge | 0.574 / 0.223 |
 
 ## 45-DTE Options Surface
 

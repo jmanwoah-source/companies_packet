@@ -5,8 +5,8 @@ pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
 net_score: -21.11
 quant_composite_score: 39.44
-market_cap: 77630088928.0
-execution_sweet_spot: true
+market_cap: 80500805885.0
+execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
 structure_hint: "SINGLE_LEG_45D"
@@ -19,12 +19,11 @@ tags:
   - etf/igv
   - etf/qtum
   - etf/smh
-  - mcap/large
-  - mcap/sweet_spot_2b_80b
+  - mcap/mega_corridor
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: b1ac2740f15df8cc6f7f8621ceb96a40b4a977a6d8e31b4d8ba72be2b5ac7d3c
+wiki_state_hash: cd7f47568aa904dfe1861f70d23740d2754211e5ff8b150354b1ad0f4e874912
 ---
 
 # Synopsys, Inc. (SNPS)
@@ -36,8 +35,8 @@ wiki_state_hash: b1ac2740f15df8cc6f7f8621ceb96a40b4a977a6d8e31b4d8ba72be2b5ac7d3
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -21.11 / 39.44 |
-| Market Cap | $77.63B (Sweet Spot $2B-$80B: Yes) |
-| Price | 405.09 |
+| Market Cap | $80.50B (Sweet Spot $2B-$80B: No) |
+| Price | 420.07 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
 | Bull / Bear Edge | 0.401 / 0.583 |

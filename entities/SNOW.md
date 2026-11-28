@@ -5,7 +5,7 @@ pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
 net_score: -30.0
 quant_composite_score: 35.0
-market_cap: 94451616000.0
+market_cap: 97475112000.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 4c239a3d42e7dc025e245e467a598f58787ab95dbefc7ceddae4b87d0b329e41
+wiki_state_hash: f82355ff5b628ed52b00c4fd3cfe5ad4e729f6f9b14a74f72e7dd0446cff7209
 ---
 
 # Snowflake Inc. (SNOW)
@@ -33,11 +33,11 @@ wiki_state_hash: 4c239a3d42e7dc025e245e467a598f58787ab95dbefc7ceddae4b87d0b329e4
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -30.00 / 35.00 |
-| Market Cap | $94.45B (Sweet Spot $2B-$80B: No) |
-| Price | 267.72 |
+| Market Cap | $97.48B (Sweet Spot $2B-$80B: No) |
+| Price | 276.29 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.132 / 0.869 |
+| Bull / Bear Edge | 0.158 / 0.833 |
 
 ## 45-DTE Options Surface
 

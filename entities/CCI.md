@@ -3,9 +3,9 @@ ticker: CCI
 name: "Crown Castle Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -64.31
-quant_composite_score: 17.85
-market_cap: 35582991836.0
+net_score: -66.65
+quant_composite_score: 16.67
+market_cap: 35825516114.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: b810e39667b8fede080e3088feeb16dfa358bb975bbb182b3b750c015028ed80
+wiki_state_hash: 1643489bfc8903fdcb19fcdded7974e27e2869b971270af950f634666198f19b
 ---
 
 # Crown Castle Inc. (CCI)
@@ -33,12 +33,12 @@ wiki_state_hash: b810e39667b8fede080e3088feeb16dfa358bb975bbb182b3b750c015028ed8
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -64.31 / 17.85 |
-| Market Cap | $35.58B (Sweet Spot $2B-$80B: Yes) |
-| Price | 83.63 |
+| Net Score / Quant Composite | -66.65 / 16.67 |
+| Market Cap | $35.83B (Sweet Spot $2B-$80B: Yes) |
+| Price | 84.20 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.190 / 0.839 |
+| Bull / Bear Edge | 0.174 / 0.858 |
 
 ## 45-DTE Options Surface
 

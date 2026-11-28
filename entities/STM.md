@@ -3,9 +3,9 @@ ticker: STM
 name: "STMicroelectronics N.V."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: 10.71
-quant_composite_score: 55.36
-market_cap: 35475747556.0
+net_score: -3.13
+quant_composite_score: 48.44
+market_cap: 36592527142.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -24,7 +24,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: fb48e3f0f51bc289b7b605fcb03c242cb30b470510892a35ce20bd7d8a86e59b
+wiki_state_hash: c0bf93faa723faac0291bfd6f91d60bbc1e93d7abf49c40c903a32182a1013b1
 ---
 
 # STMicroelectronics N.V. (STM)
@@ -35,12 +35,12 @@ wiki_state_hash: fb48e3f0f51bc289b7b605fcb03c242cb30b470510892a35ce20bd7d8a86e59
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 10.71 / 55.36 |
-| Market Cap | $35.48B (Sweet Spot $2B-$80B: Yes) |
-| Price | 39.73 |
+| Net Score / Quant Composite | -3.13 / 48.44 |
+| Market Cap | $36.59B (Sweet Spot $2B-$80B: Yes) |
+| Price | 41.01 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.561 / 0.470 |
+| Bull / Bear Edge | 0.510 / 0.537 |
 
 ## 45-DTE Options Surface
 

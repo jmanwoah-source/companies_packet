@@ -2,10 +2,10 @@
 ticker: KTOS
 name: "Kratos Defense & Security Solutions, Inc."
 pillar: DEFENSE
-tier: EMERGING_EDGE
-net_score: 47.29
-quant_composite_score: 73.65
-market_cap: 5450518057.0
+tier: NEUTRAL
+net_score: 25.56
+quant_composite_score: 62.78
+market_cap: 5721631908.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -20,10 +20,10 @@ tags:
   - etf/shld
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/emerging_edge
+  - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 578baabcc52a97edc17482b3bd866bc6494daaf8fc54ccc9d7c0225a49994815
+wiki_state_hash: 2da937c13fe4ecd4a69661bfc54fd036c7d4506de04c7ada8a55538bdd92fd64
 ---
 
 # Kratos Defense & Security Solutions, Inc. (KTOS)
@@ -33,13 +33,13 @@ wiki_state_hash: 578baabcc52a97edc17482b3bd866bc6494daaf8fc54ccc9d7c0225a4999481
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 47.29 / 73.65 |
-| Market Cap | $5.45B (Sweet Spot $2B-$80B: Yes) |
-| Price | 28.95 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 25.56 / 62.78 |
+| Market Cap | $5.72B (Sweet Spot $2B-$80B: Yes) |
+| Price | 30.39 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.776 / 0.340 |
+| Bull / Bear Edge | 0.675 / 0.453 |
 
 ## 45-DTE Options Surface
 

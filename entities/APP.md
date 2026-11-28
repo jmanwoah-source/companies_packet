@@ -3,9 +3,9 @@ ticker: APP
 name: "AppLovin Corporation"
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 61.56
-quant_composite_score: 80.78
-market_cap: 114161719100.0
+net_score: 60.05
+quant_composite_score: 80.02
+market_cap: 120265206180.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 8d8444752e2b243b2557125e17abdafedf6522f3e84280b016366e5d90650890
+wiki_state_hash: 04e309e698328130608e460a561a909447b5d8b44c89b229872341ad836b75ec
 ---
 
 # AppLovin Corporation (APP)
@@ -32,12 +32,12 @@ wiki_state_hash: 8d8444752e2b243b2557125e17abdafedf6522f3e84280b016366e5d9065089
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 61.56 / 80.78 |
-| Market Cap | $114.16B (Sweet Spot $2B-$80B: No) |
-| Price | 378.95 |
+| Net Score / Quant Composite | 60.05 / 80.02 |
+| Market Cap | $120.27B (Sweet Spot $2B-$80B: No) |
+| Price | 399.21 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.858 / 0.248 |
+| Bull / Bear Edge | 0.849 / 0.259 |
 
 ## 45-DTE Options Surface
 

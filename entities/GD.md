@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: NEUTRAL
 net_score: 33.65
 quant_composite_score: 66.83
-market_cap: 97353600480.0
+market_cap: 98188592640.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ecc3fa3003b6de32c66fc4714ed2e813ab4f1998fec2055c43ba5a7d60bf82ef
+wiki_state_hash: 1abd6eecda368c1c1f8bbe9b53f4a03f1247ed483acd34ee3013c808d7a9e3c5
 ---
 
 # General Dynamics Corporation (GD)
@@ -33,8 +33,8 @@ wiki_state_hash: ecc3fa3003b6de32c66fc4714ed2e813ab4f1998fec2055c43ba5a7d60bf82e
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 33.65 / 66.83 |
-| Market Cap | $97.35B (Sweet Spot $2B-$80B: No) |
-| Price | 360.27 |
+| Market Cap | $98.19B (Sweet Spot $2B-$80B: No) |
+| Price | 363.36 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.717 / 0.056 |

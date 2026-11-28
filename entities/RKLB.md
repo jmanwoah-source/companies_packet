@@ -2,10 +2,10 @@
 ticker: RKLB
 name: "Rocket Lab USA, Inc."
 pillar: DEFENSE
-tier: NEUTRAL
-net_score: 0.9
-quant_composite_score: 50.45
-market_cap: 29717623423.0
+tier: EMERGING_EDGE
+net_score: 47.29
+quant_composite_score: 73.65
+market_cap: 32157224155.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/jedi
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/approved
   - liquidity/tight
-wiki_state_hash: b08af63648dca75978671bd34d77ca8f3218217190f0fb15f8681e84f032fd0c
+wiki_state_hash: 899c6015c616f16230a4fd32dfd5b1edf80367a306dccfc9bb83e000c7a661c2
 ---
 
 # Rocket Lab USA, Inc. (RKLB)
@@ -32,13 +32,13 @@ wiki_state_hash: b08af63648dca75978671bd34d77ca8f3218217190f0fb15f8681e84f032fd0
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 0.90 / 50.45 |
-| Market Cap | $29.72B (Sweet Spot $2B-$80B: Yes) |
-| Price | 47.02 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 47.29 / 73.65 |
+| Market Cap | $32.16B (Sweet Spot $2B-$80B: Yes) |
+| Price | 50.88 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.574 / 0.566 |
+| Bull / Bear Edge | 0.776 / 0.340 |
 
 ## 45-DTE Options Surface
 

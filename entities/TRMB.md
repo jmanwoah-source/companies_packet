@@ -3,9 +3,9 @@ ticker: TRMB
 name: "Trimble Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -23.31
-quant_composite_score: 38.35
-market_cap: 12665675805.0
+net_score: -25.52
+quant_composite_score: 37.24
+market_cap: 12787174596.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -23,7 +23,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: bb3f8f6b1e18b4493501f176913903b9ee35f676e037a6d85587a857a8535abf
+wiki_state_hash: c6bf0ae1fc59309363d2794c1d1925719b1a83233f01457e414223001d887716
 ---
 
 # Trimble Inc. (TRMB)
@@ -34,12 +34,12 @@ wiki_state_hash: bb3f8f6b1e18b4493501f176913903b9ee35f676e037a6d85587a857a8535ab
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -23.31 / 38.35 |
-| Market Cap | $12.67B (Sweet Spot $2B-$80B: Yes) |
-| Price | 55.25 |
+| Net Score / Quant Composite | -25.52 / 37.24 |
+| Market Cap | $12.79B (Sweet Spot $2B-$80B: Yes) |
+| Price | 55.78 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.205 / 0.653 |
+| Bull / Bear Edge | 0.184 / 0.677 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: ZBRA
 name: "Zebra Technologies Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -15.22
-quant_composite_score: 42.39
-market_cap: 14991247375.0
+net_score: -11.3
+quant_composite_score: 44.35
+market_cap: 15609506250.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7809356693f9d27d4ee54a82385ab455efa4e09ddfe7d16de318c82e82bf0518
+wiki_state_hash: f0ce7fc484d1996afda7d6809f268043f9524a73133e5d7424adae3557e7dde1
 ---
 
 # Zebra Technologies Corporation (ZBRA)
@@ -32,12 +32,12 @@ wiki_state_hash: 7809356693f9d27d4ee54a82385ab455efa4e09ddfe7d16de318c82e82bf051
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -15.22 / 42.39 |
-| Market Cap | $14.99B (Sweet Spot $2B-$80B: Yes) |
-| Price | 318.37 |
+| Net Score / Quant Composite | -11.30 / 44.35 |
+| Market Cap | $15.61B (Sweet Spot $2B-$80B: Yes) |
+| Price | 331.50 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.278 / 0.568 |
+| Bull / Bear Edge | 0.313 / 0.527 |
 
 ## 45-DTE Options Surface
 

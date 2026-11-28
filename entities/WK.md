@@ -3,9 +3,9 @@ ticker: WK
 name: "Workiva Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 16.07
-quant_composite_score: 58.04
-market_cap: 3560299938.0
+net_score: 19.11
+quant_composite_score: 59.55
+market_cap: 3544537399.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: f16f7417bc3465a4ffe1246c22f4474f589049a48bb48d97eb948ad18ab05b82
+wiki_state_hash: 1b889d3c6801ee6c3ca799c2f3ecfbfd945eb086093f22feb6c875412a02ef33
 ---
 
 # Workiva Inc. (WK)
@@ -32,12 +32,12 @@ wiki_state_hash: f16f7417bc3465a4ffe1246c22f4474f589049a48bb48d97eb948ad18ab05b8
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 16.07 / 58.04 |
-| Market Cap | $3.56B (Sweet Spot $2B-$80B: Yes) |
-| Price | 70.02 |
+| Net Score / Quant Composite | 19.11 / 59.55 |
+| Market Cap | $3.54B (Sweet Spot $2B-$80B: Yes) |
+| Price | 69.71 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.553 / 0.247 |
+| Bull / Bear Edge | 0.581 / 0.215 |
 
 ## 45-DTE Options Surface
 

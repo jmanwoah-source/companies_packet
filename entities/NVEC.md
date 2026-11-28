@@ -3,9 +3,9 @@ ticker: NVEC
 name: "NVE Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -29.45
-quant_composite_score: 35.27
-market_cap: 360932326.0
+net_score: -32.0
+quant_composite_score: 34.0
+market_cap: 376384938.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 918e3fe43aa8e57a0e3d29c7e06b00e12d7f2e676f741f3312363c4121fc3fa7
+wiki_state_hash: caa9a1c2cae002ebf595fa3eed0fb030d590dc92349e37bb765c5b6bc30fbbba
 ---
 
 # NVE Corporation (NVEC)
@@ -31,12 +31,12 @@ wiki_state_hash: 918e3fe43aa8e57a0e3d29c7e06b00e12d7f2e676f741f3312363c4121fc3fa
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.45 / 35.27 |
-| Market Cap | $360.9M (Sweet Spot $2B-$80B: No) |
-| Price | 74.51 |
+| Net Score / Quant Composite | -32.00 / 34.00 |
+| Market Cap | $376.4M (Sweet Spot $2B-$80B: No) |
+| Price | 77.70 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.135 / 0.708 |
+| Bull / Bear Edge | 0.112 / 0.739 |
 
 ## 45-DTE Options Surface
 

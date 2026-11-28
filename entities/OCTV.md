@@ -5,7 +5,7 @@ pillar: PHYSICAL_AI_ROBOTICS
 tier: EMERGING_EDGE
 net_score: 34.97
 quant_composite_score: 67.48
-market_cap: 6053272007.0
+market_cap: 5935159426.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: f8c0fcbadad51db2a41a45460cb9b22393e7ed6dd822b7bd738cf9e8abc3f809
+wiki_state_hash: 48c64cd93ef14ff69bae2bd02d002910fd356c5508c5b2e7703e718d7cfc488c
 ---
 
 # Octave Intelligence plc (OCTV)
@@ -34,8 +34,8 @@ wiki_state_hash: f8c0fcbadad51db2a41a45460cb9b22393e7ed6dd822b7bd738cf9e8abc3f80
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | EMERGING_EDGE |
 | Net Score / Quant Composite | 34.97 / 67.48 |
-| Market Cap | $6.05B (Sweet Spot $2B-$80B: Yes) |
-| Price | 22.55 |
+| Market Cap | $5.94B (Sweet Spot $2B-$80B: Yes) |
+| Price | 22.11 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
 | Bull / Bear Edge | 0.730 / 0.041 |

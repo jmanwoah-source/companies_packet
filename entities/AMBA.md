@@ -3,9 +3,9 @@ ticker: AMBA
 name: "Ambarella, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -3.37
-quant_composite_score: 48.31
-market_cap: 1574949845.0
+net_score: 0.62
+quant_composite_score: 50.31
+market_cap: 1555527818.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 88f26a1c6e94cdf04f8a74a155ae0e829e3af035191049e3af1300a99f4a1740
+wiki_state_hash: ca0ef7c3646b086e2f600cf2bd0cbab35d8e87e0f9390eb87dc86f9324cf3374
 ---
 
 # Ambarella, Inc. (AMBA)
@@ -32,12 +32,12 @@ wiki_state_hash: 88f26a1c6e94cdf04f8a74a155ae0e829e3af035191049e3af1300a99f4a174
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -3.37 / 48.31 |
-| Market Cap | $1.57B (Sweet Spot $2B-$80B: No) |
-| Price | 35.68 |
+| Net Score / Quant Composite | 0.62 / 50.31 |
+| Market Cap | $1.56B (Sweet Spot $2B-$80B: No) |
+| Price | 35.24 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.383 / 0.446 |
+| Bull / Bear Edge | 0.417 / 0.406 |
 
 ## 45-DTE Options Surface
 

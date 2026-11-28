@@ -2,10 +2,10 @@
 ticker: NOC
 name: "Northrop Grumman Corporation"
 pillar: NEXTGEN_COMPUTE
-tier: NEUTRAL
-net_score: -5.99
-quant_composite_score: 47.0
-market_cap: 78957750560.0
+tier: EMERGING_EDGE
+net_score: 36.43
+quant_composite_score: 68.21
+market_cap: 79764674080.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -20,10 +20,10 @@ tags:
   - etf/shld
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 7681134f8dbf54a1292dd8ec5ae00a5d42eb7a60e325841137ae24303dc2f4a0
+wiki_state_hash: d79ede017aaa446097ef48daaac7d1058fd83b30229e6e3d8f8ac83db355fd28
 ---
 
 # Northrop Grumman Corporation (NOC)
@@ -33,13 +33,13 @@ wiki_state_hash: 7681134f8dbf54a1292dd8ec5ae00a5d42eb7a60e325841137ae24303dc2f4a
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | -5.99 / 47.00 |
-| Market Cap | $78.96B (Sweet Spot $2B-$80B: Yes) |
-| Price | 555.79 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 36.43 / 68.21 |
+| Market Cap | $79.76B (Sweet Spot $2B-$80B: Yes) |
+| Price | 561.47 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.425 / 0.476 |
+| Bull / Bear Edge | 0.584 / 0.259 |
 
 ## 45-DTE Options Surface
 

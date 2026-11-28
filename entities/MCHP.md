@@ -3,9 +3,9 @@ ticker: MCHP
 name: "Microchip Technology Incorporated"
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -24.08
-quant_composite_score: 37.96
-market_cap: 31377213215.0
+net_score: -28.31
+quant_composite_score: 35.85
+market_cap: 32854780362.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -24,7 +24,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: e5937c6fe45538027cffc788075473a44c3481f8b3ca61588d1b9a66e38029cf
+wiki_state_hash: fd418728f386b98af8668a83e759c38efbc6811abf971d89cee6a9b78a271564
 ---
 
 # Microchip Technology Incorporated (MCHP)
@@ -35,12 +35,12 @@ wiki_state_hash: e5937c6fe45538027cffc788075473a44c3481f8b3ca61588d1b9a66e38029c
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -24.08 / 37.96 |
-| Market Cap | $31.38B (Sweet Spot $2B-$80B: Yes) |
-| Price | 57.66 |
+| Net Score / Quant Composite | -28.31 / 35.85 |
+| Market Cap | $32.85B (Sweet Spot $2B-$80B: Yes) |
+| Price | 60.37 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.181 / 0.645 |
+| Bull / Bear Edge | 0.144 / 0.694 |
 
 ## 45-DTE Options Surface
 

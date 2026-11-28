@@ -3,9 +3,9 @@ ticker: NCNO
 name: "nCino, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -1.8
-quant_composite_score: 49.1
-market_cap: 2282843997.0
+net_score: -1.02
+quant_composite_score: 49.49
+market_cap: 2305048593.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: dd081f1a76c7d509c23d24b9c353f84cd922c97850b2f88967947d6555eaecce
+wiki_state_hash: b1ad729141a5848615b8492a0207de6f52dca961d287af1c0212b5b133a69af8
 ---
 
 # nCino, Inc. (NCNO)
@@ -32,12 +32,12 @@ wiki_state_hash: dd081f1a76c7d509c23d24b9c353f84cd922c97850b2f88967947d6555eaecc
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.80 / 49.10 |
-| Market Cap | $2.28B (Sweet Spot $2B-$80B: Yes) |
-| Price | 21.59 |
+| Net Score / Quant Composite | -1.02 / 49.49 |
+| Market Cap | $2.31B (Sweet Spot $2B-$80B: Yes) |
+| Price | 21.80 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.396 / 0.430 |
+| Bull / Bear Edge | 0.403 / 0.422 |
 
 ## 45-DTE Options Surface
 

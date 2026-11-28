@@ -3,9 +3,9 @@ ticker: LAR
 name: "Lithium Argentina AG"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -27.86
-quant_composite_score: 36.07
-market_cap: 546786000.0
+net_score: -30.49
+quant_composite_score: 34.76
+market_cap: 571416000.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 3dccdf432e3307a90cd81e994d05bd5abc43dc9e8f8844f5fc492570785b6685
+wiki_state_hash: e525b5eaa64a1d669d79d4bcd73bcd82fa963977cd0ef1826276acbd43ddc665
 ---
 
 # Lithium Argentina AG (LAR)
@@ -31,12 +31,12 @@ wiki_state_hash: 3dccdf432e3307a90cd81e994d05bd5abc43dc9e8f8844f5fc492570785b668
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -27.86 / 36.07 |
-| Market Cap | $546.8M (Sweet Spot $2B-$80B: No) |
-| Price | 3.33 |
+| Net Score / Quant Composite | -30.49 / 34.76 |
+| Market Cap | $571.4M (Sweet Spot $2B-$80B: No) |
+| Price | 3.48 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.148 / 0.689 |
+| Bull / Bear Edge | 0.126 / 0.720 |
 
 ## 45-DTE Options Surface
 

@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: WATCHLIST
 net_score: -75.72
 quant_composite_score: 12.14
-market_cap: 6246813600.0
+market_cap: 6621997600.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 83bcb2488cf69af595be684e61f3b91629b9de55092764b2811c2ad7eda1ee92
+wiki_state_hash: 942e6c9b19f4dcb8fce64dabe88f6b434ec47a9df96033f05d9e46603f23ee13
 ---
 
 # Riot Platforms, Inc. (RIOT)
@@ -34,8 +34,8 @@ wiki_state_hash: 83bcb2488cf69af595be684e61f3b91629b9de55092764b2811c2ad7eda1ee9
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
 | Net Score / Quant Composite | -75.72 / 12.14 |
-| Market Cap | $6.25B (Sweet Spot $2B-$80B: Yes) |
-| Price | 16.65 |
+| Market Cap | $6.62B (Sweet Spot $2B-$80B: Yes) |
+| Price | 17.65 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
 | Bull / Bear Edge | 0.096 / 0.938 |

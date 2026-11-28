@@ -3,9 +3,9 @@ ticker: RTX
 name: "RTX Corporation"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -51.73
-quant_composite_score: 24.13
-market_cap: 264746633600.0
+net_score: -5.72
+quant_composite_score: 47.14
+market_cap: 267836851200.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 7ef933e010f59e7344cc63f97434f4bb0de92710ab8fae4e3d4b63c8d555b6e2
+wiki_state_hash: f4dcadf172f6b5422815a0cf64e361b9e3e7f15cdfd8ceeaf71834d99f2a7834
 ---
 
 # RTX Corporation (RTX)
@@ -34,12 +34,12 @@ wiki_state_hash: 7ef933e010f59e7344cc63f97434f4bb0de92710ab8fae4e3d4b63c8d555b6e
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -51.73 / 24.13 |
-| Market Cap | $264.75B (Sweet Spot $2B-$80B: No) |
-| Price | 196.19 |
+| Net Score / Quant Composite | -5.72 / 47.14 |
+| Market Cap | $267.84B (Sweet Spot $2B-$80B: No) |
+| Price | 198.48 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.237 / 0.724 |
+| Bull / Bear Edge | 0.422 / 0.471 |
 
 ## 45-DTE Options Surface
 

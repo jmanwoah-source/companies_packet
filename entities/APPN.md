@@ -3,9 +3,9 @@ ticker: APPN
 name: "Appian Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -18.82
-quant_composite_score: 40.59
-market_cap: 3931797011.0
+net_score: -15.01
+quant_composite_score: 42.49
+market_cap: 4006749793.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 5cc59ca537ea1f99a98208f35b14b7f289bc7d7433d5ae3d9691905e8f39a3e0
+wiki_state_hash: 0200bae146fa8e1653898f6577201ec107cb57a9c0c6a4306a454e323e04ab25
 ---
 
 # Appian Corporation (APPN)
@@ -32,12 +32,12 @@ wiki_state_hash: 5cc59ca537ea1f99a98208f35b14b7f289bc7d7433d5ae3d9691905e8f39a3e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.82 / 40.59 |
-| Market Cap | $3.93B (Sweet Spot $2B-$80B: Yes) |
-| Price | 55.08 |
+| Net Score / Quant Composite | -15.01 / 42.49 |
+| Market Cap | $4.01B (Sweet Spot $2B-$80B: Yes) |
+| Price | 56.13 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.246 / 0.606 |
+| Bull / Bear Edge | 0.280 / 0.566 |
 
 ## 45-DTE Options Surface
 

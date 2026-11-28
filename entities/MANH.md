@@ -3,9 +3,9 @@ ticker: MANH
 name: "Manhattan Associates, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 20.61
-quant_composite_score: 60.31
-market_cap: 14629856943.0
+net_score: 22.85
+quant_composite_score: 61.43
+market_cap: 14710562984.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: d61a0ec74aa1692e378bce2eaeb1a9612d09d76a345b0720ef778b8609303e33
+wiki_state_hash: 3dac3b8668c06885f0821b4edd92cb67e94ec44c3ed95f1bdab1b536ccae8ad5
 ---
 
 # Manhattan Associates, Inc. (MANH)
@@ -32,12 +32,12 @@ wiki_state_hash: d61a0ec74aa1692e378bce2eaeb1a9612d09d76a345b0720ef778b8609303e3
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 20.61 / 60.31 |
-| Market Cap | $14.63B (Sweet Spot $2B-$80B: Yes) |
-| Price | 251.97 |
+| Net Score / Quant Composite | 22.85 / 61.43 |
+| Market Cap | $14.71B (Sweet Spot $2B-$80B: Yes) |
+| Price | 253.36 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.594 / 0.199 |
+| Bull / Bear Edge | 0.615 / 0.175 |
 
 ## 45-DTE Options Surface
 

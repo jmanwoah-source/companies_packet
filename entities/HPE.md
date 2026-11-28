@@ -3,9 +3,9 @@ ticker: HPE
 name: "Hewlett Packard Enterprise Company"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 14.96
-quant_composite_score: 57.48
-market_cap: 54200191800.0
+net_score: 17.29
+quant_composite_score: 58.65
+market_cap: 56272160000.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 2c5511ca072d803fde243cfabf381b56bfd3b2a42f7bf393ba2cbf107644f645
+wiki_state_hash: 92a4260f557df9176ff5f87656ea084e6d282e8557c6a8d0d8fe44b4b6c3e742
 ---
 
 # Hewlett Packard Enterprise Company (HPE)
@@ -34,12 +34,12 @@ wiki_state_hash: 2c5511ca072d803fde243cfabf381b56bfd3b2a42f7bf393ba2cbf107644f64
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.96 / 57.48 |
-| Market Cap | $54.20B (Sweet Spot $2B-$80B: Yes) |
-| Price | 40.83 |
+| Net Score / Quant Composite | 17.29 / 58.65 |
+| Market Cap | $56.27B (Sweet Spot $2B-$80B: Yes) |
+| Price | 42.76 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / OK |
-| Bull / Bear Edge | 0.705 / 0.577 |
+| Bull / Bear Edge | 0.714 / 0.566 |
 
 ## 45-DTE Options Surface
 

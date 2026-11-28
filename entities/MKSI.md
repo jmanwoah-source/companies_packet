@@ -3,9 +3,9 @@ ticker: MKSI
 name: "MKS Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -50.9
-quant_composite_score: 24.55
-market_cap: 12429995715.0
+net_score: -4.39
+quant_composite_score: 47.8
+market_cap: 12817461036.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: bc3fc167288a5562f11f93c78e86fbfc748037074ed0d70e91616c682868c4ad
+wiki_state_hash: 64b7b5b3791cae2330ffb5bbce5f8895b0254981fb0476ecc9c85aea65708491
 ---
 
 # MKS Inc. (MKSI)
@@ -33,12 +33,12 @@ wiki_state_hash: bc3fc167288a5562f11f93c78e86fbfc748037074ed0d70e91616c682868c4a
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -50.90 / 24.55 |
-| Market Cap | $12.43B (Sweet Spot $2B-$80B: Yes) |
-| Price | 183.82 |
+| Net Score / Quant Composite | -4.39 / 47.80 |
+| Market Cap | $12.82B (Sweet Spot $2B-$80B: Yes) |
+| Price | 189.55 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.321 / 0.798 |
+| Bull / Bear Edge | 0.511 / 0.548 |
 
 ## 45-DTE Options Surface
 

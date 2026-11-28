@@ -3,9 +3,9 @@ ticker: SQM
 name: "Sociedad Química y Minera de Chile S.A."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -7.12
-quant_composite_score: 46.44
-market_cap: 13664913404.0
+net_score: 8.61
+quant_composite_score: 54.31
+market_cap: 13910561931.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 253e37b23e48dfb74efe1863563d7d35aca1ea3ab5049138ffc159457f522976
+wiki_state_hash: 32ad30c91435effdfbd46afbc5776ab70390a03013a368a343158dbe490a15f1
 ---
 
 # Sociedad Química y Minera de Chile S.A. (SQM)
@@ -32,12 +32,12 @@ wiki_state_hash: 253e37b23e48dfb74efe1863563d7d35aca1ea3ab5049138ffc159457f52297
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -7.12 / 46.44 |
-| Market Cap | $13.66B (Sweet Spot $2B-$80B: Yes) |
-| Price | 47.84 |
+| Net Score / Quant Composite | 8.61 / 54.31 |
+| Market Cap | $13.91B (Sweet Spot $2B-$80B: Yes) |
+| Price | 48.70 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.319 / 0.454 |
+| Bull / Bear Edge | 0.445 / 0.282 |
 
 ## 45-DTE Options Surface
 

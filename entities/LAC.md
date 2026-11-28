@@ -3,9 +3,9 @@ ticker: LAC
 name: "Lithium Americas Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -53.6
-quant_composite_score: 23.2
-market_cap: 288029433.0
+net_score: -58.71
+quant_composite_score: 20.64
+market_cap: 296960578.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 01fe9c397c13512830886121a3dd2d46a6fa3b9169562feed34b75778939af0f
+wiki_state_hash: c267a6f55856a8121c9e15a9d1de4a1ab07e491deb07ebf3eeecbddba7c8716b
 ---
 
 # Lithium Americas Corp. (LAC)
@@ -32,12 +32,12 @@ wiki_state_hash: 01fe9c397c13512830886121a3dd2d46a6fa3b9169562feed34b75778939af0
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -53.60 / 23.20 |
-| Market Cap | $288.0M (Sweet Spot $2B-$80B: No) |
-| Price | 1.29 |
+| Net Score / Quant Composite | -58.71 / 20.64 |
+| Market Cap | $297.0M (Sweet Spot $2B-$80B: No) |
+| Price | 1.33 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.228 / 0.737 |
+| Bull / Bear Edge | 0.201 / 0.774 |
 
 ## 45-DTE Options Surface
 

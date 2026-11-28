@@ -2,10 +2,10 @@
 ticker: LRCX
 name: "Lam Research Corporation"
 pillar: SEMI_SUBSYSTEMS
-tier: EMERGING_EDGE
-net_score: 51.82
-quant_composite_score: 75.91
-market_cap: 231109126710.0
+tier: GOLDEN
+net_score: 61.25
+quant_composite_score: 80.63
+market_cap: 240702759990.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/qtum
   - etf/smh
   - mcap/mega_corridor
-  - tier/emerging_edge
+  - tier/golden
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 5a8e3f95f6f85e739b071a584f33a35fe3af3b787a26d1e22ea1f88952e64ed6
+wiki_state_hash: db06e6f81be775edd0a9e2a7901d3b0aa57da0bd5f35f86b6faa66fd04165c58
 ---
 
 # Lam Research Corporation (LRCX)
@@ -32,13 +32,13 @@ wiki_state_hash: 5a8e3f95f6f85e739b071a584f33a35fe3af3b787a26d1e22ea1f88952e64ed
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 51.82 / 75.91 |
-| Market Cap | $231.11B (Sweet Spot $2B-$80B: No) |
-| Price | 185.01 |
+| Tier | GOLDEN |
+| Net Score / Quant Composite | 61.25 / 80.63 |
+| Market Cap | $240.70B (Sweet Spot $2B-$80B: No) |
+| Price | 192.69 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.737 / 0.250 |
+| Bull / Bear Edge | 0.788 / 0.182 |
 
 ## 45-DTE Options Surface
 
@@ -60,8 +60,8 @@ wiki_state_hash: 5a8e3f95f6f85e739b071a584f33a35fe3af3b787a26d1e22ea1f88952e64ed
 
 | Field | Value |
 |---|---|
-| As-Of / Direction | 2026-11-06T22:37Z / NONE |
-| Triage / Kill Risk / Score Adj | N/A / 15% / N/A |
-| 10-K Corpus / Degraded | 14000 chars / No |
-| Primary Risk | The primary structural risk is geographic concentration in China (34% of revenue) exposed to trade restrictions and tariffs, but this is mitigated by strong foundry demand, expanding gross margins (+180 bps), and a fortress balance sheet (Altman Z 15.45), making a 4-8 quarter thesis failure unlikely |
-| Tribunal Summary | The bear case centers on the 34% revenue exposure to China, where trade restrictions and tariffs are explicitly cited as negative impacts on revenue and operating margin. While gross margins expanded 180 bps to 50.5%, this was partially offset by tariff-related spend, suggesting that the margin expansion may not be sustainable if geopolitical tensions escalate further. The company is executing a massive capital return program ($3.85B in buybacks), which reduces cash reserves from $6.41B to $5.60B, potentially limiting flexibility if a sudden demand shock occurs. However, the negative dilution  |
+| As-Of / Direction | 2026-11-28 / CALL |
+| Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
+| 10-K Corpus / Degraded | 12000 chars / No |
+| Primary Risk | No bull traps found. Strong balance sheet (Z=16.29) and fundamentals (F=7). Risks are standard cyclical/tech adoption, not structural failures. |
+| Tribunal Summary | Thesis holds. Fortress balance sheet and strong fundamentals mitigate standard semi-cycle risks. No hidden dilution, churn, or inventory bloat detected in the provided 10-K corpus. |

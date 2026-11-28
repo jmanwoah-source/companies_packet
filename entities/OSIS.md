@@ -3,9 +3,9 @@ ticker: OSIS
 name: "OSI Systems, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 18.35
-quant_composite_score: 59.18
-market_cap: 3071717460.0
+net_score: 10.29
+quant_composite_score: 55.15
+market_cap: 3160109944.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3ad564db1e01840cad355aaf42c430849198321717420a81c575da355443da74
+wiki_state_hash: ccb8ad86ff2b469ddc8ced56d09a2cdc5564640489a7952ab3fe0e6f3abb2174
 ---
 
 # OSI Systems, Inc. (OSIS)
@@ -32,12 +32,12 @@ wiki_state_hash: 3ad564db1e01840cad355aaf42c430849198321717420a81c575da355443da7
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 18.35 / 59.18 |
-| Market Cap | $3.07B (Sweet Spot $2B-$80B: Yes) |
-| Price | 195.30 |
+| Net Score / Quant Composite | 10.29 / 55.15 |
+| Market Cap | $3.16B (Sweet Spot $2B-$80B: Yes) |
+| Price | 200.92 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.574 / 0.223 |
+| Bull / Bear Edge | 0.502 / 0.307 |
 
 ## 45-DTE Options Surface
 

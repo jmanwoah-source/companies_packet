@@ -3,9 +3,9 @@ ticker: CRWD
 name: "CrowdStrike Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -1.86
-quant_composite_score: 49.07
-market_cap: 215703851845.0
+net_score: 0.53
+quant_composite_score: 50.27
+market_cap: 223845564361.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: e00e1a00c12d21a9df64f8cdbbd8f20cee58fa1f6995af7ffbebb3225137643a
+wiki_state_hash: 02f2f294f59bd36b8b87ac2fe96ccc1029e402c98e81696578a9639a817bb192
 ---
 
 # CrowdStrike Holdings, Inc. (CRWD)
@@ -32,12 +32,12 @@ wiki_state_hash: e00e1a00c12d21a9df64f8cdbbd8f20cee58fa1f6995af7ffbebb3225137643
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.86 / 49.07 |
-| Market Cap | $215.70B (Sweet Spot $2B-$80B: No) |
-| Price | 209.30 |
+| Net Score / Quant Composite | 0.53 / 50.27 |
+| Market Cap | $223.85B (Sweet Spot $2B-$80B: No) |
+| Price | 217.20 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.631 / 0.647 |
+| Bull / Bear Edge | 0.641 / 0.636 |
 
 ## 45-DTE Options Surface
 

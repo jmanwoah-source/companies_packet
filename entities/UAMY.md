@@ -3,9 +3,9 @@ ticker: UAMY
 name: "United States Antimony Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -33.06
-quant_composite_score: 33.47
-market_cap: 330018049.0
+net_score: -35.59
+quant_composite_score: 32.2
+market_cap: 337484521.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 52b931cd9e1f3679c9b6573cd47be25a1eb59b761f500aff414b1ee59dc4bf1c
+wiki_state_hash: c97188f0574077d44b3aa366b52503c45aec4ca6729e2463bbddd009a5f40794
 ---
 
 # United States Antimony Corporation (UAMY)
@@ -31,12 +31,12 @@ wiki_state_hash: 52b931cd9e1f3679c9b6573cd47be25a1eb59b761f500aff414b1ee59dc4bf1
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -33.06 / 33.47 |
-| Market Cap | $330.0M (Sweet Spot $2B-$80B: No) |
-| Price | 2.21 |
+| Net Score / Quant Composite | -35.59 / 32.20 |
+| Market Cap | $337.5M (Sweet Spot $2B-$80B: No) |
+| Price | 2.26 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.103 / 0.752 |
+| Bull / Bear Edge | 0.080 / 0.783 |
 
 ## 45-DTE Options Surface
 

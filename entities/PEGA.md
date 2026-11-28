@@ -3,9 +3,9 @@ ticker: PEGA
 name: "Pegasystems Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -3.37
-quant_composite_score: 48.31
-market_cap: 4941016160.0
+net_score: -4.94
+quant_composite_score: 47.53
+market_cap: 4993388640.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 8549b3fd0c14950fc6735297694ca4e60348c92ef71be9e6a541e4d6ab60f68b
+wiki_state_hash: 81d0e867d3b121638f44f65a9fc732d2f3b5ab1659f98355255a2fc0ebe0fa3f
 ---
 
 # Pegasystems Inc. (PEGA)
@@ -32,12 +32,12 @@ wiki_state_hash: 8549b3fd0c14950fc6735297694ca4e60348c92ef71be9e6a541e4d6ab60f68
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -3.37 / 48.31 |
-| Market Cap | $4.94B (Sweet Spot $2B-$80B: Yes) |
-| Price | 30.19 |
+| Net Score / Quant Composite | -4.94 / 47.53 |
+| Market Cap | $4.99B (Sweet Spot $2B-$80B: Yes) |
+| Price | 30.51 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.383 / 0.446 |
+| Bull / Bear Edge | 0.369 / 0.462 |
 
 ## 45-DTE Options Surface
 

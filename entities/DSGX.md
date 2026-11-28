@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: 30.0
 quant_composite_score: 65.0
-market_cap: 7858494396.0
+market_cap: 7890147378.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 8a84102f37564fc8265024f0a1ba45ffefe11fd9518e4a9f82e20780c5b284db
+wiki_state_hash: 546a900c1a11b82c9ddc2c489643446b5d09665f1cee71bac5e95d1913b6dbb4
 ---
 
 # The Descartes Systems Group Inc. (DSGX)
@@ -33,8 +33,8 @@ wiki_state_hash: 8a84102f37564fc8265024f0a1ba45ffefe11fd9518e4a9f82e20780c5b284d
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $7.86B (Sweet Spot $2B-$80B: Yes) |
-| Price | 91.86 |
+| Market Cap | $7.89B (Sweet Spot $2B-$80B: Yes) |
+| Price | 92.23 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.717 / 0.056 |

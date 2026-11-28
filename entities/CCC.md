@@ -3,9 +3,9 @@ ticker: CCC
 name: "CCC Intelligent Solutions Holdings Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 22.85
-quant_composite_score: 61.43
-market_cap: 4586479495.0
+net_score: 25.8
+quant_composite_score: 62.9
+market_cap: 4574658671.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: bee9fa6cbbed84d4a8ba8ce5a80502e55b21230b5b407865a33e41a93a91e23e
+wiki_state_hash: 530d97ac9873008482312ff2ac29d15c4f9600634987215efa56110b6be298e7
 ---
 
 # CCC Intelligent Solutions Holdings Inc. (CCC)
@@ -32,12 +32,12 @@ wiki_state_hash: bee9fa6cbbed84d4a8ba8ce5a80502e55b21230b5b407865a33e41a93a91e23
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 22.85 / 61.43 |
-| Market Cap | $4.59B (Sweet Spot $2B-$80B: Yes) |
-| Price | 7.76 |
+| Net Score / Quant Composite | 25.80 / 62.90 |
+| Market Cap | $4.57B (Sweet Spot $2B-$80B: Yes) |
+| Price | 7.74 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.615 / 0.175 |
+| Bull / Bear Edge | 0.642 / 0.143 |
 
 ## 45-DTE Options Surface
 

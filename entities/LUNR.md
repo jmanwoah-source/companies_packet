@@ -5,8 +5,8 @@ pillar: DEFENSE
 tier: MIRAGE_SHORT
 net_score: -76.61
 quant_composite_score: 11.69
-market_cap: 1991144393.0
-execution_sweet_spot: false
+market_cap: 2230850620.0
+execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
 structure_hint: "DEBIT_SPREAD_45D"
@@ -17,11 +17,12 @@ related_links: []
 tags:
   - pillar/defense
   - etf/jedi
-  - mcap/small
+  - mcap/mid
+  - mcap/sweet_spot_2b_80b
   - tier/mirage_short
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 1b6862d05cc2c3bee4d17ca54f1d074833ca9546c22b22e973b2d53f11a25218
+wiki_state_hash: 3d0461b80ec47af93f2b86ae3823a44d5a02f6cbca6017631a93cd952d2d5583
 ---
 
 # Intuitive Machines, Inc. (LUNR)
@@ -33,8 +34,8 @@ wiki_state_hash: 1b6862d05cc2c3bee4d17ca54f1d074833ca9546c22b22e973b2d53f11a2521
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -76.61 / 11.69 |
-| Market Cap | $1.99B (Sweet Spot $2B-$80B: No) |
-| Price | 9.14 |
+| Market Cap | $2.23B (Sweet Spot $2B-$80B: Yes) |
+| Price | 10.00 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.170 / 1.029 |
@@ -62,5 +63,5 @@ wiki_state_hash: 1b6862d05cc2c3bee4d17ca54f1d074833ca9546c22b22e973b2d53f11a2521
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | No bear-trap evidence. High distress (Z=1.39), weak fundamentals (F=2), and explicit integration risks confirm PUT thesis fragility. |
-| Tribunal Summary | LUNR exhibits severe financial fragility (AltmanZ 1.39, PiotroskiF 2). The 10-K highlights integration risks from recent acquisitions (KinetX, Lanteris) and reliance on key personnel. No evidence of a valuation floor or cash fortress to support a short squeeze. |
+| Primary Risk | No bear traps. High distress (Z=1.51) and weak fundamentals (F=3) confirm fragility. Integration risks and cash burn support PUT thesis. |
+| Tribunal Summary | Thesis is clean. Metrics show distress (Z<1.8, F<=3). No fortress cash or strong FCF to support a rebound. Integration risks and cash burn are headwinds, not tailwinds. |

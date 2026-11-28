@@ -3,9 +3,9 @@ ticker: WDAY
 name: "Workday, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -14.17
-quant_composite_score: 42.91
-market_cap: 43486039098.0
+net_score: -11.13
+quant_composite_score: 44.44
+market_cap: 43299340546.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 3b757f74e5a676a0d6671a105233f6e87889aeb7b6666ba47b6c2848b7cce717
+wiki_state_hash: 3fe5c45e30d8c2182c3a4266a7b57e1f6d985c798ebe907e32a854613436cf2a
 ---
 
 # Workday, Inc. (WDAY)
@@ -33,12 +33,12 @@ wiki_state_hash: 3b757f74e5a676a0d6671a105233f6e87889aeb7b6666ba47b6c2848b7cce71
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.17 / 42.91 |
-| Market Cap | $43.49B (Sweet Spot $2B-$80B: Yes) |
-| Price | 180.44 |
+| Net Score / Quant Composite | -11.13 / 44.44 |
+| Market Cap | $43.30B (Sweet Spot $2B-$80B: Yes) |
+| Price | 181.93 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / OK |
-| Bull / Bear Edge | 0.351 / 0.472 |
+| Bull / Bear Edge | 0.362 / 0.458 |
 
 ## 45-DTE Options Surface
 

@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: 30.0
 quant_composite_score: 65.0
-market_cap: 7407770271.0
+market_cap: 7565012718.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 85b8a3de499fab16203004b429d2ac3087c1fe93cc70c492bfb05efb508b92a9
+wiki_state_hash: 593edb2981d944dc41348ccf943d918e481812f462e21e751a00cb5610bda0c3
 ---
 
 # ServiceTitan, Inc. (TTAN)
@@ -34,11 +34,11 @@ wiki_state_hash: 85b8a3de499fab16203004b429d2ac3087c1fe93cc70c492bfb05efb508b92a
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $7.41B (Sweet Spot $2B-$80B: Yes) |
-| Price | 76.79 |
+| Market Cap | $7.57B (Sweet Spot $2B-$80B: Yes) |
+| Price | 78.42 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.644 / 0.015 |
+| Bull / Bear Edge | 0.655 / 0.000 |
 
 ## 45-DTE Options Surface
 

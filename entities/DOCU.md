@@ -3,9 +3,9 @@ ticker: DOCU
 name: "DocuSign, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 6.05
-quant_composite_score: 53.02
-market_cap: 15092372999.0
+net_score: 9.11
+quant_composite_score: 54.55
+market_cap: 15084896901.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: d8cd83f3b0be42bc35d981ff7ed133e67262a75101b6863bf1c23b2cfd4b9d88
+wiki_state_hash: 3527aeca344ac4c92752b342143ac09612b3e46e5d2c050a95c7f623580828bc
 ---
 
 # DocuSign, Inc. (DOCU)
@@ -33,12 +33,12 @@ wiki_state_hash: d8cd83f3b0be42bc35d981ff7ed133e67262a75101b6863bf1c23b2cfd4b9d8
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 6.05 / 53.02 |
-| Market Cap | $15.09B (Sweet Spot $2B-$80B: Yes) |
-| Price | 80.75 |
+| Net Score / Quant Composite | 9.11 / 54.55 |
+| Market Cap | $15.08B (Sweet Spot $2B-$80B: Yes) |
+| Price | 80.71 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.397 / 0.345 |
+| Bull / Bear Edge | 0.408 / 0.330 |
 
 ## 45-DTE Options Surface
 

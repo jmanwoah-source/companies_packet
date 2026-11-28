@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: EMERGING_EDGE
 net_score: 36.4
 quant_composite_score: 68.2
-market_cap: 8054010722.0
+market_cap: 7995882485.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: f8bc00b316ac74fd0eec5fd60078b36f4230ab2bf98aeb22c84d58829ee0e0c8
+wiki_state_hash: b7e6bb5a9cbffac6484cdf571e4041e4957c293ce600ef761d6a6e61f2377913
 ---
 
 # Dropbox, Inc. (DBX)
@@ -33,8 +33,8 @@ wiki_state_hash: f8bc00b316ac74fd0eec5fd60078b36f4230ab2bf98aeb22c84d58829ee0e0c
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
 | Net Score / Quant Composite | 36.40 / 68.20 |
-| Market Cap | $8.05B (Sweet Spot $2B-$80B: Yes) |
-| Price | 37.41 |
+| Market Cap | $8.00B (Sweet Spot $2B-$80B: Yes) |
+| Price | 37.14 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.745 / 0.024 |

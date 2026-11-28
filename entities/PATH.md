@@ -3,9 +3,9 @@ ticker: PATH
 name: "UiPath Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 12.17
-quant_composite_score: 56.08
-market_cap: 6472750813.0
+net_score: 15.21
+quant_composite_score: 57.6
+market_cap: 6592616341.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 28f3fc11a30d17b9d6534f0ba8c9e00a4dc428087ddf7500890d9d9ee7c71d55
+wiki_state_hash: 086ae02bdc1c51caff5354f3eab073980d5d491f3c6c3d468107b1b7048dd210
 ---
 
 # UiPath Inc. (PATH)
@@ -33,12 +33,12 @@ wiki_state_hash: 28f3fc11a30d17b9d6534f0ba8c9e00a4dc428087ddf7500890d9d9ee7c71d5
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 12.17 / 56.08 |
-| Market Cap | $6.47B (Sweet Spot $2B-$80B: Yes) |
-| Price | 12.42 |
+| Net Score / Quant Composite | 15.21 / 57.60 |
+| Market Cap | $6.59B (Sweet Spot $2B-$80B: Yes) |
+| Price | 12.65 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.419 / 0.315 |
+| Bull / Bear Edge | 0.430 / 0.300 |
 
 ## 45-DTE Options Surface
 

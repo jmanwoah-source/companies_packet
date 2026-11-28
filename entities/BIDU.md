@@ -2,10 +2,10 @@
 ticker: BIDU
 name: "Baidu, Inc."
 pillar: NEXTGEN_COMPUTE
-tier: EMERGING_EDGE
-net_score: 45.62
-quant_composite_score: 72.81
-market_cap: 21608278978.0
+tier: NEUTRAL
+net_score: 33.23
+quant_composite_score: 66.62
+market_cap: 21591078902.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -19,10 +19,10 @@ tags:
   - etf/qtum
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/emerging_edge
+  - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 413ad171fe405f54bfc76db461f5587cd1ef5950d21eb58abeaf07d424312a43
+wiki_state_hash: d7c208f97231121462348f154c50341ab9f4f1e65efb26f1b606cde30c9d74fb
 ---
 
 # Baidu, Inc. (BIDU)
@@ -32,13 +32,13 @@ wiki_state_hash: 413ad171fe405f54bfc76db461f5587cd1ef5950d21eb58abeaf07d424312a4
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
-| Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 45.62 / 72.81 |
-| Market Cap | $21.61B (Sweet Spot $2B-$80B: Yes) |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 33.23 / 66.62 |
+| Market Cap | $21.59B (Sweet Spot $2B-$80B: Yes) |
 | Price | 63.49 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.672 / 0.254 |
+| Bull / Bear Edge | 0.619 / 0.326 |
 
 ## 45-DTE Options Surface
 

@@ -2,10 +2,10 @@
 ticker: TTWO
 name: "Take-Two Interactive Software, Inc."
 pillar: AI_INFRA
-tier: WATCHLIST
-net_score: -66.18
-quant_composite_score: 16.91
-market_cap: 42561003420.0
+tier: NEUTRAL
+net_score: -57.28
+quant_composite_score: 21.36
+market_cap: 43100176860.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/igv
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/watchlist
+  - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: e5c991b3674ce6aaa20702db82408891729421693de2429c6f01742e8952a2ab
+wiki_state_hash: 9e8459462f89bba48352da157070cb024145de70c0711c679e99323413f6d41f
 ---
 
 # Take-Two Interactive Software, Inc. (TTWO)
@@ -32,13 +32,13 @@ wiki_state_hash: e5c991b3674ce6aaa20702db82408891729421693de2429c6f01742e8952a2a
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | WATCHLIST |
-| Net Score / Quant Composite | -66.18 / 16.91 |
-| Market Cap | $42.56B (Sweet Spot $2B-$80B: Yes) |
-| Price | 227.34 |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | -57.28 / 21.36 |
+| Market Cap | $43.10B (Sweet Spot $2B-$80B: Yes) |
+| Price | 230.22 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.251 / 0.927 |
+| Bull / Bear Edge | 0.309 / 0.863 |
 
 ## 45-DTE Options Surface
 

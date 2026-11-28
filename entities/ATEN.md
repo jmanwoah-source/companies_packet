@@ -3,9 +3,9 @@ ticker: ATEN
 name: "A10 Networks, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -21.82
-quant_composite_score: 39.09
-market_cap: 2240802739.0
+net_score: -24.05
+quant_composite_score: 37.97
+market_cap: 2333028703.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: dcc63cbca5741c0af7154dd9c851eb29da7adc37a35f560daa8e2e1a41c537b2
+wiki_state_hash: 371cbf4799c8f2ab1d5e157ac022b395c79ccb3acaffdda1716671c214982619
 ---
 
 # A10 Networks, Inc. (ATEN)
@@ -32,12 +32,12 @@ wiki_state_hash: dcc63cbca5741c0af7154dd9c851eb29da7adc37a35f560daa8e2e1a41c537b
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -21.82 / 39.09 |
-| Market Cap | $2.24B (Sweet Spot $2B-$80B: Yes) |
-| Price | 31.10 |
+| Net Score / Quant Composite | -24.05 / 37.97 |
+| Market Cap | $2.33B (Sweet Spot $2B-$80B: Yes) |
+| Price | 32.38 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.219 / 0.637 |
+| Bull / Bear Edge | 0.198 / 0.661 |
 
 ## 45-DTE Options Surface
 

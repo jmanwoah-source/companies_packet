@@ -3,9 +3,9 @@ ticker: ADI
 name: "Analog Devices, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: NEUTRAL
-net_score: -12.92
-quant_composite_score: 43.54
-market_cap: 161411024325.0
+net_score: 14.68
+quant_composite_score: 57.34
+market_cap: 167006038898.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 17bac349882388436a1750f2303ea30eafca37b626513f5fef96d39cc840277d
+wiki_state_hash: 9a68922f3ca3521702aacec132abde5a1bdab82e490dba1a6f331c27245b67e5
 ---
 
 # Analog Devices, Inc. (ADI)
@@ -34,12 +34,12 @@ wiki_state_hash: 17bac349882388436a1750f2303ea30eafca37b626513f5fef96d39cc840277
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -12.92 / 43.54 |
-| Market Cap | $161.41B (Sweet Spot $2B-$80B: No) |
-| Price | 333.11 |
+| Net Score / Quant Composite | 14.68 / 57.34 |
+| Market Cap | $167.01B (Sweet Spot $2B-$80B: No) |
+| Price | 346.00 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.542 / 0.652 |
+| Bull / Bear Edge | 0.644 / 0.518 |
 
 ## 45-DTE Options Surface
 

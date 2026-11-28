@@ -3,9 +3,9 @@ ticker: YOU
 name: "Clear Secure, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 6.02
-quant_composite_score: 53.01
-market_cap: 5417233094.0
+net_score: -3.37
+quant_composite_score: 48.31
+market_cap: 5549725187.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 59b8e6bdd7b8eb33fe34e8c39311584f4e715ee1bdc998b83e88a83515220732
+wiki_state_hash: face728e84f5357ed98796cad7338d14edb6898863ec4a31dfb5d2af275d0f86
 ---
 
 # Clear Secure, Inc. (YOU)
@@ -32,12 +32,12 @@ wiki_state_hash: 59b8e6bdd7b8eb33fe34e8c39311584f4e715ee1bdc998b83e88a8351522073
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 6.02 / 53.01 |
-| Market Cap | $5.42B (Sweet Spot $2B-$80B: Yes) |
-| Price | 54.38 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
+| Market Cap | $5.55B (Sweet Spot $2B-$80B: Yes) |
+| Price | 55.71 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.464 / 0.351 |
+| Bull / Bear Edge | 0.383 / 0.446 |
 
 ## 45-DTE Options Surface
 

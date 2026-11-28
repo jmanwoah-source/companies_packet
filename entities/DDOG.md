@@ -3,9 +3,9 @@ ticker: DDOG
 name: "Datadog, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 53.63
-quant_composite_score: 76.81
-market_cap: 57134987652.0
+net_score: 51.9
+quant_composite_score: 75.95
+market_cap: 59842804320.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 60782945de3f5a4463dc619853125a0ed753c68bc87e8c1e6dee0c22daf28c70
+wiki_state_hash: 7c4737e1b34aa9432fc69dce27c750f7ba7a32f5b548c0ae02d019fd7b99a561
 ---
 
 # Datadog, Inc. (DDOG)
@@ -33,12 +33,12 @@ wiki_state_hash: 60782945de3f5a4463dc619853125a0ed753c68bc87e8c1e6dee0c22daf28c7
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 53.63 / 76.81 |
-| Market Cap | $57.13B (Sweet Spot $2B-$80B: Yes) |
-| Price | 158.25 |
+| Net Score / Quant Composite | 51.90 / 75.95 |
+| Market Cap | $59.84B (Sweet Spot $2B-$80B: Yes) |
+| Price | 165.75 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.816 / 0.307 |
+| Bull / Bear Edge | 0.806 / 0.318 |
 
 ## 45-DTE Options Surface
 

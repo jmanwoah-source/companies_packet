@@ -3,9 +3,9 @@ ticker: BBAI
 name: "BigBear.ai Holdings, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -14.25
-quant_composite_score: 42.88
-market_cap: 760597712.0
+net_score: -8.84
+quant_composite_score: 45.58
+market_cap: 818364627.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: edaece08c2b77cb04d13b3659600a13c579bc5244cbb735acdcc080d9fa4f1a4
+wiki_state_hash: 3cd971116e6f904378c35750bd5b952e9dc4176b4df794a26d050ec00ff3576e
 ---
 
 # BigBear.ai Holdings, Inc. (BBAI)
@@ -31,12 +31,12 @@ wiki_state_hash: edaece08c2b77cb04d13b3659600a13c579bc5244cbb735acdcc080d9fa4f1a
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -14.25 / 42.88 |
-| Market Cap | $760.6M (Sweet Spot $2B-$80B: No) |
-| Price | 1.58 |
+| Net Score / Quant Composite | -8.84 / 45.58 |
+| Market Cap | $818.4M (Sweet Spot $2B-$80B: No) |
+| Price | 1.70 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.287 / 0.558 |
+| Bull / Bear Edge | 0.335 / 0.502 |
 
 ## 45-DTE Options Surface
 

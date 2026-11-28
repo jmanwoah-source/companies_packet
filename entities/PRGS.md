@@ -3,9 +3,9 @@ ticker: PRGS
 name: "Progress Software Corporation"
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 37.75
-quant_composite_score: 68.88
-market_cap: 1753094438.0
+net_score: 37.08
+quant_composite_score: 68.54
+market_cap: 1775575248.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 523db5f06e35d4a9ed5da64047c558eab6997c9bd3fabca7d945d530b6217c62
+wiki_state_hash: 4b2ea10d09a880eb2ea6431849f1a7a3b2d3e7693b01bdf197a0c637ca099a50
 ---
 
 # Progress Software Corporation (PRGS)
@@ -31,12 +31,12 @@ wiki_state_hash: 523db5f06e35d4a9ed5da64047c558eab6997c9bd3fabca7d945d530b6217c6
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 37.75 / 68.88 |
-| Market Cap | $1.75B (Sweet Spot $2B-$80B: No) |
-| Price | 42.89 |
+| Net Score / Quant Composite | 37.08 / 68.54 |
+| Market Cap | $1.78B (Sweet Spot $2B-$80B: No) |
+| Price | 43.44 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.758 / 0.008 |
+| Bull / Bear Edge | 0.751 / 0.016 |
 
 ## 45-DTE Options Surface
 

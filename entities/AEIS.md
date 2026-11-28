@@ -3,9 +3,9 @@ ticker: AEIS
 name: "Advanced Energy Industries, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -1.4
-quant_composite_score: 49.3
-market_cap: 7976166687.0
+net_score: -2.83
+quant_composite_score: 48.59
+market_cap: 8379974547.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 94bc8c8db3354226dd15410bf13bacf4f8aa9f72addaa420047a91075d0c76db
+wiki_state_hash: 8bc2121a6105f00c5f7ec39fc92fdfbc680e6216bd569314248322854e9d6437
 ---
 
 # Advanced Energy Industries, Inc. (AEIS)
@@ -33,12 +33,12 @@ wiki_state_hash: 94bc8c8db3354226dd15410bf13bacf4f8aa9f72addaa420047a91075d0c76d
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.40 / 49.30 |
-| Market Cap | $7.98B (Sweet Spot $2B-$80B: Yes) |
-| Price | 197.03 |
+| Net Score / Quant Composite | -2.83 / 48.59 |
+| Market Cap | $8.38B (Sweet Spot $2B-$80B: Yes) |
+| Price | 207.00 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.365 / 0.392 |
+| Bull / Bear Edge | 0.354 / 0.407 |
 
 ## 45-DTE Options Surface
 

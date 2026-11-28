@@ -3,9 +3,9 @@ ticker: SMR
 name: "NuScale Power Corporation"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -1.73
-quant_composite_score: 49.13
-market_cap: 969078299.0
+net_score: -14.8
+quant_composite_score: 42.6
+market_cap: 1037659224.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 729dd3d287e53263599491477df3614acf08f67ea3f49f1ee0107801f2f12b7d
+wiki_state_hash: 95d80bbdf18bc97eaa7fa146fbdb3aa946c4a04bbd73c33960731e25521aa586
 ---
 
 # NuScale Power Corporation (SMR)
@@ -32,12 +32,12 @@ wiki_state_hash: 729dd3d287e53263599491477df3614acf08f67ea3f49f1ee0107801f2f12b7
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -1.73 / 49.13 |
-| Market Cap | $969.1M (Sweet Spot $2B-$80B: No) |
-| Price | 3.25 |
+| Net Score / Quant Composite | -14.80 / 42.60 |
+| Market Cap | $1.04B (Sweet Spot $2B-$80B: No) |
+| Price | 3.48 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.536 / 0.551 |
+| Bull / Bear Edge | 0.488 / 0.614 |
 
 ## 45-DTE Options Surface
 

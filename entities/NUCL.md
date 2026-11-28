@@ -3,9 +3,9 @@ ticker: NUCL
 name: "Eagle Nuclear Energy Corp."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 11.45
-quant_composite_score: 55.72
-market_cap: 71241518.0
+net_score: -5.69
+quant_composite_score: 47.16
+market_cap: 78662510.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 30e5b8603c6c3ac394ebd13165dc3807c00b078edb108dd6cb49a16fb70858c0
+wiki_state_hash: aa5d1ebce5fc6e899280056a3ff5e432743e05f62f44c2a5d427074d9625f32e
 ---
 
 # Eagle Nuclear Energy Corp. (NUCL)
@@ -31,12 +31,12 @@ wiki_state_hash: 30e5b8603c6c3ac394ebd13165dc3807c00b078edb108dd6cb49a16fb70858c
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 11.45 / 55.72 |
-| Market Cap | $71.2M (Sweet Spot $2B-$80B: No) |
-| Price | 2.40 |
+| Net Score / Quant Composite | -5.69 / 47.16 |
+| Market Cap | $78.7M (Sweet Spot $2B-$80B: No) |
+| Price | 2.65 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.468 / 0.251 |
+| Bull / Bear Edge | 0.331 / 0.438 |
 
 ## 45-DTE Options Surface
 

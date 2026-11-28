@@ -3,9 +3,9 @@ ticker: SPSC
 name: "SPS Commerce, Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 38.42
-quant_composite_score: 69.21
-market_cap: 2873195871.0
+net_score: 37.75
+quant_composite_score: 68.88
+market_cap: 2897650110.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 4b105f50fd4705552c74a9b0bc2318ba262f7423c31df4aef77ca44d596e4021
+wiki_state_hash: 12dca14df2c6e95141d84c558519ad3bc003081277fe89992ec18ccbfe790e88
 ---
 
 # SPS Commerce, Inc. (SPSC)
@@ -32,12 +32,12 @@ wiki_state_hash: 4b105f50fd4705552c74a9b0bc2318ba262f7423c31df4aef77ca44d596e402
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 38.42 / 69.21 |
-| Market Cap | $2.87B (Sweet Spot $2B-$80B: Yes) |
-| Price | 81.07 |
+| Net Score / Quant Composite | 37.75 / 68.88 |
+| Market Cap | $2.90B (Sweet Spot $2B-$80B: Yes) |
+| Price | 81.76 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.765 / 0.000 |
+| Bull / Bear Edge | 0.758 / 0.008 |
 
 ## 45-DTE Options Surface
 

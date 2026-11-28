@@ -3,9 +3,9 @@ ticker: BB
 name: "BlackBerry Limited"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -18.55
-quant_composite_score: 40.72
-market_cap: 4989772000.0
+net_score: -17.06
+quant_composite_score: 41.47
+market_cap: 5312639600.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 3860d605fd81e5033d0ce56fb1c3348f3eca05f7cd892bbdee4af6308506ebf2
+wiki_state_hash: bcd62e932895e544599f98aaaee8f81305d30d79a6fc169010d701313a6b57df
 ---
 
 # BlackBerry Limited (BB)
@@ -33,12 +33,12 @@ wiki_state_hash: 3860d605fd81e5033d0ce56fb1c3348f3eca05f7cd892bbdee4af6308506ebf
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -18.55 / 40.72 |
-| Market Cap | $4.99B (Sweet Spot $2B-$80B: Yes) |
-| Price | 8.50 |
+| Net Score / Quant Composite | -17.06 / 41.47 |
+| Market Cap | $5.31B (Sweet Spot $2B-$80B: Yes) |
+| Price | 9.05 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.320 / 0.480 |
+| Bull / Bear Edge | 0.326 / 0.472 |
 
 ## 45-DTE Options Surface
 

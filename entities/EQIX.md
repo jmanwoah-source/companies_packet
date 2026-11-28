@@ -3,9 +3,9 @@ ticker: EQIX
 name: "Equinix, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -29.15
-quant_composite_score: 35.43
-market_cap: 96832334826.0
+net_score: -31.28
+quant_composite_score: 34.36
+market_cap: 97490607021.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/tight
-wiki_state_hash: 0b8cae4caa038f7046ee316a824b9046af0d1b9679d04a017efd83eb7cfc2841
+wiki_state_hash: 4ffee6cb919f30e8e00f7e87744293b03324077c33cf13085e1b717887e75ebe
 ---
 
 # Equinix, Inc. (EQIX)
@@ -32,12 +32,12 @@ wiki_state_hash: 0b8cae4caa038f7046ee316a824b9046af0d1b9679d04a017efd83eb7cfc284
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -29.15 / 35.43 |
-| Market Cap | $96.83B (Sweet Spot $2B-$80B: No) |
-| Price | 978.22 |
+| Net Score / Quant Composite | -31.28 / 34.36 |
+| Market Cap | $97.49B (Sweet Spot $2B-$80B: No) |
+| Price | 984.87 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / UNKNOWN |
-| Bull / Bear Edge | 0.150 / 0.717 |
+| Bull / Bear Edge | 0.130 / 0.741 |
 
 ## 45-DTE Options Surface
 

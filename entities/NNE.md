@@ -5,7 +5,7 @@ pillar: ENERGY_MATERIALS
 tier: NEUTRAL
 net_score: 30.0
 quant_composite_score: 65.0
-market_cap: 475497083.0
+market_cap: 512280313.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: 2a51f8d0168d19d4984bf16ba3d374e5c3e367608fe3d2d6867585f506d2158e
+wiki_state_hash: 130e2d798fecaa4b7d29a0498d8b861fdae6c87a3d709f6e15ef39af6d9c48df
 ---
 
 # Nano Nuclear Energy Inc. (NNE)
@@ -32,8 +32,8 @@ wiki_state_hash: 2a51f8d0168d19d4984bf16ba3d374e5c3e367608fe3d2d6867585f506d2158
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $475.5M (Sweet Spot $2B-$80B: No) |
-| Price | 8.86 |
+| Market Cap | $512.3M (Sweet Spot $2B-$80B: No) |
+| Price | 9.54 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.627 / 0.031 |

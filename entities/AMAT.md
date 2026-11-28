@@ -3,9 +3,9 @@ ticker: AMAT
 name: "Applied Materials, Inc."
 pillar: SEMI_SUBSYSTEMS
 tier: EMERGING_EDGE
-net_score: 49.3
-quant_composite_score: 74.65
-market_cap: 246951652313.0
+net_score: 55.81
+quant_composite_score: 77.9
+market_cap: 255570120544.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 5012b61c6b1b115455bf843dc423ce164cf1b37351b31f2ba62a95ed2bf53477
+wiki_state_hash: f0d13055944fc7d46025965102bfb21b2c233c1ce8b1c5d8abd5e1d9a7f11ad6
 ---
 
 # Applied Materials, Inc. (AMAT)
@@ -33,12 +33,12 @@ wiki_state_hash: 5012b61c6b1b115455bf843dc423ce164cf1b37351b31f2ba62a95ed2bf5347
 |---|---|
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 49.30 / 74.65 |
-| Market Cap | $246.95B (Sweet Spot $2B-$80B: No) |
-| Price | 311.18 |
+| Net Score / Quant Composite | 55.81 / 77.90 |
+| Market Cap | $255.57B (Sweet Spot $2B-$80B: No) |
+| Price | 322.04 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.506 / 0.047 |
+| Bull / Bear Edge | 0.535 / 0.000 |
 
 ## 45-DTE Options Surface
 

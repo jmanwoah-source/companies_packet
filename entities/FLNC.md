@@ -5,7 +5,7 @@ pillar: ENERGY_MATERIALS
 tier: NEUTRAL
 net_score: -41.68
 quant_composite_score: 29.16
-market_cap: 948537506.0
+market_cap: 1042989334.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: a2238266f018f9721407e576d2a403a1ba632a668d6113e80fbac6758f476f15
+wiki_state_hash: 4ca767ad18eae0a89b33acc22d26fd29cf7f146ae1831fea8317de2259808463
 ---
 
 # Fluence Energy, Inc. (FLNC)
@@ -32,8 +32,8 @@ wiki_state_hash: a2238266f018f9721407e576d2a403a1ba632a668d6113e80fbac6758f476f1
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -41.68 / 29.16 |
-| Market Cap | $948.5M (Sweet Spot $2B-$80B: No) |
-| Price | 4.72 |
+| Market Cap | $1.04B (Sweet Spot $2B-$80B: No) |
+| Price | 5.19 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.023 / 0.861 |

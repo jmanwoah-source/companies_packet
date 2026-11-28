@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: WATCHLIST
 net_score: -81.89
 quant_composite_score: 9.06
-market_cap: 2099740520.0
+market_cap: 2165599540.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 06251c9cfaa4eff404e62ebe820709a078af06fadf14c8564a52d2bb1c249318
+wiki_state_hash: e12b4fc5b46b4efd21315f5dca15879bb69b4f29bf7dca82c0d6894ce5406135
 ---
 
 # MARA Holdings, Inc. (MARA)
@@ -34,8 +34,8 @@ wiki_state_hash: 06251c9cfaa4eff404e62ebe820709a078af06fadf14c8564a52d2bb1c24931
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
 | Net Score / Quant Composite | -81.89 / 9.06 |
-| Market Cap | $2.10B (Sweet Spot $2B-$80B: Yes) |
-| Price | 5.42 |
+| Market Cap | $2.17B (Sweet Spot $2B-$80B: Yes) |
+| Price | 5.59 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
 | Bull / Bear Edge | 0.032 / 1.012 |

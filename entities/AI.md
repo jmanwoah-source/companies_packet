@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -30.0
 quant_composite_score: 35.0
-market_cap: 1554492770.0
+market_cap: 1588691611.0
 execution_sweet_spot: false
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: dd2eb7b4f7cc17b6bcdedc5d5dfc361224d6155d758cbc6778933e6784649e26
+wiki_state_hash: d5ba11dd04b0b9b417a56e329b9eeb6f683eba89bc5d7ea9cefbff35fd6247fd
 ---
 
 # C3.ai, Inc. (AI)
@@ -33,11 +33,11 @@ wiki_state_hash: dd2eb7b4f7cc17b6bcdedc5d5dfc361224d6155d758cbc6778933e6784649e2
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -30.00 / 35.00 |
-| Market Cap | $1.55B (Sweet Spot $2B-$80B: No) |
-| Price | 10.00 |
+| Market Cap | $1.59B (Sweet Spot $2B-$80B: No) |
+| Price | 10.22 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.055 / 0.829 |
+| Bull / Bear Edge | 0.041 / 0.845 |
 
 ## 45-DTE Options Surface
 

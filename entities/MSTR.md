@@ -3,9 +3,9 @@ ticker: MSTR
 name: "Strategy Inc"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -53.67
-quant_composite_score: 23.16
-market_cap: 32201011440.0
+net_score: -56.53
+quant_composite_score: 21.73
+market_cap: 32869516680.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 6e9af0df3d89c3557d514df3301b2747b5a9f5fa40cb7e3d7dfb79811742344d
+wiki_state_hash: 02ee1d37ad1c29bdd5a7e434a8218bcc60005a6730dd84202164d5560f903499
 ---
 
 # Strategy Inc (MSTR)
@@ -33,12 +33,12 @@ wiki_state_hash: 6e9af0df3d89c3557d514df3301b2747b5a9f5fa40cb7e3d7dfb79811742344
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -53.67 / 23.16 |
-| Market Cap | $32.20B (Sweet Spot $2B-$80B: Yes) |
-| Price | 79.96 |
+| Net Score / Quant Composite | -56.53 / 21.73 |
+| Market Cap | $32.87B (Sweet Spot $2B-$80B: Yes) |
+| Price | 81.62 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.254 / 0.764 |
+| Bull / Bear Edge | 0.238 / 0.783 |
 
 ## 45-DTE Options Surface
 

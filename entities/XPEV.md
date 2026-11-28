@@ -5,7 +5,7 @@ pillar: PHYSICAL_AI_ROBOTICS
 tier: MIRAGE_SHORT
 net_score: -86.12
 quant_composite_score: 6.94
-market_cap: 8540566418.0
+market_cap: 8816068561.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 11bfa7e7de438942ff9bf0e44b3a01ab4041dfead11f078be5f41f1160cc0591
+wiki_state_hash: 5f7b8a1adb1487a71aa59ee8430d6a8ec39241522726a46fffdf8113ab3ac13b
 ---
 
 # XPeng Inc. (XPEV)
@@ -34,8 +34,8 @@ wiki_state_hash: 11bfa7e7de438942ff9bf0e44b3a01ab4041dfead11f078be5f41f1160cc059
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -86.12 / 6.94 |
-| Market Cap | $8.54B (Sweet Spot $2B-$80B: Yes) |
-| Price | 8.99 |
+| Market Cap | $8.82B (Sweet Spot $2B-$80B: Yes) |
+| Price | 9.28 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.049 / 1.153 |
@@ -63,5 +63,5 @@ wiki_state_hash: 11bfa7e7de438942ff9bf0e44b3a01ab4041dfead11f078be5f41f1160cc059
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 0 chars / No |
-| Primary Risk | No fortress balance sheet or rebound evidence found. Metrics confirm fragility supporting PUT thesis. |
-| Tribunal Summary | AltmanZ 0.51 and PiotroskiF 2 confirm high distress risk. No 10-K corpus to suggest a bear trap. Clean PUT setup. |
+| Primary Risk | No fortress balance sheet or rebound catalysts found; distress metrics support bearish thesis. |
+| Tribunal Summary | Extreme distress (AltmanZ 0.52) and weak fundamentals (PiotroskiF 2) strongly support PUT. No bear-trap indicators like fortress cash or turnaround signals present in available data. |

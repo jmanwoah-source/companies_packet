@@ -5,7 +5,7 @@ pillar: NEXTGEN_COMPUTE
 tier: MIRAGE_SHORT
 net_score: -82.27
 quant_composite_score: 8.87
-market_cap: 101536115430.0
+market_cap: 106367235878.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: a191bebf529f092bbaaf224f19820dcd4a143a9a6f85689d431aa22815ef191e
+wiki_state_hash: 6047d8cb477a72d0561972f8575573920e07b14c902ff224f447f77ac33734aa
 ---
 
 # Cloudflare, Inc. (NET)
@@ -33,8 +33,8 @@ wiki_state_hash: a191bebf529f092bbaaf224f19820dcd4a143a9a6f85689d431aa22815ef191
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | MIRAGE_SHORT |
 | Net Score / Quant Composite | -82.27 / 8.87 |
-| Market Cap | $101.54B (Sweet Spot $2B-$80B: No) |
-| Price | 283.31 |
+| Market Cap | $106.37B (Sweet Spot $2B-$80B: No) |
+| Price | 296.79 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
 | Bull / Bear Edge | 0.099 / 1.089 |
@@ -62,5 +62,5 @@ wiki_state_hash: a191bebf529f092bbaaf224f19820dcd4a143a9a6f85689d431aa22815ef191
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | CAUTION / 45% / +5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | Fortress balance sheet (AltmanZ 10.59) provides downside cushion against distress thesis. Weak fundamentals (PiotroskiF 3) and persistent losses limit bearish conviction. |
-| Tribunal Summary | Cloudflare has a fortress balance sheet (AltmanZ 10.59) and strong market position, creating a floor against distress-driven declines. However, weak fundamentals (PiotroskiF 3) and significant net losses ($102M) support the PUT thesis. The high cash balance reduces the urgency of a short squeeze, but the lack of profitability makes it vulnerable to multiple compression if growth slows further. |
+| Primary Risk | AltmanZ 10.91 indicates fortress balance sheet, creating a potential bear trap via liquidity cushion despite weak fundamentals (PiotroskiF=3) and persistent losses. |
+| Tribunal Summary | Cloudflare has a massive cash fortress (AltmanZ 10.91) and low debt, which contradicts the distress thesis for a PUT. While fundamentals are weak (PiotroskiF=3, net losses), the strong balance sheet provides a floor against bankruptcy risk, increasing short-squeeze/bear-trap probability. |

@@ -5,7 +5,7 @@ pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
 net_score: -33.89
 quant_composite_score: 33.06
-market_cap: 465957483.0
+market_cap: 479169888.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: d840a96e347b3bc9cee683cae6e909c85b890f7045bd7397e0c4f5c0cd56eb66
+wiki_state_hash: b4b83ea5be29d85b800b6e9a76e508463fc8a3bb2600bb0362a6c3cd701fd356
 ---
 
 # Stratasys Ltd. (SSYS)
@@ -32,8 +32,8 @@ wiki_state_hash: d840a96e347b3bc9cee683cae6e909c85b890f7045bd7397e0c4f5c0cd56eb6
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -33.89 / 33.06 |
-| Market Cap | $466.0M (Sweet Spot $2B-$80B: No) |
-| Price | 5.29 |
+| Market Cap | $479.2M (Sweet Spot $2B-$80B: No) |
+| Price | 5.44 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.104 / 0.771 |

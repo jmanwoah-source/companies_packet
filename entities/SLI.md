@@ -3,9 +3,9 @@ ticker: SLI
 name: "Standard Lithium Ltd."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 19.83
-quant_composite_score: 59.92
-market_cap: 254187520.0
+net_score: 11.45
+quant_composite_score: 55.72
+market_cap: 266526720.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 7ab2f82eb8a8dd783f0dc35315dad83501d7bf4cdd10edaa04d4e6ecfbb11c62
+wiki_state_hash: 384701d4361d980731fb197b9643a91dd3ffa2f6add2beab3e23c649e4413e49
 ---
 
 # Standard Lithium Ltd. (SLI)
@@ -31,12 +31,12 @@ wiki_state_hash: 7ab2f82eb8a8dd783f0dc35315dad83501d7bf4cdd10edaa04d4e6ecfbb11c6
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.83 / 59.92 |
-| Market Cap | $254.2M (Sweet Spot $2B-$80B: No) |
-| Price | 1.03 |
+| Net Score / Quant Composite | 11.45 / 55.72 |
+| Market Cap | $266.5M (Sweet Spot $2B-$80B: No) |
+| Price | 1.08 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.536 / 0.157 |
+| Bull / Bear Edge | 0.468 / 0.251 |
 
 ## 45-DTE Options Surface
 

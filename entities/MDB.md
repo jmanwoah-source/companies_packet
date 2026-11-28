@@ -5,7 +5,7 @@ pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
 net_score: 30.0
 quant_composite_score: 65.0
-market_cap: 25217822072.0
+market_cap: 25747868471.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/normal
-wiki_state_hash: 406aa83d2e4678b650dfcc285e8ab4d02ddef16950f47e9d1e68d2465ea79ce7
+wiki_state_hash: d38b912e1e473dae77ebb4e7d592a2f098116a79e8b314d96f4e857c53547ca1
 ---
 
 # MongoDB, Inc. (MDB)
@@ -34,11 +34,11 @@ wiki_state_hash: 406aa83d2e4678b650dfcc285e8ab4d02ddef16950f47e9d1e68d2465ea79ce
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | 30.00 / 65.00 |
-| Market Cap | $25.22B (Sweet Spot $2B-$80B: Yes) |
-| Price | 313.53 |
+| Market Cap | $25.75B (Sweet Spot $2B-$80B: Yes) |
+| Price | 320.12 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.659 / 0.145 |
+| Bull / Bear Edge | 0.712 / 0.072 |
 
 ## 45-DTE Options Surface
 

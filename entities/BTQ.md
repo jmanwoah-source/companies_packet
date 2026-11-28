@@ -3,9 +3,9 @@ ticker: BTQ
 name: "BTQ Technologies Corp."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: 30.6
-quant_composite_score: 65.3
-market_cap: 167245788.0
+net_score: 25.41
+quant_composite_score: 62.71
+market_cap: 203994862.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 7270c71b729bb36a64b2025ad0e8c6dbc0ac44eef004c99b5730dc8919f52a20
+wiki_state_hash: a48ed9f0ef852b811b0c6809d90828e3506a315a50740a70a489c39e3ca36812
 ---
 
 # BTQ Technologies Corp. (BTQ)
@@ -31,12 +31,12 @@ wiki_state_hash: 7270c71b729bb36a64b2025ad0e8c6dbc0ac44eef004c99b5730dc8919f52a2
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 30.60 / 65.30 |
-| Market Cap | $167.2M (Sweet Spot $2B-$80B: No) |
-| Price | 1.11 |
+| Net Score / Quant Composite | 25.41 / 62.71 |
+| Market Cap | $204.0M (Sweet Spot $2B-$80B: No) |
+| Price | 1.36 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.628 / 0.031 |
+| Bull / Bear Edge | 0.583 / 0.092 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: AMT
 name: "American Tower Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -48.56
-quant_composite_score: 25.72
-market_cap: 85606196760.0
+net_score: -50.39
+quant_composite_score: 24.81
+market_cap: 85763876520.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 81a11dc933857e58f3313eba9214a388373e00b5b08b851dca3b32a61a9396dc
+wiki_state_hash: 971c43db16e49ddd4f5e54da6845a3f91b3d8672dad32eea0a095de8c2d3da11
 ---
 
 # American Tower Corporation (AMT)
@@ -32,12 +32,12 @@ wiki_state_hash: 81a11dc933857e58f3313eba9214a388373e00b5b08b851dca3b32a61a9396d
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -48.56 / 25.72 |
-| Market Cap | $85.61B (Sweet Spot $2B-$80B: No) |
-| Price | 184.59 |
+| Net Score / Quant Composite | -50.39 / 24.81 |
+| Market Cap | $85.76B (Sweet Spot $2B-$80B: No) |
+| Price | 184.93 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.363 / 0.814 |
+| Bull / Bear Edge | 0.353 / 0.825 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: IOT
 name: "Samsara Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 27.25
-quant_composite_score: 63.63
-market_cap: 22756618849.0
+net_score: 27.98
+quant_composite_score: 63.99
+market_cap: 23494481507.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/blocked_earnings
-wiki_state_hash: b117e4b4af734a917b073f16cec89c5c3c383e8b7792f28f11ff6d697d8a5e50
+wiki_state_hash: 480e658ae77afc29e73878f862a429d61f68e047c261490ac2dd8b29beb3285a
 ---
 
 # Samsara Inc. (IOT)
@@ -33,12 +33,12 @@ wiki_state_hash: b117e4b4af734a917b073f16cec89c5c3c383e8b7792f28f11ff6d697d8a5e5
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 27.25 / 63.63 |
-| Market Cap | $22.76B (Sweet Spot $2B-$80B: Yes) |
-| Price | 38.86 |
+| Net Score / Quant Composite | 27.98 / 63.99 |
+| Market Cap | $23.49B (Sweet Spot $2B-$80B: Yes) |
+| Price | 40.12 |
 | Options Gate / Structure | BLOCKED_EARNINGS / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.656 / 0.128 |
+| Bull / Bear Edge | 0.663 / 0.119 |
 
 ## 45-DTE Options Surface
 

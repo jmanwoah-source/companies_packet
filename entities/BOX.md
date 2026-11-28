@@ -3,9 +3,9 @@ ticker: BOX
 name: "Box, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -25.67
-quant_composite_score: 37.16
-market_cap: 6362010370.0
+net_score: -24.21
+quant_composite_score: 37.89
+market_cap: 6418262780.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: fc44ecc327a6c60e31470255d05c0268c961e5300c56e6dc28b2f444f0470bf7
+wiki_state_hash: c18eff31de30b426b4630dcf5b4bdad32bb2b0484401cab539c673661c359b37
 ---
 
 # Box, Inc. (BOX)
@@ -33,12 +33,12 @@ wiki_state_hash: fc44ecc327a6c60e31470255d05c0268c961e5300c56e6dc28b2f444f0470bf
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -25.67 / 37.16 |
-| Market Cap | $6.36B (Sweet Spot $2B-$80B: Yes) |
-| Price | 46.37 |
+| Net Score / Quant Composite | -24.21 / 37.89 |
+| Market Cap | $6.42B (Sweet Spot $2B-$80B: Yes) |
+| Price | 46.78 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.264 / 0.487 |
+| Bull / Bear Edge | 0.270 / 0.480 |
 
 ## 45-DTE Options Surface
 

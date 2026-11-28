@@ -5,7 +5,7 @@ pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
 net_score: -13.37
 quant_composite_score: 43.31
-market_cap: 8449862245.0
+market_cap: 8757620806.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 5010dd1f02d5ee5c82fd73555c0141bd049a2da84b310989461584c7141c22f9
+wiki_state_hash: d020d7c126ba6d0e6b18e1322f925f6139959029863e761ff45a8a3b924d5ec7
 ---
 
 # Onto Innovation Inc. (ONTO)
@@ -34,8 +34,8 @@ wiki_state_hash: 5010dd1f02d5ee5c82fd73555c0141bd049a2da84b310989461584c7141c22f
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -13.37 / 43.31 |
-| Market Cap | $8.45B (Sweet Spot $2B-$80B: Yes) |
-| Price | 172.15 |
+| Market Cap | $8.76B (Sweet Spot $2B-$80B: Yes) |
+| Price | 178.42 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
 | Bull / Bear Edge | 0.269 / 0.523 |

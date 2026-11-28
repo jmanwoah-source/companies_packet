@@ -3,9 +3,9 @@ ticker: AMTM
 name: "Amentum Holdings, Inc."
 pillar: DEFENSE
 tier: GOLDEN
-net_score: 70.13
-quant_composite_score: 85.07
-market_cap: 6078953128.0
+net_score: 73.59
+quant_composite_score: 86.79
+market_cap: 6042274006.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "NEUTRAL"
@@ -22,7 +22,7 @@ tags:
   - tier/golden
   - gate/approved
   - liquidity/normal
-wiki_state_hash: e84323ffb4976dcf8accee2d61500831b7826375b69fa87bea557509656539b7
+wiki_state_hash: 9ff94156a9f62279fd82d8e208b741f277cad863ed05b5852ff8eefc9db07ad3
 ---
 
 # Amentum Holdings, Inc. (AMTM)
@@ -33,12 +33,12 @@ wiki_state_hash: e84323ffb4976dcf8accee2d61500831b7826375b69fa87bea557509656539b
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | GOLDEN |
-| Net Score / Quant Composite | 70.13 / 85.07 |
-| Market Cap | $6.08B (Sweet Spot $2B-$80B: Yes) |
-| Price | 24.86 |
+| Net Score / Quant Composite | 73.59 / 86.79 |
+| Market Cap | $6.04B (Sweet Spot $2B-$80B: Yes) |
+| Price | 24.71 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.903 / 0.164 |
+| Bull / Bear Edge | 0.931 / 0.131 |
 
 ## 45-DTE Options Surface
 
@@ -61,8 +61,8 @@ wiki_state_hash: e84323ffb4976dcf8accee2d61500831b7826375b69fa87bea557509656539b
 | Field | Value |
 |---|---|
 | As-Of / Direction | 2026-11-28 / CALL |
-| Triage / Kill Risk / Score Adj | CAUTION / 45% / -5.0 |
+| Triage / Kill Risk / Score Adj | PASS / 35% / -5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
 | Customer Concentration | 80.0% |
-| Primary Risk | 80% revenue concentration in US Gov with terminable-at-convenience clauses and fixed-price margin risk creates structural fragility. |
-| Tribunal Summary | High thesis risk due to 80% US Gov revenue concentration and terminable-at-convenience clauses. AltmanZ 2.08 is Grey Zone, not Fortress. Fixed-price contracts expose margins to inflation/cost overruns. MFI 71 suggests overbought entry risk. |
+| Primary Risk | High customer concentration (80% US Gov) and AltmanZ 2.08 indicate structural fragility despite strong Piotroski score. |
+| Tribunal Summary | Bull trap risk stems from extreme reliance on US federal government (80% rev) and AltmanZ in grey zone (2.08). Thin short wing amplifies gamma risk. No specific dilution or churn found, but binary gov-budget risk is high. |

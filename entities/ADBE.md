@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: EMERGING_EDGE
 net_score: 49.14
 quant_composite_score: 74.57
-market_cap: 90617436000.0
+market_cap: 91380268000.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -21,7 +21,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 7b97077897fa7718631a4fbaadc7baf0c26ca357e3b8c9e0e5ab41e65bc3812b
+wiki_state_hash: 0eadca3fc6e0e58cda78c2bc8123a3704ddb0826eff4663f74b69616853cbbf0
 ---
 
 # Adobe Inc. (ADBE)
@@ -33,8 +33,8 @@ wiki_state_hash: 7b97077897fa7718631a4fbaadc7baf0c26ca357e3b8c9e0e5ab41e65bc3812
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
 | Net Score / Quant Composite | 49.14 / 74.57 |
-| Market Cap | $90.62B (Sweet Spot $2B-$80B: No) |
-| Price | 232.83 |
+| Market Cap | $91.38B (Sweet Spot $2B-$80B: No) |
+| Price | 234.79 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
 | Bull / Bear Edge | 0.585 / 0.128 |

@@ -5,7 +5,7 @@ pillar: SEMI_SUBSYSTEMS
 tier: WATCHLIST
 net_score: -79.8
 quant_composite_score: 10.1
-market_cap: 246891516300.0
+market_cap: 257546074500.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 296a1c59ffaca23a0808e0355ed44c1595fad00bbd8a0614f64656bd51ea8989
+wiki_state_hash: 9d76701c34cc4458854259b343781c8a5074be657ff8f33f8c5c826e00a0fded
 ---
 
 # Texas Instruments Incorporated (TXN)
@@ -35,8 +35,8 @@ wiki_state_hash: 296a1c59ffaca23a0808e0355ed44c1595fad00bbd8a0614f64656bd51ea898
 | Pillar | [[HUB_SEMI_SUBSYSTEMS]] |
 | Tier | WATCHLIST |
 | Net Score / Quant Composite | -79.80 / 10.10 |
-| Market Cap | $246.89B (Sweet Spot $2B-$80B: No) |
-| Price | 270.19 |
+| Market Cap | $257.55B (Sweet Spot $2B-$80B: No) |
+| Price | 281.85 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
 | Bull / Bear Edge | 0.126 / 1.054 |

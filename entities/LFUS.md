@@ -3,9 +3,9 @@ ticker: LFUS
 name: "Littelfuse, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 5.76
-quant_composite_score: 52.88
-market_cap: 9266180660.0
+net_score: 2.9
+quant_composite_score: 51.45
+market_cap: 9644438775.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 6ae9990966b59f740a196327c5e82c9cd397e706b85c4c7f6623c81f93dfec52
+wiki_state_hash: d928b8fbfc520d46107b9a2c1003132b0b2950406d1373c017e3adb009202ac4
 ---
 
 # Littelfuse, Inc. (LFUS)
@@ -33,12 +33,12 @@ wiki_state_hash: 6ae9990966b59f740a196327c5e82c9cd397e706b85c4c7f6623c81f93dfec5
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 5.76 / 52.88 |
-| Market Cap | $9.27B (Sweet Spot $2B-$80B: Yes) |
-| Price | 364.76 |
+| Net Score / Quant Composite | 2.90 / 51.45 |
+| Market Cap | $9.64B (Sweet Spot $2B-$80B: Yes) |
+| Price | 379.65 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.422 / 0.313 |
+| Bull / Bear Edge | 0.399 / 0.344 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: KRMN
 name: "Karman Holdings Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: -11.55
-quant_composite_score: 44.22
-market_cap: 3879261399.0
+net_score: -14.25
+quant_composite_score: 42.88
+market_cap: 4096616667.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2a840f7328ff58c4f9abaf9dedc1c91bf277ae11b4d37136a68b0c75f1c18095
+wiki_state_hash: dfb88afe0f84f227d1b4b58c05ff65eb19871087a00c12d34a5b0e293467a35d
 ---
 
 # Karman Holdings Inc. (KRMN)
@@ -32,12 +32,12 @@ wiki_state_hash: 2a840f7328ff58c4f9abaf9dedc1c91bf277ae11b4d37136a68b0c75f1c1809
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -11.55 / 44.22 |
-| Market Cap | $3.88B (Sweet Spot $2B-$80B: Yes) |
-| Price | 29.27 |
+| Net Score / Quant Composite | -14.25 / 42.88 |
+| Market Cap | $4.10B (Sweet Spot $2B-$80B: Yes) |
+| Price | 30.91 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.311 / 0.530 |
+| Bull / Bear Edge | 0.287 / 0.558 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: FRSH
 name: "Freshworks Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 13.77
-quant_composite_score: 56.89
-market_cap: 3418132693.0
+net_score: 17.6
+quant_composite_score: 58.8
+market_cap: 3394523181.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: b48db84228b64f821a9bf1a6b07da3a1b0e12691f6058f22e382f44bb436c0e0
+wiki_state_hash: 1f1a9713b4354bf12ea9d0f8c7d7c6301447dfebfea39d86e0830e0226636681
 ---
 
 # Freshworks Inc. (FRSH)
@@ -32,12 +32,12 @@ wiki_state_hash: b48db84228b64f821a9bf1a6b07da3a1b0e12691f6058f22e382f44bb436c0e
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 13.77 / 56.89 |
-| Market Cap | $3.42B (Sweet Spot $2B-$80B: Yes) |
-| Price | 13.03 |
+| Net Score / Quant Composite | 17.60 / 58.80 |
+| Market Cap | $3.39B (Sweet Spot $2B-$80B: Yes) |
+| Price | 12.94 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.533 / 0.271 |
+| Bull / Bear Edge | 0.567 / 0.231 |
 
 ## 45-DTE Options Surface
 

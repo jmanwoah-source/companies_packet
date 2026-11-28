@@ -3,10 +3,10 @@ ticker: ALM
 name: "Almonty Industries Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: 1.47
-quant_composite_score: 50.73
-market_cap: 1923770760.0
-execution_sweet_spot: false
+net_score: -15.6
+quant_composite_score: 42.2
+market_cap: 2082666280.0
+execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
 structure_hint: "DEBIT_SPREAD_45D"
@@ -17,11 +17,12 @@ related_links: []
 tags:
   - pillar/energy_materials
   - etf/remx
-  - mcap/small
+  - mcap/mid
+  - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/normal
-wiki_state_hash: e49e381c337bf43c5068a3e6a7d3f82597b10f3f2c5bec3d5962d5dd6024dcee
+wiki_state_hash: 1e40da9b83cf8ef30f11aa6c3b1d7e8aba10cf96b4e68047beed609f7f4661f4
 ---
 
 # Almonty Industries Inc. (ALM)
@@ -32,12 +33,12 @@ wiki_state_hash: e49e381c337bf43c5068a3e6a7d3f82597b10f3f2c5bec3d5962d5dd6024dce
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.47 / 50.73 |
-| Market Cap | $1.92B (Sweet Spot $2B-$80B: No) |
-| Price | 6.78 |
+| Net Score / Quant Composite | -15.60 / 42.20 |
+| Market Cap | $2.08B (Sweet Spot $2B-$80B: Yes) |
+| Price | 7.34 |
 | Options Gate / Structure | REJECTED_CONVEXITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / UNKNOWN |
-| Bull / Bear Edge | 0.388 / 0.360 |
+| Bull / Bear Edge | 0.251 / 0.548 |
 
 ## 45-DTE Options Surface
 

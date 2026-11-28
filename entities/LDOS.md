@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: EMERGING_EDGE
 net_score: 36.06
 quant_composite_score: 68.03
-market_cap: 15934986900.0
+market_cap: 16076501100.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: 4808616ba26117dc5f68ef9c543eb5427ea4171ee8c9e02859adf296764fbb6f
+wiki_state_hash: a3a5e71a1c9e59c7b9e9288b046eccc03e28a4b937912cbdc6af5537b05dedb6
 ---
 
 # Leidos Holdings, Inc. (LDOS)
@@ -34,8 +34,8 @@ wiki_state_hash: 4808616ba26117dc5f68ef9c543eb5427ea4171ee8c9e02859adf296764fbb6
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | EMERGING_EDGE |
 | Net Score / Quant Composite | 36.06 / 68.03 |
-| Market Cap | $15.93B (Sweet Spot $2B-$80B: Yes) |
-| Price | 130.62 |
+| Market Cap | $16.08B (Sweet Spot $2B-$80B: Yes) |
+| Price | 131.78 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.741 / 0.028 |

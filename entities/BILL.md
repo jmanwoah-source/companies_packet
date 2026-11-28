@@ -3,9 +3,9 @@ ticker: BILL
 name: "Bill.com Holdings, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -4.94
-quant_composite_score: 47.53
-market_cap: 5286098650.0
+net_score: -0.24
+quant_composite_score: 49.88
+market_cap: 5311724521.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 34af8337dd208539b77d7d08a7f237313bdc5245e1ebc0ada8b2bb558a7eff9f
+wiki_state_hash: 24e14e4a2de5b04ae94955c4dd129f93aa92545bc56f9b5ef674aa9375a34937
 ---
 
 # Bill.com Holdings, Inc. (BILL)
@@ -32,12 +32,12 @@ wiki_state_hash: 34af8337dd208539b77d7d08a7f237313bdc5245e1ebc0ada8b2bb558a7eff9
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -4.94 / 47.53 |
-| Market Cap | $5.29B (Sweet Spot $2B-$80B: Yes) |
-| Price | 61.55 |
+| Net Score / Quant Composite | -0.24 / 49.88 |
+| Market Cap | $5.31B (Sweet Spot $2B-$80B: Yes) |
+| Price | 61.73 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.369 / 0.462 |
+| Bull / Bear Edge | 0.410 / 0.414 |
 
 ## 45-DTE Options Surface
 

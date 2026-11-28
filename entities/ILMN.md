@@ -3,9 +3,9 @@ ticker: ILMN
 name: "Illumina, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -10.62
-quant_composite_score: 44.69
-market_cap: 30298968000.0
+net_score: -2.81
+quant_composite_score: 48.6
+market_cap: 31107888000.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 96139970b5f200b2fdd5a4991cddac80837e570c8048f7dfc36e7b08e59892ba
+wiki_state_hash: ddcc85ad8ceeb59c4ae49bce0f9daca40da2ef70952681e4725ca07e43662c56
 ---
 
 # Illumina, Inc. (ILMN)
@@ -33,12 +33,12 @@ wiki_state_hash: 96139970b5f200b2fdd5a4991cddac80837e570c8048f7dfc36e7b08e59892b
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -10.62 / 44.69 |
-| Market Cap | $30.30B (Sweet Spot $2B-$80B: Yes) |
-| Price | 200.39 |
+| Net Score / Quant Composite | -2.81 / 48.60 |
+| Market Cap | $31.11B (Sweet Spot $2B-$80B: Yes) |
+| Price | 205.74 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.325 / 0.415 |
+| Bull / Bear Edge | 0.353 / 0.377 |
 
 ## 45-DTE Options Surface
 

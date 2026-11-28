@@ -3,9 +3,9 @@ ticker: ONDS
 name: "Ondas Holdings Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 28.4
-quant_composite_score: 64.2
-market_cap: 2306623800.0
+net_score: -19.49
+quant_composite_score: 40.25
+market_cap: 2424912200.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 297ca2115f26bd2e60749f83b08c771f627d523937a9c2e0b86b2939316a9c4f
+wiki_state_hash: a8c62be89a1c2e1cdcf9ce0726d44a2db95f39b771cab4f82f6486dc794fea7a
 ---
 
 # Ondas Holdings Inc. (ONDS)
@@ -34,12 +34,12 @@ wiki_state_hash: 297ca2115f26bd2e60749f83b08c771f627d523937a9c2e0b86b2939316a9c4
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 28.40 / 64.20 |
-| Market Cap | $2.31B (Sweet Spot $2B-$80B: Yes) |
-| Price | 3.90 |
+| Net Score / Quant Composite | -19.49 / 40.25 |
+| Market Cap | $2.42B (Sweet Spot $2B-$80B: Yes) |
+| Price | 4.10 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.687 / 0.439 |
+| Bull / Bear Edge | 0.491 / 0.659 |
 
 ## 45-DTE Options Surface
 

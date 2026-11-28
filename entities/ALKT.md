@@ -3,9 +3,9 @@ ticker: ALKT
 name: "Alkami Technology, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 30.14
-quant_composite_score: 65.07
-market_cap: 1463264140.0
+net_score: 32.25
+quant_composite_score: 66.13
+market_cap: 1490024640.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 5a9e167e16323526b00953edee940192e3172e91b4c5bfea741046e784d8f537
+wiki_state_hash: bc9bed05a945e8ba5147f73f2021a6967f721f577fe4b8d62059f2f61d43750f
 ---
 
 # Alkami Technology, Inc. (ALKT)
@@ -31,12 +31,12 @@ wiki_state_hash: 5a9e167e16323526b00953edee940192e3172e91b4c5bfea741046e784d8f53
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 30.14 / 65.07 |
-| Market Cap | $1.46B (Sweet Spot $2B-$80B: No) |
-| Price | 13.67 |
+| Net Score / Quant Composite | 32.25 / 66.13 |
+| Market Cap | $1.49B (Sweet Spot $2B-$80B: No) |
+| Price | 13.92 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.683 / 0.096 |
+| Bull / Bear Edge | 0.704 / 0.072 |
 
 ## 45-DTE Options Surface
 

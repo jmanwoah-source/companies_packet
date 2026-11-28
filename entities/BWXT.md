@@ -3,9 +3,9 @@ ticker: BWXT
 name: "BWX Technologies, Inc."
 pillar: DEFENSE
 tier: NEUTRAL
-net_score: 2.11
-quant_composite_score: 51.05
-market_cap: 10404041119.0
+net_score: -3.37
+quant_composite_score: 48.31
+market_cap: 10680749214.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 91271d86a8505d7de917c6ae8628efb9e74eba5817a619c6e3bac3af53d59393
+wiki_state_hash: f2c64d9fc0af280aa7f0885384a0c1fc7eaf316e0e9e427776ded21d30ff40df
 ---
 
 # BWX Technologies, Inc. (BWXT)
@@ -32,12 +32,12 @@ wiki_state_hash: 91271d86a8505d7de917c6ae8628efb9e74eba5817a619c6e3bac3af53d5939
 |---|---|
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 2.11 / 51.05 |
-| Market Cap | $10.40B (Sweet Spot $2B-$80B: Yes) |
-| Price | 113.55 |
+| Net Score / Quant Composite | -3.37 / 48.31 |
+| Market Cap | $10.68B (Sweet Spot $2B-$80B: Yes) |
+| Price | 116.57 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.430 / 0.391 |
+| Bull / Bear Edge | 0.383 / 0.446 |
 
 ## 45-DTE Options Surface
 

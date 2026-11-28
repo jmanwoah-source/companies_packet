@@ -3,9 +3,9 @@ ticker: HUBS
 name: "HubSpot, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 1.33
-quant_composite_score: 50.66
-market_cap: 10265920665.0
+net_score: 3.68
+quant_composite_score: 51.84
+market_cap: 10131131925.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: dd15d9d75f8c72660f3a1411b3c19143414bed1b57154f550ff6d9cbbe087bb3
+wiki_state_hash: 9d63b9a8f480275bb9c6faa5d55981d14e5cb1e1ad329616c61a007ad50f140b
 ---
 
 # HubSpot, Inc. (HUBS)
@@ -32,12 +32,12 @@ wiki_state_hash: dd15d9d75f8c72660f3a1411b3c19143414bed1b57154f550ff6d9cbbe087bb
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 1.33 / 50.66 |
-| Market Cap | $10.27B (Sweet Spot $2B-$80B: Yes) |
-| Price | 210.21 |
+| Net Score / Quant Composite | 3.68 / 51.84 |
+| Market Cap | $10.13B (Sweet Spot $2B-$80B: Yes) |
+| Price | 207.45 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.423 / 0.398 |
+| Bull / Bear Edge | 0.444 / 0.374 |
 
 ## 45-DTE Options Surface
 

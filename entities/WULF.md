@@ -3,9 +3,9 @@ ticker: WULF
 name: "TeraWulf Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -84.9
-quant_composite_score: 7.55
-market_cap: 5030261698.0
+net_score: -82.75
+quant_composite_score: 8.62
+market_cap: 5401387686.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: f12227dd2801b89fa8a6ecbf352014a42a2db18970b28bc8b5129540d99d0492
+wiki_state_hash: 50588a667a6bccb8d799b4a410309a6149908e2bd06f0e220d57ea9af31c94cb
 ---
 
 # TeraWulf Inc. (WULF)
@@ -33,12 +33,12 @@ wiki_state_hash: f12227dd2801b89fa8a6ecbf352014a42a2db18970b28bc8b5129540d99d049
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -84.90 / 7.55 |
-| Market Cap | $5.03B (Sweet Spot $2B-$80B: Yes) |
-| Price | 10.03 |
+| Net Score / Quant Composite | -82.75 / 8.62 |
+| Market Cap | $5.40B (Sweet Spot $2B-$80B: Yes) |
+| Price | 10.77 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.068 / 1.132 |
+| Bull / Bear Edge | 0.096 / 1.100 |
 
 ## 45-DTE Options Surface
 

@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -30.0
 quant_composite_score: 35.0
-market_cap: 7526000092.0
+market_cap: 7592645596.0
 execution_sweet_spot: true
 options_gate: "BLOCKED_EARNINGS"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/blocked_earnings
   - liquidity/thin_risk
-wiki_state_hash: 9b5f12f8e8f901931f474395af59e28365b2615e9f6fd443f59c76c233b1b492
+wiki_state_hash: f3231a0137071a766476247db262be79c24441f0242ac18876d6b8e1166d2bd0
 ---
 
 # GitLab Inc. (GTLB)
@@ -34,11 +34,11 @@ wiki_state_hash: 9b5f12f8e8f901931f474395af59e28365b2615e9f6fd443f59c76c233b1b49
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -30.00 / 35.00 |
-| Market Cap | $7.53B (Sweet Spot $2B-$80B: Yes) |
-| Price | 45.17 |
+| Market Cap | $7.59B (Sweet Spot $2B-$80B: Yes) |
+| Price | 45.57 |
 | Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.208 / 0.562 |
+| Bull / Bear Edge | 0.191 / 0.585 |
 
 ## 45-DTE Options Surface
 

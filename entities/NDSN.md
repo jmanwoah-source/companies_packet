@@ -2,10 +2,10 @@
 ticker: NDSN
 name: "Nordson Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
-tier: NEUTRAL
-net_score: 19.56
-quant_composite_score: 59.78
-market_cap: 17880621388.0
+tier: EMERGING_EDGE
+net_score: 34.31
+quant_composite_score: 67.16
+market_cap: 18056074498.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -19,9 +19,9 @@ tags:
   - etf/robo
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/emerging_edge
   - gate/rejected_liquidity
-wiki_state_hash: c88ea4d335f769f6c4256c43146deea476cf3126facf31f73e71356fe9ff0590
+wiki_state_hash: a2337e2f209f894d1e3787914edb2ea0539cfa005b526be0ab022890877f2630
 ---
 
 # Nordson Corporation (NDSN)
@@ -31,13 +31,13 @@ wiki_state_hash: c88ea4d335f769f6c4256c43146deea476cf3126facf31f73e71356fe9ff059
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | 19.56 / 59.78 |
-| Market Cap | $17.88B (Sweet Spot $2B-$80B: Yes) |
-| Price | 321.02 |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 34.31 / 67.16 |
+| Market Cap | $18.06B (Sweet Spot $2B-$80B: Yes) |
+| Price | 324.17 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.618 / 0.243 |
+| Bull / Bear Edge | 0.757 / 0.081 |
 
 ## 45-DTE Options Surface
 

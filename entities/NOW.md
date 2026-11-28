@@ -3,9 +3,9 @@ ticker: NOW
 name: "ServiceNow, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 14.15
-quant_composite_score: 57.08
-market_cap: 95654430720.0
+net_score: -2.57
+quant_composite_score: 48.72
+market_cap: 96318697600.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: bb5f81d5dc85e2d1df4501cd5eddc68a37ca78e36700e42815535d4f880cada2
+wiki_state_hash: d89c83b8d568aa329447044e3c6ce71faaf3d7accb3e6177f11ee0536da9b68d
 ---
 
 # ServiceNow, Inc. (NOW)
@@ -32,12 +32,12 @@ wiki_state_hash: bb5f81d5dc85e2d1df4501cd5eddc68a37ca78e36700e42815535d4f880cada
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 14.15 / 57.08 |
-| Market Cap | $95.65B (Sweet Spot $2B-$80B: No) |
-| Price | 92.16 |
+| Net Score / Quant Composite | -2.57 / 48.72 |
+| Market Cap | $96.32B (Sweet Spot $2B-$80B: No) |
+| Price | 92.80 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.633 / 0.512 |
+| Bull / Bear Edge | 0.566 / 0.587 |
 
 ## 45-DTE Options Surface
 

@@ -3,9 +3,9 @@ ticker: JOBY
 name: "Joby Aviation, Inc."
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: -26.65
-quant_composite_score: 36.68
-market_cap: 3964896000.0
+net_score: -15.22
+quant_composite_score: 42.39
+market_cap: 4117392000.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: dcfd6214799e8d3c29bd15274d806309d7233a0179744d91fcf4d220c173205d
+wiki_state_hash: 219aecc9cfa68c96531c4030c2882c032d1caf925d2328508de93842e8b73594
 ---
 
 # Joby Aviation, Inc. (JOBY)
@@ -33,12 +33,12 @@ wiki_state_hash: dcfd6214799e8d3c29bd15274d806309d7233a0179744d91fcf4d220c173205
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -26.65 / 36.68 |
-| Market Cap | $3.96B (Sweet Spot $2B-$80B: Yes) |
-| Price | 3.90 |
+| Net Score / Quant Composite | -15.22 / 42.39 |
+| Market Cap | $4.12B (Sweet Spot $2B-$80B: Yes) |
+| Price | 4.05 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.174 / 0.690 |
+| Bull / Bear Edge | 0.278 / 0.568 |
 
 ## 45-DTE Options Surface
 

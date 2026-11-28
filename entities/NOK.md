@@ -3,9 +3,9 @@ ticker: NOK
 name: "Nokia Oyj"
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -15.01
-quant_composite_score: 42.49
-market_cap: 41310230019.0
+net_score: -35.79
+quant_composite_score: 32.11
+market_cap: 42894731992.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "RICH_VOL"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 132931e9bceac94af2b91f4111246386a300d63b02bec373f241446748ac500e
+wiki_state_hash: 87293dc5110dc0adf74307b66b519abbfc76a3f44c5d1cd55da21ccd409b2550
 ---
 
 # Nokia Oyj (NOK)
@@ -33,12 +33,12 @@ wiki_state_hash: 132931e9bceac94af2b91f4111246386a300d63b02bec373f241446748ac500
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -15.01 / 42.49 |
-| Market Cap | $41.31B (Sweet Spot $2B-$80B: Yes) |
-| Price | 7.30 |
+| Net Score / Quant Composite | -35.79 / 32.11 |
+| Market Cap | $42.89B (Sweet Spot $2B-$80B: Yes) |
+| Price | 7.58 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.277 / 0.406 |
+| Bull / Bear Edge | 0.203 / 0.521 |
 
 ## 45-DTE Options Surface
 

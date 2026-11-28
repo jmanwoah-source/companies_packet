@@ -5,7 +5,7 @@ pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
 net_score: -22.91
 quant_composite_score: 38.55
-market_cap: 172835281600.0
+market_cap: 176399729547.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/mega_corridor
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 952750dc89a5c6ad1c1a82a63ef5bc3365ad7f55c30fe245aede501c3bc803fd
+wiki_state_hash: c9e27b07bb2c9ef2ca4f9f4b2b65a0a43d7107ecca3edb5bdffd537baab9428f
 ---
 
 # Deere & Company (DE)
@@ -32,8 +32,8 @@ wiki_state_hash: 952750dc89a5c6ad1c1a82a63ef5bc3365ad7f55c30fe245aede501c3bc803f
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -22.91 / 38.55 |
-| Market Cap | $172.84B (Sweet Spot $2B-$80B: No) |
-| Price | 641.02 |
+| Market Cap | $176.40B (Sweet Spot $2B-$80B: No) |
+| Price | 654.24 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.209 / 0.649 |

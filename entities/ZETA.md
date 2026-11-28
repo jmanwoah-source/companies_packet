@@ -3,9 +3,9 @@ ticker: ZETA
 name: "Zeta Global Holdings Corp."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -46.71
-quant_composite_score: 26.65
-market_cap: 8212761311.0
+net_score: -42.86
+quant_composite_score: 28.57
+market_cap: 8582682371.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 0ddfc125862c1df49e0f5cda9b4a9d40688aa79bca705b69e51033bbea183047
+wiki_state_hash: 7a56e882a131efea72ee347d12ebdf64389de34de85aed4cc22541d1d1980aab
 ---
 
 # Zeta Global Holdings Corp. (ZETA)
@@ -33,12 +33,12 @@ wiki_state_hash: 0ddfc125862c1df49e0f5cda9b4a9d40688aa79bca705b69e51033bbea18304
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -46.71 / 26.65 |
-| Market Cap | $8.21B (Sweet Spot $2B-$80B: Yes) |
-| Price | 31.97 |
+| Net Score / Quant Composite | -42.86 / 28.57 |
+| Market Cap | $8.58B (Sweet Spot $2B-$80B: Yes) |
+| Price | 33.41 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.373 / 0.803 |
+| Bull / Bear Edge | 0.392 / 0.781 |
 
 ## 45-DTE Options Surface
 

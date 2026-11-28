@@ -3,9 +3,9 @@ ticker: NKLR
 name: "Terra Innovatum Global N.V. Ordinary shares"
 pillar: ENERGY_MATERIALS
 tier: EMERGING_EDGE
-net_score: 36.75
-quant_composite_score: 68.38
-market_cap: 208846720.0
+net_score: 35.51
+quant_composite_score: 67.75
+market_cap: 218791802.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/emerging_edge
   - gate/rejected_convexity
-wiki_state_hash: a720d2586265c9e8cd25ab2d7cff9685bc88ad496dfea872c81057aacd4d9892
+wiki_state_hash: 1526211a1c5fc537954920b3859262ecfdb10e5bd67d17faafef12d7bc706f22
 ---
 
 # Terra Innovatum Global N.V. Ordinary shares (NKLR)
@@ -31,12 +31,12 @@ wiki_state_hash: a720d2586265c9e8cd25ab2d7cff9685bc88ad496dfea872c81057aacd4d989
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 36.75 / 68.38 |
-| Market Cap | $208.8M (Sweet Spot $2B-$80B: No) |
-| Price | 1.89 |
+| Net Score / Quant Composite | 35.51 / 67.75 |
+| Market Cap | $218.8M (Sweet Spot $2B-$80B: No) |
+| Price | 1.98 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.728 / 0.000 |
+| Bull / Bear Edge | 0.717 / 0.016 |
 
 ## 45-DTE Options Surface
 

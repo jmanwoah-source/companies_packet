@@ -3,9 +3,9 @@ ticker: FICO
 name: "Fair Isaac Corporation"
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 32.25
-quant_composite_score: 66.13
-market_cap: 14962587923.0
+net_score: 31.55
+quant_composite_score: 65.77
+market_cap: 15149884862.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 57f2c4b6cd5b57c2ba9dbd946afad90fdf9b7ff415a224d403ecb50503dcd734
+wiki_state_hash: 520b929cfa592cc21fc9ee2a506bc9bb8e7ebc23cd9aaf0731d964e86393879b
 ---
 
 # Fair Isaac Corporation (FICO)
@@ -32,12 +32,12 @@ wiki_state_hash: 57f2c4b6cd5b57c2ba9dbd946afad90fdf9b7ff415a224d403ecb50503dcd73
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 32.25 / 66.13 |
-| Market Cap | $14.96B (Sweet Spot $2B-$80B: Yes) |
-| Price | 699.81 |
+| Net Score / Quant Composite | 31.55 / 65.77 |
+| Market Cap | $15.15B (Sweet Spot $2B-$80B: Yes) |
+| Price | 708.57 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.704 / 0.072 |
+| Bull / Bear Edge | 0.697 / 0.080 |
 
 ## 45-DTE Options Surface
 

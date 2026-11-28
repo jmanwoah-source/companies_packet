@@ -3,9 +3,9 @@ ticker: FIVN
 name: "Five9, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: 0.54
-quant_composite_score: 50.27
-market_cap: 1801584332.0
+net_score: 5.24
+quant_composite_score: 52.62
+market_cap: 1761980861.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: a4fe39ed40bec2341dfbd5787c65adc7936abc934369c761162feff7c22103f1
+wiki_state_hash: 369598d7dc0a4bad72ecc48438a32e8ef2deb7995c9fbd48ed208d126284df96
 ---
 
 # Five9, Inc. (FIVN)
@@ -31,12 +31,12 @@ wiki_state_hash: a4fe39ed40bec2341dfbd5787c65adc7936abc934369c761162feff7c22103f
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 0.54 / 50.27 |
-| Market Cap | $1.80B (Sweet Spot $2B-$80B: No) |
-| Price | 24.11 |
+| Net Score / Quant Composite | 5.24 / 52.62 |
+| Market Cap | $1.76B (Sweet Spot $2B-$80B: No) |
+| Price | 23.58 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.417 / 0.406 |
+| Bull / Bear Edge | 0.458 / 0.359 |
 
 ## 45-DTE Options Surface
 

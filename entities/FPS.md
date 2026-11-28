@@ -3,9 +3,9 @@ ticker: FPS
 name: "Forgent Power Solutions, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -27.3
-quant_composite_score: 36.35
-market_cap: 5166600022.0
+net_score: -49.54
+quant_composite_score: 25.23
+market_cap: 5397202786.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 75f40d24ea06d980a4d84bb9c70c2adcb79b0b6b6c7ac80d22bf078006aab5c4
+wiki_state_hash: f0f206d5a713f6e86846cf96ababfd6afd0a1c07f53c2358924123bd3e232263
 ---
 
 # Forgent Power Solutions, Inc. (FPS)
@@ -33,12 +33,12 @@ wiki_state_hash: 75f40d24ea06d980a4d84bb9c70c2adcb79b0b6b6c7ac80d22bf078006aab5c
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -27.30 / 36.35 |
-| Market Cap | $5.17B (Sweet Spot $2B-$80B: Yes) |
-| Price | 18.82 |
+| Net Score / Quant Composite | -49.54 / 25.23 |
+| Market Cap | $5.40B (Sweet Spot $2B-$80B: Yes) |
+| Price | 19.66 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.419 / 0.657 |
+| Bull / Bear Edge | 0.322 / 0.784 |
 
 ## 45-DTE Options Surface
 

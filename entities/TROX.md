@@ -3,9 +3,9 @@ ticker: TROX
 name: "Tronox Holdings plc"
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -38.07
-quant_composite_score: 30.97
-market_cap: 324200464.0
+net_score: -40.49
+quant_composite_score: 29.75
+market_cap: 375305956.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 6b5063433a4ecfc72506daaa25a1d7a9791faf58b81c81c5f3e2867d68fa5ed9
+wiki_state_hash: b28468138b86944b2080d33757f03297c287750608290d22a18384f8fa3925bb
 ---
 
 # Tronox Holdings plc (TROX)
@@ -31,12 +31,12 @@ wiki_state_hash: 6b5063433a4ecfc72506daaa25a1d7a9791faf58b81c81c5f3e2867d68fa5ed
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -38.07 / 30.97 |
-| Market Cap | $324.2M (Sweet Spot $2B-$80B: No) |
-| Price | 2.03 |
+| Net Score / Quant Composite | -40.49 / 29.75 |
+| Market Cap | $375.3M (Sweet Spot $2B-$80B: No) |
+| Price | 2.35 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.057 / 0.814 |
+| Bull / Bear Edge | 0.034 / 0.846 |
 
 ## 45-DTE Options Surface
 

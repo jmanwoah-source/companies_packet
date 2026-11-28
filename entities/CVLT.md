@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -11.93
 quant_composite_score: 44.03
-market_cap: 6429005964.0
+market_cap: 6741987354.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 3ebfc781e1d4ef9f9b9c276959014dddcebcb0c7150565a4412c02903e54bbbe
+wiki_state_hash: 064669a8e0dde0137280e6451163362bf3e1d3e0fa8360bbe8a44a7961a81633
 ---
 
 # Commvault Systems, Inc. (CVLT)
@@ -33,8 +33,8 @@ wiki_state_hash: 3ebfc781e1d4ef9f9b9c276959014dddcebcb0c7150565a4412c02903e54bbb
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -11.93 / 44.03 |
-| Market Cap | $6.43B (Sweet Spot $2B-$80B: Yes) |
-| Price | 157.14 |
+| Market Cap | $6.74B (Sweet Spot $2B-$80B: Yes) |
+| Price | 164.79 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.307 / 0.534 |

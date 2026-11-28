@@ -3,9 +3,9 @@ ticker: GNRC
 name: "Generac Holdings Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -46.28
-quant_composite_score: 26.86
-market_cap: 12033166110.0
+net_score: -52.89
+quant_composite_score: 23.56
+market_cap: 12928619130.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: b3b97157ec589efe8af3f5ac38c127e6858619a10a540cb5c2646071be9b04eb
+wiki_state_hash: 499d41aae5d1ddf082422f12f50fcb5afb57a2eb3d33169c503bb9f1d4ead19a
 ---
 
 # Generac Holdings Inc. (GNRC)
@@ -33,12 +33,12 @@ wiki_state_hash: b3b97157ec589efe8af3f5ac38c127e6858619a10a540cb5c2646071be9b04e
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -46.28 / 26.86 |
-| Market Cap | $12.03B (Sweet Spot $2B-$80B: Yes) |
-| Price | 203.99 |
+| Net Score / Quant Composite | -52.89 / 23.56 |
+| Market Cap | $12.93B (Sweet Spot $2B-$80B: Yes) |
+| Price | 219.17 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.343 / 0.769 |
+| Bull / Bear Edge | 0.311 / 0.811 |
 
 ## 45-DTE Options Surface
 

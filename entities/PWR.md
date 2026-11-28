@@ -3,9 +3,9 @@ ticker: PWR
 name: "Quanta Services, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -49.65
-quant_composite_score: 25.18
-market_cap: 85203323190.0
+net_score: -46.28
+quant_composite_score: 26.86
+market_cap: 87483066200.0
 execution_sweet_spot: false
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -21,7 +21,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: fdb2bf007ed7a79d54851738a9e453b634876251f2557a5f0058ccace53d506c
+wiki_state_hash: 51545490f118a25765e56660e3a7892a881fdaed6bab48e7ebff2f5e7d399648
 ---
 
 # Quanta Services, Inc. (PWR)
@@ -32,12 +32,12 @@ wiki_state_hash: fdb2bf007ed7a79d54851738a9e453b634876251f2557a5f0058ccace53d506
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -49.65 / 25.18 |
-| Market Cap | $85.20B (Sweet Spot $2B-$80B: No) |
-| Price | 565.47 |
+| Net Score / Quant Composite | -46.28 / 26.86 |
+| Market Cap | $87.48B (Sweet Spot $2B-$80B: No) |
+| Price | 580.60 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.327 / 0.790 |
+| Bull / Bear Edge | 0.343 / 0.769 |
 
 ## 45-DTE Options Surface
 

@@ -2,10 +2,10 @@
 ticker: ZS
 name: "Zscaler, Inc."
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: -58.25
-quant_composite_score: 20.87
-market_cap: 37890590080.0
+tier: WATCHLIST
+net_score: -62.82
+quant_composite_score: 18.59
+market_cap: 39307014720.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/igv
   - mcap/large
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/watchlist
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 3975a639a8ef78fdc5f54b49b4dd8645ca946cba08d933ba89b0ff615230fae3
+wiki_state_hash: c8e8ca9a8d8b9a371ab2295f231ce49fdac88200d7b44a3a36e517bfc9e041fb
 ---
 
 # Zscaler, Inc. (ZS)
@@ -32,13 +32,13 @@ wiki_state_hash: 3975a639a8ef78fdc5f54b49b4dd8645ca946cba08d933ba89b0ff615230fae
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | -58.25 / 20.87 |
-| Market Cap | $37.89B (Sweet Spot $2B-$80B: Yes) |
-| Price | 230.86 |
+| Tier | WATCHLIST |
+| Net Score / Quant Composite | -62.82 / 18.59 |
+| Market Cap | $39.31B (Sweet Spot $2B-$80B: Yes) |
+| Price | 239.49 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.377 / 0.943 |
+| Bull / Bear Edge | 0.348 / 0.976 |
 
 ## 45-DTE Options Surface
 

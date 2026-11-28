@@ -3,9 +3,9 @@ ticker: GEN
 name: "Gen Digital Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 67.25
-quant_composite_score: 83.63
-market_cap: 17899139334.0
+net_score: 69.79
+quant_composite_score: 84.9
+market_cap: 18077122158.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/thin_risk
-wiki_state_hash: 365c4411e6c89489318f24c0a6ca77a2d51d10ab9bef94234aff3336e6a726a5
+wiki_state_hash: 2fbe7ea5b9d5f23e8c6a7c6787bd9d0dcd21f7d92feba72522267a94d9db451e
 ---
 
 # Gen Digital Inc. (GEN)
@@ -33,12 +33,12 @@ wiki_state_hash: 365c4411e6c89489318f24c0a6ca77a2d51d10ab9bef94234aff3336e6a726a
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 67.25 / 83.63 |
-| Market Cap | $17.90B (Sweet Spot $2B-$80B: Yes) |
-| Price | 30.17 |
+| Net Score / Quant Composite | 69.79 / 84.90 |
+| Market Cap | $18.08B (Sweet Spot $2B-$80B: Yes) |
+| Price | 30.47 |
 | Options Gate / Structure | APPROVED / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.903 / 0.210 |
+| Bull / Bear Edge | 0.922 / 0.189 |
 
 ## 45-DTE Options Surface
 

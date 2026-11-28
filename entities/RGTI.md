@@ -3,9 +3,9 @@ ticker: RGTI
 name: "Rigetti Computing, Inc."
 pillar: NEXTGEN_COMPUTE
 tier: NEUTRAL
-net_score: -50.68
-quant_composite_score: 24.66
-market_cap: 2690846550.0
+net_score: -29.09
+quant_composite_score: 35.45
+market_cap: 2923938990.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/approved
   - liquidity/normal
-wiki_state_hash: f340ea5d33ec2a4604c023ae95b245b106f654df7af44574926a76a960042e4b
+wiki_state_hash: 7a1c6186ad12acd701062f2882ff15e16e714bf7075939069c4624edf4c0c697
 ---
 
 # Rigetti Computing, Inc. (RGTI)
@@ -33,12 +33,12 @@ wiki_state_hash: f340ea5d33ec2a4604c023ae95b245b106f654df7af44574926a76a960042e4
 |---|---|
 | Pillar | [[HUB_NEXTGEN_COMPUTE]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -50.68 / 24.66 |
-| Market Cap | $2.69B (Sweet Spot $2B-$80B: Yes) |
-| Price | 7.85 |
+| Net Score / Quant Composite | -29.09 / 35.45 |
+| Market Cap | $2.92B (Sweet Spot $2B-$80B: Yes) |
+| Price | 8.53 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.317 / 0.791 |
+| Bull / Bear Edge | 0.411 / 0.666 |
 
 ## 45-DTE Options Surface
 

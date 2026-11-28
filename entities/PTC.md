@@ -3,9 +3,9 @@ ticker: PTC
 name: "PTC Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -15.78
-quant_composite_score: 42.11
-market_cap: 21292068000.0
+net_score: -17.3
+quant_composite_score: 41.35
+market_cap: 21384406050.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: 09a79a8525cb751d1ff744c94d9e92eb6475c0fc6686e6a3504f0f237caa7df8
+wiki_state_hash: 5a862af1e7218ad55e47b2aefdd30c2fbfb7e8705a567167647b3f808724a8b0
 ---
 
 # PTC Inc. (PTC)
@@ -33,12 +33,12 @@ wiki_state_hash: 09a79a8525cb751d1ff744c94d9e92eb6475c0fc6686e6a3504f0f237caa7df
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -15.78 / 42.11 |
-| Market Cap | $21.29B (Sweet Spot $2B-$80B: Yes) |
-| Price | 196.00 |
+| Net Score / Quant Composite | -17.30 / 41.35 |
+| Market Cap | $21.38B (Sweet Spot $2B-$80B: Yes) |
+| Price | 196.85 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.273 / 0.574 |
+| Bull / Bear Edge | 0.260 / 0.590 |
 
 ## 45-DTE Options Surface
 

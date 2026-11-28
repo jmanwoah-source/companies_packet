@@ -5,7 +5,7 @@ pillar: AI_INFRA
 tier: NEUTRAL
 net_score: -40.81
 quant_composite_score: 29.59
-market_cap: 968879000.0
+market_cap: 976163804.0
 execution_sweet_spot: false
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_convexity
-wiki_state_hash: bd31e548ea4b81dbb4a3025358062950800991b2ac4a9b489079d5dc904fa0e9
+wiki_state_hash: aeb4052cd7bb989c4dbd6c32a1191d7126f1cb6554c8bf668c20ca84246eefe3
 ---
 
 # Uniti Group Inc. (UNIT)
@@ -32,8 +32,8 @@ wiki_state_hash: bd31e548ea4b81dbb4a3025358062950800991b2ac4a9b489079d5dc904fa0e
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -40.81 / 29.59 |
-| Market Cap | $968.9M (Sweet Spot $2B-$80B: No) |
-| Price | 3.99 |
+| Market Cap | $976.2M (Sweet Spot $2B-$80B: No) |
+| Price | 4.02 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.034 / 0.853 |

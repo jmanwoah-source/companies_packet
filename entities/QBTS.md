@@ -3,9 +3,9 @@ ticker: QBTS
 name: "D-Wave Quantum Inc."
 pillar: AI_INFRA
 tier: EMERGING_EDGE
-net_score: 53.55
-quant_composite_score: 76.77
-market_cap: 2638208279.0
+net_score: 46.35
+quant_composite_score: 73.17
+market_cap: 2856802679.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -23,7 +23,7 @@ tags:
   - tier/emerging_edge
   - gate/approved
   - liquidity/normal
-wiki_state_hash: 5820fc7a2474b8825244094416f6bee95ee8b2d22b3076ace4035bc2726db307
+wiki_state_hash: 2ad8ad849a29be6f31f94865b346590711bea766fd460fe1ea2f48f9b671759a
 ---
 
 # D-Wave Quantum Inc. (QBTS)
@@ -34,12 +34,12 @@ wiki_state_hash: 5820fc7a2474b8825244094416f6bee95ee8b2d22b3076ace4035bc2726db30
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | EMERGING_EDGE |
-| Net Score / Quant Composite | 53.55 / 76.77 |
-| Market Cap | $2.64B (Sweet Spot $2B-$80B: Yes) |
-| Price | 7.00 |
+| Net Score / Quant Composite | 46.35 / 73.17 |
+| Market Cap | $2.86B (Sweet Spot $2B-$80B: Yes) |
+| Price | 7.58 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / THIN_SHORT_WING |
-| Bull / Bear Edge | 0.810 / 0.302 |
+| Bull / Bear Edge | 0.771 / 0.345 |
 
 ## 45-DTE Options Surface
 

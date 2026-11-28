@@ -3,9 +3,9 @@ ticker: CORZ
 name: "Core Scientific, Inc."
 pillar: AI_INFRA
 tier: WATCHLIST
-net_score: -81.13
-quant_composite_score: 9.43
-market_cap: 3486595684.0
+net_score: -77.59
+quant_composite_score: 11.21
+market_cap: 3660603232.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: 05a8cf0990bf139d8e87eb355f44b9b96be45ab2aabc442347b85bbdcbc59698
+wiki_state_hash: 101913621e4a6607f05e3591c1b783c9ad1ab95f8e845de693f08cd9f1231967
 ---
 
 # Core Scientific, Inc. (CORZ)
@@ -33,12 +33,12 @@ wiki_state_hash: 05a8cf0990bf139d8e87eb355f44b9b96be45ab2aabc442347b85bbdcbc5969
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | WATCHLIST |
-| Net Score / Quant Composite | -81.13 / 9.43 |
-| Market Cap | $3.49B (Sweet Spot $2B-$80B: Yes) |
-| Price | 10.82 |
+| Net Score / Quant Composite | -77.59 / 11.21 |
+| Market Cap | $3.66B (Sweet Spot $2B-$80B: Yes) |
+| Price | 11.36 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.122 / 1.083 |
+| Bull / Bear Edge | 0.161 / 1.040 |
 
 ## 45-DTE Options Surface
 

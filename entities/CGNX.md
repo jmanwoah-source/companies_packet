@@ -3,9 +3,9 @@ ticker: CGNX
 name: "Cognex Corporation"
 pillar: PHYSICAL_AI_ROBOTICS
 tier: NEUTRAL
-net_score: 24.07
-quant_composite_score: 62.03
-market_cap: 7898611980.0
+net_score: 20.27
+quant_composite_score: 60.13
+market_cap: 8151178980.0
 execution_sweet_spot: true
 options_gate: "REJECTED_CONVEXITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - tier/neutral
   - gate/rejected_convexity
   - liquidity/thin_risk
-wiki_state_hash: 5e25f41adaa4387dd94c388e8bed1f8479eac825e2f58934f2444a561bdcd00e
+wiki_state_hash: db891d181c6c6d75ce674c934ae4c4cd37ef5e61389478bd17587dbac6d21027
 ---
 
 # Cognex Corporation (CGNX)
@@ -33,12 +33,12 @@ wiki_state_hash: 5e25f41adaa4387dd94c388e8bed1f8479eac825e2f58934f2444a561bdcd00
 |---|---|
 | Pillar | [[HUB_PHYSICAL_AI_ROBOTICS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | 24.07 / 62.03 |
-| Market Cap | $7.90B (Sweet Spot $2B-$80B: Yes) |
-| Price | 46.91 |
+| Net Score / Quant Composite | 20.27 / 60.13 |
+| Market Cap | $8.15B (Sweet Spot $2B-$80B: Yes) |
+| Price | 48.41 |
 | Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | THIN_RISK / UNKNOWN |
-| Bull / Bear Edge | 0.626 / 0.162 |
+| Bull / Bear Edge | 0.591 / 0.203 |
 
 ## 45-DTE Options Surface
 

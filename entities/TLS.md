@@ -5,7 +5,7 @@ pillar: DEFENSE
 tier: NEUTRAL
 net_score: -16.92
 quant_composite_score: 41.54
-market_cap: 583116690.0
+market_cap: 631648470.0
 execution_sweet_spot: false
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -20,7 +20,7 @@ tags:
   - mcap/small
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: ccdba5c4bb63b151d77a6e7bedf13fa3ea7eb8efe4175eb6504d2bda1b2adf95
+wiki_state_hash: 37331a1c5a37e61307cdabc2ee5c2a50fdbf67cccb2ed01ca16094db9c72944b
 ---
 
 # Telos Corporation (TLS)
@@ -32,8 +32,8 @@ wiki_state_hash: ccdba5c4bb63b151d77a6e7bedf13fa3ea7eb8efe4175eb6504d2bda1b2adf9
 | Pillar | [[HUB_DEFENSE]] |
 | Tier | NEUTRAL |
 | Net Score / Quant Composite | -16.92 / 41.54 |
-| Market Cap | $583.1M (Sweet Spot $2B-$80B: No) |
-| Price | 7.93 |
+| Market Cap | $631.6M (Sweet Spot $2B-$80B: No) |
+| Price | 8.59 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
 | Bull / Bear Edge | 0.263 / 0.586 |

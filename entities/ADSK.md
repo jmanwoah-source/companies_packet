@@ -3,9 +3,9 @@ ticker: ADSK
 name: "Autodesk, Inc."
 pillar: AI_INFRA
 tier: NEUTRAL
-net_score: -11.78
-quant_composite_score: 44.11
-market_cap: 51578065000.0
+net_score: -14.86
+quant_composite_score: 42.57
+market_cap: 52391040756.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -22,7 +22,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 2aebd5c29c093760580c8f1414d7a56377364af9c741d5ed528a73a07700d827
+wiki_state_hash: 5db7a21235524d04eb13670bdb705092004ff47419924a7cf839516b293a04ad
 ---
 
 # Autodesk, Inc. (ADSK)
@@ -33,12 +33,12 @@ wiki_state_hash: 2aebd5c29c093760580c8f1414d7a56377364af9c741d5ed528a73a07700d82
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -11.78 / 44.11 |
-| Market Cap | $51.58B (Sweet Spot $2B-$80B: Yes) |
-| Price | 246.78 |
+| Net Score / Quant Composite | -14.86 / 42.57 |
+| Market Cap | $52.39B (Sweet Spot $2B-$80B: Yes) |
+| Price | 251.88 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.358 / 0.582 |
+| Bull / Bear Edge | 0.331 / 0.614 |
 
 ## 45-DTE Options Surface
 

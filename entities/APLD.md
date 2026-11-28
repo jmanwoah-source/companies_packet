@@ -3,9 +3,9 @@ ticker: APLD
 name: "Applied Digital Corp."
 pillar: AI_INFRA
 tier: MIRAGE_SHORT
-net_score: -87.9
-quant_composite_score: 6.05
-market_cap: 3716337951.0
+net_score: -86.76
+quant_composite_score: 6.62
+market_cap: 3928008949.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -22,7 +22,7 @@ tags:
   - tier/mirage_short
   - gate/approved
   - liquidity/normal
-wiki_state_hash: e4bcecaa8247898b2b99414729b32b664adf77aaf566741357665f4f31cd6efe
+wiki_state_hash: 7c6b530785c9264e01445f2ac92d1bd4973f3298d388f20b77fc99966a961307
 ---
 
 # Applied Digital Corp. (APLD)
@@ -33,12 +33,12 @@ wiki_state_hash: e4bcecaa8247898b2b99414729b32b664adf77aaf566741357665f4f31cd6ef
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
 | Tier | MIRAGE_SHORT |
-| Net Score / Quant Composite | -87.90 / 6.05 |
-| Market Cap | $3.72B (Sweet Spot $2B-$80B: Yes) |
-| Price | 12.29 |
+| Net Score / Quant Composite | -86.76 / 6.62 |
+| Market Cap | $3.93B (Sweet Spot $2B-$80B: Yes) |
+| Price | 12.99 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | NORMAL / OK |
-| Bull / Bear Edge | 0.025 / 1.191 |
+| Bull / Bear Edge | 0.045 / 1.170 |
 
 ## 45-DTE Options Surface
 
@@ -63,5 +63,5 @@ wiki_state_hash: e4bcecaa8247898b2b99414729b32b664adf77aaf566741357665f4f31cd6ef
 | As-Of / Direction | 2026-11-28 / PUT |
 | Triage / Kill Risk / Score Adj | PASS / 15% / +5.0 |
 | 10-K Corpus / Degraded | 12000 chars / No |
-| Primary Risk | No fortress balance sheet. Explicit 10-K risk factors cite inability to access capital or refinance debt, confirming severe financial distress and lack of rebound floor. |
-| Tribunal Summary | CoreWeave is a major counterparty, but the 10-K explicitly warns of capital access and refinancing risks. The distress metrics (AltmanZ 0.42) and explicit risk factors override any customer concentration as a bear-trap signal. |
+| Primary Risk | No fortress balance sheet. Explicit risk factors cite inability to refinance debt or access capital, confirming high distress risk for PUT thesis. |
+| Tribunal Summary | CoreWeave is a major customer, but the 10-K explicitly warns of capital access and refinancing risks. The distress metrics (AltmanZ 0.46) and risk factors strongly support the bearish thesis rather than acting as a floor. |

@@ -3,9 +3,9 @@ ticker: WCC
 name: "WESCO International, Inc."
 pillar: ENERGY_MATERIALS
 tier: NEUTRAL
-net_score: -25.2
-quant_composite_score: 37.4
-market_cap: 14227650527.0
+net_score: -23.86
+quant_composite_score: 38.07
+market_cap: 14727489650.0
 execution_sweet_spot: true
 options_gate: "REJECTED_LIQUIDITY"
 conv_flag: "NO_DATA"
@@ -21,7 +21,7 @@ tags:
   - mcap/sweet_spot_2b_80b
   - tier/neutral
   - gate/rejected_liquidity
-wiki_state_hash: 4a288d379f0df76f83bbd995a5f2c8c0e67f200ea944af580024a24ac582eb6b
+wiki_state_hash: 23ec96c2b019f80aa387fbacab6750ac94578aa0f4e7c5a0c50533968a42d4e5
 ---
 
 # WESCO International, Inc. (WCC)
@@ -32,12 +32,12 @@ wiki_state_hash: 4a288d379f0df76f83bbd995a5f2c8c0e67f200ea944af580024a24ac582eb6
 |---|---|
 | Pillar | [[HUB_ENERGY_MATERIALS]] |
 | Tier | NEUTRAL |
-| Net Score / Quant Composite | -25.20 / 37.40 |
-| Market Cap | $14.23B (Sweet Spot $2B-$80B: Yes) |
-| Price | 292.33 |
+| Net Score / Quant Composite | -23.86 / 38.07 |
+| Market Cap | $14.73B (Sweet Spot $2B-$80B: Yes) |
+| Price | 302.60 |
 | Options Gate / Structure | REJECTED_LIQUIDITY / SINGLE_LEG_45D |
 | Liquidity Tier / Short Wing | N/A / UNKNOWN |
-| Bull / Bear Edge | 0.171 / 0.658 |
+| Bull / Bear Edge | 0.182 / 0.642 |
 
 ## 45-DTE Options Surface
 

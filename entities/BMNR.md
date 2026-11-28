@@ -2,10 +2,10 @@
 ticker: BMNR
 name: "Bitmine Immersion Technologies, Inc."
 pillar: AI_INFRA
-tier: NEUTRAL
-net_score: -58.87
-quant_composite_score: 20.57
-market_cap: 7655112273.0
+tier: WATCHLIST
+net_score: -60.41
+quant_composite_score: 19.79
+market_cap: 7905726067.0
 execution_sweet_spot: true
 options_gate: "APPROVED"
 conv_flag: "CHEAP_CONVEXITY"
@@ -19,10 +19,10 @@ tags:
   - etf/igv
   - mcap/mid
   - mcap/sweet_spot_2b_80b
-  - tier/neutral
+  - tier/watchlist
   - gate/approved
   - liquidity/tight
-wiki_state_hash: caaa0b620a497e69dcb4dd483c23fdbdf257730b6df104e3a409f55ad29af9e6
+wiki_state_hash: 6d648064975a3060a5e1aeffb819c3450aa2e052d3500b852bdf900599749b4b
 ---
 
 # Bitmine Immersion Technologies, Inc. (BMNR)
@@ -32,13 +32,13 @@ wiki_state_hash: caaa0b620a497e69dcb4dd483c23fdbdf257730b6df104e3a409f55ad29af9e
 | Metric | Value |
 |---|---|
 | Pillar | [[HUB_AI_INFRA]] |
-| Tier | NEUTRAL |
-| Net Score / Quant Composite | -58.87 / 20.57 |
-| Market Cap | $7.66B (Sweet Spot $2B-$80B: Yes) |
-| Price | 13.44 |
+| Tier | WATCHLIST |
+| Net Score / Quant Composite | -60.41 / 19.79 |
+| Market Cap | $7.91B (Sweet Spot $2B-$80B: Yes) |
+| Price | 13.88 |
 | Options Gate / Structure | APPROVED / DEBIT_SPREAD_45D |
 | Liquidity Tier / Short Wing | TIGHT / OK |
-| Bull / Bear Edge | 0.299 / 0.873 |
+| Bull / Bear Edge | 0.289 / 0.884 |
 
 ## 45-DTE Options Surface
 
