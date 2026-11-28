@@ -1,0 +1,92 @@
+---
+hub_type: pillar
+hub_id: HUB_ENERGY_MATERIALS
+pillar: ENERGY_MATERIALS
+benchmark: URA
+entity_count: 57
+tags:
+  - hub/pillar
+  - pillar/energy_materials
+wiki_state_hash: f07e3b0024a5bf0a2a645709f358a758af2537418656450cb4233c5d5db20c83
+---
+
+# Energy & Critical Materials (HUB_ENERGY_MATERIALS)
+
+## Regime State
+
+| Benchmark | Price | 20d RS (%) | 20d RV | Verdict | Regime Mult | US10Y |
+|---|---|---|---|---|---|---|
+| URA | 27.71 | -24.19 | 0.5669 | NEUTRAL | 0.90 | 4.91 |
+
+## GOLDEN Setups
+
+| Ticker | Net Score | Gate | Liquidity | Sweet Spot |
+|---|---|---|---|---|
+| [[OKLO]] | 63.85 | APPROVED | THIN_RISK | Yes |
+
+## MIRAGE_SHORT Setups
+
+| Ticker | Net Score | Gate | Liquidity | Sweet Spot |
+|---|---|---|---|---|
+| [[SEDG]] | -77.45 | APPROVED | THIN_RISK | No |
+| [[MP]] | -76.60 | APPROVED | THIN_RISK | Yes |
+
+## All Entities (57)
+
+- [[AEIS]] — NEUTRAL (net 1.71, REJECTED_CONVEXITY)
+- [[AES]] — NEUTRAL (net -27.08, REJECTED_CONVEXITY)
+- [[ALB]] — NEUTRAL (net -57.11, APPROVED)
+- [[ALM]] — NEUTRAL (net 8.46, REJECTED_CONVEXITY)
+- [[AMSC]] — WATCHLIST (net -64.61, APPROVED)
+- [[AZZ]] — NEUTRAL (net 22.65, REJECTED_LIQUIDITY)
+- [[BDC]] — NEUTRAL (net -7.45, REJECTED_LIQUIDITY)
+- [[DGII]] — NEUTRAL (net 21.54, REJECTED_CONVEXITY)
+- [[ELVR]] — NEUTRAL (net 26.57, REJECTED_CONVEXITY)
+- [[EMR]] — NEUTRAL (net -12.43, APPROVED)
+- [[ENPH]] — EMERGING_EDGE (net 51.82, APPROVED)
+- [[ENS]] — EMERGING_EDGE (net 34.63, REJECTED_LIQUIDITY)
+- [[ESE]] — NEUTRAL (net 22.86, REJECTED_LIQUIDITY)
+- [[ETN]] — NEUTRAL (net -44.51, APPROVED)
+- [[FLNC]] — NEUTRAL (net -37.54, REJECTED_LIQUIDITY)
+- [[FPS]] — NEUTRAL (net -16.42, APPROVED)
+- [[GEV]] — NEUTRAL (net -20.46, APPROVED)
+- [[GNRC]] — NEUTRAL (net -36.52, APPROVED)
+- [[HMDPF]] — NEUTRAL (net -29.69, REJECTED_CONVEXITY)
+- [[HON]] — NEUTRAL (net 19.70, APPROVED)
+- [[HUBB]] — NEUTRAL (net 6.95, REJECTED_LIQUIDITY)
+- [[IBM]] — NEUTRAL (net -22.89, APPROVED)
+- [[IMSR]] — NEUTRAL (net 29.19, REJECTED_LIQUIDITY)
+- [[IPX]] — NEUTRAL (net 23.95, REJECTED_CONVEXITY)
+- [[ITRI]] — NEUTRAL (net -13.99, REJECTED_LIQUIDITY)
+- [[JCI]] — NEUTRAL (net -44.55, APPROVED)
+- [[LAC]] — NEUTRAL (net -36.05, APPROVED)
+- [[LAR]] — NEUTRAL (net -23.15, REJECTED_CONVEXITY)
+- [[LEU]] — NEUTRAL (net -48.51, APPROVED)
+- [[LFUS]] — NEUTRAL (net 8.25, REJECTED_CONVEXITY)
+- [[LTBR]] — NEUTRAL (net 33.12, REJECTED_CONVEXITY)
+- [[MP]] — MIRAGE_SHORT (net -76.60, APPROVED)
+- [[MTZ]] — NEUTRAL (net 3.60, APPROVED)
+- [[MYRG]] — NEUTRAL (net 14.79, REJECTED_LIQUIDITY)
+- [[NKLR]] — EMERGING_EDGE (net 38.56, REJECTED_CONVEXITY)
+- [[NNE]] — NEUTRAL (net 30.00, BLOCKED_EARNINGS)
+- [[NRGV]] — NEUTRAL (net -36.24, REJECTED_LIQUIDITY)
+- [[NUCL]] — NEUTRAL (net 13.49, REJECTED_LIQUIDITY)
+- [[NVT]] — NEUTRAL (net 27.69, APPROVED)
+- [[OKLO]] — GOLDEN (net 63.85, APPROVED)
+- [[PLPC]] — NEUTRAL (net -0.91, REJECTED_CONVEXITY)
+- [[PRIM]] — NEUTRAL (net 25.27, REJECTED_LIQUIDITY)
+- [[PWR]] — NEUTRAL (net -40.52, APPROVED)
+- [[SEDG]] — MIRAGE_SHORT (net -77.45, APPROVED)
+- [[SGML]] — NEUTRAL (net -24.46, REJECTED_CONVEXITY)
+- [[SLI]] — NEUTRAL (net 21.34, REJECTED_CONVEXITY)
+- [[SMR]] — NEUTRAL (net 7.99, APPROVED)
+- [[SQM]] — NEUTRAL (net -3.53, REJECTED_LIQUIDITY)
+- [[TROX]] — NEUTRAL (net -33.62, REJECTED_CONVEXITY)
+- [[UAMY]] — NEUTRAL (net -28.39, REJECTED_LIQUIDITY)
+- [[UEC]] — NEUTRAL (net 12.32, REJECTED_CONVEXITY)
+- [[URG]] — NEUTRAL (net -38.86, REJECTED_CONVEXITY)
+- [[UROY]] — NEUTRAL (net -29.55, REJECTED_CONVEXITY)
+- [[VMI]] — NEUTRAL (net 12.18, REJECTED_LIQUIDITY)
+- [[WCC]] — NEUTRAL (net -20.53, REJECTED_LIQUIDITY)
+- [[WLDN]] — NEUTRAL (net 27.88, REJECTED_LIQUIDITY)
+- [[XE]] — NEUTRAL (net -34.93, REJECTED_CONVEXITY)

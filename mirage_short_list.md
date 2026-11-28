@@ -1,52 +1,27 @@
-# Mirage Short List — Track C ≤ 35 (non-passing only)
+---
+list_type: mirage_short
+generated: "2026-11-28 00:43 EST"
+count: 12
+tags:
+  - hub/tier_list
+  - tier/mirage_short
+---
 
-_Generated: 2026-11-23 04:55 UTC_
+# Mirage Short List — Top Put Breakdowns
 
-**Rubber Band Man: high-conviction overbought naked-PUT targets — Structural breakdown, story without substance**
+**Generated:** 2026-11-28 00:43 EST · **Tickers:** 12
 
-## Top Candidates (5 total)
-
-| Rank | Ticker | Name | Fin100 | Best | A | B | C | Category |
-|------|--------|------|--------|------|---|---|---|----------|
-| 1 | XTND | Xtend AI Robotics Inc | 44 | 45 | 45 | 16 | 30 | Engineering & Construction |
-| 2 | QUCY | Quantum Cyber N.V. | 12 | 34 | 34 | 15 | 10 | Medical - Diagnostics & Research |
-| 3 | ADIL | Adial Pharmaceuticals, Inc. | 56 | 23 | 23 | 15 | 30 | Biotechnology |
-| 4 | HODO | House of Doge Inc. | 49 | 23 | 23 | 15 | 30 | Software - Application |
-| 5 | RDW | Redwire Corp | 42 | 23 | 23 | 15 | 30 | Aerospace & Defense |
-
-## Detail
-
-### 1. XTND — Xtend AI Robotics Inc
-- **Financial 100**: 44
-- **Market Cap**: $411,067,734
-- **Track A**: 45 (P1=22(base=22) P2=8(moat) P3=8(edge) P4=7)
-- **Track B**: 16 (P1=0(runway) P2=5(choke) P3=10(tech) P4=1(inflect))
-- **Track C**: 30 (severity=70 hype_penalty=0)
-
-### 2. QUCY — Quantum Cyber N.V.
-- **Financial 100**: 12
-- **Market Cap**: $44,667,768
-- **Track A**: 34 (P1=15(base=15) P2=8(moat) P3=8(edge) P4=3)
-- **Track B**: 15 (P1=0(runway) P2=5(choke) P3=10(tech) P4=0(inflect))
-- **Track C**: 10 (severity=90 hype_penalty=0)
-
-### 3. ADIL — Adial Pharmaceuticals, Inc.
-- **Financial 100**: 56
-- **Market Cap**: $13,260,745
-- **Track A**: 23 (P1=0(base=0) P2=8(moat) P3=8(edge) P4=7)
-- **Track B**: 15 (P1=0(runway) P2=5(choke) P3=10(tech) P4=0(inflect))
-- **Track C**: 30 (severity=70 hype_penalty=0)
-
-### 4. HODO — House of Doge Inc.
-- **Financial 100**: 49
-- **Market Cap**: $3,575,035
-- **Track A**: 23 (P1=0(base=0) P2=8(moat) P3=8(edge) P4=7)
-- **Track B**: 15 (P1=0(runway) P2=5(choke) P3=10(tech) P4=0(inflect))
-- **Track C**: 30 (severity=70 hype_penalty=0)
-
-### 5. RDW — Redwire Corp
-- **Financial 100**: 42
-- **Market Cap**: $1,413,737,350
-- **Track A**: 23 (P1=0(base=0) P2=8(moat) P3=8(edge) P4=7)
-- **Track B**: 15 (P1=0(runway) P2=5(choke) P3=10(tech) P4=0(inflect))
-- **Track C**: 30 (severity=70 hype_penalty=0)
+| # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
+|---:|---|---|---:|---:|---|---|---|---|---|---|
+| 1 | [[XPEV]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | -100.00 | 0.00 | APPROVED | SINGLE_LEG_45D | NORMAL | THIN_SHORT_WING | Yes | $8.54B |
+| 2 | [[OUST]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | -100.00 | 0.00 | APPROVED | DEBIT_SPREAD_45D | NORMAL | THIN_SHORT_WING | No | $1.88B |
+| 3 | [[RCAT]] | [[HUB_DEFENSE]] | -100.00 | 0.00 | APPROVED | DEBIT_SPREAD_45D | TIGHT | THIN_SHORT_WING | No | $269.2M |
+| 4 | [[CRWV]] | [[HUB_NEXTGEN_COMPUTE]] | -100.00 | 0.00 | APPROVED | DEBIT_SPREAD_45D | TIGHT | OK | Yes | $23.67B |
+| 5 | [[QCOM]] | [[HUB_SEMI_SUBSYSTEMS]] | -100.00 | 0.00 | APPROVED | SINGLE_LEG_45D | TIGHT | OK | No | $180.47B |
+| 6 | [[NXPI]] | [[HUB_SEMI_SUBSYSTEMS]] | -100.00 | 0.00 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $61.24B |
+| 7 | [[SMCI]] | [[HUB_AI_INFRA]] | -100.00 | 0.00 | APPROVED | DEBIT_SPREAD_45D | NORMAL | OK | Yes | $15.37B |
+| 8 | [[APLD]] | [[HUB_AI_INFRA]] | -100.00 | 0.00 | APPROVED | DEBIT_SPREAD_45D | NORMAL | OK | Yes | $3.72B |
+| 9 | [[NET]] | [[HUB_NEXTGEN_COMPUTE]] | -99.02 | 0.49 | APPROVED | SINGLE_LEG_45D | NORMAL | OK | No | $101.54B |
+| 10 | [[SEDG]] | [[HUB_ENERGY_MATERIALS]] | -77.45 | 11.27 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.22B |
+| 11 | [[MP]] | [[HUB_ENERGY_MATERIALS]] | -76.60 | 11.70 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $6.29B |
+| 12 | [[LUNR]] | [[HUB_DEFENSE]] | -72.97 | 13.52 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.99B |

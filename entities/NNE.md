@@ -1,0 +1,56 @@
+---
+ticker: NNE
+name: "Nano Nuclear Energy Inc."
+pillar: ENERGY_MATERIALS
+tier: NEUTRAL
+net_score: 30.0
+quant_composite_score: 65.0
+market_cap: 475497083.0
+execution_sweet_spot: false
+options_gate: "BLOCKED_EARNINGS"
+conv_flag: "NO_DATA"
+structure_hint: "DEBIT_SPREAD_45D"
+liquidity_tier: null
+short_wing_warning: "UNKNOWN"
+pillar_hub: "[[HUB_ENERGY_MATERIALS]]"
+related_links: []
+tags:
+  - pillar/energy_materials
+  - etf/ura
+  - mcap/small
+  - tier/neutral
+  - gate/blocked_earnings
+wiki_state_hash: 17ac76ba58a15ce0c31d3f2c0c450079c0b50a2f47989c4001e905fa5064cdda
+---
+
+# Nano Nuclear Energy Inc. (NNE)
+
+## Scorecard & Execution Gate
+
+| Metric | Value |
+|---|---|
+| Pillar | [[HUB_ENERGY_MATERIALS]] |
+| Tier | NEUTRAL |
+| Net Score / Quant Composite | 30.00 / 65.00 |
+| Market Cap | $475.5M (Sweet Spot $2B-$80B: No) |
+| Price | 8.86 |
+| Options Gate / Structure | BLOCKED_EARNINGS / DEBIT_SPREAD_45D |
+| Liquidity Tier / Short Wing | N/A / UNKNOWN |
+| Bull / Bear Edge | 0.738 / 0.031 |
+
+## 45-DTE Options Surface
+
+| Field | Value |
+|---|---|
+| Status / Conv Flag | REJECTED_LIQUIDITY / NO_DATA |
+| IV 45d / RV 20d / Vol Ratio | 0.8209 / N/A / N/A |
+| Primary 0.45d Spread / OI / DTE | 56.41% / 920 / N/A |
+| 25d Skew Norm / 5d Delta | N/A / N/A |
+| 25d Call Wing (Spread / OI) | N/A / N/A |
+| 25d Put Wing (Spread / OI) | N/A / N/A |
+| Risk Note |  | convexity_gate: spread 56.41025641025642 |
+
+## Catalyst & Constituent ETFs
+
+- Earnings: 2026-11-30 (days: 4, tag: EARNINGS_BINARY_AVOID)
+- Constituent ETFs: URA (0.59%)

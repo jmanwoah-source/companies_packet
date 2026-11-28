@@ -1,7 +1,36 @@
-# Emerging Edge List — Track B ≥ 75
+---
+list_type: emerging_edge
+generated: "2026-11-28 00:43 EST"
+count: 21
+tags:
+  - hub/tier_list
+  - tier/emerging_edge
+---
 
-_Generated: 2026-11-23 04:55 UTC_
+# Emerging Edge List — Secondary Bull Setups
 
-**Rubber Band Man: high-beta explosive-delta oversold naked-CALL targets — Emerging bottleneck / tech edge**
+**Generated:** 2026-11-28 00:43 EST · **Tickers:** 21
 
-_No tickers currently qualify._
+| # | Ticker | Pillar | Net Score | Quant | Gate | Structure | Liquidity | Short Wing | Sweet Spot | Mcap |
+|---:|---|---|---:|---:|---|---|---|---|---|---|
+| 1 | [[GEN]] | [[HUB_AI_INFRA]] | 69.30 | 84.65 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $17.90B |
+| 2 | [[TTAN]] | [[HUB_AI_INFRA]] | 67.93 | 83.96 | APPROVED | DEBIT_SPREAD_45D | NORMAL | THIN_SHORT_WING | Yes | $7.41B |
+| 3 | [[NN]] | [[HUB_AI_INFRA]] | 67.36 | 83.68 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | No | $1.13B |
+| 4 | [[APP]] | [[HUB_AI_INFRA]] | 61.01 | 80.51 | APPROVED | SINGLE_LEG_45D | TIGHT | OK | No | $114.16B |
+| 5 | [[AMAT]] | [[HUB_SEMI_SUBSYSTEMS]] | 52.33 | 76.16 | APPROVED | DEBIT_SPREAD_45D | NORMAL | OK | No | $246.95B |
+| 6 | [[ENPH]] | [[HUB_ENERGY_MATERIALS]] | 51.82 | 75.91 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | Yes | $2.76B |
+| 7 | [[DDOG]] | [[HUB_AI_INFRA]] | 50.91 | 75.45 | APPROVED | SINGLE_LEG_45D | THIN_RISK | THIN_SHORT_WING | Yes | $57.13B |
+| 8 | [[QBTS]] | [[HUB_AI_INFRA]] | 50.81 | 75.41 | APPROVED | DEBIT_SPREAD_45D | NORMAL | THIN_SHORT_WING | Yes | $2.64B |
+| 9 | [[LRCX]] | [[HUB_SEMI_SUBSYSTEMS]] | 48.78 | 74.39 | APPROVED | DEBIT_SPREAD_45D | TIGHT | OK | No | $231.11B |
+| 10 | [[ADBE]] | [[HUB_AI_INFRA]] | 45.73 | 72.86 | APPROVED | DEBIT_SPREAD_45D | NORMAL | OK | No | $90.62B |
+| 11 | [[ARM]] | [[HUB_SEMI_SUBSYSTEMS]] | 44.57 | 72.29 | APPROVED | DEBIT_SPREAD_45D | TIGHT | OK | No | $172.82B |
+| 12 | [[KTOS]] | [[HUB_DEFENSE]] | 43.68 | 71.84 | APPROVED | SINGLE_LEG_45D | TIGHT | OK | Yes | $5.45B |
+| 13 | [[TEAM]] | [[HUB_AI_INFRA]] | 42.65 | 71.32 | APPROVED | SINGLE_LEG_45D | NORMAL | THIN_SHORT_WING | Yes | $36.37B |
+| 14 | [[SYM]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | 42.35 | 71.18 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | OK | Yes | $23.18B |
+| 15 | [[BIDU]] | [[HUB_NEXTGEN_COMPUTE]] | 41.87 | 70.93 | APPROVED | DEBIT_SPREAD_45D | THIN_RISK | THIN_SHORT_WING | Yes | $21.61B |
+| 16 | [[NKLR]] | [[HUB_ENERGY_MATERIALS]] | 38.56 | 69.28 | REJECTED_CONVEXITY | SINGLE_LEG_45D | N/A | UNKNOWN | No | $208.8M |
+| 17 | [[ONDS]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | 37.79 | 68.89 | APPROVED | DEBIT_SPREAD_45D | TIGHT | OK | Yes | $2.31B |
+| 18 | [[OCTV]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | 35.16 | 67.58 | REJECTED_CONVEXITY | SINGLE_LEG_45D | THIN_RISK | UNKNOWN | Yes | $6.05B |
+| 19 | [[ENS]] | [[HUB_ENERGY_MATERIALS]] | 34.63 | 67.32 | REJECTED_LIQUIDITY | SINGLE_LEG_45D | N/A | UNKNOWN | Yes | $4.55B |
+| 20 | [[GMED]] | [[HUB_PHYSICAL_AI_ROBOTICS]] | 34.42 | 67.21 | REJECTED_LIQUIDITY | SINGLE_LEG_45D | N/A | UNKNOWN | Yes | $9.56B |
+| 21 | [[SPSC]] | [[HUB_AI_INFRA]] | 34.42 | 67.21 | REJECTED_LIQUIDITY | SINGLE_LEG_45D | N/A | UNKNOWN | Yes | $2.87B |

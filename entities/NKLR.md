@@ -1,0 +1,56 @@
+---
+ticker: NKLR
+name: "Terra Innovatum Global N.V. Ordinary shares"
+pillar: ENERGY_MATERIALS
+tier: EMERGING_EDGE
+net_score: 38.56
+quant_composite_score: 69.28
+market_cap: 208846720.0
+execution_sweet_spot: false
+options_gate: "REJECTED_CONVEXITY"
+conv_flag: "NO_DATA"
+structure_hint: "SINGLE_LEG_45D"
+liquidity_tier: null
+short_wing_warning: "UNKNOWN"
+pillar_hub: "[[HUB_ENERGY_MATERIALS]]"
+related_links: []
+tags:
+  - pillar/energy_materials
+  - etf/ura
+  - mcap/small
+  - tier/emerging_edge
+  - gate/rejected_convexity
+wiki_state_hash: c86a41de1b9282716f1a59eff64b3529fbad9d04a0edd7f180f2c4d0eae87269
+---
+
+# Terra Innovatum Global N.V. Ordinary shares (NKLR)
+
+## Scorecard & Execution Gate
+
+| Metric | Value |
+|---|---|
+| Pillar | [[HUB_ENERGY_MATERIALS]] |
+| Tier | EMERGING_EDGE |
+| Net Score / Quant Composite | 38.56 / 69.28 |
+| Market Cap | $208.8M (Sweet Spot $2B-$80B: No) |
+| Price | 1.89 |
+| Options Gate / Structure | REJECTED_CONVEXITY / SINGLE_LEG_45D |
+| Liquidity Tier / Short Wing | N/A / UNKNOWN |
+| Bull / Bear Edge | 0.857 / 0.000 |
+
+## 45-DTE Options Surface
+
+| Field | Value |
+|---|---|
+| Status / Conv Flag | REJECTED_CONVEXITY / NO_DATA |
+| IV 45d / RV 20d / Vol Ratio | N/A / N/A / N/A |
+| Primary 0.45d Spread / OI / DTE | N/A / N/A / N/A |
+| 25d Skew Norm / 5d Delta | N/A / N/A |
+| 25d Call Wing (Spread / OI) | N/A / N/A |
+| 25d Put Wing (Spread / OI) | N/A / N/A |
+| Risk Note |  | convexity_gate: no quoted contracts in 0.38-0.55 call delta band |
+
+## Catalyst & Constituent ETFs
+
+- Earnings: 2026-11-16 (days: -10, tag: POST_EARNINGS_DRIFT)
+- Constituent ETFs: URA (0.06%)
